@@ -26,74 +26,74 @@
             "Ability": 180,
             "Menu and price": {
                 "Starters": {
-                    "Albondigas de Carne": "$350",
-                    "Chicharrones de Cerdo": "$250",
-                    "Entremes de Jamon y Queso": "$350",
-                    "Tamal en Hojas con Carne": "$250"
+                    "Albondigas de Carne": "350",
+                    "Chicharrones de Cerdo": "250",
+                    "Entremes de Jamon y Queso": "350",
+                    "Tamal en Hojas con Carne": "250"
             },
                 "Dishes with pork": {
-                    "Masa de Cerdo Frita": "$900",
-                    "Fajitas de Cerdo": "$750",
-                    "Bistec de Cerdo Grille": "$700",
-                    "Bistec en Cazuela": "$750",
-                    "Cerdo Guisado": "$600",
-                    "Costilla de Cerdo Frita": "$900",
-                    "Chuleta de Cerdo Grille": "$800"
+                    "Masa de Cerdo Frita": "900",
+                    "Fajitas de Cerdo": "750",
+                    "Bistec de Cerdo Grille": "700",
+                    "Bistec en Cazuela": "750",
+                    "Cerdo Guisado": "600",
+                    "Costilla de Cerdo Frita": "900",
+                    "Chuleta de Cerdo Grille": "800"
             },
                 "Dishes with chicken": {
-                    "Pollo Asado": "$600",
-                    "Pollo Grille": "$600"
+                    "Pollo Asado": "600",
+                    "Pollo Grille": "600"
             },
                 "Rice": {
-                    "Arroz Moro": "$100",
-                    "Arroz con subproductos": "$120"
+                    "Arroz Moro": "100",
+                    "Arroz con subproductos": "120"
             },
                 "Viands": {
-                    "Vianda cocida con Mojo": "$80"
+                    "Vianda cocida con Mojo": "80"
             },
                 "Salads": {  
-                    "Ensalada de estacion": "$70",
-                    "Ensalada Mixta": "$90"
+                    "Ensalada de estacion": "70",
+                    "Ensalada Mixta": "90"
             },
-                "Termopack": "%100",
+                "Termopack": "100",
                 "Offer": "Por cada plato fuerte tiene derecho a 2 cervezas",
                 "Drinks": {
                     "Del Bar": {
-                        "Cafe Express": "$25",
-                        "Vino Tinto Importado": "$1500",
-                        "Cerveza Importada Lata": "$250",
-                        "Refresco enlatado": "$250",
-                        "Cerveza Importada Saku": "$250",
-                        "Cerveza Dispensada Vaso": "$80",
-                        "Cerveza Dispensada Jarra": "$100"
+                        "Cafe Express": "25",
+                        "Vino Tinto Importado": "1500",
+                        "Cerveza Importada Lata": "250",
+                        "Refresco enlatado": "250",
+                        "Cerveza Importada Saku": "250",
+                        "Cerveza Dispensada Vaso": "80",
+                        "Cerveza Dispensada Jarra": "100"
                 },
                     "Cocteles": {
-                        "Jugos de Frutas Naturales": "$150",
-                        "Limonada Frappe": "$150",
-                        "Cuba Libre": "$300",
-                        "Daiquiri Natural": "$250",
-                        "Daiquiri Frappe": "$250",
-                        "Daiquiri Frappe Rosa": "$250",
-                        "Daiquiri Platano": "$250",
-                        "Daiquiri Rebelde": "$250",
-                        "Blue Daiquiri": "$250",
-                        "Mojito": "$250",
-                        "Ron Collins": "$250",
-                        "Piña Colada": "$300",
-                        "Sangria": "$300"
+                        "Jugos de Frutas Naturales": "150",
+                        "Limonada Frappe": "150",
+                        "Cuba Libre": "300",
+                        "Daiquiri Natural": "250",
+                        "Daiquiri Frappe": "250",
+                        "Daiquiri Frappe Rosa": "250",
+                        "Daiquiri Platano": "250",
+                        "Daiquiri Rebelde": "250",
+                        "Blue Daiquiri": "250",
+                        "Mojito": "250",
+                        "Ron Collins": "250",
+                        "Piña Colada": "300",
+                        "Sangria": "300"
                 },
                     "Rones": {
-                        "HC Añejo Blanco": "$120",
-                        "HC Profundo": "$150",
-                        "HC Añejo Especial": "$150",
-                        "HC Añejo Reserva": "$180",
-                        "HC Cuban Spiced": "$250",
-                        "HC 3 Años": "$140",
-                        "HC Añejo Ritual": "$160",
-                        "Ron Espiritu de Cuba": "$40"
+                        "HC Añejo Blanco": "120",
+                        "HC Profundo": "150",
+                        "HC Añejo Especial": "150",
+                        "HC Añejo Reserva": "180",
+                        "HC Cuban Spiced": "250",
+                        "HC 3 Años": "140",
+                        "HC Añejo Ritual": "160",
+                        "Ron Espiritu de Cuba": "40"
                 },
                     "Vodka": {
-                        "Vodka galeon": "$40"
+                        "Vodka galeon": "40"
                 }
             }
             }
