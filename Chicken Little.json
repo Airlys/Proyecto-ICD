@@ -42,72 +42,72 @@
                     }
             },
                 "Chicken Specialty": {
-                    "Pollo Grille": "$1650",
-                    "Pollo al Ajillo": "$1795",
-                    "Pollo Salteado con Piña": "$1675",
+                    "Pollo Grille": "1650",
+                    "Pollo al Ajillo": "1795",
+                    "Pollo Salteado con Piña": "1675",
                     "Pollo a la Mostaza": "1795",
-                    "Suprema Especial de Pollo": "$2150",
-                    "Pollo Tropical": "$2295",
-                    "Pollo Princesa": "$1995",
-                    "Pollo Salteado con Vegetales": "$1795"
+                    "Suprema Especial de Pollo": "2150",
+                    "Pollo Tropical": "2295",
+                    "Pollo Princesa": "1995",
+                    "Pollo Salteado con Vegetales": "1795"
             },
                 "Sea Specialties": {
-                    "Filete de Pescado Grille": "$1995",
-                    "Pescado con Vegetales": "$2095",
-                    "Dados de Pescado al Ajillo": "$2095",
-                    "Filete Jon Ville": "$2795",
-                    "Filete Canciller": "$2695",
-                    "Filete Costa Sur": "$2795",
-                    "Filete Princesa": "$2395",
-                    "Camaron Grille": "$2495",
-                    "Camaron al Ajillo": "$2595",
-                    "Camarones Enchilados": "$2595",
-                    "Camarones Empanados": "$2595",
-                    "Langosta Grille": "$2595",
-                    "Langosta Enchilada": "$2595",
+                    "Filete de Pescado Grille": "1995",
+                    "Pescado con Vegetales": "2095",
+                    "Dados de Pescado al Ajillo": "2095",
+                    "Filete Jon Ville": "2795",
+                    "Filete Canciller": "2695",
+                    "Filete Costa Sur": "2795",
+                    "Filete Princesa": "2395",
+                    "Camaron Grille": "2495",
+                    "Camaron al Ajillo": "2595",
+                    "Camarones Enchilados": "2595",
+                    "Camarones Empanados": "2595",
+                    "Langosta Grille": "2595",
+                    "Langosta Enchilada": "2595",
                     "Langosta al Ajillo": "2595",
-                    "Tres Delicias": "'$2900",
-                    "Gran Plato del Mar": "$3300",
-                    "Cazuela Marinera": "$2995"
+                    "Tres Delicias": "2900",
+                    "Gran Plato del Mar": "3300",
+                    "Cazuela Marinera": "2995"
             },
                 "Pork Specialties": {
-                    "Bistec Uruguayo": "$2795",
-                    "Bistec de Cerdo Grille": "$2050",
-                    "Masas Fritas": "$2395",
-                    "Masas Hawaianas": "$2550",
-                    "Costillas de Cerdo Fritas": "$1525"
+                    "Bistec Uruguayo": "2795",
+                    "Bistec de Cerdo Grille": "2050",
+                    "Masas Fritas": "2395",
+                    "Masas Hawaianas": "2550",
+                    "Costillas de Cerdo Fritas": "1525"
             },
                 "Garniches": {
-                    "Ensalada Mixta": "$400",
-                    "Arros Blanco": "$195",
-                    "Arroz Moro": "$295"
+                    "Ensalada Mixta": "400",
+                    "Arros Blanco": "195",
+                    "Arroz Moro": "295"
             },
             "Dessert":{
-                "Flan de Caramelo": "$325",
-                "Helados": "$450",
-                "Copa Lolita": "$550"
+                "Flan de Caramelo": "325",
+                "Helados": "450",
+                "Copa Lolita": "550"
             },
             "Drinks":{
                 "From the Bar":{
-                    "Ron Havana Club 7 Años": "$325",
-                    "Ballantine Finest": "$800",
-                    "Ballantine 12": "$600",
-                    "Limonada Frappe": "$650",
-                    "Agua Nacional": "$250",
-                    "Agua Tonica": "$250",
-                    "Sodas Nacionales": "$325",
-                    "Sodas Importadas": "$350",
-                    "Malta": "$400",
-                    "Cerveza Nacional": "$345",
-                    "Cerveza Corona": "$495"
+                    "Ron Havana Club 7 Años": "325",
+                    "Ballantine Finest": "800",
+                    "Ballantine 12": "600",
+                    "Limonada Frappe": "650",
+                    "Agua Nacional": "250",
+                    "Agua Tonica": "250",
+                    "Sodas Nacionales": "325",
+                    "Sodas Importadas": "350",
+                    "Malta": "400",
+                    "Cerveza Nacional": "345",
+                    "Cerveza Corona": "495"
                 },
                 "Coktail": {
-                    "Mojito": "$395",
-                    "Daiquiri": "$400",
-                    "Cuba Libre": "$450",
-                    "Gin Tonic": "$525",
-                    "Caipiriña": "$375",
-                    "Caipiroska": "$650"
+                    "Mojito": "395",
+                    "Daiquiri": "400",
+                    "Cuba Libre": "450",
+                    "Gin Tonic": "525",
+                    "Caipiriña": "375",
+                    "Caipiroska": "650"
                 }
             }
         }
