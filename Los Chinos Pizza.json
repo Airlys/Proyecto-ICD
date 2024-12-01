@@ -1,0 +1,145 @@
+{ 
+    "Restaurants":{
+        "Los Chinos Pizza":{
+            "Province": "La Habana",
+            "Municipality": "La Habana del Este",
+            "Location": "5V96+PVV, La Habana",
+            "Stars":{
+                "Social network": "Google",
+                "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Los%2Bchinos%2Bpizza/%4023.1693708,-82.1378248,15z/data%3D!4m2!3m1!1s0x0:0x4ca0ee6e38b9be6c%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiSmrWP-oaKAxX2TDABHQxBAUkQ_BJ6BAgaEAk&usg=AOvVaw2s0StPT-DNKB7a_P8X5Fel",
+                "total": 4.3,
+                "date": "20241201"
+        },
+            "schedules": "Apertura 11:00am y Cierre 11:00pm",
+            "Days of the week": "todos",
+            "Type of food or specialty": "italiana y criolla",
+            "Most popular food": "pizza y espaguetis",
+            "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "transferencia y efectivo"
+        },
+            "Ability": 54,
+            "menu and prices": {
+                "Starters": {
+                    "Brusquetas": "600",
+                    "Brusquetas con Queso": "750",
+                    "Focaccia": "700",
+                    "Focaccia con Salsa de Tomate": "750",
+                    "Focaccia con Queso": "1000",
+                    "Croquetas Caseras": "450",
+                    "Tostones Rellenos de Jamon y Queso": "650",
+                    "Tostones Rellenos de Atun": "700",
+                    "Coctel de Camaron": "2600"
+            },
+                "soups and creams": {
+                    "Sopa de Vegetales": "500",
+                    "Crema de Queso": "450",
+                    "Crema Aurora": "480",
+                    "Crema Virginia": "550",
+                    "Lazaña Boloñesa": "1900",
+                    "Lazaña de Jamon": "1800"
+            },
+                "Pastas": {
+                    "Pasta Arrabiata": "850",
+                    "Pasta al Aglio Olio": "850",
+                    "Pasta Bolognesa": "1700",
+                    "Pasta Carbonara": "1200",
+                    "Pasta Alfredo": "1200",
+                    "Pasta al Pesto": "1200",
+                    "Pasta Matriciana": "1200",
+                    "Pasta con Camarones": "1700"
+            },
+                "Pizza": {
+                    "De Queso": "1150",
+                    "De Jamon": "1600",
+                    "Con Aceitunas:": "1500",
+                    "Salame": "1500",
+                    "Chorizo": "1600",
+                    "Champiñon": "1700",
+                    "3 Vegetales": "1700",
+                    "3 Embutidos": "1700",
+                    "Salame y Picante": "1700",
+                    "Pepperoni": "1700",
+                    "Hawaiana": "1700",
+                    "Jamon y Champiñon": "1700",
+                    "Atun": "1700",
+                    "Camaron": "2200",
+                    "Bacon": "1700",
+                    "Los Chinos": "2200",
+                    "Cebolla": "1600",
+                    "Pimiento": "1600"
+            },
+                "Pork": {
+                    "Bistec de Cerdo": "1900",
+                    "Fajita de Cerdo": "1900",
+                    "Masas Fritas": "2000",
+                    "Ropa Vieja": "1900",
+                    "Lomo Deshuesado": "1900",
+                    "Chuleta": "2100",
+                    "Bistec Relleno de Jamon y Queso": "2100"
+            },
+            "Fish":{
+                "Eperlan": "2250",
+                "Filete Grille": "2100",
+                "Filete Empanado": "2250",
+                "Filete Monte Toro": "2500",
+                "Canciller": "2600",
+                "Jhon Bill": "3000"
+            },
+            "Chicken":{
+                "Bistec de Pollo": "1600",
+                "Fajita de Pollo": "1600",
+                "Pollo Asado": "3000",
+                "Bistec de Pechuga Grille": "1700",
+                "Fajita de Pechuga": "1700",
+                "Pechuga Rellena de Jamon y Queso": "2100",
+                "Pollo a la Criolla": "2000"
+            },
+            "Beef":{
+                "Ropa Vieja de Res": "3000"
+            },
+            "Shrimp":{
+                "Grille": "2600",
+                "Enchilado": "2600",
+                "Al Ajillo": "2600",
+                "Rebosado": "2700"
+            },
+            "Lobster":{
+                "Grille": "3000",
+                "Al Ajillo": "3000",
+                "Enchilada": "3600",
+                "Marinera": "4000"
+            },
+            "Aggregations":{
+                "Cebolla": "450",
+                "Jamon": "560",
+                "Salame": "550",
+                "Atun": "670",
+                "Bacon": "560",
+                "Salsa de Tomate": "450",
+                "Piña": "450",
+                "Aceitunas": "450",
+                "Queso": "500",
+                "Chorizo": "550",
+                "Pimiento": "450",
+                "Tomate Natural": "450",
+                "Camaron": "1100",
+                "Champiñon": "670"
+            },
+            "fittings":{
+                "Arroz Blanco": "240",
+                "Arroz Moro": "260",
+                "Ensalada de Vegetales": "280",
+                "Racion de Vianda Hervida": "300",
+                "Papas Fritas": "500",
+                "Otras Viandas Fritas": "400"
+            }
+        }
+    }
+}
+}
