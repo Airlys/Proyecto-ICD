@@ -1,0 +1,64 @@
+{ 
+    "Restaurants":{
+        "Tiki Bar":{
+            "Province": "La Habana",
+            "Municipality": "La Habana del Este",
+            "Location": " 4H76+RQH, La Habana",
+            "Stars":{
+                "Social network": "Google",
+                "url": "https://g.co/kgs/74d13HE",
+                "total": 3.9,
+                "date": "20241130"
+        },
+            "schedules": "Apertura 9:00am y Cierre 10:00pm",
+            "Days of the week": "Todos",
+            "Type of food or specialty": "Mariscos",
+            "Most popular food": "Pescado Frito",
+            "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": false,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Efectivo y Transferencia"
+        },
+            "Ability": 50,
+            "menu and prices": {
+                "Starters": {
+                    "Toston de Jamon y Queso": "1200",
+                    "Toston de Chorizo y Queso": "1200",
+                    "Toston de Cangrejo": "2300",
+                    "Toston de Langosta": "4000",
+                    "Toston de Camaron": "4000",
+                    "Taco de Cangrejo": "2500",
+                    "Taco de Camaron": "4000",
+                    "Taco de Langosta": "4000",
+                    "Papas Tiki": "1300",
+                    "Ceviche de Pescado": "2000",
+                    "Ceviche de Langosta": "3000",
+                    "Coctel de Camaron": "3500",
+                    "Coctel de Langosta": "2900",
+                    "Fajita de Cerdo": "2250",
+                    "Fajita de Pollo": "2100"
+            },
+                "Strong Dishes": {
+                    "Camaron al Gusto": "4000",
+                    "Langosta al Gusto": "4000",
+                    "Enchilado de Cangrejo": "2500",
+                    "Bistec de Cerdo": "2500",
+                    "Ribeye": "12500",
+                    "Pulpo al Gusto": "3800"
+            },
+                "Drinks": {
+                    "Red Bull": "700",
+                    "Energizante": "420",
+                    "Malta": "500",
+                    "Cerveza": "500",
+                    "Refresco": "450",
+                    "Malteada": "1000"
+            }
+        }
+    }
+}
+}
