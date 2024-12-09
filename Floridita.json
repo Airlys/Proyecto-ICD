@@ -1,0 +1,89 @@
+{ 
+"Restaurants":{
+    "Floridita":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "4JPV+X29, Obispo, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/XYtXbpi",
+            "total": 4.4,
+            "date": "20241208"
+        },
+        "schedules": "Apertura 12:00m y Cierre 1:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mariscos",
+        "Most popular food": "Gran Plato Hemingway",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia"
+        },
+        "Ability": 80,
+        "menu and prices": {
+            "Starters": {
+                "Ceviche Caribeño": "1200",
+                "Coctel de Langosta": "1200",
+                "El Viejo y Mar(Para Compartir)": "2150",
+                "Jamon Serrano": "1350",
+                "Seleccion de Quesos": "1200",
+                "Pica Pica del Chef": "750",
+                "Tapas de Mariscos": "1050",
+                "Pasta Frutti de Mare": "1450"
+            },
+            "Soups": {
+                "Cazuelita Colonial": "1100",
+                "Crema Floridita": "600",
+                "Sopa Noche de Paris": "350"
+            },
+            "Main Dishes": {
+                "Langosta a su Gusto": "2400",
+                "Gran Plato Hemingway": "2400",
+                "Cazuelita del Pescador": "2400",
+                "Cayuka Mixta": "2400",
+                "Papa & Mary": "2350",
+                "Camarones Flambeados al Ron": "2200",
+                "Pincho de Camarones": "1950",
+                "Filete de Pescado al Estilo Hemingway": "2200",
+                "Filete de Pescado a la Parrilla": "1800",
+                "Clasica Ropa Vieja": "1800",
+                "Solomillo de Res": "2400",
+                "Cazerola de Pollo Gregorin": "1450",
+                "Arroz Marinero": "1450",
+                "Bistec de Cerdo Finca Vijia": "1700"
+            },
+            "Wine list": {
+                "Sparkling":{
+                    "Cava Sangre de Toro Brut": "2500",
+                    "Cava Freixenet Cordon Negro Brut": "2650",
+                    "Henkell Troken": "2700"
+                },
+                "White Wines":{
+                    "Gewurztraminer, Viñas del Vero Somontano 2021": "4250",
+                    "Beronia Rueda": "3500"
+                },
+                "Rose Wine": {
+                    "La Vielle de Ferme 2022": "2550",
+                    "Viñas del Vero Pinot, Somontano 2021": "3650"
+                },
+                "Red Wines": {
+                    "Sangre de Toro, Rioja": "2850",
+                    "Marques de Caceres Gaudium 2016": "12500",
+                    "Beronia, Crianza Tempranillo 2019": "3870",
+                    "Chateau Los Boldos, Carmenere 2020": "4750",
+                    "Veramonte Merlot, 2019 Reserva(Organico)": "3950",
+                    "Veramonte Carmenere 2020 Reserva(Organico)": "3950",
+                    "Villa Antinori Toscana 2019": "5950",
+                    "Peppoli Chianti Classico 2019 Antinori": "4675",
+                    "Campo Viejo Tempranillo Rioja 2021": "2800"
+                },
+                "Wines by the Glass": "750"
+            }
+        }
+    }
+}
+}

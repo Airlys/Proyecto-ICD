@@ -1,0 +1,103 @@
+{ 
+    "Restaurants":{
+        "Venami":{
+            "Province": "La Habana",
+            "Municipality": "La Habana Vieja",
+            "Location": "4JPV+845, Av. Belgica, La Habana",
+            "Stars":{
+                "Social network": "Google",
+                "url": "https://g.co/kgs/wEW8NP4",
+                "total": 4.7,
+                "date": "20241208"
+        },
+            "schedules": "Apertura 11:30am y Cierre 10:00pm",
+            "Days of the week": "Todos",
+            "Type of food or specialty": "Italiana",
+            "Most popular food": "Pastas",
+            "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+            "Ability": 30,
+            "menu and prices": {
+                "Starters": {
+                    "Focaccia a las Hierbas": "300",
+                    "Brusquetas": "350",
+                    "Melanzane Boloñesa": "450",
+                    "Melanzane Vegetales": "400",
+                    "Ensalada Capresi": "650",
+                    "Ensalada Vegetales": "650",
+                    "Focaccia Rellena": "1350",
+                    "Estrofollino Vegetal": "850",
+                    "Estrofollino Jamon": "900",
+                    "Estrofollino Natural": "650",
+                    "Focaccia c/ Jamon Serrano": "1100"
+            },
+                "Creams": {
+                    "Crema de Queso": "600",
+                    "Crema Virginia": "630",
+                    "Crema Champignon": "650"
+            },
+                "Rissotos": {
+                    "Al Fungi": "1100",
+                    "Al Fruto de Mar": "1350",
+                    "Al Venami": "1050"
+            },
+                "Second Course": {
+                    "Pollo al Limon": "1210",
+                    "Pollo a la Piazzola": "1250",
+                    "Cerdo al Limon": "1300",
+                    "Pescado Livonnesa": "1310",
+                    "Pescado al Camaron": "1400"
+            },
+                "Pizzas": {
+                    "Pizza Venami": "1600",
+                    "Pizza Deliciosa": "1300",
+                    "Pizza Jamon Serrano": "1500",
+                    "Pizza Jamon y Cebolla": "1150",
+                    "Pizza Hawaiana": "1150",
+                    "Pizza 4 Estaciones": "1250",
+                    "Pizza Atun y Alcaparras": "1050",
+                    "Pizza Fruto de Mar": "1450",
+                    "Pizza Margarita": "700",
+                    "Calzone Boloñesa": "1100",
+                    "Pizza Diabola": "1100",
+                    "Pizza Bacon y Cebolla": "1100",
+                    "Pizza Champignon": "1000",
+                    "Pizza 4 Quesos": "1200",
+                    "Pizza Habanera": "1350",
+                    "Pizza Caribeña": "1500",
+                    "Pizza de Pollo": "1100",
+                    "Pizza Vegetariana": "910"
+            },
+            "Fresh Pasta":{
+                "Lazaña": "1200",
+                "Fetuccine Boloñesa": "1050",
+                "Cenelones": "1050"
+            },
+            "Pasta":{
+                "Penne Champignon/Serrano": "1380",
+                "Spaghetty Amatriciana": "1100",
+                "Spaghetty Alfredo(Jamon)": "1050",
+                "Spaghetty A la Carbonara": "1200",
+                "Penne Arrabiatta": "950",
+                "Penne a la Boloñesa": "1050",
+                "Spaghetty de Atun/Alcaparras": "1000",
+                "Spaghetty Pomodoro Basilico": "800",
+                "Spaghetty Fruto de Mar": "1450",
+                "Spaghetty al Pesto": "950",
+                "Spaghetty al Venami": "1250",
+                "Spaghetty Ajo/Peperonchino": "850",
+                "Spaghetty al Camaron": "1250",
+                "Timbal de Pollo": "1200",
+                "Timbal de Boloñesa": "1100"
+            }
+        }
+    }
+}
+}

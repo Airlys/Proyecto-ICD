@@ -1,0 +1,147 @@
+{ 
+    "Restaurants":{
+        "El Kilometro Zero":{
+            "Province": "La Habana",
+            "Municipality": "La Habana Vieja",
+            "Location": "Monserrate#437 Esq Teniente Rey, La Habana 10900 Cuba",
+            "Stars":{
+                "Social network": "Google",
+                "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d19481337-Reviews-Kilometro_Zero-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwiQorSl1JiKAxVmSDABHYMDMloQFnoECBsQAQ&usg=AOvVaw0HkAEcOKDNVqPvJAKng7Ii",
+                "total": 4.5,
+                "date": "20241208"
+        },
+            "schedules": "Apertura 8:00am y Cierre 2:00am",
+            "Days of the week": "Todos",
+            "Type of food or specialty": "criolla",
+            "Most popular food": "Ropa Vieja",
+            "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y efectivo"
+        },
+            "Ability": 70,
+            "menu and prices": {
+                "Appetizers": {
+                    "Cesta de Pan": "850",
+                    "Croquetas de la Casa": "1140",
+                    "Tamal Cubano": "2080",
+                    "Tacos de la Casa": "1795",
+                    "Quesadilla de Vaca Frita": "1760",
+                    "Fajitas de Pollo al Estilo KM ZERO": "2170",
+                    "Carpaccio de Res": "3000",
+                    "Carpaccio de Pescado": "2300",
+                    "Eperlan": "2250",
+                    "Ceviche": "2225"
+            },
+                "Main Dishes": {
+                    "Pollo Moreno": "2865",
+                    "Vaca Frita": "2940",
+                    "Ropa Vieja": "2970",
+                    "Lonjas de Cerdo": "3040",
+                    "Masas de Cerdo": "3075",
+                    "Pesca del Dia": "4480",
+                    "Pescado en Costra": "4995",
+                    "Camarones al Gusto": "5250"
+            },
+                "Fittings": {
+                    "Arroz": "580",
+                    "Frijoles": "620",
+                    "Vianda Frita": "640",
+                    "Papas Fritas": "1280"
+            },
+                "Salads": {
+                    "Ensalada Organica": "995",
+                    "Ensalada Coronada con Atun": "1760"
+            },
+                "To Share": {
+                    "Pica Pica Boom": "3200"
+            },
+            "Specials": {
+                "Pescado Entero al Josper": "8370",
+                "Caldereta de Mariscos": "9800",
+                "Langosta KM ZERO": "6650",
+                "Ribeye al Josper": "6000",
+                "Arroz a la Cubana": "2880"
+            },
+            "Desserts":{
+                "Tarta de Limon": "1960",
+                "Tarta de Chocolate": "1650",
+                "Postre Casero": "960"
+            },
+            "From the Bar": {
+                "Idea 43": "2325",
+                "Pacto Zero": "2760",
+                "Sex on KM": "2015",
+                "Aperol Gin": "2015",
+                "Mojito Capitolio": "1705",
+                "Canchanchara KMZ": "1860",
+                "Santiago Dark": "1860",
+                "El Tropical": "1785",
+                "Cuban Flavor": "1860",
+                "Piña Colada Tentacion": "1950",
+                "Gin Tonic Afrodisiaco": "1950",
+                "Mezcalita Chica Mala": "2995"
+            },
+            "The Usual Classics":{
+                "Daiquiri": "1085",
+                "Mojito": "1085",
+                "Cuba Libre": "1250",
+                "Canchanchara": "1085",
+                "Havana Special": "1085",
+                "Cubanito": "1250",
+                "Ron Fashioned": "1705",
+                "Cuban Manhatan": "1705",
+                "Los Calpis": "1250",
+                "Moscow Mule": "2015",
+                "Espresso Martini": "1705",
+                "Bloody Mary XL": "2945",
+                "Screwdriver": "1250",
+                "Vodka Tonic": "1860",
+                "Gin Tonic": "1860",
+                "Martini": "1705",
+                "Negroni": "1860",
+                "Margarita": "1395",
+                "Tequila Sunrise": "1550",
+                "Long Island": "1860",
+                "Amaretto Sour": "1705",
+                "Whisky Sour": "1860",
+                "Aperol Spritz": "1860",
+                "Sangria": "1550",
+                "Mimosa": "1800",
+                "Tinto Verano": "1800"
+            },
+            "Other Drinks":{
+                "Agua Natural": "495",
+                "Agua con Gas Mondariz": "1300",
+                "Agua Tonica Importada": "960",
+                "Refrescos Importados": "675",
+                "Malta Bucanero": "750",
+                "Jugos Naturales": "790",
+                "Limonada Frescura": "960",
+                "Energizante": "900"
+            },
+            "Beers":{
+                "Cristal de Botella": "840",
+                "Bucanero de Botella": "840",
+                "Servicio Chelada": "310",
+                "Servicio Michelada": "465"
+            },
+            "Coffee":{
+                "Espresso": "480",
+                "Americano": "515",
+                "Cortado": "550",
+                "Macchiato": "550",
+                "Cafe con Leche": "620",
+                "Cappuccino": "655",
+                "Cafe Bombon": "725",
+                "Frappuccino": "1120",
+                "Havana Quemado": "1760"
+            }
+        }
+    }
+}
+}
