@@ -1,0 +1,66 @@
+{ 
+"Restaurants":{
+    "Bosque Bolona":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "4JQW+62 La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2Bterraza%2Bde%2Bobispo,%2Brte%2Bpaladar/data%3D!4m2!3m1!1s0x0:0x3687a350b2b0a7bd%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwir2I7EoZyKAxX2VTABHT6sABAQ_BJ6BAg6EAk&usg=AOvVaw1e7k1JDe1DWd_GnVQSFQT2",
+            "total": 5.0,
+            "date": "20241209"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Ropa Vieja",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": false,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Ability": 40,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de Pollo": "150"
+            },
+            "Main Courses": {
+                "Camaron Enchilado": "1740",
+                "Camaron Grille": "1900",
+                "Brocheta de Camaron": "1465",
+                "Langosta Entera": "4500",
+                "Cerdo Estofado": "875",
+                "Bistec de Cerdo Grille": "850",
+                "Fajitas de Cerdo": "990",
+                "Res Estofada": "875",
+                "Lonjas de Res": "945",
+                "Espaguetis Margarita": "350",
+                "Agrego de Atun": "100"
+            },
+            "Fittings": {
+                "Arroz Moro": "135",
+                "Vianda Hervida": "175",
+                "Vegetales Frescos": "600"
+            },
+            "Drinks": {
+                "Licor Cubay de Menta": "200",
+                "Licor Curacao Azul": "200",
+                "Licor Cubay de Anis": "200",
+                "Chanceler": "180",
+                "HC 3 Años": "200",
+                "HC Reserva": "380",
+                "HC Especial": "250",
+                "HC Ritual": "250",
+                "Jugo Nacional Lata": "90",
+                "Cerveza Importada": "175",
+                "Vaso Jugo Importado": "80",
+                "Malta Importada": "135"
+            }
+        }
+    }
+}
+}

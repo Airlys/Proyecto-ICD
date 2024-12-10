@@ -1,0 +1,115 @@
+{ 
+"Restaurants":{
+    "El Balcon de los Hermanos":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "4JQV+7V2, Obispo, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/A1m9ipk",
+            "total": 3.8,
+            "date": "20241210"
+        },
+        "schedules": "Apertura 9:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Ropa Vieja",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Ability": 30,
+        "menu and prices": {
+            "Starters": {
+                "Coctel de Pescado": "500",
+                "Coctel de Camarones": "500",
+                "Croquetas": "500",
+                "Tostones Rellenos": "500",
+                "Tamal en Hojas": "500",
+                "Patata Fritas": "500"
+            },
+            "Cuban Rice": "2000",
+            "Lobster":{
+                "Langosta en Salsa": "2450",
+                "Langosta Ajillo": "2400",
+                "Langosta Grille": "2400",
+                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"]
+            },
+            "Chicken": {
+                "Pollo Grille": "2400",
+                "Pollo en Salsa": "2400",
+                "Pollo Empanado": "2450",
+                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"]
+            },
+            "Pork": {
+                "Cerdo Grille": "2400",
+                "Cerdo Empanado": "2450",
+                "Cerdo Entomatado": "2400",
+                "Lomo de Cerdo": "2450",
+                "Todo Acompañado de":["Arroz Moro","Ensalada Mixta","Viandas"]
+            },
+            "Beef":{
+                "Ropa Vieja": "2450",
+                "Cordero": "2450",
+                "Todo Acompañado de":["Arroz Moro","Ensalada Mixta","Viandas"]
+            },
+            "Fish":{
+                "Pescado Grille": "2400",
+                "Pescado Empanado": "2450"
+            },
+            "Shrimps":{
+                "Camarones Grille": "2400",
+                "Camarones al Ajillo": "2400",
+                "Camarones en Salsa": "2450",
+                "Camarones Salteados": "2400",
+                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"]
+            },
+            "Octopus": "3500",
+            "Sea and Land": "2650",
+            "Cocktails": {
+                "Mojito": "500",
+                "Cubanito": "500",
+                "Piña Colada": "600",
+                "Cuba Libre": "500",
+                "Cubatas": "600",
+                "Daiquiri": "500",
+                "Sangria": "600",
+                "Michelada": "700"
+            },
+            "Pasta":{
+                "Pasta Napoles": "1700",
+                "Pasta del Mar": "2500"
+            },
+            "Drinks":{
+                "Refrescos Nacionales": "300",
+                "Refrescos Importados": "300",
+                "Jugos Naturales": "300",
+                "Agua Natural 1.5lt": "300",
+                "Agua Natural 500ml": "200",
+                "Agua Gaseada": "200",
+                "Cerveza": "450",
+                "Copa de Vino": "500",
+                "Botella de Vino": "2500",
+                "Cuban Ron Habana Club 3 Años": "250",
+                "Cuban Ron Habana Club Reserva": "500",
+                "Cuban Ron Habana Club 7 Años": "500"
+            },
+            "Desserts":{
+                "Helados": "300",
+                "Dulces": "300"
+            },
+            "Infusion": {
+                "Cafe Cortado": "250",
+                "Cafe Carajillo": "250",
+                "Cafe Expresso": "200",
+                "Te Variado": "200"
+            }
+        }
+    }
+}
+}

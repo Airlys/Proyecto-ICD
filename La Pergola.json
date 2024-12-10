@@ -1,0 +1,74 @@
+{ 
+"Restaurants":{
+    "La Pergola":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": " 4JQV+4M8, Villegas, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2Bp%25C3%25A9rgola/data%3D!4m2!3m1!1s0x0:0x2d39a44ddb88ef7a%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiY68PzjpyKAxXQp7AFHd2hFRgQ_BJ6BAg8EAk&usg=AOvVaw1e5o6MTnzhACXJKQFCFsTb",
+            "total": 2.9,
+            "date": "20241209"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Bistec de Cerdo Grille",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Ability": 40,
+        "menu and prices": {
+            "Main Dishes": {
+                "Camaron Enchilado": "1740",
+                "Camaron Grille": "1900",
+                "Langosta Entera": "4500",
+                "Brocheta de Camaron": "1465",
+                "Cerdo Estofado": "875",
+                "Bistec de Cerdo Grille": "850",
+                "Fajitas de Cerdo": "990",
+                "Res Estofada": "875",
+                "Lonjas de Res": "945",
+                "Espaguetis a la salsa": "125",
+                "Espaguetis Margarita": "350",
+                "Agrego de Atun": "100"
+            },
+            "Fittings": {
+                "Arroz Moro": "135",
+                "Vegetales Frescos": "200",
+                "Vianda Hervida": "175"
+            },
+            "Drinks": {
+                "Ron Collins": "300",
+                "Mojito": "300",
+                "Daiquiri": "300",
+                "Licor Cubay de Menta": "200",
+                "Licor Curacao Azul": "200",
+                "Licor Cubay de Anis": "200",
+                "HC 3 Años": "200",
+                "HC Blanco": "200",
+                "HC Reserva": "380",
+                "HC Especial": "250",
+                "HC Ritual": "250",
+                "Limonada": "100",
+                "Parranda": "180",
+                "Jugo Nacional Lata": "90",
+                "Cerveza Importada": "175",
+                "Vaso Jugo Imp": "80",
+                "Malta Importada": "135"
+            },
+            "Coffee": {
+                "Cafe Express": "125",
+                "Cafe Americano": "150",
+                "Cafe Bombon": "175"
+            }
+        }
+    }
+}
+}
