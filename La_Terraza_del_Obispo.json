@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 35,
+        "Capacity": 35,
         "menu and prices": {
             "Starters": {
                 "Eperlan de Pescado": "600",
