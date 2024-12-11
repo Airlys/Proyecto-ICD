@@ -23,7 +23,7 @@
                 "Home service": true,
                 "Payment type": "Efectivo y transferencia"
         },
-            "Ability": 50,
+            "Capacity": 50,
             "Menu and price": {
                 "Entrepanes": {
                     "Sandwich de Jamon y Queso": "1200",
