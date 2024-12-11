@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia"
         },
-        "Ability": 80,
+        "Capacity": 80,
         "menu and prices": {
             "Starters": {
                 "Ceviche Caribeño": "1200",
