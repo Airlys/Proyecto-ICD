@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y efectivo"
         },
-            "Ability": 70,
+            "Capacity": 70,
             "menu and prices": {
                 "Appetizers": {
                     "Cesta de Pan": "850",
