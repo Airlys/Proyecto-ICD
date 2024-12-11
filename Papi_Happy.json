@@ -23,7 +23,7 @@
                 "Home service": true,
                 "Payment type": "Efectivo y Transferencia"
         },
-            "Ability": 60,
+            "Capacity": 60,
             "menu and prices": {
                 "Starters": {
                     "Picadera Papi Happy": "2900",
