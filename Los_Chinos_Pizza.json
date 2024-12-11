@@ -23,7 +23,7 @@
                 "Home service": true,
                 "Payment type": "transferencia y efectivo"
         },
-            "Ability": 54,
+            "Capacity": 54,
             "menu and prices": {
                 "Starters": {
                     "Brusquetas": "600",
