@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 28,
+        "Capacity": 28,
         "menu and prices": {
             "Food": {
                 "Escabeche": "450",
