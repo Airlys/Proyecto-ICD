@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 40,
+        "Capacity": 40,
         "menu and prices": {
             "Main Dishes": {
                 "Camaron Enchilado": "1740",
