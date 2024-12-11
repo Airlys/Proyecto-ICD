@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 40,
+        "Capacity": 40,
         "menu and prices": {
             "Starters": {
                 "Picada de Salchicha": "60",
