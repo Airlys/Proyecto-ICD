@@ -23,7 +23,7 @@
                 "Home service": true,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 40,
+        "Capacity": 40,
         "menu and prices": {
             "Starters": {
                 "Croquetas de Pollo": "150"
