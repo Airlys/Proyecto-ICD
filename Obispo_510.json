@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 30,
+        "Capacity": 30,
         "menu and prices": {
             "Starters": {
                 "Coctel de Camarones": "1500",
