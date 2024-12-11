@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 20,
+        "Capacity": 20,
         "menu and prices": {
             "Offers of the day": {
                 "Pizza Napolitana": "275",
