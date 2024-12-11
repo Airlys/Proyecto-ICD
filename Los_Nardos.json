@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-            "Ability": 150,
+            "Capacity": 150,
             "menu and prices": {
                 "Cold Starters": {
                     "Ensalada de Vegetales Frescos": "620",
