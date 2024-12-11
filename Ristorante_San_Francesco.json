@@ -23,7 +23,7 @@
                 "Home service": true,
                 "Payment type": "Efectivo y Transferencia"
         },
-            "Ability": 42,
+            "Capacity": 42,
             "menu and prices": {
                 "Appetizers": {
                     "Antipasto di Montagna Maxi": "3500",
