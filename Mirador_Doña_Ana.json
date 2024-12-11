@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 140,
+        "Capacity": 140,
         "menu and prices": {
             "Cold Starters": {
                 "Coctel de Camarones": "1500",
