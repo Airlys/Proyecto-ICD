@@ -23,7 +23,7 @@
                 "Home service": true,
                 "Payment type": "Efectivo y Transferencia"
         },
-            "Ability": 100,
+            "Capacity": 100,
             "menu and prices": {
                 "Grills": {
                     "Brocheta de Res": "1950",
