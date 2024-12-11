@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Efectivo y transferencia"
         },
-            "Ability": 180,
+            "Capacity": 180,
             "Menu and price": {
                 "Starters": {
                     "Albondigas de Carne": "350",
