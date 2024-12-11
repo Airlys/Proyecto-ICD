@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Transferencia y Efectivo"
         },
-        "Ability": 50,
+        "Capacity": 50,
         "menu and prices": {
             "Starters": {
                 "Crema de Queso": "800",
