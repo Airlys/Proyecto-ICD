@@ -23,7 +23,7 @@
                 "Home service": true,
                 "Payment type": "transferencia y efectivo"
         },
-            "Ability": 50,
+            "Capacity": 50,
             "menu and prices": {
                 "Starters": {
                     "Tostones Rellenos con Jamon y Queso": "950",
