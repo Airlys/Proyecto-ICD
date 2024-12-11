@@ -23,7 +23,7 @@
                 "Home service": false,
                 "Payment type": "Efectivo y Transferencia"
         },
-            "Ability": 56,
+            "Capacity": 56,
             "menu and prices": {
                 "Starters": {
                     "Bruschettas de Pan": "650",
