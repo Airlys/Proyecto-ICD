@@ -1,0 +1,88 @@
+{
+"Restaurants":{
+    "Fonda_al_Pirata":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": " 4JRX+479, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/8a7fdLV",
+            "total": 4.5,
+            "date": "20241211"
+        },
+        "schedules": "Apertura 7:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Vegana y Vegetariana",
+        "Most popular food": "Galeon el Olones",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 70,
+        "menu and prices": {
+            "Breakfast": {
+                "Tradicional": "9.00 USD",
+                "Vegetariano": "9.00 USD",
+                "Vegano": "720"
+            },
+            "Coffee": {
+                "Cafe Espresso": "1.50 USD",
+                "Cafe Espresso Doble": "2.00 USD",
+                "Cafe Americano": "1.50",
+                "Cortadito": "1.60",
+                "Cafe Bombon": "1.90",
+                "Capuccino": "1.70",
+                "Frapuccino": "3.60",
+                "Mocca": "1.80",
+                "Frapuccino Mocca": "3.85",
+                "Cafe con Leche": "2.10",
+                "Te": "1.20"
+            },
+            "Starters": {
+                "Bolitas de Queso": "6.00 USD",
+                "Bolitas de Queso Picante": "6.00 USD",
+                "Ceviche": "7.00 USD",
+                "Caldosa Pirata": "1.00 USD",
+                "Tostadas Piratas": "3.00 USD",
+                "Hummus y Vegetales": "6.00 USD",
+                "Tacos Piratas": "6.00 USD",
+                "Ceviche de Langosta": "8.00 USD",
+                "Coctel de Langosta": "8.50 USD",
+                "Crudo de Pulpo": "9.00 USD"
+            },
+            "Main Dishes":{
+                "Pirates From Heart Salad": "4.50 USD",
+                "Aggregates": {
+                    "Pollo": "2.40 USD",
+                    "Cerdo": "3.60 USD",
+                    "Atun": "3.60 USD",
+                    "Serrano": "4.80 USD",
+                    "Langosta": "6.00 USD",
+                    "Pulpo": "6.00 USD"
+                },
+                "Combinacion Pirata": "10.00 USD",
+                "Galeon el Olones": "10.50 USD",
+                "Botija Pirata": "6.00 USD",
+                "Filete de Pescado": "12.00 USD",
+                "Langosta a su Gusto": "19.00 USD",
+                "Pescado Entero": "16.00"
+            },
+            "Hamburger and Sandwich":{
+                "Hamburguesa Barba Roja": "7.00 USD",
+                "Hamburguesa Vegana": "4.50 USD",
+                "Sandwich de Pechuga": "7.00 USD",
+                "Sandwich Abordaje": "9.50 USD",
+                "Sandwich Verde": "4.50 USD",
+                "Sandwich Mary Read": "7.00 USD",
+                "Club Sandwich Atun": "8.50 USD",
+                "Club Sandwich Pol Chicken Club Sandwich": "8.00 USD"
+            }
+        }
+    }
+}
+}

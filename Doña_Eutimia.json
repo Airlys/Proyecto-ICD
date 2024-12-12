@@ -1,0 +1,140 @@
+{ 
+"Restaurants":{
+    "Doña_Eutimia":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "60-C, Callejon del Chorro, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/vhKKohR",
+            "total": 4.4,
+            "date": "20241211"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Ropa Vieja",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 40,
+        "menu and prices": {
+            "Cold Starters": {
+                "Ensalada de Frutas": "800",
+                "Ensalada de Vegetales": "800",
+                "Ensalada del Chef": "1200",
+                "Ensalada de Langosta": "2500"
+            },
+            "Hot Starters": {
+                "Croquetas de Leticia": "1000",
+                "Frituras de Malanga": "900",
+                "Caldo del Dia": "1000",
+                "Tostones Rellenos": "1200",
+                "Empanada Doña Eutimia": "1200",
+                "Garbanzos Fritos": "1700",
+                "Racion de Pan": "400"
+            },
+            "Rice": {
+                "Arroz a la Cubana": "2000"
+            },
+            "Fittings": {
+                "Arroz Blanco": "450",
+                "Frijoles Negros": "550",
+                "Vianda Frita o Hervida": "500"
+            },
+            "Main Dishes": {
+                "Fajitas de Pollo": "2600",
+                "Pollo Grille": "2400",
+                "Suprema de Pollo Grille": "2700",
+                "Masas de Cerdo Doña Eutimia": "3000",
+                "Bistec de Cerdo": "2400",
+                "Puntas de Cerdo": "2300",
+                "Picadillo a la Habanera": "2800",
+                "Ropa Vieja del Chorro": "2800",
+                "Chilindron de Cordero": "3900",
+                "Grillada Campesina": "3900",
+                "Filete de Pescado Grille": "4000",
+                "Mariscos al Estilo de la Casa": "5000",
+                "ATENCION": "TODOS LOS PLATOS VIENEN ACOMPAÑADOS CON ARROZ BLANCO, FRIJOLES NEGROS Y VIANDA"
+            },
+            "Desserts": {
+                "Dulces Criollos en Almibar con Queso": "1000",
+                "Flan de la Casa": "250",
+                "Helados Artesanales": "250",
+                "Copa Lolita": "1000"
+            },
+            "Infusions":{
+                "Cafe": "350",
+                "Cafe Cortado": "380",
+                "Cafe con Leche": "400",
+                "Cafe Capuccino": "450",
+                "Frapuccino": "850",
+                "Te": "350"
+            },
+            "From The Bar": {
+                "Aguas Nacionales": "300",
+                "Aguas Importades": "550",
+                "Refrescos Nacionales y Malta": "400",
+                "Refrescos Importados y Maltas": "450",
+                "Cervezas Nacionales": "600",
+                "Cervezas Importadas": "500",
+                "Cheladas,sobre el costo de la cerveza": "200",
+                "Micheladas,sobre el costo de la cerveza": "300",
+                "Jugos Naturales": "500",
+                "Limonada": "700",
+                "Limonada Frappe": "750",
+                "Limonada Frescura": "800",
+                "Copa de Vino": "950"
+            },
+            "Our Rums":{
+                "Havana Club 3 Años": "600",
+                "Havana Club Añejo Especial": "800",
+                "Havana Club 7 Años": "1100",
+                "Seleccion de Maestros": "1600",
+                "Pacto de Navio": "1700",
+                "Santiago Añejo 11 Años": "1600",
+                "Santiago Añejo 12 Años": "1700"
+            },
+            "Cocktails":{
+                "Mojito Oriental": "1600",
+                "Mojito Doña Eutimia": "1400",
+                "Mojito Tradicional": "1200",
+                "Mojito de Frutas": "1400",
+                "Dark Mojito": "1500",
+                "Daiquiri": "1250",
+                "Daiquiri de Frutas": "1400",
+                "Sangria": "1500",
+                "Cuba Libre": "1250",
+                "Cubata": "1400",
+                "Piña Colada": "1500",
+                "Ron Collins": "1000",
+                "Habana Special": "1250",
+                "Cubanito": "1350",
+                "Presidente": "1250",
+                "Canchanchara": "1500",
+                "Caipiriña": "1500",
+                "Caipiroska": "1500",
+                "Caipirisima": "1500",
+                "Dry Martini": "1600",
+                "Dry Martini Saborizado": "1800",
+                "Espresso Martini": "1700",
+                "Margarita": "1500",
+                "Margarita Saborizado": "1700",
+                "Gin Tonic": "1600",
+                "Gin Tonic Saborizado": "1800",
+                "Old Fashioned": "1600",
+                "Bloody Mary": "1500",
+                "Negroni": "1800",
+                "Aperol Spritz": "1800",
+                "Orgasmo": "2000" 
+            }
+        }
+    }
+}
+}

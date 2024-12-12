@@ -1,0 +1,129 @@
+{ 
+"Restaurants":{
+    "Casa_Victor":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "4JRX+653, Callejon del Chorro, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Casa%2BVictor/data%3D!4m2!3m1!1s0x0:0xba073b7e044c4e1%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwj82O6Mv6GKAxUrQjABHV1ZJJEQ_BJ6BAg1EAk&usg=AOvVaw3N2atccC_rLX-JpWlASinm",
+            "total": 2.7,
+            "date": "20241211"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Filete Victor",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Fritura de Malanga": "1100",
+                "Tostones Rellenos de Ropa Vieja": "1300",
+                "Entremes de Jamon y Queso": "1300",
+                "Tostones de Mariscos": "1600",
+                "Tostones de Jamon y Queso": "1500",
+                "Coctel de Langosta": "1700",
+                "Coctel de Camarones": "1700",
+                "Tacos de Carne": "1800",
+                "Tacos de Marisco": "2000"
+            },
+            "Pastas": {
+                "Espaguetis Napolitano": "2000",
+                "Espaguetis de Jamon": "2200",
+                "Espaguetis a la Bolognesa": "2300",
+                "Espaguetis al Pesto": "2200",
+                "Espaguetis de Langosta": "3000",
+                "Espaguetis de Camaron": "3000"
+            },
+            "Main Dishes": {
+                "Pollo Fortaleza": "3500",
+                "Plato Victor": "3800",
+                "Plato Habana": "3700",
+                "Filete Victor": "3800",
+                "Combinacion Salvaje": "3800",
+                "Paella Imperial": "4000",
+                "Paella de Carne": "3800",
+                "Pollo Victor": "3300",
+                "Paella de Mariscos": "4000",
+                "Paella de Vegetales": "2700"
+            },
+            "House Dishes": {
+                "Pollo Grille": "2600",
+                "Pollo Frito": "2600",
+                "Pollo Asado": "2600",
+                "Ropa Vieja": "3000",
+                "Bistec de Cerdo Encebollado": "3000",
+                "Carne Asada": "2900",
+                "Langosta(plancha,salsa,ajillo)": "3300",
+                "Camaron(plancha,salsa,ajillo)": "3300",
+                "Filete de Pescado": "3300",
+                "Aporreado de Pescado": "2600",
+                "Picadillo a la Habanera": "2700",
+                "Paella de Vegetales": "2500",
+                "Salteado de Vegetales": "2000"
+            },
+            "Desserts": {
+                "Flan": "800",
+                "Dulce en Almibar": "800",
+                "Helados": "800"
+            },
+            "Drinks":{
+                "Agua Natural": "400",
+                "Agua Gaseada": "450",
+                "Refresco": "450",
+                "Cerveza": "600",
+                "Malta": "500",
+                "Limonada": "450",
+                "Jugos Naturales": "600"
+            },
+            "Coffees and Infusions":{
+                "Cafe Espresso": "400",
+                "Cafe Americano": "400",
+                "Cafe Cortado": "500",
+                "Cafe con Leche": "600",
+                "Te": "400"
+            },
+            "Cocktails":{
+                "Mojito": "600",
+                "Cuba Libre": "850",
+                "Sangria": "1300",
+                "Piña Colada": "1600",
+                "Daiquiri": "700",
+                "Cubata": "800",
+                "Ron Collin": "700",
+                "Caipirinha": "1200",
+                "Michelada": "1700",
+                "Chelada": "1200",
+                "Copa de Vino": "900",
+                "Margarita": "1100",
+                "Gin Tonic": "1200",
+                "Cubanito": "1500",
+                "Botellas de Vino": "5000",
+                "Trago de Ron Añejo Blanco": "800",
+                "Trago de Ron 3 Años": "1100",
+                "Trago de Ron Santiago": "1500",
+                "Trago de Ron Especial": "1500",
+                "Trago de Ron 7 Años": "1600",
+                "Trago de Ron Pacto Navio": "1900",
+                "Whisky": "1400",
+                "Chivas 12 Años": "2000",
+                "Ballantine": "1900",
+                "Johnie Walker Rojo": "2000",
+                "Johnie Walker Negro": "2200",
+                "Ron Santiago 12 Años": "1900",
+                "Seleccion de Maestros": "1900",
+                "Tequila": "1600"
+            }
+        }
+    }
+}
+}

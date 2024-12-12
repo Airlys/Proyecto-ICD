@@ -1,0 +1,100 @@
+{ 
+"Restaurants":{
+    "Don_Giovanni":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "Empedrado between Tacon and Merrcaderes, La Habana Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d2017025-Reviews-D_Giovanni-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwiLssSBmKGKAxUVSDABHWQXM0EQFnoECBAQAQ&usg=AOvVaw0mOSfxGS4tGtND1EAGgfJF",
+            "total": 3.0,
+            "date": "20241211"
+        },
+        "schedules": "Apertura 11:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": "Langosta",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 40,
+        "menu and prices": {
+            "Starters": {
+                "Frituras de Malanga": "900",
+                "Tostones Rellenos de Jamon y Queso": "1100",
+                "Tostones Rellenos de Atun": "1200",
+                "Croquetas de la Casa": "900"
+            },
+            "Pastas": {
+                "Espaguetis Napolitana": "2100",
+                "Espaguetis Jamon": "2300",
+                "Espaguetis a la Boloñesa": "2400"
+            },
+            "House Dishes": {
+                "Paella de Vegetales": "2400",
+                "Picadillo a la Habanera": "2600",
+                "Ropa Vieja Cordero": "2800",
+                "Ropa Vieja Carne de Res": "3000",
+                "Pechuga de Pollo": "2600",
+                "Pollo Asado o Frito": "2500",
+                "Bistec de Cerdo Encebollado": "2900",
+                "Carne Asada": "2900",
+                "Filete de Pescado": "3200",
+                "Camarones": "3300",
+                "Langosta": "3300",
+                "Paella de Mariscos": "4000",
+                "Bistec Uruguayo": "3800",
+                "Gordon Blue": "3800",
+                "Combinacion Salvaje": "3900",
+                "Plato Giovanni": "4000"
+            },
+            "Drinks": {
+                "Agua Natural": "300",
+                "Agua Grande": "700",
+                "Agua Gaseada": "350",
+                "Refresco Nacional e Importado": "450",
+                "Malta": "550",
+                "Jugo Natural": "500",
+                "Limonada Frapeada": "400",
+                "Cerveza Nacional": "600",
+                "Cerveza Importada": "600"
+            },
+            "Infusions": {
+                "Cafe Espresso": "300",
+                "Cafe America": "300",
+                "Cafe Cortado": "350",
+                "Cafe con Leche": "500",
+                "Capuchino": "500",
+                "Te": "250",
+                "Te con Leche": "350"
+            },
+            "Cocktails": {
+                "Trago de 3 Años": "700",
+                "Trago de Santiago": "1000",
+                "Trago de Especial": "850",
+                "Daiquiri": "900",
+                "Mojito": "900",
+                "Cuba Libre": "900",
+                "Caipiriña": "900",
+                "Cubata": "950",
+                "Sangria": "1000",
+                "Piña Colada": "1400",
+                "Gin Tonic": "1100",
+                "Michelada": "1100",
+                "Chelada": "1000",
+                "Copa de Vino": "900"
+            },
+            "Desserts": {
+                "Flan de Caramelo": "700",
+                "Helado a su Gusto": "700"
+            }
+        }
+    }
+}
+}

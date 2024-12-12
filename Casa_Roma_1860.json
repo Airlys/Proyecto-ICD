@@ -1,0 +1,92 @@
+{ 
+"Restaurants":{
+    "Casa_Roma_1860":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "4JRX+68F, Callejon del Chorro, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/V3rJbaX",
+            "total": 4.3,
+            "date": "20241211"
+        },
+        "schedules": "Apertura 7:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Ropa Vieja",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 28,
+        "menu and prices": {
+            "Starters": {
+                "Croquettes": "800",
+                "Lobster Cocktail": "1500",
+                "Shrimp Cocktail": "1500",
+                "Old Clothes Stuffed Tostones": "1100",
+                "Tuna Stuffed Tostones": "1100",
+                "Tostones Stuffed Ham and Cheese": "900",
+                "Cesar Salad": "2200",
+                "Malanga Fries": "800",
+                "Side Dish Roma 1860": "2500",
+                "Parmesan Eggplant": "2400"
+            },
+            "Chef's Suggestions": {
+                "Grilled Breast": "2650",
+                "Chicken Fajitas": "3300",
+                "Shredded Meat": "2900",
+                "Pork Chop": "2800",
+                "Pork Fajitas": "3200",
+                "Pork Chop(Chimichurri, Hawaiian Sauce)": "3000",
+                "Roasted Pork(Creole Sauce)": "3300",
+                "Pork Loin": "3300",
+                "Vegetable Paella": "2800",
+                "Shrimp Grill": "3300",
+                "Shrimp(Tomato Sauce,Garlic,Fruit Sauce)": "3500",
+                "Fish Fillet": "3000",
+                "Lobster Grill": "3200",
+                "Fish Fajitas": "3300",
+                "Lobster(Tomato Sauce,Garlic,Fruit Sauce)": "3300",
+                "Tropical Fish Fillet": "3300",
+                "Caribbean Brochette": "3500",
+                "Sea Brochette": "3500",
+                "Octopus Grill": "3500",
+                "Lobster Rings": "3500",
+                "Imperial Paella": "3500",
+                "Octopus(Tomato Sauce,Garlic)": "3500"
+            },
+            "Pasta": {
+                "With Ham and Cheese": "2700",
+                "Bolognesa": "2700",
+                "Amatriciana": "2700",
+                "Pesto": "2900",
+                "With Chicken": "2900",
+                "Carbonara": "2950",
+                "With Clams": "3100",
+                "With Lobster": "3200",
+                "With Seafood": "3400",
+                "With Octopus": "3400",
+                "With Shrimp": "3200"
+            },
+            "Desserts": {
+                "Ice Cream 2 Balls": "600",
+                "Ice Cream 3 Balls": "750",
+                "Cake": "750"
+            },
+            "Drinks": {
+                "Natural Water": "400",
+                "Sparking Water": "450",
+                "Coca Cola": "600",
+                "Beer": "700",
+                "Glass of Wine": "950"
+            }
+        }
+    }
+}
+}
