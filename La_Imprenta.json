@@ -1,0 +1,80 @@
+{ 
+"Restaurants":{
+    "La_Imprenta":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "207 Mercaderes, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2BImprenta/data%3D!4m2!3m1!1s0x0:0xa8fdb074195dadea%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjd5YPsq6aKAxW0mIQIHci_LcEQ_BJ6BAhEEAk&usg=AOvVaw2BlHZzPzpRvAXaSKMgy32E",
+            "total": 3.8,
+            "date": "20241213"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Lonjas de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 38,
+        "menu and prices": {
+            "Cold Starters": {
+                "Queso Escabechado": "140",
+                "Tapas de Tomate y Queso": "85"
+            },
+            "Hot Starters": {
+                "Crema de Vegetales": "140",
+                "Judia Imprenta": "195",
+                "Garbanzo Frito": "245"
+            },
+            "Main Dishes": {
+                "Lonjas de Cerdo": "1330",
+                "Bistec de Cerdo": "1675",
+                "Tablon de Carne": "2300",
+                "Barril de Cerdo c/ Jamon y Queso": "1500",
+                "Langosta Grille Maintre d' Hotel": "4200",
+                "Anillas de Langosta en Salsa": "2175",
+                "Res Estofada": "875",
+                "Rollo de Cerdo con Jamon y Queso": "1350",
+                "Entrecot": "850",
+                "Chanteaubriand": "1700",
+                "Filete Miñon con Salsa Española": "1300"  
+            },
+            "Brochetas": {
+                "Brochetas de Res": "1100"
+            },
+            "Fittings": {
+                "Vianda Hervida con Mojo": "175",
+                "Moros y Cristianos": "135"
+            },
+            "Dessert":{
+                "Brochetas de Torrejas": "60",
+                "Pudin Diplomatico": "55"
+            },
+            "Drinks":{
+                "Bebida Energizante": "270",
+                "Cerveza Importada": "250",
+                "Malta Importada": "170",
+                "Jugos Nacional Lata": "100",
+                "Jugo Importado": "100",
+                "Havana Especial": "375",
+                "Piña Colada": "375",
+                "Limonada Natural": "150"
+            },
+            "Coffees":{
+                "Cafe Express": "150",
+                "Cafe Americano": "180",
+                "Cafe Cortado": "200",
+                "Cafe Capuchino": "250"
+            }
+        }
+    }
+}
+}

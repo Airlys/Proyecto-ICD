@@ -1,0 +1,192 @@
+{
+"Restaurants":{
+    "La_Reliquia":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "4JPX+XM7, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2BReliquia/data%3D!4m2!3m1!1s0x0:0x4a38f921bb0b60a5%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiW65LEsKaKAxXDTjABHS9qPM4Q_BJ6BAhNEAk&usg=AOvVaw19TcuKqK5104nn2S9Aajj2",
+            "total": 3.4,
+            "date": "20241213"
+        },
+        "schedules": "Apertura 10:00am y Cierre 2:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Ropa Vieja",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Ensalada de Estacion": "900",
+                "Croquetas del Dia": "1200",
+                "Tostones Rellenos": "1200",
+                "Coctel de Camarones": "2250",
+                "Surtido Reliquia": "3000",
+                "Eperlan de Pescado": "1800",
+                "Fajita de Pollo": "1800"
+            },
+            "Main Courses": {
+                "Pollo Grille": "3000",
+                "Cerdo(Ropa Vieja)": "3300",
+                "Camaron al Gusto": "4500",
+                "Pescado Grille": "3000"
+            },
+            "Other Courses": {
+                "Arroz con Pollo": "3000",
+                "Salpicon de Marizcos": "6000",
+                "Arroz Blanco": "600",
+                "Frijoles Dormidos": "900"
+            },
+            "Main Courses 2": {
+                "Boloñesa": "2400",
+                "Pesto": "2100",
+                "Vegetales": "2100",
+                "Con Camaron": "4500",
+                "Con Pollo": "2700"
+            },
+            "Entrepanes": {
+                "Sandwich de Pollo": "2400",
+                "Sandwich de Jamon": "2100",
+                "Sandwich de Atun": "2100",
+                "Sandwich de Cubano": "4500"
+            },
+            "Menus": {
+                "Menu #1(Cesta Variada,Lonjas de Cerdo,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postres de la Abuela)": "7500",
+                "Menu #2(Cesta Variada,Pollo Grille,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postre de la Abuela)": "7500",
+                "Menu #3(Cesta Variada,Filete de Pescado Grille,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postres de la Abuela)": "7500",
+                "Menu #4(Cesta Variada,Langosta al Gusto,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postres de la Abuela)": "9000",
+                "Menu #5(Sandwich,1 Liquido,Postre de la Abuela)": "4800",
+                "Menu #6(Pasta al Gusto,1 Liquido,Postre de la Abuela)": "5400",
+                "Menu #7(Pasta Frutti de Mare,1 Liquido,Postre de la Abuela)": "7500"
+            },
+            "Cocktails": {
+                "Mojito": "1200",
+                "Daiquiri": "1200",
+                "Daiquiri de Frutas": "1350",
+                "Canchanchara": "1350",
+                "Cuba Libre": "1200",
+                "Cubata": "1350",
+                "Ron Collins": "1200",
+                "Chelada": "1350",
+                "Caipiroska": "1350",
+                "Caipirinha": "1350",
+                "Caipirissima": "1350",
+                "Manhattan": "1650",
+                "Piña Colada": "1650",
+                "Alexander": "2100",
+                "Screwdriver": "1200",
+                "Gin Tonic": "1650",
+                "Vodka Tonic": "1650",
+                "Margarita": "1500",
+                "Long Island Ice Tea": "2100",
+                "Tinto de Verdano": "1500",
+                "Negroni": "2400",
+                "Campari Orange": "2100",
+                "Martini Seco": "1800",
+                "Martino Dulce": "1800",
+                "Bade Habana": "2100",
+                "Orgasmo": "2250",
+                "Pingoleta Raspada": "1500",
+                "Pingoleta Peluda": "1500"
+            },
+            "Rums":{
+                "Havana Club Especial": "1050",
+                "Havana Cluc 7 Años": "1200",
+                "Seleccion de Maestros": "2250",
+                "Ron Santiago Añejo": "1200",
+                "Ron Santiago 11 Años": "2250",
+                "Ron Santiago 12 Años": "2400"
+            },
+            "Vodka":{
+                "Ciroc Blue": "2250",
+                "Ciroc Manzana": "2250",
+                "Ciroc Piña": "2250",
+                "Ciroc Vainilla": "2250",
+                "Ciroc Coco": "2250",
+                "Circoc Pera": "2250",
+                "Grey Goose": "2850",
+                "Absolut Vodka": "1050",
+                "Absolut Vodka Mandarina": "1500",
+                "Stolichnaya": "1050"
+            },
+            "Geneva":{
+                "Bombay": "2850",
+                "Hendrick's": "3000",
+                "Tanqueray": "1650",
+                "Tanqueray n.10": "1950",
+                "Beefeater": "1350",
+                "Beefeater 24": "1650",
+                "Gin Master": "1500",
+                "Gordon": "1200",
+                "MC Rose": "1500",
+                "MC": "1350"
+            },
+            "Whisky":{
+                "Clan Campbell": "1050",
+                "Ballantines": "1200",
+                "Chivas 12": "2250",
+                "Johnnie Walker Red": "1350",
+                "Johnnie Walker Black": "2250",
+                "Johnnie Walker Doble Black": "25500",
+                "Johnnie Walker Gold Label": "3150",
+                "Johnnie Walker Green Label": "4650",
+                "Jack Daniel's": "2250",
+                "Glenivel": "2250",
+                "Glenfiddich": "2250",
+                "Jack Daniel's Haney": "2400",
+                "Buchanan 12 Años": "2550",
+                "Swing": "3150",
+                "Dimple": "2250",
+                "Old Parr": "2250",
+                "7 & 7": "1050"
+            },
+            "Tequila":{
+                "Jose Cuerva Especial": "2250",
+                "Olmeca": "1350",
+                "Patron Silver": "2250",
+                "Patron Añejo": "2550",
+                "Don Julio Blanco": "2250",
+                "Don Julio Reposado": "2550",
+                "Don Julio Añejo": "2850",
+                "1800 Reposado": "2550",
+                "Herradura Blanco": "2250",
+                "Herradura Reposado": "2550",
+                "Arraigo Blanco": "1200",
+                "Arraigo Reposado": "1350"
+            },
+            "Other":{
+                "Sambuca": "1350",
+                "Jagger": "1650",
+                "Frangelico": "1350",
+                "Bailey's": "1350",
+                "Amaretto": "1500",
+                "Malibu": "1350",
+                "Runchata": "1350"
+            },
+            "Bottle Offer": {
+                "Habana Club 7 Años": "12000",
+                "Johnnie Walker Red": "16500",
+                "Johnnie Walker Black": "27000",
+                "Chivas Real 12 Años": "27000",
+                "Grey Goose": "39000"
+            },
+            "Offer of Bottles and Drinks":{
+                "Gordan": "12000",
+                "Habana Club 7 Años, 2 Refrescos TuCola": "13500",
+                "Habana Club Especial, 2 Refrescos TuCola": "12000",
+                "Johnnie Walker Red, 2 Energizantes": "18000",
+                "Grey Goose, Jugo de Naranja": "39000"
+            }
+        }
+    }
+}
+}
