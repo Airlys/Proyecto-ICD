@@ -1,0 +1,121 @@
+{ 
+"Restaurants":{
+    "El_Louvre_Coffee_Shop":{
+        "Province": "La Habana",
+        "Municipality": "Centro Habana",
+        "Location": "San Miguel y San Rafael, La Habana Cuba",
+        "Stars":{
+            "Social": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d2423298-Reviews-El_Louvre_Coffee_Shop-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwiI5ojcgqiKAxW8QzABHRPPBnUQFnoECBoQAQ&usg=AOvVaw1rqUR4rRVfwyxej5Oa-pK7",
+            "total": 3.5,
+            "date": "20241214"
+        },
+        "schedules": "Apertura 12:00m y Cierre 7:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Club Sandwich",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia"
+        },
+        "Capacity": 38,
+        "menu and prices": {
+            "Main Dishes":{
+                "Desayuno Buffet": "2800",
+                "Pan(2u) y Mantequilla": "260",
+                "Huevos al Gusto": "500",
+                "Sandwich Club": "1200",
+                "Sandwich Inglaterra": "1200",
+                "Croissant": "1500",
+                "Big Cheese": "800",
+                "Sandwich Vegetariano con Queso": "700",
+                "Tabla Mixta Embutidos, Jamon Serrano y Encurtidos": "1800",
+                "Croquetas con Vegetales": "900",
+                "Super Bocata Inglaterra": "1800",
+                "Bocata de Salmon y Queso Crema": "1000",
+                "Eperlan de Pescado y Salsa Rosa": "900",
+                "Bocata de Queso Crema y Bacon": "1200",
+                "Pasta a la Carbonara": "1300",
+                "Pasta con Queso": "1200",
+                "Espaguetis con Bacon, Pechuga y Queso": "1600",
+                "Bocadito de Jamon y Queso": "700",
+                "Pescado del Dia a la Plancha o Rebozado con Verduras": "2000",
+                "Bistec de Cerdo con Vegetales,viandas": "1200",
+                "Pechuga de Pollo, Fajitas con Vegetales, Viandas": "1300",
+                "Langosta Enchilada": "2000",
+                "Langosta Entera": "2500",
+                "Ropa Vieja con Arroz": "1400",
+                "Entrecot": "3000",
+                "Cordon Bleu": "1500",
+                "Medallones de Filetes de Res": "2500",
+                "Salmon Ahumado con Huevo duro,pan": "1800",
+                "Atun Rojo Rostizado al Aroma de Oliva y Roble": "2800",
+                "Camarones(enchilados, a la plancha) con Arroz": "1300",
+                "Brocheta de Cerdo": "1200",
+                "Tartar Atun Rojo con Crema y Huevo Frito": "2500"
+            },
+            "Ice Cream and Drinks":{
+                "Batido de Helado": "300",
+                "Copa Helada Inglaterra": "550",
+                "Leche Fria o Caliente": "125",
+                "Cafe con Leche": "225",
+                "Cafe Espresso": "100",
+                "Cortadito": "150",
+                "Capuchino": "300",
+                "Frapuchino": "300",
+                "Te Frio o Caliente": "125",
+                "Jugos de Frutas Naturales": "200"
+            },
+            "Non-Alcoholic Cocktails":{
+                "Jugo de Frutas con Granadina": "200",
+                "Limonada": "125",
+                "Piña Colada sin Alcohol": "350"
+            },
+            "Great Cuban Classics":{
+                "Cuba Libre": "300",
+                "Isla de Pinos": "300",
+                "Havana Especial": "300",
+                "Mojito": "300",
+                "Presidente": "300",
+                "Mulata": "300",
+                "Ron Collins": "300",
+                "Daiquiri Frappe o Natural": "300",
+                "Mary Pickford": "300",
+                "Canchanchara": "300"
+            },
+            "Varied":{
+                "Tom Collins": "450",
+                "Gibson": "450",
+                "Gin Fizz": "450",
+                "Ron Añejo Blanco": "100",
+                "Ron Añejo 7 Años": "250",
+                "Gin Tonic": "450",
+                "Bloody Mary": "450",
+                "Tequila Cocktail": "450",
+                "Sangria": "450",
+                "Vino por Copas": "500",
+                "Margarita": "450",
+                "Whisky Old Fashion": "450"
+            },
+            "Various Drinks": {
+                "Refrescos Nacionales": "200",
+                "Vasos de Refrescos": "180",
+                "Refrescos Importados": "350",
+                "Malta": "200",
+                "Malta Importada": "450",
+                "Red Bull": "500",
+                "Aguas": "180",
+                "Aguas Natural": "500",
+                "Cerveza Nacional": "250",
+                "Cerveza Importada": "350",
+                "Cerveza Dispensada": "60"
+            }
+        }
+    }
+}
+}

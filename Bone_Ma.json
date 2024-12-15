@@ -1,0 +1,156 @@
+{ 
+"Restaurants":{
+    "Bone_Ma":{
+        "Province": "La Habana",
+        "Municipality": "Centro Habana",
+        "Location": " Calle 21 #103 e/ L y M, Calle 21, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/Lf3w339",
+            "total": 4.1,
+            "date": "20241214"
+        },
+        "schedules": "Apertura 9:00am y Cierre 12:00am",
+        "Days of the week": "Todo",
+        "Type of food or specialty": "Turca",
+        "Most popular food": "Doner Kebab",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 82,
+        "menu and prices": {
+            "Breakfast": {
+                "Waffles, Nutella, Queso Crema, Mermelada, Miel y Frutas": "1900",
+                "Huevos al Gusto, Pan, Mantequilla, Mermelada, Frutas de Temporada, Jugo o Cafe": "2100",
+                "Huevos al Gusto, Pan, Jamon, Queso, Mantequilla, Jugo o Cafe": "2300"
+            },
+            "Add To Your Breakfast": {
+                "Huevo": "250",
+                "Mermelada": "300",
+                "Aceitunas": "250",
+                "Queso Gouda": "350",
+                "Queso Crema": "380",
+                "Queso Azul": "400",
+                "Bacon": "500",
+                "Jamon": "350",
+                "Pepperoni/Diabla": "500",
+                "Mozzarella": "400"
+            },
+            "Starters": {
+                "Papas Fritas": "1050",
+                "Falafel": "1050",
+                "Sopa de Lenteja": "1350"
+            },
+            "Sandwich": {
+                "Sandwich de Vegetales": "1400",
+                "Sandwich de Jamon y Queso": "1650",
+                "Sandwich de Res": "1800",
+                "Sandwich de Atun": "1700",
+                "Sandwich de Jamon Serrano": "2250"
+            },
+            "Hamburger": {
+                "Hamburguesa Natural Smash": "2150",
+                "Hamburguesa de Falafel": "1900",
+                "Hamburguesa Smash con Aguacate": "2250",
+                "Hamburguesa Smash con Bacon y Huevo Frito": "2500"
+            },
+            "Kebab":{
+                "Doner Kebab(Pan)": "1700",
+                "Durum Kebab(Tortilla)": "1750",
+                "Doner Falafel":"1300",
+                "Doner Kofte": "1750",
+                "Durum Kofte": "1750",
+                "Plato de Doner Kebab": "2300",
+                "Iskender Kebab": "2400",
+                "Plato de Kofte de Res": "2500"
+            },
+            "Salads":{
+                "Ensalada Mixta": "950",
+                "Coban Salata": "1200",
+                "Caprese": "1450",
+                "Ensalada Nizarda": "1800"
+            },
+            "Desserts":{
+                "Flan": "700",
+                "Copa de Helado": "900",
+                "Copa Lolita": "1050",
+                "Cheesecake": "1150"
+            },
+            "Pizza": {
+                "Margarita": "2000",
+                "Friarielli y Salchicha Italiana": "3000",
+                "Funghi": "2200",
+                "Vegetariana": "2300",
+                "4 Quesos": "2600",
+                "Hawaiana": "2600",
+                "Pepperoni/Diabola": "2700",
+                "Pizza de Salami": "2800",
+                "Jamon Serrano, Rucula y Parmesano": "3200",
+                "Atun y Cebolla": "2600"
+            },
+            "Pasta": {
+                "Napolitana": "1900",
+                "Arrabiata": "2000",
+                "Pesto": "2200",
+                "Bolognesa": "2800",
+                "Carbonara": "2650"
+            },
+            "Wines": {
+                "Vino Tinto(Copa)": "950",
+                "Vino Blanco(Copa)": "950"
+            },
+            "Gin Tonic With": {
+                "Beefeater": "1500",
+                "Gordons Gin": "1500",
+                "Tanqueray": "1600",
+                "Tanqueray 10": "1800",
+                "Gin Mare": "1950",
+                "Malfy Gin": "2000",
+                "Botanist": "2100",
+                "London No.1": "1900"
+            },
+            "Whisky": {
+                "Jameson": "1400",
+                "Ballantine's": "1100",
+                "Ballantine's 12": "1400",
+                "Jack Daniels": "1650",
+                "Johnnie Walker Red Label": "1400",
+                "Johnnie Walker Black Label": "1600",
+                "Chivas Regal 12 Años": "1500",
+                "Glenlivet": "1800",
+                "Bruichladdich": "1900",
+                "Highland Park": "2250",
+                "Laphroaig": "2450",
+                "Woodford Reserve": "2250"
+            },
+            "Rums":{
+                "Havana Club Añejo 3 Años": "800",
+                "Havana Club Añejo Especial": "1050",
+                "Havana Club Añejo Reserva": "1100",
+                "Havana Club Añejo 7 Años": "1400",
+                "Ron Santiago Añejo": "1200",
+                "Ron Santiago 8 Años": "1650",
+                "Ron Santiago 11 Años": "2200",
+                "Seleccion de Maestros": "1800"
+            },
+            "Tequila":{
+                "Olmeca Blanco": "750",
+                "Olmeca Reposado": "850",
+                "Don Ramon Punta Plateada": "1050",
+                "Don Ramon Punta Dorada": "1150",
+                "Don Julio Reposado": "1500"
+            },
+            "Liquors and Creams": {
+                "Baileys": "1100",
+                "Jagormoiotar": "1200"
+            }
+        }
+    }
+}
+}
