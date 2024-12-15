@@ -1,0 +1,94 @@
+{ 
+"Restaurants":{
+    "Fin_de_Siglo":{
+        "Province": "La Habana",
+        "Municipality": "Centro Habana",
+        "Location": "465 Aguila, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/ovQvCax",
+            "total": 5.0,
+            "date": "20241215"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": "Picadera de la Casa",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 86,
+        "menu and prices": {
+            "Pizza": {
+                "Queso": "700",
+                "Jamon": "850",
+                "Hawaiana": "1500"
+            },
+            "Additions": {
+                "Queso": "400",
+                "Jamon": "450",
+                "Pollo": "350",
+                "Piña": "550"
+            },
+            "Pasta": {
+                "Queso": "800",
+                "Jamon": "900",
+                "Pollo": "850"
+            },
+            "Picadera": {
+                "Croquetas de la Casa": "700",
+                "Surtido de la Casa": "1500"
+            },
+            "Food": {
+                "Pollo Salteado C/ Vegetales": "800"
+            },
+            "Drinks":{
+                "Refresco Limon": "300",
+                "Refresco Naranja": "300",
+                "Refresco Cola": "300",
+                "Cerveza Dispensada": "400"
+            },
+            "Cocktails":{
+                "Caipirinha": "550",
+                "Caipirissima": "550",
+                "Caipiroska": "660",
+                "Daiquiri": "550",
+                "Daiquiri Rebelde": "550",
+                "Margarita": "990",
+                "Cubata": "550",
+                "Cuba Libre": "550"
+            },
+            "Drinks and Bottles":{
+                "3 Años": "385",
+                "Carta Blanca": "330",
+                "Especial": "440",
+                "Cuban Spiced": "550",
+                "Pacto Navio": "20000",
+                "Ron Santiago": "880",
+                "Jameson": "1100",
+                "Clan Campbell": "990",
+                "Vat 69": "990",
+                "Ballantines": "13500",
+                "Old Parr": "35000",
+                "Red Label": "1100",
+                "Beefeater": "440",
+                "Jagger": "990",
+                "Tequila Silver": "880",
+                "Tequila Reposado": "990",
+                "Tequila Chocolate": "1100",
+                "Ruavieja": "880",
+                "Amaretto": "880",
+                "Chelada": "770",
+                "Michelada": "880"
+
+            }
+        }
+    }
+}
+}
