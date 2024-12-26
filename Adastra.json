@@ -25,16 +25,14 @@
         },
         "Capacity": 41,
         "menu and prices": {
-            "Cold Starters": {
+            "Starters": {
                 "Tapas de Bodega": "7600",
                 "Pimiento Piquillo": "3200",
                 "Carpaccio de Pulpo": "3800",
                 "Ensalada Terranea": "2300",
                 "Ceviche de Camaron": "3400",
                 "Tartar de Atun": "4000",
-                "Carpaccio de Res": "4100"
-            },
-            "Hot Starters":{
+                "Carpaccio de Res": "4100",
                 "Croquetas del Chef": "1400",
                 "Musaka": "4200",
                 "Crema de Calabaza": "1800"
