@@ -1,0 +1,116 @@
+{ 
+"Restaurants":{
+    "La_Roca":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle 21 esq. a M, La Habana Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d1776032-Reviews-La_Roca-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwieiN-D4KyKAxVjfjABHU2oODEQFnoECCMQAQ&usg=AOvVaw2m4AJ0e9_Z5bAefI2AO7-9",
+            "total": 4.0,
+            "date": "20241216"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Bistec de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": false,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 110,
+        "menu and prices": {
+            "Starters": {
+                "Panes de la Casa": "175",
+                "Ensalada de Atun": "370",
+                "Ensalada Fria de Pollo": "370",
+                "Croquetas de Dia": "450",
+                "Entremes de Jamon y Queso": "150",
+                "Entremes de Jamon Serrano": "165"
+            },
+            "Main Dishes": {
+                "Bistes de Cerdo": "250",
+                "Pollo Entero Asado": "1750",
+                "1/4 de Pollo": "440",
+                "Bistec de Cerdo Grille": "270",
+                "Fuentes de Pollo": "840",
+                "Masas de Cerdo Marinada": "300",
+                "Solomillo de Cerdo": "300",
+                "Lonjas de Cerdo": "400",
+                "Entrecort de Res": "450",
+                "Pescado": "400",
+                "Langosta Mariposa": "505",
+                "Langosta Enchilada con Vegetales": "465"
+            },
+            "Fittings": {
+                "Arroz Blanco": "230",
+                "Arroz Moro": "230",
+                "Arroz Pilaf": "230",
+                "Arroz c/ Vegetales": "275"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "490",
+                "Espaguetis a la Bolognesa": "550"
+            },
+            "Additions": {
+                "Queso": "150",
+                "Jamon": "100",
+                "Atun": "100",
+                "Aceituna": "75"
+            },
+            "Desserts":{
+                "Helado Solotario": "90",
+                "Helado Jimagua": "150",
+                "Copa de Helado": "250"
+            },
+            "Drinks": {
+                "Refresco Nacional": "80",
+                "Refresco Importado": "90",
+                "Malta Importada": "90",
+                "Cerveza Nacional": "160",
+                "Cerveza Importada": "175",
+                "Limonada Frappe": "150",
+                "Jugo de Frutas Naturales": "150",
+                "Jugo de Frutas Importadas": "90",
+                "Agua Natural": "100",
+                "Agua Carbonatada": "100",
+                "Bebida Energizante": "200"
+            },
+            "Coffee": {
+                "Cafe Espresso": "80",
+                "Cafe Americano": "80",
+                "Cafe Cortado": "90",
+                "Cappuccino": "130",
+                "Cafe Bombon": "110",
+                "Cafe Mulato": "90",
+                "Cafe Irlandes": "170",
+                "Cafe Mama Ines": "140",
+                "Cafe al Licor": "90",
+                "Cafe con Vodka": "200",
+                "Te Frio/Caliente": "30"
+            },
+            "Whisky": {
+                "White House": "200",
+                "Jhonny": "400",
+                "Vat 69": "250",
+                "Ballantines Finest": "250",
+                "Chivas Regal 12 Años": "230",
+                "Royal Whitehall Deluxe": "300",
+                "Clan Campbell": "300",
+                "Genlivet": "250",
+                "Ballantines 12 Años": "400",
+                "Jameson": "200",
+                "Whisky the Gionlivet 15 Años": "400",
+                "Whisky Chivas Regal 12 Años": "450",
+                "Johnnie Walker Black": "500",
+                "Black and White": "200"
+            }
+        }
+    }
+}
+}

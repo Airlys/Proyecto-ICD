@@ -1,0 +1,54 @@
+{ 
+"Restaurants":{
+    "El_Caribeño":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": " 4JR8+RWG Calle N, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2BCaribe%25C3%25B1o/data%3D!4m2!3m1!1s0x0:0x6a63547445747437%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwipwYac_aqKAxUejbAFHd9sDqgQ_BJ6BAg5EAk&usg=AOvVaw3CMg1qi0Y0pPT1A8MmQ5z8",
+            "total": 2.3,
+            "date": "20241215"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Masa de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 88,
+        "menu and prices": {
+            "Main Dishes": {
+                "Bistec de Cerdo": "1650",
+                "Masa de Cerdo": "1650",
+                "Chuleta de Cerdo": "1650",
+                "Pollo Grille": "1400",
+                "Camaron Enchilado": "1400",
+                "Langosta Enchilada": "1800",
+                "Chilindron Cordero": "1600",
+                "Fajita de Cerdo": "1650",
+                "Pechuga de Pollo": "1500",
+                "Bistec de Palomilla": "1950",
+                "Filete de Pescado": "1600",
+                "Ternera Guisada": "1950",
+                "Picadillo a la Habanera": "1650"
+            },
+            "Cocktails": {
+                "Piña Colada": null,
+                "Limonada Frappe": null,
+                "Cuba Libre": null,
+                "Ron Collins": null,
+                "Cubata": null,
+                "Daiquiri": null
+            }
+        }
+    }
+}
+}

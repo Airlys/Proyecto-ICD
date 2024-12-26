@@ -1,0 +1,71 @@
+{ 
+"Restaurants":{
+    "Pedro's":{
+        "Province": "La Habana",
+        "Municipality": "Centro Habana",
+        "Location": "207 Blvd. de San Rafael, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Pedro%2527s%2BBar/data%3D!4m2!3m1!1s0x0:0x7eafd589b75de23c%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjZvY3I1qqKAxVOTTABHUkmE1cQ_BJ6BAg-EAQ&usg=AOvVaw327ybeb83TE1Dz5w99ZC7J",
+            "total": 5.0,
+            "date": "20241215"
+        },
+        "schedules": "Apertura 2:00pm y Cierre 2:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": "Pizza",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 26,
+        "menu and prices": {
+            "Starters": {
+                "Papas Fritas": "1150",
+                "Fritura D' Malanga": "800",
+                "Croquetas": "1050",
+                "Dados D' Queso": "1350",
+                "Fajitas de Pollo": "1450",
+                "Tabla Mixta": "4600"
+            },
+            "Pizza": {
+                "Pizza D' Queso": "1200",
+                "Pizza Hawaiana": "1500",
+                "Pizza Vegetales": "1500"
+            },
+            "Sandwich": {
+                "Jamon y Queso": "1200",
+                "Pechuga": "1550",
+                "Atun": "1500",
+                "Lechon": "1550"
+            },
+            "Liquids": {
+                "Jarra D' Cerveza": "350",
+                "Cerveza": "600",
+                "Vasos de Cerveza": "200",
+                "Servicio D' Michelada": "300",
+                "Servicio D' Chelada": "400",
+                "Refresco": "500",
+                "Energizante": "500",
+                "Agua Natural": "250"
+            },
+            "Cocktails": {
+                "Canchanchara": "1150",
+                "Mojito": "1100",
+                "Caipis": "1100",
+                "Daiquiri": "1100",
+                "Gin Tonic": "1450",
+                "Margarita": "1050",
+                "Cubata": "1050",
+                "Sangria": "1350",
+                "Piña Colada": "1100"
+            }
+        }
+    }
+}
+}

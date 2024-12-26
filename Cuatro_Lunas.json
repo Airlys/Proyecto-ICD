@@ -1,0 +1,219 @@
+{ 
+"Restaurants":{
+    "Cuatro_Lunas":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "4JR8+FFJ, Calle 21, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/YiCk9hC",
+            "total": 4.7,
+            "date": "20241216"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:30pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Langosta y Ropa Vieja",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 37,
+        "menu and prices": {
+            "Starters": {
+                "Tabla de Jamon Iberico": "3500",
+                "Ceviche": "1700",
+                "Cremas (Queso,Virginia,Aurora o Reina)": "1100",
+                "Sopa de Pollo y Vegetales": "1100",
+                "Sopa de Res": "1500",
+                "Caldo del Mar": "1600",
+                "Croquetas de la Casa": "1300",
+                "Bolitas de Queso": "1450",
+                "Eperland de Pescado": "1650",
+                "Alubias Blancas con Chorizo y Bacon": "1500",
+                "Garbanzos Fritos": "1500",
+                "Fajitas de Pollo Empanadas": "1700",
+                "Tacos Mexicanos de Pollo": "1450",
+                "Tacos Mexicanos de Cerdo": "1300",
+                "Tacos Mexicanos de Res": "1500"
+            },
+            "Main Dishes": {
+                "Filete de Pescado Grille": "2950",
+                "Filetes de Merluza Empanada": "3500",
+                "Filetes de Merluza al Olivo": "4200",
+                "Salmon Ahumado a la Plancha": "5200",
+                "Langosta Grille": "2900",
+                "Langosta Enchilada": "3050",
+                "Langosta al Ajillo": "3100",
+                "Pulpo al Gusto": "4700",
+                "Bistec de Pechuga de Pollo": "3200",
+                "Salteado de Pechuga de Pollo con Vegetales": "3400",
+                "Bistec de Solomillo de Cerdo": "3500",
+                "Fricase de Cerdo": "2900",
+                "Masas de Cerdo Frita": "2980",
+                "Ropa Vieja de Res": "2600",
+                "Vaca Frita": "2600",
+                "Estofado de Res": "3500"
+            },
+            "Long Pasta": {
+                "Espaguetis Napolitano": "1500",
+                "Espaguetis Aglio e Olio": "1320",
+                "Espaguetis a la Boloñesa": "2500",
+                "Espaguetis Fruti di Mare": "3000",
+                "Espaguetis a la Carbonara Tradicional": "3100"
+            },
+            "Fittings": {
+                "Arroz Blanco": "300",
+                "Arroz Moro": "370",
+                "Arroz Pilaf": "400",
+                "Arroz Primavera": "350",
+                "Ensalada de Estacion": "700",
+                "Viandas Fritas": "650",
+                "Tostones Tradicionales": "550",
+                "Fritura de Malanga": "650",
+                "Pure de Viandas": "600"
+            },
+            "Additions": {
+                "Huevo": "690",
+                "Jamon": "450",
+                "Chorizo": "460",
+                "Queso Parmesano": "750",
+                "Queso Gouda": "600",
+                "Aceituna": "550",
+                "Vegetales Salteados": "400"
+            },
+            "Desserts": {
+                "Carlota de Limon": "850",
+                "Helado": "750"
+            },
+            "Cocktails":{
+                "Luz de Luna(Coctel de la Casa)": "1200",
+                "Sangria Selene": "1100",
+                "Daiquiri de Frutos del Bosque": "1200",
+                "Mojito": "610",
+                "Mojito Oscuro": "670",
+                "Negroni": "1450",
+                "Cubata": "630",
+                "Cuba Libre": "600",
+                "Canchanchara": "520",
+                "Daiquiri": "750",
+                "Daiquiri de Frutas": "1000",
+                "Screwdriver": "900",
+                "Martini": "970",
+                "Margarita": "1100",
+                "Blue Margarita": "1200",
+                "Margarita Reposado": "1500",
+                "Havana Special": "680",
+                "Long Island Ice Tea": "1140",
+                "Vodka Martini": "950",
+                "Gin Tonic": "1500",
+                "Gin Tonic Beefeater": "2000",
+                "Gin Tonic Tanqueray": "2280",
+                "Caipiriña": "630",
+                "Caipirissima": "630",
+                "Caipiroska": "630",
+                "Caipiroska Ciroc": "1750",
+                "Caipiroska Absolut": "1500",
+                "Mai Tai": "850",
+                "Piña Colada": "950",
+                "Sangria": "850",
+                "Servicio Michelada": "250",
+                "Servicio Chelada": "200"
+            },
+            "Drinks": {
+                "Refrescos Importados": "570",
+                "Malta": "600",
+                "Agua Natural Nacional": "350",
+                "Agua Tonica Nacional": "500",
+                "Jugo de Frutas Naturales": "600",
+                "Batido de Frutas": "850",
+                "Limonada Frappe": "400",
+                "Limonada Natural": "400",
+                "Limonada Frescura": "550",
+                "Limonada Primavera": "600",
+                "Cerveza Nacional": "460",
+                "Cerveza Importada": "750"
+            },
+            "Coffee": {
+                "Cafe Espresso": "330",
+                "Cafe Capuchino": "390",
+                "Cafe Americano": "330",
+                "Cafe Cortado": "390",
+                "Cafe Frappuchino": "850",
+                "Cafe con Leche": "450",
+                "Cafe Carajillo": "550",
+                "Cafe Bombon": "690"
+            },
+            "Rums":{
+                "Ron Pacto Navio": "1770",
+                "Ron Seleccion de Maestros": "1770",
+                "Ron Havana Club Spiced": "1000",
+                "Ron Havana Club Smoky": "1200",
+                "Ron Santiago Extra Seco": "1100",
+                "Ron Santiago 8 Años": "1250",
+                "Ron Santiago 11 Años": "1400",
+                "Ron Santiago 12 Años": "1450",
+                "Ron Santisima Trinidad": "5000",
+                "Ron Eminente 7 Años Reserva": "7000",
+                "Ron Havana Club Union": "15000"
+            },
+            "Whisky": {
+                "Whisky Jameson": "1000",
+                "Whisky Buchanan's Master": "1710",
+                "Whisky Ballantines": "750",
+                "Whisky Johnnie Walker Red": "1000",
+                "Whisky Chivas Regal 12 Años": "1100"
+            },
+            "Tequila": {
+                "Tequila Olmeca Blanco": "1100",
+                "Tequila Reina del Sur Reposado": "900",
+                "Tequila Olmeca Chocolate": "800",
+                "Tequila Tres Sombreros Reposado": "1100",
+                "Tequila Don Ramon Punta Diamante Blanco": "1645",
+                "Tequila Don Ramon Punta Diamante Reposado": "1745"
+            },
+            "Vodka": {
+                "Vodka Green Mark": "550",
+                "Vodka Grey Goose": "1140",
+                "Vodka Ciroc": "1425",
+                "Vodka Absolut": "1320"
+            },
+            "Brandy":{
+                "Brandy Torres 10 Años": "650",
+                "Brandy Torres 15 Años": "850"
+            },
+            "Geneva": {
+                "Ginebra Beefeater London": "520",
+                "Ginebra Perigan's": "700",
+                "Ginebra Gordon's": "800"
+            },
+            "Creams and Liquors": {
+                "Sambuca": "400",
+                "Magdala": "940",
+                "Ruavieja Tradicional": "1000"
+            },
+            "Wines": {
+                "Abadal Matis Crianza 2020": "5000",
+                "Lafou el Sender 2020 Garnacha Tinta": "5000",
+                "Ramon Roqueta Crianza 2020": "5500",
+                "Frentano 2022": "5000",
+                "Gato Negro Cabernet Sauvignom 2023": "2023",
+                "Gato Negro Carmenere 2022": "5000",
+                "Gato Negro Merlot 2022": "5000",
+                "Sangre de Toro Original 2021": "7000",
+                "Loco de Piedra": "6000",
+                "I Heart Merlot": "3500",
+                "Campo Viejo": "9000",
+                "Gato Negro Chardonnahy 2023": "4500",
+                "Copa de Vino Tinto": "700",
+                "Copa de Vino Blanco": "650"
+            }
+        }
+    }
+}
+}

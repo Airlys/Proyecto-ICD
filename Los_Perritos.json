@@ -1,0 +1,114 @@
+{ 
+"Restaurants":{
+    "Los_Perritos(Snack_Bar)":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle L y 27, Vedado, Plaza de la Revolucion, La Habana",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20241215"
+        },
+        "schedules": "Apertura 8:00am y Cierre 9:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Arroz Moro y Pollo Frito",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 60,
+        "menu and prices": {
+            "Entrepanes": {
+                "Club Sandwich": "550"
+            },
+            "Liquids": {
+                "Agua Natural(500ml)": "100",
+                "Agua Natural(1500ml)": "250",
+                "Agua Natural(5000)": "600",
+                "Agua Tonica": "320"
+            },
+            "Coffee": {
+                "Cafe Espresso": "90",
+                "Cafe Americano": "90",
+                "Cafe Cortado": "110",
+                "Cafe con Leche": "150",
+                "Cafe Carajillo": "250",
+                "Cappuchino": "250"
+            },
+            "Juices": {
+                "Jugo de Frutas": "150"
+            },
+            "Drinks": {
+                "Cerveza Importada": "250",
+                "Cerveza Nacional Parranda": "250",
+                "Cerveza Nacional Cristal": "230",
+                "Cerveza Nacional Bucanero": "230"
+            },
+            "Wines":{
+                "White Wine": {
+                    "Vino Espumoso Semiseco Condelier 11% España": "1800",
+                    "Vino La Campana,10.5%V, España": "620",
+                    "Vino La Viña DO Catalunya,Macabeo y Garnacha Blanca, 11.5%V,España 2023": "1110",
+                    "Vino I Heart, Chardonnay 11.5%V España 2022": "1025"
+                },
+                "Red Wine":{
+                    "Vino Tinto Entre Rios, 10.5% Galicia, España": "1250",
+                    "Vino La Viña DO Catalunya, Tempranillo y Merlot, 13.5%V, España 2022": "1255"
+                },
+                "House Wine": {
+                    "Copa de Vino Blanco": "250",
+                    "Copa de Vino Tinto": "250"
+                },
+                "Vino Blanco La Campana": "620",
+                "Vino Blanco La Viña": "1110",
+                "Vino Blanco Chardonnay": "1025",
+                "Vino Espumoso Condelier": "1800",
+                "Vino Rosado La Barone": "1100",
+                "Vino Rosado de Mesa": "1200",
+                "Vino Tinto La Viña": "1255",
+                "Vino Tinto Entre Rios": "1250"
+            },
+            "Drinks 2": {
+                "Refresco Revoltosa Cola(500ml)": "350",
+                "Refresco Revoltosa Naranja": "350",
+                "Refresco Revoltosa Cola(2000ml)": "700",
+                "Energizante RedBull": "420"
+            },
+            "Cocktails":{
+                "Cuba Libre": "350",
+                "Cubata": "400",
+                "Mojito": "350",
+                "Gin Tonic": "350",
+                "Caipirinha": "350",
+                "Daiquiri": "375"
+            },
+            "Rums": {
+                "Ron Havana Club Especial": "150",
+                "Ron Havana Club 3 Profundo": "150",
+                "Ron Havana Club Spiced": "185",
+                "Ron Santa Cruz Carta Blanca": "1200",
+                "Ron Santa Cruz Carta Oro": "1350"
+            },
+            "Whisky": {
+                "Whisky Ballantine": "310",
+                "Whisky Jameson": "375",
+                "Whisky Clan Campbell": "260",
+                "Whisky Spirit Elliot Hall": "95",
+                "Whisky Old Partner": "64",
+                "Whisky Old Premier Sprit": "1320",
+                "Whisky Black and White": "3100",
+                "Whisky Johnnie Walker Red": "4950",
+                "Whisky Johnnie Walker Reserve": "27600"
+            },
+            "Arroz Moro y Pollo Frito": null
+        }
+    }
+}
+}
