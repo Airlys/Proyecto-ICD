@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "Restaurante Kopas":{
+        "Restaurante_Kopas":{
             "Province": "La Habana",
             "Municipality": "La Habana del Este",
             "Location": "esquina, 5ta Avenida, 482, La Habana",
@@ -25,16 +25,14 @@
         },
             "Capacity": 100,
             "menu and prices": {
-                "Grills": {
+                "Main Dishes": {
                     "Brocheta de Res": "1950",
                     "Brocheta de Pollo y Cerdo": "1950",
                     "Brocheta de Camaron": "2100",
                     "Brocheta de Cerdo": "1850",
                     "Brocheta de Pollo": "1550",
                     "Chuleta de Cerdo al Carbon": "1975",
-                    "Chuleta de Cerdo al Grill en Salsa Chimichurri": "1975"
-            },
-                "Chicken": {
+                    "Chuleta de Cerdo al Grill en Salsa Chimichurri": "1975",
                     "Bistec de Pollo Grille": "1350",
                     "Fajitas de Pollo a la Piña y Miel": "1375",
                     "Fajitas de Pollo Empanada": "1550",
@@ -45,9 +43,7 @@
                     "Pollo al Limon y al Oregano": "1450",
                     "Pollo Caribeño": "2100",
                     "Pollo Cordon Blue": "2250",
-                    "Pollo Princesa": "1750"
-            },
-                "Pig": {
+                    "Pollo Princesa": "1750",
                     "Bistec de Cerdo Encebollado": "1650",
                     "Bistec de Cerdo Princesa": "2000",
                     "Escalope de Cerdo": "2250",
@@ -56,12 +52,8 @@
                     "Lomo de Cerdo Ahumado con Salsa Basbecue": "1850",
                     "Lomo de Cerdo Ahumado Encebollado": "1775",
                     "Lomo de Cerdo Encebollado": "1750",
-                    "Lomo de Cerdo en Salsa Roquefort": "1975"
-            },
-                "Beef": {
-                    "Masa de Res en Cazuela": "1875"
-            },
-                "Sea": {
+                    "Lomo de Cerdo en Salsa Roquefort": "1975",
+                    "Masa de Res en Cazuela": "1875",
                     "Camaron Empanado": "2300",
                     "Camaron Enchilado": "2300",
                     "Camarones al Ajillo": "2200",
@@ -77,12 +69,10 @@
                     "Filete de Pescado Princesa": "2150",
                     "Filete de Pescado Canciller": "2550",
                     "Filete de Pescado Costa Sur": "2650",
-                    "Rueda de Albacora a la Veracruz": "1995"
-            },
-            "Combined": {
-                "Arroz Frito Especial": "1750",
-                "Paella Mixta": "2850",
-                "Tres Reyes": "1950"
+                    "Rueda de Albacora a la Veracruz": "1995",
+                    "Arroz Frito Especial": "1750",
+                    "Paella Mixta": "2850",
+                    "Tres Reyes": "1950"
             },
             "Pizzas":{
                 "Calzone Mixto": "1975",
@@ -126,7 +116,7 @@
                 "Vianda Frita": "450",
                 "Vianda Hervida": "350"
             },
-            "Coffees": {
+            "Coffee": {
                 "Affogato": "325",
                 "Cafe Americano": "150",
                 "Cafe Bombon": "375",

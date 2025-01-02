@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "Papi Happy":{
+        "Papi_Happy":{
             "Province": "La Habana",
             "Municipality": "La Habana del Este",
             "Location": "5ta AVE & 470, La Habana",
@@ -39,31 +39,33 @@
                     "Entremes Surtido": "750",
                     "Tostones Naturales": "350",
                     "Tostones Rellenos": "550",
-                    "Chicharritas": "300"
+                    "Chicharritas": "300",
+                    "Crema de Queso": "1100",
+                    "Crema Virginia": "1150",
+                    "Crema Aurora": "1125"
             },
                 "Hamburger": {
                     "Hamburguesa Papi Happy": "1300",
                     "Hamburguesa de Pollo": "1100",
                     "Hamburguesa de Cerdo": "1000"
             },
-                "Pasta and Pizza": {
-                    "Crema de Queso": "1100",
-                    "Crema Virginia": "1150",
-                    "Crema Aurora": "1125",
+                "Pasta": {
                     "Lasaña": "1100",
                     "Spaguetti Napolitano": "850",
                     "Spaguetti con Jamon": "1100",
                     "Spaguetti con Camarones": "1350",
-                    "Spaguetti Frutti di Mare": "1680",
-                    "Pizza Papi Happy": "2100",
-                    "Pizza Napolitana": "850",
-                    "Pizza Hawaiana": "1350",
-                    "Pizza de Jamon": "1200",
-                    "Pizza de Bacon": "1200",
-                    "Pizza de Vegetales": "950",
-                    "Pizza de Champiñones": "1350"
+                    "Spaguetti Frutti di Mare": "1680"
             },
-                "Aggregations": {
+            "Pizza":{
+                "Pizza Papi Happy": "2100",
+                "Pizza Napolitana": "850",
+                "Pizza Hawaiana": "1350",
+                "Pizza de Jamon": "1200",
+                "Pizza de Bacon": "1200",
+                "Pizza de Vegetales": "950",
+                "Pizza de Champiñones": "1350"
+            },
+                "Additions": {
                     "For Hamburger":{
                         "Jamon": "150",
                         "Bacon": "150",
@@ -84,7 +86,33 @@
                         "Champiñones": "250"
                     }
             },
-                "Rice and Fittings": {
+            "Main Dishes": {
+                "Cazuela de Mar": "3200",
+                "Grillada de Mar": "3300",
+                "Grillada de Mar y Tierra": "3600",
+                "Mariscos Mixtos": "3500",
+                "Langosta al gusto": "2150",
+                "Camarones al Gusto": "2050",
+                "Pulpo al Gusto": "2500",
+                "Filete de Pescado Grille": "1450",
+                "Filete Canciller": "1750",
+                "Pescado Entero": "Al Peso",
+                "Pechuga Grille": "1500",
+                "Pechuga Rellena": "1750",
+                "Cordon Blue": "1800",
+                "Pollo Frito": "1500",
+                "Higado a la italiana": "1050",
+                "Bistec de Cerdo": "1500",
+                "Uruguayo": "1850",
+                "Lomo Ahumado": "1450",
+                "Lomito de Cerdo": "1550",
+                "Lomito Tres Capas Gratinado": "1800",
+                "Cerdo a la Juliana": "1750",
+                "Cordero al Vino Tinto": "2150",
+                "Cordero Montañes": "2500",
+                "Chilindron de Cordero": "2640"
+            },
+                "Fittings": {
                     "Paella Marinera": "2800",
                     "Paella Mar y Tierra": "3000",
                     "Arroz con Pollo a la Chorrera": "2300",
@@ -100,38 +128,6 @@
                     "Consome de Mariscos": "900",
                     "Consome de Pollo": "850",
                     "Ensalada Mixta": "500"
-            },
-            "Fish and Seafood":{
-                "Cazuela de Mar": "3200",
-                "Grillada de Mar": "3300",
-                "Grillada de Mar y Tierra": "3600",
-                "Mariscos Mixtos": "3500",
-                "Langosta al gusto": "2150",
-                "Camarones al Gusto": "2050",
-                "Pulpo al Gusto": "2500",
-                "Filete de Pescado Grille": "1450",
-                "Filete Canciller": "1750",
-                "Pescado Entero": "Al Peso"
-            },
-            "Chicken": {
-                "Pechuga Grille": "1500",
-                "Pechuga Rellena": "1750",
-                "Cordon Blue": "1800",
-                "Pollo Frito": "1500"
-            },
-            "Pork": {
-                "Higado a la italiana": "1050",
-                "Bistec de Cerdo": "1500",
-                "Uruguayo": "1850",
-                "Lomo Ahumado": "1450",
-                "Lomito de Cerdo": "1550",
-                "Lomito Tres Capas Gratinado": "1800",
-                "Cerdo a la Juliana": "1750"
-            },
-            "Lamb":{
-                "Cordero al Vino Tinto": "2150",
-                "Cordero Montañes": "2500",
-                "Chilindron de Cordero": "2640"
             },
             "Dessert":{
                 "Helado Cake": "660",

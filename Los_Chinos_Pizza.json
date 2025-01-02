@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "Los Chinos Pizza":{
+        "Los_Chinos_Pizza":{
             "Province": "La Habana",
             "Municipality": "La Habana del Este",
             "Location": "5V96+PVV, La Habana",
@@ -34,9 +34,7 @@
                     "Croquetas Caseras": "450",
                     "Tostones Rellenos de Jamon y Queso": "650",
                     "Tostones Rellenos de Atun": "700",
-                    "Coctel de Camaron": "2600"
-            },
-                "soups and creams": {
+                    "Coctel de Camaron": "2600",
                     "Sopa de Vegetales": "500",
                     "Crema de Queso": "450",
                     "Crema Aurora": "480",
@@ -74,48 +72,38 @@
                     "Cebolla": "1600",
                     "Pimiento": "1600"
             },
-                "Pork": {
-                    "Bistec de Cerdo": "1900",
-                    "Fajita de Cerdo": "1900",
-                    "Masas Fritas": "2000",
-                    "Ropa Vieja": "1900",
-                    "Lomo Deshuesado": "1900",
-                    "Chuleta": "2100",
-                    "Bistec Relleno de Jamon y Queso": "2100"
-            },
-            "Fish":{
+            "Pork": {
+                "Bistec de Cerdo": "1900",
+                "Fajita de Cerdo": "1900",
+                "Masas Fritas": "2000",
+                "Ropa Vieja": "1900",
+                "Lomo Deshuesado": "1900",
+                "Chuleta": "2100",
+                "Bistec Relleno de Jamon y Queso": "2100",
                 "Eperlan": "2250",
                 "Filete Grille": "2100",
                 "Filete Empanado": "2250",
                 "Filete Monte Toro": "2500",
                 "Canciller": "2600",
-                "Jhon Bill": "3000"
-            },
-            "Chicken":{
+                "Jhon Bill": "3000",
                 "Bistec de Pollo": "1600",
                 "Fajita de Pollo": "1600",
                 "Pollo Asado": "3000",
                 "Bistec de Pechuga Grille": "1700",
                 "Fajita de Pechuga": "1700",
                 "Pechuga Rellena de Jamon y Queso": "2100",
-                "Pollo a la Criolla": "2000"
+                "Pollo a la Criolla": "2000",
+                "Ropa Vieja de Res": "3000",
+                "Camarones Grille": "2600",
+                "Camarones Enchilado": "2600",
+                "Camarones al Ajillo": "2600",
+                "Camarones Rebosado": "2700",
+                "Langosta Grille": "3000",
+                "Langosta al Ajillo": "3000",
+                "Langosta Enchilada": "3600",
+                "Langosta Marinera": "4000"
             },
-            "Beef":{
-                "Ropa Vieja de Res": "3000"
-            },
-            "Shrimp":{
-                "Grille": "2600",
-                "Enchilado": "2600",
-                "Al Ajillo": "2600",
-                "Rebosado": "2700"
-            },
-            "Lobster":{
-                "Grille": "3000",
-                "Al Ajillo": "3000",
-                "Enchilada": "3600",
-                "Marinera": "4000"
-            },
-            "Aggregations":{
+            "Additions":{
                 "Cebolla": "450",
                 "Jamon": "560",
                 "Salame": "550",

@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "La Casa 5ta":{
+        "La_Casa_5ta":{
             "Province": "La Habana",
             "Municipality": "La Habana del Este",
             "Location": "ave 5ta esquina 472, La Habana",
@@ -26,8 +26,8 @@
             "Capacity": 42,
             "menu and prices": {
                 "Starters": {
-                    "Toston Nat": "300",
-                    "Toston Relleno Jamon/Atun": "680/875",
+                    "Tostones Naturales": "300",
+                    "Tostones Relleno Jamon/Atun": "680/875",
                     "Croquetas": "400",
                     "Coctel de Camarones": "1150",
                     "Eperlan": "1200",
@@ -41,27 +41,21 @@
                     "Ceviche": "750",
                     "Coctel de Langosta": "1150"
             },
-                "Chicken": {
+                "Main Dishes": {
                     "Pechuga Grillet": "1500",
                     "Pechuga Rellena": "1875",
                     "Gordon Blue": "1850",
                     "Pollo Frito": "1300",
-                    "Pollo al Curry": "1600"
-            },
-                "Rice": {
+                    "Pollo al Curry": "1600",
                     "Paella Marinera": "2900",
                     "Paella Mixta": "3050",
                     "Arroz Frito": "1350",
                     "Arroz Moro": "200",
                     "Arroz Blanco": "200",
                     "Arroz Pilaf": "300",
-                    "Arroz Salvaje con Pulpo": "1500"
-            },
-                "Lamb": {
+                    "Arroz Salvaje con Pulpo": "1500",
                     "Cordero Montañes": "2900",
-                    "Chilindron de Cordero": "2500"
-            },
-                "Sea": {
+                    "Chilindron de Cordero": "2500",
                     "Canciller": "1800",
                     "Langosta al Gusto": "2150",
                     "Camaron al Gusto": "2150",
@@ -70,20 +64,22 @@
                     "Pulpo al Gusto": "2800",
                     "Grillada Mar y Tierra": "3700",
                     "Grillada de Mar": "3400",
-                    "Cazuela del Mar": "3400"
-            },
-            "Pork":{
-                "Uruguayo": "1775",
-                "Lomo Ahumado": "1675",
-                "Lomo Tres Capas": "1950",
-                "Bistec de Cerdo": "1500",
-                "Lomo Encebollado": "1675"
+                    "Cazuela del Mar": "3400",
+                    "Uruguayo": "1775",
+                    "Lomo Ahumado": "1675",
+                    "Lomo Tres Capas": "1950",
+                    "Bistec de Cerdo": "1500",
+                    "Lomo Encebollado": "1675",
+                    "Filete Mignon": "2300",
+                    "Ropa Vieja": "1900",
+                    "Bistec de Res": "2000",
+                    "Higado de Res": "1200"
             },
             "Pastas y Pizza":{
                 "Napolitana": "975"
             },
             "Lasagna": "1525",
-            "Aggregations": {
+            "Additions": {
                 "Chorizo": "300",
                 "Jamon": "360",
                 "Champiñones": "225",
@@ -94,12 +90,6 @@
                 "Vegetales": "200",
                 "Atun": "525",
                 "Bacon": "350"
-            },
-            "Beef": {
-                "Filete Mignon": "2300",
-                "Ropa Vieja": "1900",
-                "Bistec de Res": "2000",
-                "Higado de Res": "1200"
             },
             "Fittings": {
                 "Viandas Fritas": "300/500",

@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "Tiki Bar":{
+        "Tiki_Bar":{
             "Province": "La Habana",
             "Municipality": "La Habana del Este",
             "Location": " 4H76+RQH, La Habana",
@@ -26,11 +26,11 @@
             "Capacity": 50,
             "menu and prices": {
                 "Starters": {
-                    "Toston de Jamon y Queso": "1200",
-                    "Toston de Chorizo y Queso": "1200",
-                    "Toston de Cangrejo": "2300",
-                    "Toston de Langosta": "4000",
-                    "Toston de Camaron": "4000",
+                    "Tostones de Jamon y Queso": "1200",
+                    "Tostones de Chorizo y Queso": "1200",
+                    "Tostones de Cangrejo": "2300",
+                    "Tostones de Langosta": "4000",
+                    "Tostones de Camaron": "4000",
                     "Taco de Cangrejo": "2500",
                     "Taco de Camaron": "4000",
                     "Taco de Langosta": "4000",
@@ -42,7 +42,7 @@
                     "Fajita de Cerdo": "2250",
                     "Fajita de Pollo": "2100"
             },
-                "Strong Dishes": {
+                "Main Dishes": {
                     "Camaron al Gusto": "4000",
                     "Langosta al Gusto": "4000",
                     "Enchilado de Cangrejo": "2500",

@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "Ristorante San Francesco":{
+        "Ristorante_San_Francesco":{
             "Province": "La Habana",
             "Municipality": "La Habana del Este",
             "Location": "Calle 478 entre 5ta A Y, 5ta D",
@@ -25,7 +25,7 @@
         },
             "Capacity": 42,
             "menu and prices": {
-                "Appetizers": {
+                "Starters": {
                     "Antipasto di Montagna Maxi": "3500",
                     "Bruschetta": "850",
                     "Bruschetta di Pate": "900",
@@ -36,7 +36,7 @@
                     "Tostones": "700",
                     "Tostones Especiales": "1500"
             },
-                "First courses": {
+                "Pasta": {
                     "Spaghetti Napoli": "1500",
                     "Spaghetti Jamon Vicky": "1600",
                     "Spaghetti Tonno": "1700",
@@ -58,7 +58,7 @@
                     "Raz. di Rizo": "600",
                     "Raz. di Pane": "550"
             },
-                "Second Courses": {
+                "Main Dishes": {
                     "Chuleta de Cerdo(Segun Gramaje del Plato)": "2600 a 3100",
                     "Pollo con Salciccia": "2400",
                     "Aragosta Maxi": "3800",
@@ -71,7 +71,7 @@
                     "Pollo Asado": "1800",
                     "Fajitas de Pollo con Vegetales": "2100"
             },
-                "Italian pizza": {
+                "Pizza": {
                     "Pizza Gorgonzola": "1700",
                     "Pizza Fior di Latte": "1900",
                     "Pizza Fior di Latte e Prosciutto": "2100",

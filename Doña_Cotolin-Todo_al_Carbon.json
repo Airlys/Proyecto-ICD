@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "Doña Cotolin-Todo al Carbon":{
+        "Doña_Cotolin-Todo_al_Carbon":{
             "Province": "La Habana",
             "Municipality": "La Habana del Este",
             "Location": "5V97+P4H, La Habana",
@@ -46,16 +46,15 @@
                     "Sandwich de Jamon": "450",
                     "Crema de Queso": "800",
                     "Crema Aurora": "900",
-                    "Crema Virginia": "1250"
+                    "Crema Virginia": "1250",
+                    "Sopa de Pollo": "650"
             },
-                "Chicken": {
+                "Main Dishes": {
                     "Pollo Asado al Carbon": "1750",
                     "Pollo Asado a la Piña": "1850",
                     "Pollo Frito": "1650",
                     "Gordon Bleu de Pollo": "2000",
-                    "Bistec de Pechuga de Pollo": "2000"
-            },
-                "Pig": {
+                    "Bistec de Pechuga de Pollo": "2000",
                     "Churrasco de Cerdo": "1650",
                     "Chuleta de Cerdo al Carbon": "2200",
                     "Costillas de Cerdo al Carbon": "2100",
@@ -69,15 +68,11 @@
                     "Lomo de Cerdo al Carbon y Gratinado(Racion para cuatro personas)": "6000",
                     "Super Ahumado": "3000",
                     "Fricase de Carnero": "1750",
-                    "Solomillo de Cerdo": "2000"
-            },
-                "Beef": {
+                    "Solomillo de Cerdo": "2000",
                     "Ropa Vieja de Res": "1500",
                     "Bistec de Res Encebollado": "2600",
                     "Filet Minoni": "3250",
-                    "Bistec de Higado de Res": "1800"
-            },
-                "Seafood": {
+                    "Bistec de Higado de Res": "1800",
                     "Camaron Rebosado": "2000",
                     "Enchilado de Camaron": "2100",
                     "Camaron al Ajillo": "1950",
@@ -96,17 +91,12 @@
                     "Calamar relleno": "3500",
                     "Pescado Frito mas Grande": "2300"
             },
-            "Garnishes and broths":{
-                "Garnishes": {
-                    "Arroz Blanco": "150",
-                    "Arroz Congri": "160",
-                    "Arroz Salteado": "650",
-                    "Arroz Pilaf": "450",
-                    "Arroz con Pollo a la Chorrera": "1250"
-                },
-                "Broths": {
-                    "Sopa de Pollo": "650"
-                }
+            "Rice":{
+                "Arroz Blanco": "150",
+                "Arroz Congri": "160",
+                "Arroz Salteado": "650",
+                "Arroz Pilaf": "450",
+                "Arroz con Pollo a la Chorrera": "1250"
             },
             "Pastas":{
                 "Napolitano": "750",
@@ -129,7 +119,7 @@
                 "Hamburguesa Caprichosa": "1500",
                 "Hamburguesa Paro Cardiaco a Caballo": "2000"
             },
-            "Large Pizzas": {
+            "Family Pizzas": {
                 "Napolitana": "750",
                 "Pizza de Vegetales": "900",
                 "De Jamon y Queso": "1000",
@@ -210,7 +200,7 @@
                 "Martini Dry": "600",
                 "Old Fashioned": "850"
             },
-            "Ron": {
+            "Rums": {
                 "Habana Club Añejo Blanco": "300",
                 "Habana Club 3 Años": "300",
                 "Habana Club Especial": "450",

@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "El Kilometro Zero":{
+        "El_Kilometro_Zero":{
             "Province": "La Habana",
             "Municipality": "La Habana Vieja",
             "Location": "Monserrate#437 Esq Teniente Rey, La Habana 10900 Cuba",
@@ -25,7 +25,7 @@
         },
             "Capacity": 70,
             "menu and prices": {
-                "Appetizers": {
+                "Starters": {
                     "Cesta de Pan": "850",
                     "Croquetas de la Casa": "1140",
                     "Tamal Cubano": "2080",
@@ -72,7 +72,7 @@
                 "Tarta de Chocolate": "1650",
                 "Postre Casero": "960"
             },
-            "From the Bar": {
+            "Cocktails": {
                 "Idea 43": "2325",
                 "Pacto Zero": "2760",
                 "Sex on KM": "2015",
@@ -84,9 +84,7 @@
                 "Cuban Flavor": "1860",
                 "Piña Colada Tentacion": "1950",
                 "Gin Tonic Afrodisiaco": "1950",
-                "Mezcalita Chica Mala": "2995"
-            },
-            "The Usual Classics":{
+                "Mezcalita Chica Mala": "2995",
                 "Daiquiri": "1085",
                 "Mojito": "1085",
                 "Cuba Libre": "1250",
@@ -114,7 +112,7 @@
                 "Mimosa": "1800",
                 "Tinto Verano": "1800"
             },
-            "Other Drinks":{
+            "Drinks":{
                 "Agua Natural": "495",
                 "Agua con Gas Mondariz": "1300",
                 "Agua Tonica Importada": "960",

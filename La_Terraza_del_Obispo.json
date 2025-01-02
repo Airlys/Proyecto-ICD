@@ -1,6 +1,6 @@
 { 
 "Restaurants":{
-    "La Terraza del Obispo":{
+    "La_Terraza_del_Obispo":{
         "Province": "La Habana",
         "Municipality": "La Habana Vieja",
         "Location": "Calle Obispo nº460 La Habana Vieja, La Habana Cuba",
@@ -51,7 +51,7 @@
             "Salads": {
                 "Ensalada Mixta": "150"
             },
-            "Food": {
+            "Fittings": {
                 "Vianda Frita": "200",
                 "Vianda Hervida con Mojo":"100"
             }

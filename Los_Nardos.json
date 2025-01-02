@@ -1,6 +1,6 @@
 { 
     "Restaurants":{
-        "Los Nardos":{
+        "Los_Nardos":{
             "Province": "La Habana",
             "Municipality": "La Habana Vieja",
             "Location": "4JMR+RMW, P.º de Martí, La Habana",
@@ -25,7 +25,7 @@
         },
             "Capacity": 150,
             "menu and prices": {
-                "Cold Starters": {
+                "Starters": {
                     "Ensalada de Vegetales Frescos": "620",
                     "Ensalada de Frutas Tropicales": "725",
                     "Coctel de Frutas Tropicales": "805",
@@ -38,17 +38,13 @@
                     "Carpaccio de Pescado": "935",
                     "Coctel de Pescado": "935",
                     "Ensalada de Jamon Serrano y Frutas Tropicales": "2590",
-                    "Gran Tabla de Embutidos y Queso": "4040"
-            },
-                "Hot Starters": {
+                    "Gran Tabla de Embutidos y Queso": "4040",
                     "Tamal en Cazuela": "1060",
                     "Bolitas de Queso": "1290",
                     "Tortilla Española": "865",
                     "Tortilla Vazca": "940",
                     "Garbanzo Frito": "1295",
-                    "Gran Picadera Los Nardos": "2485"
-            },
-                "Soups and Creams": {
+                    "Gran Picadera Los Nardos": "2485",
                     "Cremas": "1190",
                     "Sopa de Pollo": "865",
                     "Fabada al Estilo del Chef": "1450",
@@ -145,7 +141,7 @@
                 "Jugos Importados": "450",
                 "Jugos de Caja": "320"
             },
-            "infusions": {
+            "Coffee": {
                 "Cafe": "215",
                 "Cafe Cortado": "265",
                 "Cafe con Leche": "265",
@@ -165,7 +161,7 @@
                 "Gin Tonic": "1165",
                 "Otros Cocteles": "1035"
             },
-            "Distillates": {
+            "Drinks 2": {
                 "Campari": "900",
                 "Frangelico": "1575",
                 "Ron HC 3 Años": "520",

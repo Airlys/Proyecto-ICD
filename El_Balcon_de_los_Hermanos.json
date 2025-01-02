@@ -1,6 +1,6 @@
 { 
 "Restaurants":{
-    "El Balcon de los Hermanos":{
+    "El_Balcon_de_los_Hermanos":{
         "Province": "La Habana",
         "Municipality": "La Habana Vieja",
         "Location": "4JQV+7V2, Obispo, La Habana",
@@ -38,39 +38,29 @@
                 "Langosta en Salsa": "2450",
                 "Langosta Ajillo": "2400",
                 "Langosta Grille": "2400",
-                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"]
-            },
-            "Chicken": {
+                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"],
                 "Pollo Grille": "2400",
                 "Pollo en Salsa": "2400",
                 "Pollo Empanado": "2450",
-                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"]
-            },
-            "Pork": {
+                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"],
                 "Cerdo Grille": "2400",
                 "Cerdo Empanado": "2450",
                 "Cerdo Entomatado": "2400",
                 "Lomo de Cerdo": "2450",
-                "Todo Acompañado de":["Arroz Moro","Ensalada Mixta","Viandas"]
-            },
-            "Beef":{
+                "Todo Acompañado de":["Arroz Moro","Ensalada Mixta","Viandas"],
                 "Ropa Vieja": "2450",
                 "Cordero": "2450",
-                "Todo Acompañado de":["Arroz Moro","Ensalada Mixta","Viandas"]
-            },
-            "Fish":{
+                "Todo Acompañado de":["Arroz Moro","Ensalada Mixta","Viandas"],
                 "Pescado Grille": "2400",
-                "Pescado Empanado": "2450"
-            },
-            "Shrimps":{
+                "Pescado Empanado": "2450",
                 "Camarones Grille": "2400",
                 "Camarones al Ajillo": "2400",
                 "Camarones en Salsa": "2450",
                 "Camarones Salteados": "2400",
-                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"]
+                "Todo Acompañado de": ["Arroz Moro","Ensalada Mixta","Viandas"],
+                "Octopus": "3500",
+                "Sea and Land": "2650"
             },
-            "Octopus": "3500",
-            "Sea and Land": "2650",
             "Cocktails": {
                 "Mojito": "500",
                 "Cubanito": "500",
@@ -103,7 +93,7 @@
                 "Helados": "300",
                 "Dulces": "300"
             },
-            "Infusion": {
+            "Coffee": {
                 "Cafe Cortado": "250",
                 "Cafe Carajillo": "250",
                 "Cafe Expresso": "200",

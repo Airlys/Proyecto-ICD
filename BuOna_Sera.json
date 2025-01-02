@@ -1,6 +1,6 @@
 {
     "Restaurants":{
-        "BuOna Sera":{
+        "BuOna_Sera":{
             "Province": "La Habana",
             "Municipality": "Plaza de la Revolucion",
             "Location": "4JP7+WJR,La Habana",
@@ -26,30 +26,30 @@
             "Capacity": 44,
             "Menu and price": {
                 "Starters": {
-                    "Entremes de Jamon": "360",
-                    "Entremes de Chorizo": "360",
-                    "Entremes de Jamon/Chorizo": "720",
-                    "Bolitas de queso": "50.00",
-                    "Bolitas de Embutido": "45.00"
+                    "Entremes de Jamon": "$360",
+                    "Entremes de Chorizo": "$360",
+                    "Entremes de Jamon/Chorizo": "$720",
+                    "Bolitas de queso": "$50.00",
+                    "Bolitas de Embutido": "$45.00"
             },
                 "Pastas": {
-                    "Espaguetis Napolitano de Queso Blanco": "450",
-                    "Espaguetis Napolitano de Queso Gouda": "600"
+                    "Espaguetis Napolitano de Queso Blanco": "$450",
+                    "Espaguetis Napolitano de Queso Gouda": "$600"
             },
                 "Pizzas": {
-                    "Pizza Chiquita de Queso Blanco": "300",
-                    "Pizza Napolitana de Queso Blanco": "400",
-                    "Pizza Napolitana de Queso Gouda": "600"
+                    "Pizza Chiquita de Queso Blanco": "$300",
+                    "Pizza Napolitana de Queso Blanco": "$400",
+                    "Pizza Napolitana de Queso Gouda": "$600"
             },
                 "House suggestion": {
-                    "Lazaña de Embutido": "600"
+                    "Lazaña de Embutido": "$600"
             },
                 "Additions": {
-                    "Piña": "80",
-                    "Jamon": "240",
-                    "Chorizo": "240",
-                    "Queso Blanco": "200",
-                    "Queso Gouda": "360"
+                    "Piña": "$80",
+                    "Jamon": "$240",
+                    "Chorizo": "$240",
+                    "Queso Blanco": "$200",
+                    "Queso Gouda": "$360"
             }
         }
     }

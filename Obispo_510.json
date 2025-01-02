@@ -1,6 +1,6 @@
 { 
 "Restaurants":{
-    "Obispo 510":{
+    "Obispo_510":{
         "Province": "La Habana",
         "Municipality": "La Habana Vieja",
         "Location": "Obispo #510 e/ Bernaza y Villegas, Havana, Cuba 10400",
@@ -60,7 +60,7 @@
                 "Chorrera": "2400",
                 "Arroz Frito": "600"
             },
-            "Main Courses":{
+            "Main Dishes":{
                 "Langosta en Salsa Americana": "3600",
                 "Pulpo al Ajillo": "3600",
                 "Langosta al Grill": "3000",
@@ -95,7 +95,7 @@
                 "Batido de Helado": "600",
                 "Helado": "300"
             },
-            "Liquids":{
+            "Drinks":{
                 "Agua Natural": "300",
                 "Limonada": "300",
                 "Jugos": "300",
@@ -112,13 +112,13 @@
                 "Olmeca Reposado": "600"
             },
             "Rums": {
-                "L. H. C. Añejo Blanco": "300",
-                "L. H. C. Añejo Especial": "600",
-                "L. H. C. Añejo Reserva": "600",
-                "L. H. C. 7 Años": "900",
-                "L. S. C. 8 Años": "900",
-                "L. S. C. 12 Años": "1200",
-                "L. Ron Pacto Navio": "1500"
+                "Havana Club Añejo Blanco": "300",
+                "Havana Club Añejo Especial": "600",
+                "Havana Club Añejo Reserva": "600",
+                "Havana Club 7 Años": "900",
+                "Santiago 8 Años": "900",
+                "Santiago 12 Años": "1200",
+                "Ron Pacto Navio": "1500"
             },
             "Wines": {
                 "Copa de Vino Tinto": "600",

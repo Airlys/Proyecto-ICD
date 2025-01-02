@@ -1,6 +1,6 @@
 { 
 "Restaurants":{
-    "Mirador Doña Ana":{
+    "Mirador_Doña _Ana":{
         "Province": "La Habana",
         "Municipality": "La Habana Vieja",
         "Location": "406 Obispo, La Habana",
@@ -25,13 +25,11 @@
         },
         "Capacity": 140,
         "menu and prices": {
-            "Cold Starters": {
+            "Starters": {
                 "Coctel de Camarones": "1500",
                 "Ensalada de Pollo": "1100",
                 "Ensalada de Pescado": "1200",
-                "Ensalada Mixta": "900"
-            },
-            "Hot Starters": {
+                "Ensalada Mixta": "900",
                 "Croquetas de la Abuela": "660",
                 "Chicharritas de Platano": "660",
                 "Tostones Rellenos": "880",
@@ -125,7 +123,7 @@
                 "Vino Blanco": "550",
                 "Cabernet Suavignon": "660"
             },
-            "Vodkas-Whiskys-Tequilas": {
+            "Drinks 2": {
                 "Vodka Abssolut": "660",
                 "Ballantines": "550",
                 "Clan Campbell": "550",

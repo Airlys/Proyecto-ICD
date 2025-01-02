@@ -1,6 +1,6 @@
 { 
 "Restaurants":{
-    "La Piña de Plata":{
+    "La_Piña_de_Plata":{
         "Province": "La Habana",
         "Municipality": "La Habana Vieja",
         "Location": "522 Obispo, La Habana 10100",
@@ -30,9 +30,7 @@
                 "Croquetas del Chef": "450",
                 "Brochetas del Mar": "500",
                 "Tapitas al estilo Piña de Plata": "450",
-                "Ensalada de Vegetales": "360"
-            },
-            "Soups and Creams": {
+                "Ensalada de Vegetales": "360",
                 "Sopa de Vegetales": "300",
                 "Crema de Queso": "350",
                 "Crema Aurora": "350"
@@ -43,7 +41,7 @@
                 "Arroz con Moro": "150",
                 "Arroz Blanco": "100"
             },
-            "Main Courses": {
+            "Main Dishes": {
                 "Camarones Piña de Plata": "950",
                 "Langosta Grille": "1450",
                 "Langosta a la Cubana": "1450",
@@ -59,33 +57,28 @@
                 "Flan al Caramelo": "300",
                 "Postres Cubanos": "300"
             },
-            "Infucions": {
+            "Coffee": {
                 "Cafe Espresso": "180",
                 "Cafe Cortado": "200",
                 "Cafe con Leche": "250",
                 "Capuccino": "250",
                 "Te Frio/Caliente": "180"
             },
-            "Drinks Menu":{
-                "National Cocktails":{
-                    "Daiquiri Floridita": "450"
+            "Cocktails":{
+                "Daiquiri Floridita": "450",
+                "Piña Colada": "600",
+                "Piña Colada Saborizada": "600",
+                "Caipiriña": "500",
+                "Margarita": "500",
+                "Whisky Sour": "500",
+                "Gin Tonic": "500",
+                "Vodka Tonic": "500",
+                "Sangria": "500",
+                "Limonada": "250",
+                "Limonada Saborizada": "250",
+                "Virgen Colada": "400"
                 },
-                "International Cocktails": {
-                    "Piña Colada": "600",
-                    "Piña Colada Saborizada": "600",
-                    "Caipiriña": "500",
-                    "Margarita": "500",
-                    "Whisky Sour": "500",
-                    "Gin Tonic": "500",
-                    "Vodka Tonic": "500",
-                    "Sangria": "500"
-                },
-                "Virgin Cocktails": {
-                    "Limonada": "250",
-                    "Limonada Saborizada": "250",
-                    "Virgen Colada": "400"
-                },
-                "Water, Sodas, Juices and Beers":{
+                "Drinks":{
                     "Agua Natural Nacional 500ml": "50",
                     "Jugos Naturales 200ml": "60",
                     "Cervezas Nacionales": "200",
@@ -103,7 +96,7 @@
                     "Santiago 8 Años": "450",
                     "Black Tears Aguardiente": "100"
                 },
-                "Other Spirituous":{
+                "Drinks 2":{
                     "Brandy Torres 15": "750",
                     "Brandy Torres 10": "600",
                     "Brandy Torres 5": "450",
@@ -131,5 +124,4 @@
             }
         }
     }
-}
 }

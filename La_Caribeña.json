@@ -1,6 +1,6 @@
 { 
 "Restaurants":{
-    "La Caribeña":{
+    "La_Caribeña":{
         "Province": "La Habana",
         "Municipality": "La Habana Vieja",
         "Location": " 408 Obispo, La Habana",
@@ -46,7 +46,7 @@
                 "Desayuno 2": "1400",
                 "Desayuno 3": "1300"
             },
-            "Aggregations": {
+            "Additions": {
                 "Queso": "500",
                 "Jamon": "350",
                 "Chorizo": "350",
@@ -109,39 +109,32 @@
                 "Lasaña Boloñesa": "1700",
                 "Lasaña de Jamon": "1800"
             },
-            "Main Courses":{
-                "Chicken":{
-                    "Pollo Grillet": "1950",
-                    "Brochetas de Pollo": "2100",
-                    "Pollo Gratinado": "2300",
-                    "Golden Blue": "2300",
-                    "Fajitas de Pollo": "2100"
-                },
-                "Pork":{
-                    "Lonjas de Cerdo": "2300",
-                    "Lomo Ahumado": "2300",
-                    "Chuletas de Cerdo": "2400",
-                    "Fajitas de Cerdo": "2250",
-                    "Brochetas de Cerdo": "2350"
-                },
-                "Beef":{
-                    "Ropa Vieja de Res": "2250",
-                    "Vaca Frita": "2200",
-                    "Estraccetti de Ternera": "2800"
+            "Main Dishes":{
+                "Pollo Grillet": "1950",
+                "Brochetas de Pollo": "2100",
+                "Pollo Gratinado": "2300",
+                "Golden Blue": "2300",
+                "Fajitas de Pollo": "2100",
+                "Lonjas de Cerdo": "2300",
+                "Lomo Ahumado": "2300",
+                "Chuletas de Cerdo": "2400",
+                "Fajitas de Cerdo": "2250",
+                "Brochetas de Cerdo": "2350",
+                "Ropa Vieja de Res": "2250",
+                "Vaca Frita": "2200",
+                "Estraccetti de Ternera": "2800",
+                "Filete de Pescado Grille": "2650",
+                "Canciller": "2850",
+                "Filete de Pescado Gratinado": "2850",
+                "Camarones al Gusto": "2700",
+                "Langosta al Gusto": "2700",
+                "Cazuela de Mariscos": "4500"
                 },
                 "Fittings":{
                     "Arroz Blanco": "200",
                     "Arroz Moro": "250",
                     "Arroz Pilaf": "500",
                     "Ensalada de Estacion": "450"
-                },
-                "Fish and Seafood":{
-                    "Filete Grille": "2650",
-                    "Canciller": "2850",
-                    "Filete Gratinado": "2850",
-                    "Camarones al Gusto": "2700",
-                    "Langosta al Gusto": "2700",
-                    "Cazuela de Mariscos": "4500"
                 },
                 "Tacos":{
                     "Taco de Pollo": "1900",
@@ -154,9 +147,8 @@
                     "Arroz Frito": "1600",
                     "Paella": "5000",
                     "Risotto": "3200"
-                }
-            },
-            "Juices, Soft Drinks, Beers":{
+                },
+            "Drinks":{
                 "Jugos Naturales": "300",
                 "Batido de Frutas Naturales": "420",
                 "Batido de Helado": "750",
@@ -189,7 +181,7 @@
                 "Torta de Chocolate": "900",
                 "Brownie": "800"
             },
-            "Infusions":{
+            "Coffee":{
                 "Cafe Espresso": "200",
                 "Cafe Cortadito": "280",
                 "Capuchino": "500",

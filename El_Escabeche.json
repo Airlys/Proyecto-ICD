@@ -1,6 +1,6 @@
 { 
 "Restaurants":{
-    "El Escabeche":{
+    "El_Escabeche":{
         "Province": "La Habana",
         "Municipality": "La Habana Vieja",
         "Location": " 4JQV+4J7, La Habana",
@@ -25,7 +25,7 @@
         },
         "Capacity": 28,
         "menu and prices": {
-            "Food": {
+            "Main Dishes": {
                 "Escabeche": "450",
                 "Enchilado de Pescado": "350", 
                 "Enchilado de Camaron": "490", 
