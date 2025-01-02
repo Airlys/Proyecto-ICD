@@ -105,15 +105,15 @@
                 "Vino Tinto(Copa)": "950",
                 "Vino Blanco(Copa)": "950"
             },
-            "Gin Tonic With": {
-                "Beefeater": "1500",
-                "Gordons Gin": "1500",
-                "Tanqueray": "1600",
-                "Tanqueray 10": "1800",
-                "Gin Mare": "1950",
-                "Malfy Gin": "2000",
-                "Botanist": "2100",
-                "London No.1": "1900"
+            "Gin Tonic": {
+                "Con Beefeater": "1500",
+                "Con Gordons Gin": "1500",
+                "Con Tanqueray": "1600",
+                "Con Tanqueray 10": "1800",
+                "Con Gin Mare": "1950",
+                "Con Malfy Gin": "2000",
+                "Con Botanist": "2100",
+                "Con London No.1": "1900"
             },
             "Whisky": {
                 "Jameson": "1400",
@@ -146,7 +146,7 @@
                 "Don Ramon Punta Dorada": "1150",
                 "Don Julio Reposado": "1500"
             },
-            "Liquors and Creams": {
+            "Liqueurs and Creams": {
                 "Baileys": "1100",
                 "Jagormoiotar": "1200"
             }

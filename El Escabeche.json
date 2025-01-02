@@ -1,0 +1,45 @@
+{ 
+"Restaurants":{
+    "El_Escabeche":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": " 4JQV+4J7, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/J7C8Q11",
+            "total": 3.0,
+            "date": "20241209"
+        },
+        "schedules": "Apertura 12:00m y Cierre 7:00",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Escabeche",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 28,
+        "menu and prices": {
+            "Main Dishes": {
+                "Escabeche": "450",
+                "Enchilado de Pescado": "350", 
+                "Enchilado de Camaron": "490", 
+                "Pollo Grille": "430",
+                "Ensalada Mixta": "40",
+                "Arroz Blanco": "50"
+            },
+            "Drinks": {
+                "Cerveza Importada Lata": "240",
+                "Refresco Importada Lata": "220",
+                "Jugo de Frutas": "220",
+                "Agua Natural": "130"
+            }
+        } 
+    }
+}
+}

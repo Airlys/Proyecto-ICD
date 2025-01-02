@@ -28,11 +28,20 @@
             "Entrepanes": {
                 "Club Sandwich": "550"
             },
-            "Liquids": {
+            "Drinks": {
                 "Agua Natural(500ml)": "100",
                 "Agua Natural(1500ml)": "250",
                 "Agua Natural(5000)": "600",
-                "Agua Tonica": "320"
+                "Agua Tonica": "320",
+                "Cerveza Importada": "250",
+                "Cerveza Nacional Parranda": "250",
+                "Cerveza Nacional Cristal": "230",
+                "Cerveza Nacional Bucanero": "230",
+                "Jugo de Frutas": "150",
+                "Refresco Revoltosa Cola(500ml)": "350",
+                "Refresco Revoltosa Naranja": "350",
+                "Refresco Revoltosa Cola(2000ml)": "700",
+                "Energizante RedBull": "420"
             },
             "Coffee": {
                 "Cafe Espresso": "90",
@@ -41,15 +50,6 @@
                 "Cafe con Leche": "150",
                 "Cafe Carajillo": "250",
                 "Cappuchino": "250"
-            },
-            "Juices": {
-                "Jugo de Frutas": "150"
-            },
-            "Drinks": {
-                "Cerveza Importada": "250",
-                "Cerveza Nacional Parranda": "250",
-                "Cerveza Nacional Cristal": "230",
-                "Cerveza Nacional Bucanero": "230"
             },
             "Wines":{
                 "White Wine": {
@@ -74,12 +74,6 @@
                 "Vino Rosado de Mesa": "1200",
                 "Vino Tinto La Viña": "1255",
                 "Vino Tinto Entre Rios": "1250"
-            },
-            "Drinks 2": {
-                "Refresco Revoltosa Cola(500ml)": "350",
-                "Refresco Revoltosa Naranja": "350",
-                "Refresco Revoltosa Cola(2000ml)": "700",
-                "Energizante RedBull": "420"
             },
             "Cocktails":{
                 "Cuba Libre": "350",

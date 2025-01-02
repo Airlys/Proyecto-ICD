@@ -26,61 +26,61 @@
         "Capacity": 70,
         "menu and prices": {
             "Breakfast": {
-                "Tradicional": "9.00 USD",
-                "Vegetariano": "9.00 USD",
+                "Tradicional": "2790",
+                "Vegetariano": "2790",
                 "Vegano": "720"
             },
             "Coffee": {
-                "Cafe Espresso": "1.50 USD",
-                "Cafe Espresso Doble": "2.00 USD",
-                "Cafe Americano": "1.50",
-                "Cortadito": "1.60",
-                "Cafe Bombon": "1.90",
-                "Capuccino": "1.70",
-                "Frapuccino": "3.60",
-                "Mocca": "1.80",
-                "Frapuccino Mocca": "3.85",
-                "Cafe con Leche": "2.10",
-                "Te": "1.20"
+                "Cafe Espresso": "465",
+                "Cafe Espresso Doble": "620",
+                "Cafe Americano": "465",
+                "Cortadito": "496",
+                "Cafe Bombon": "589",
+                "Capuccino": "527",
+                "Frapuccino": "1116",
+                "Mocca": "558",
+                "Frapuccino Mocca": "1193.5",
+                "Cafe con Leche": "651",
+                "Te": "372"
             },
             "Starters": {
-                "Bolitas de Queso": "6.00 USD",
-                "Bolitas de Queso Picante": "6.00 USD",
-                "Ceviche": "7.00 USD",
-                "Caldosa Pirata": "1.00 USD",
-                "Tostadas Piratas": "3.00 USD",
-                "Hummus y Vegetales": "6.00 USD",
-                "Tacos Piratas": "6.00 USD",
-                "Ceviche de Langosta": "8.00 USD",
-                "Coctel de Langosta": "8.50 USD",
-                "Crudo de Pulpo": "9.00 USD"
+                "Bolitas de Queso": "1860",
+                "Bolitas de Queso Picante": "1860",
+                "Ceviche": "2170",
+                "Caldosa Pirata": "310",
+                "Tostadas Piratas": "930",
+                "Hummus y Vegetales": "1860",
+                "Tacos Piratas": "1860",
+                "Ceviche de Langosta": "2480",
+                "Coctel de Langosta": "2635",
+                "Crudo de Pulpo": "2790"
             },
             "Main Dishes":{
-                "Pirates From Heart Salad": "4.50 USD",
+                "Pirates From Heart Salad": "1395",
                 "Aggregates": {
-                    "Pollo": "2.40 USD",
-                    "Cerdo": "3.60 USD",
-                    "Atun": "3.60 USD",
-                    "Serrano": "4.80 USD",
-                    "Langosta": "6.00 USD",
-                    "Pulpo": "6.00 USD"
+                    "Pollo": "744",
+                    "Cerdo": "1116",
+                    "Atun": "1116",
+                    "Serrano": "1488",
+                    "Langosta": "1860",
+                    "Pulpo": "1860"
                 },
-                "Combinacion Pirata": "10.00 USD",
-                "Galeon el Olones": "10.50 USD",
-                "Botija Pirata": "6.00 USD",
-                "Filete de Pescado": "12.00 USD",
-                "Langosta a su Gusto": "19.00 USD",
-                "Pescado Entero": "16.00"
+                "Combinacion Pirata": "3100",
+                "Galeon el Olones": "3255",
+                "Botija Pirata": "1860",
+                "Filete de Pescado": "3720",
+                "Langosta a su Gusto": "5890",
+                "Pescado Entero": "4960"
             },
             "Hamburger and Sandwich":{
-                "Hamburguesa Barba Roja": "7.00 USD",
-                "Hamburguesa Vegana": "4.50 USD",
-                "Sandwich de Pechuga": "7.00 USD",
-                "Sandwich Abordaje": "9.50 USD",
-                "Sandwich Verde": "4.50 USD",
-                "Sandwich Mary Read": "7.00 USD",
-                "Club Sandwich Atun": "8.50 USD",
-                "Club Sandwich Pol Chicken Club Sandwich": "8.00 USD"
+                "Hamburguesa Barba Roja": "2170",
+                "Hamburguesa Vegana": "1395",
+                "Sandwich de Pechuga": "2170",
+                "Sandwich Abordaje": "2945",
+                "Sandwich Verde": "1395",
+                "Sandwich Mary Read": "2170",
+                "Club Sandwich Atun": "2635",
+                "Club Sandwich Pol Chicken Club Sandwich": "2480"
             }
         }
     }

@@ -34,26 +34,22 @@
                 "Eperlan de Pescado": "1800",
                 "Fajita de Pollo": "1800"
             },
-            "Main Courses": {
+            "Main Dishes": {
                 "Pollo Grille": "3000",
                 "Cerdo(Ropa Vieja)": "3300",
                 "Camaron al Gusto": "4500",
-                "Pescado Grille": "3000"
-            },
-            "Other Courses": {
+                "Pescado Grille": "3000",
                 "Arroz con Pollo": "3000",
                 "Salpicon de Marizcos": "6000",
                 "Arroz Blanco": "600",
-                "Frijoles Dormidos": "900"
-            },
-            "Main Courses 2": {
+                "Frijoles Dormidos": "900",
                 "Boloñesa": "2400",
                 "Pesto": "2100",
                 "Vegetales": "2100",
                 "Con Camaron": "4500",
                 "Con Pollo": "2700"
             },
-            "Entrepanes": {
+            "Sandwich": {
                 "Sandwich de Pollo": "2400",
                 "Sandwich de Jamon": "2100",
                 "Sandwich de Atun": "2100",
@@ -163,7 +159,7 @@
                 "Arraigo Blanco": "1200",
                 "Arraigo Reposado": "1350"
             },
-            "Other":{
+            "Drinks":{
                 "Sambuca": "1350",
                 "Jagger": "1650",
                 "Frangelico": "1350",

@@ -66,7 +66,7 @@
                 "Espaguetis Napoles con Queso Gouda": "1200",
                 "Espaguetis con Jamon y Queso Gouda": "1700"
             },
-            "Pizza and Entrepanes": {
+            "Pizza": {
                 "Pizza de Chorizo Montero": "1875",
                 "Lasagna de Jamon": "1600",
                 "Pizza a la Carbonara": "2500",
@@ -165,7 +165,7 @@
                 "Eclear de Crema y Chocolate": "850",
                 "Copa de Helado": "800"
             },
-            "Light Drinks":{
+            "Drinks":{
                 "RedBull": "750",
                 "Refresco Importado Ritz de Cola": "450",
                 "Refresco Importado Pepsi Cola(Lata)": "450",
@@ -230,7 +230,7 @@
                 "Caipiroska": "660",
                 "Caipirissima": "800"
             },
-            "Drinks":{
+            "Drinks 2":{
                 "Ginebra MG Classic London Dry": "500",
                 "Licor Limoncello": "400",
                 "Licor de Naranja Magdala": "200",
@@ -273,7 +273,7 @@
                 "H.C. Añejo 7 Años": "350",
                 "H.C.Añejo Reserva": "350"
             },
-            "Our Wines":{
+            "Wines":{
                 "VT Frontera C S(Botella)": "2600",
                 "VT Frontera Merlot(Botella)": "2400",
                 "VT Frontera Merlot(Copa)": "600",
@@ -289,7 +289,7 @@
                 "VT Trapiche Vineyards Malbec(Copa)": "850",
                 "VB Las Gamelias Sauvigñon Blanco": "500"
             },
-            "Coffees and Infusions":{
+            "Coffee":{
                 "Cafe Americano": "185",
                 "Cafe Espresso": "260",
                 "Cafe Bombon": "350",

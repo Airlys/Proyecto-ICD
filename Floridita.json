@@ -33,9 +33,7 @@
                 "Seleccion de Quesos": "1200",
                 "Pica Pica del Chef": "750",
                 "Tapas de Mariscos": "1050",
-                "Pasta Frutti de Mare": "1450"
-            },
-            "Soups": {
+                "Pasta Frutti de Mare": "1450",
                 "Cazuelita Colonial": "1100",
                 "Crema Floridita": "600",
                 "Sopa Noche de Paris": "350"
@@ -56,7 +54,7 @@
                 "Arroz Marinero": "1450",
                 "Bistec de Cerdo Finca Vijia": "1700"
             },
-            "Wine list": {
+            "Wines": {
                 "Sparkling":{
                     "Cava Sangre de Toro Brut": "2500",
                     "Cava Freixenet Cordon Negro Brut": "2650",

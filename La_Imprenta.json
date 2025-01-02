@@ -25,11 +25,9 @@
         },
         "Capacity": 38,
         "menu and prices": {
-            "Cold Starters": {
+            "Starters": {
                 "Queso Escabechado": "140",
-                "Tapas de Tomate y Queso": "85"
-            },
-            "Hot Starters": {
+                "Tapas de Tomate y Queso": "85",
                 "Crema de Vegetales": "140",
                 "Judia Imprenta": "195",
                 "Garbanzo Frito": "245"
@@ -45,9 +43,7 @@
                 "Rollo de Cerdo con Jamon y Queso": "1350",
                 "Entrecot": "850",
                 "Chanteaubriand": "1700",
-                "Filete Miñon con Salsa Española": "1300"  
-            },
-            "Brochetas": {
+                "Filete Miñon con Salsa Española": "1300"  ,
                 "Brochetas de Res": "1100"
             },
             "Fittings": {

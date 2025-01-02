@@ -25,7 +25,6 @@
         },
         "Capacity": 40,
         "menu and prices": {
-            "To Start the Day": {
                 "Natural Juices": {
                     "Jugo de Frutas": "450",
                     "Jugo Verde": "450",
@@ -52,7 +51,7 @@
                     "Huevos Fritos": "450",
                     "Tortilla Natural": "450"
                 },
-                "Adds": {
+                "Additions": {
                     "Queso Gouda": "540",
                     "Vegetales Salteados": "300",
                     "Aceitunas": "600",
@@ -70,12 +69,12 @@
                 "Bruschettas de Berenjena, Tomate y mozzarella": "1200",
                 "Tempura de Vegetales": "1350"
             },
-            "Fresh Salads": {
+            "Salads": {
                 "De Vegetales Tiernos y Queso Fresco": "1050",
                 "De vegetales con Pollo": "1350",
                 "De Vegetales y Atun": "1440"
             },
-            "Second Plats": {
+            "Main Dishes": {
                 "La Fuentede Duchamp": "2400",
                 "Pollo Pollock": "2550",
                 "Tercer Mundo de Lam": "3150",
@@ -84,7 +83,7 @@
                 "La Cacerola de Broodthaers": "5400"
                 }
             },
-            "Side Dishes": {
+            "Fittings": {
                 "Arroz Blanco": "450",
                 "Frijoles Negros": "750",
                 "Yuca con Mojo": "600",
@@ -100,16 +99,12 @@
                 "Crepe de Limon": "600",
                 "Crepe Franz": "1350"
             },
-            "Coffees and Digestives Drinks": {
-                "Cafe Espresso": "300",
-                "Cafe Carajillo": "750",
-                "Cafe Frances": "900",
-                "Te de Hierbas Naturales": "300",
+            "Rums": {
                 "Havana Club Añejo 7 Años": "1200",
                 "Havana Club Seleccion de Maestros": "2400",
                 "Ron Santiago de Cuba 11 Años": "1950"
             },
-            "Coffees, Teas and Herbal Teas":{
+            "Coffees":{
                 "Cafe Espresso": "300",
                 "Doble Espresso": "600",
                 "Descafeinado": "480",
@@ -136,4 +131,3 @@
             }
         }
     }
-}

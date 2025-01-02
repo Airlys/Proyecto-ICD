@@ -25,15 +25,13 @@
         },
         "Capacity": 200,
         "menu and prices": {
-            "Cold Starters": {
+            "Starters": {
                 "Ceviche": "1450",
                 "Bruschettas": "950",
                 "Ensalada de Vegetales": "750",
                 "Ensalada de Verduras y Pollo": "1350",
                 "Coctel de Langosta": "1850",
-                "Coctel de Camarones": "1350"
-            },
-            "Hot Starters": {
+                "Coctel de Camarones": "1350",
                 "Maripositas Chinas": "500",
                 "Vegetales Salteados": "750",
                 "Pulpo al Pimenton": "2900",
@@ -70,7 +68,7 @@
                 "Arroz Caldoso Marinero": "3550",
                 "Arroz Caldoso Mar y Tierra": "4550"
             },
-            "To Go With Main Course": {
+            "Fittings": {
                 "Arroz Congris": "480",
                 "Arroz Blanco": "360",
                 "Ensalada de Estacion": "750",
@@ -78,9 +76,11 @@
                 "Racion de Tostones": "550",
                 "Frijoles Negros": "650"
             },
-            "Italian Kitchen":{
+            "Pizza":{
                 "Pizza de Queso": "1200",
-                "Pizza Especial de la Casa": "2100",
+                "Pizza Especial de la Casa": "2100"
+            },
+            "Pasta":{
                 "Pastas Cortas Rigatonni Frutti di Mare": "2700",
                 "Espaguetis con Salsa Napoles": "1100",
                 "Espaguetis a la Bolognesa": "1750",
@@ -96,13 +96,11 @@
                 "Postres Caseros": "650",
                 "Boniatillo con Coco Estilo Omara Portuondo": "750"
             },
-            "Water":{
+            "Drinks":{
                 "Agua Mineral Natural 0,5l": "320",
                 "Agua Mineral Natural 0,33l": "280",
                 "Agua Tonica MG": "650",
-                "Agua Tonica ME": "850"
-            },
-            "Soft Drinks and Juice": {
+                "Agua Tonica ME": "850",
                 "Refresco Cola(Pepsi)": "450",
                 "Refrescos": "350",
                 "Jugos de Fruta": "650",
@@ -110,9 +108,7 @@
                 "Malta": "450",
                 "Malteada": "950",
                 "Limonada": "750",
-                "Limonada Frescura": "850"
-            },
-            "Beers":{
+                "Limonada Frescura": "850",
                 "Cerveza-Belga Star Lemon": "350",
                 "Cerveza-Belga Star Botella de 250ml": "450",
                 "Cerveza-Estrella Damm Botella 33cl": "650",
@@ -121,7 +117,7 @@
                 "Cerveza-Cristal": "550",
                 "Cerveza-Bucanero": "550"
             },
-            "Coffee and Infusions":{
+            "Coffee":{
                 "Capuccino": "450",
                 "Cafe Bombon": "680",
                 "Frapuccino": "850",
@@ -131,7 +127,7 @@
                 "Cafe Americano": "150",
                 "Infusiones": "250"
             },
-            "Other Drinks,Shots":{
+            "Drinks 2":{
                 "Fernet": "350",
                 "Aguardiente Black Tears": "330",
                 "Bebida Energetica Time Flies": "650",
@@ -143,7 +139,7 @@
                 "Cognac Martel VS": "750",
                 "Brandy Armagnac VS": "1200"
             },
-            "Rums and Shots":{
+            "Rums":{
                 "Ron Santiago Blanco": "600",
                 "Ron Santiago 8 Años": "1050",
                 "Ron Santiago 11 Años": "1300",
@@ -155,20 +151,22 @@
                 "Habana Club Seleccion de Maestros": "1650",
                 "Habana Club Pacto Navio": "1500"
             },
-            "Whisky, Tequila, Vodka, Shots":{
+            "Whisky":{
                 "Whisky J.W. Black Label": "1350",
                 "Whisky Jamenson Original": "700",
                 "Whisky J.W. Red Label": "750",
                 "Whisky Chivas Real 12": "850",
-                "Ginebra Master Dry": "740",
-                "Ginebra Afterwork": "480",
                 "Whisky Buchanans": "1950",
                 "Whisky Johnnie Walker Swing": "1900",
                 "Whisky Sir Albert": "550",
-                "Whisky Bourbon Jim Beam Black": "950",
+                "Whisky Bourbon Jim Beam Black": "950"
+            },
+            "Vodka":{
                 "Vodka Absolut": "850",
                 "Vodka Tito's Handmade": "1200",
-                "Vodka Belvedere": "1800",
+                "Vodka Belvedere": "1800"
+            },
+            "Tequila":{
                 "Tequila Los Corrales": "600",
                 "Tequila Reposado Arraigo": "950",
                 "Tequila Jimador Reposado": "1050",
@@ -177,7 +175,6 @@
             "Cocktail": {
                 "Mojito": "890",
                 "Daiquiri": "890",
-                "Ron Collins": "750",
                 "Cuba Libre/Cubata": "950",
                 "Caipirska/Caipirissima": "890",
                 "Caipirinha": "890",

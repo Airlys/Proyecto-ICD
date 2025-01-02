@@ -1,0 +1,51 @@
+{ 
+"Restaurants":{
+    "Restaurante_Europa":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": " 4JQW+CQ6, Obispo, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/N2D1T2E",
+            "total": 3.7,
+            "date": "20241210"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Langosta Entera Grille",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 130,
+        "menu and prices": {
+            "Main Dishes": {
+                "Langosta Entera Grille": "4500",
+                "Camaron Grille": "1900",
+                "Camaron Enchilado": "1740",
+                "Bistec de Cerdo Grille": "850",
+                "Lonjas de Cerdo Asada": "775",
+                "Fajitas de Cerdo": "990",
+                "Pizza Napolitana": "650",
+                "Spaguetti Napolitano": "350"
+            },
+            "Fittings": {
+                "Arroz con Camaron": "550",
+                "Arroz Blanco": "100",
+                "Ensalada Vegetales": "200",
+                "Vianda Hervida": "175"
+            },
+            "Dessert": {
+                "Gelatina": "75"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

@@ -1,0 +1,156 @@
+{ 
+    "Restaurants":{
+        "La_Casa_5ta":{
+            "Province": "La Habana",
+            "Municipality": "La Habana del Este",
+            "Location": "ave 5ta esquina 472, La Habana",
+            "Stars":{
+                "Social network": "Google",
+                "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2BCasa%2BQuinta/%4023.1691988,-82.1423972,15z/data%3D!4m2!3m1!1s0x0:0x791f66660f30ea77%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwi19qO095CKAxUSRTABHaA2K84Q_BJ6BAg7EAk&usg=AOvVaw3XtZLMha9SaLsRt5PqeNTE",
+                "total": 3.9,
+                "date": "20241205"
+        },
+            "schedules": "Apertura 9:00am y Cierre 11:00pm",
+            "Days of the week": "Todos",
+            "Type of food or specialty": "Criolla",
+            "Most popular food": "Uruguayo",
+            "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Efectivo y Transferencia"
+        },
+            "Capacity": 42,
+            "menu and prices": {
+                "Starters": {
+                    "Tostones Naturales": "300",
+                    "Tostones Relleno Jamon/Atun": "680/875",
+                    "Croquetas": "400",
+                    "Coctel de Camarones": "1150",
+                    "Eperlan": "1200",
+                    "Fajitas de Pollo": "1200",
+                    "Entremes de Jamon y Queso": "800",
+                    "Garbanzo Frito": "1000",
+                    "Papas Fritas": "500",
+                    "Chicharritas": "300",
+                    "Picadera Casa 5ta": "3100",
+                    "Bolitas de Queso": "600",
+                    "Ceviche": "750",
+                    "Coctel de Langosta": "1150"
+            },
+                "Main Dishes": {
+                    "Pechuga Grillet": "1500",
+                    "Pechuga Rellena": "1875",
+                    "Gordon Blue": "1850",
+                    "Pollo Frito": "1300",
+                    "Pollo al Curry": "1600",
+                    "Paella Marinera": "2900",
+                    "Paella Mixta": "3050",
+                    "Arroz Frito": "1350",
+                    "Arroz Moro": "200",
+                    "Arroz Blanco": "200",
+                    "Arroz Pilaf": "300",
+                    "Arroz Salvaje con Pulpo": "1500",
+                    "Cordero Montañes": "2900",
+                    "Chilindron de Cordero": "2500",
+                    "Canciller": "1800",
+                    "Langosta al Gusto": "2150",
+                    "Camaron al Gusto": "2150",
+                    "Pescado Entero Frito": "Depende del Peso",
+                    "Filete de Pescado Grille": "1500",
+                    "Pulpo al Gusto": "2800",
+                    "Grillada Mar y Tierra": "3700",
+                    "Grillada de Mar": "3400",
+                    "Cazuela del Mar": "3400",
+                    "Uruguayo": "1775",
+                    "Lomo Ahumado": "1675",
+                    "Lomo Tres Capas": "1950",
+                    "Bistec de Cerdo": "1500",
+                    "Lomo Encebollado": "1675",
+                    "Filete Mignon": "2300",
+                    "Ropa Vieja": "1900",
+                    "Bistec de Res": "2000",
+                    "Higado de Res": "1200"
+            },
+            "Pastas y Pizza":{
+                "Napolitana": "975"
+            },
+            "Lasagna": "1525",
+            "Additions": {
+                "Chorizo": "300",
+                "Jamon": "360",
+                "Champiñones": "225",
+                "Camarones": "800",
+                "Langosta": "800",
+                "Aceitunas": "200",
+                "Piña": "100",
+                "Vegetales": "200",
+                "Atun": "525",
+                "Bacon": "350"
+            },
+            "Fittings": {
+                "Viandas Fritas": "300/500",
+                "Ensalada Mixta": "300"
+            },
+            "Dessert": {
+                "Flan": "500"
+            },
+            "Drinks":{
+                "Agua Natural o Gaseada": "250/350",
+                "Jugos Naturales": "300",
+                "Batido de Frutas": "450",
+                "Refrescos Nacionales": "325",
+                "Refrescos Importados": "350",
+                "Malta": "350/450",
+                "Cerveza Nacional": "450",
+                "Cerveza Importada": "350",
+                "Bebidas Energeticas": "350",
+                "Licores Nacionales": "180",
+                "Sake": "100",
+                "Havana Club 3 Años": "180",
+                "Havana Club Especial": "200",
+                "Havana Club Reserva": "220",
+                "Havana Club 7 Años": "400",
+                "Seleccion Maestros": "870",
+                "Ginebra": "230",
+                "Vodka": "400",
+                "Tequila": "400",
+                "Crema de Whisky": "220",
+                "Whisky Chivas Regal": "870",
+                "Whisky White Label": "240",
+                "Whisky Red Label": "850",
+                "Whisky Black Label": "870",
+                "Brandy": "200",
+                "Ron Ritual": "250",
+                "Santiago 12 Años": "870",
+                "Legendario": "200"
+            },
+            "Cocktail": {
+                "Piña Colada": "550",
+                "Sangria": "1400",
+                "Copa de Vino": "650/1100",
+                "Tinto Verano": "1400",
+                "Daiquiri": "550",
+                "Mojito": "650",
+                "Cuba Libre": "530",
+                "Cubata": "580",
+                "Ron Collins": "500",
+                "Gin Tonic": "550",
+                "Bloody Mary": "550",
+                "Caipiriña": "550",
+                "Caipirisima": "550",
+                "Michelada": "200"
+            },
+            "Coffee":{
+                "Expreso": "100",
+                "Cortadito": "180",
+                "Americano": "120",
+                "Cappuccino": "350"
+            }
+        }
+    }
+}
+}

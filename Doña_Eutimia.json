@@ -25,13 +25,11 @@
         },
         "Capacity": 40,
         "menu and prices": {
-            "Cold Starters": {
+            "Starters": {
                 "Ensalada de Frutas": "800",
                 "Ensalada de Vegetales": "800",
                 "Ensalada del Chef": "1200",
-                "Ensalada de Langosta": "2500"
-            },
-            "Hot Starters": {
+                "Ensalada de Langosta": "2500",
                 "Croquetas de Leticia": "1000",
                 "Frituras de Malanga": "900",
                 "Caldo del Dia": "1000",
@@ -69,7 +67,7 @@
                 "Helados Artesanales": "250",
                 "Copa Lolita": "1000"
             },
-            "Infusions":{
+            "Coffee":{
                 "Cafe": "350",
                 "Cafe Cortado": "380",
                 "Cafe con Leche": "400",
@@ -77,7 +75,7 @@
                 "Frapuccino": "850",
                 "Te": "350"
             },
-            "From The Bar": {
+            "Drinks": {
                 "Aguas Nacionales": "300",
                 "Aguas Importades": "550",
                 "Refrescos Nacionales y Malta": "400",
@@ -92,7 +90,7 @@
                 "Limonada Frescura": "800",
                 "Copa de Vino": "950"
             },
-            "Our Rums":{
+            "Rums":{
                 "Havana Club 3 Años": "600",
                 "Havana Club Añejo Especial": "800",
                 "Havana Club 7 Años": "1100",

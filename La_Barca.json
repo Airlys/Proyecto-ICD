@@ -39,24 +39,16 @@
                 "Tabla de Jamon Serrano": "2000"
             },
             "Main Dishes": {
-                "Meat Cuts": {
-                    "Entrecot de Res": "2000",
-                    "Filete Miñon": "2500",
-                    "Filete Chateaubriand": "3500"
-                },
-                "A la Brasa": {
-                    "Brocheta Campesina": "1500",
-                    "Brocheta de Solomillo y Bacon": "1500",
-                    "Lonjas de Cerdo": "1800",
-                    "Solomillo de Cerdo": "2500",
-                    "Pollo Asado": "1000"
-                }
-            },
-            "Traditional Dishes": {
+                "Entrecot de Res": "2000",
+                "Filete Miñon": "2500",
+                "Filete Chateaubriand": "3500",
+                "Brocheta Campesina": "1500",
+                "Brocheta de Solomillo y Bacon": "1500",
+                "Lonjas de Cerdo": "1800",
+                "Solomillo de Cerdo": "2500",
+                "Pollo Asado": "1000",
                 "Timbal de Ropa Vieja": "1500",
-                "Masas de Cerdo Cubanas": "2000"
-            },
-            "Sea": {
+                "Masas de Cerdo Cubanas": "2000",
                 "Filete de Pescado Grille": "2000"
             },
             "Pasta": {
@@ -200,7 +192,7 @@
                 "Anis Chinchon Dulce": "150",
                 "Anis Seco Chinchon": "150"
             },
-            "Liquors":{
+            "Liqueurs":{
                 "Licor Jarabe Kiwi Trial": "250",
                 "Licor Anis Mono Dulce": "250",
                 "Licor Anis Mono Seco": "500",

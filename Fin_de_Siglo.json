@@ -45,7 +45,7 @@
                 "Croquetas de la Casa": "700",
                 "Surtido de la Casa": "1500"
             },
-            "Food": {
+            "Main Dishes": {
                 "Pollo Salteado C/ Vegetales": "800"
             },
             "Drinks":{
@@ -64,7 +64,7 @@
                 "Cubata": "550",
                 "Cuba Libre": "550"
             },
-            "Drinks and Bottles":{
+            "Drinks 2":{
                 "3 Años": "385",
                 "Carta Blanca": "330",
                 "Especial": "440",

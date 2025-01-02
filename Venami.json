@@ -36,9 +36,7 @@
                     "Estrofollino Vegetal": "850",
                     "Estrofollino Jamon": "900",
                     "Estrofollino Natural": "650",
-                    "Focaccia c/ Jamon Serrano": "1100"
-            },
-                "Creams": {
+                    "Focaccia c/ Jamon Serrano": "1100",
                     "Crema de Queso": "600",
                     "Crema Virginia": "630",
                     "Crema Champignon": "650"
@@ -48,7 +46,7 @@
                     "Al Fruto de Mar": "1350",
                     "Al Venami": "1050"
             },
-                "Second Course": {
+                "Main Dishes": {
                     "Pollo al Limon": "1210",
                     "Pollo a la Piazzola": "1250",
                     "Cerdo al Limon": "1300",
@@ -75,12 +73,10 @@
                     "Pizza de Pollo": "1100",
                     "Pizza Vegetariana": "910"
             },
-            "Fresh Pasta":{
+            "Pasta":{
                 "Lazaña": "1200",
                 "Fetuccine Boloñesa": "1050",
-                "Cenelones": "1050"
-            },
-            "Pasta":{
+                "Cenelones": "1050",
                 "Penne Champignon/Serrano": "1380",
                 "Spaghetty Amatriciana": "1100",
                 "Spaghetty Alfredo(Jamon)": "1050",

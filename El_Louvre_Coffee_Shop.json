@@ -71,12 +71,10 @@
                 "Te Frio o Caliente": "125",
                 "Jugos de Frutas Naturales": "200"
             },
-            "Non-Alcoholic Cocktails":{
+            "Cocktails":{
                 "Jugo de Frutas con Granadina": "200",
                 "Limonada": "125",
-                "Piña Colada sin Alcohol": "350"
-            },
-            "Great Cuban Classics":{
+                "Piña Colada sin Alcohol": "350",
                 "Cuba Libre": "300",
                 "Isla de Pinos": "300",
                 "Havana Especial": "300",
@@ -86,9 +84,7 @@
                 "Ron Collins": "300",
                 "Daiquiri Frappe o Natural": "300",
                 "Mary Pickford": "300",
-                "Canchanchara": "300"
-            },
-            "Varied":{
+                "Canchanchara": "300",
                 "Tom Collins": "450",
                 "Gibson": "450",
                 "Gin Fizz": "450",
@@ -102,7 +98,7 @@
                 "Margarita": "450",
                 "Whisky Old Fashion": "450"
             },
-            "Various Drinks": {
+            "Drinks": {
                 "Refrescos Nacionales": "200",
                 "Vasos de Refrescos": "180",
                 "Refrescos Importados": "350",

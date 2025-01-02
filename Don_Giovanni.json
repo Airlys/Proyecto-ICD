@@ -36,7 +36,7 @@
                 "Espaguetis Jamon": "2300",
                 "Espaguetis a la Boloñesa": "2400"
             },
-            "House Dishes": {
+            "Main Dishes": {
                 "Paella de Vegetales": "2400",
                 "Picadillo a la Habanera": "2600",
                 "Ropa Vieja Cordero": "2800",
@@ -65,7 +65,7 @@
                 "Cerveza Nacional": "600",
                 "Cerveza Importada": "600"
             },
-            "Infusions": {
+            "Coffee": {
                 "Cafe Espresso": "300",
                 "Cafe America": "300",
                 "Cafe Cortado": "350",

@@ -1,0 +1,68 @@
+{ 
+"Restaurants":{
+    "El_Castillo_de_Farnes":{
+        "Province": "La Habana",
+        "Municipality": "La Habana Vieja",
+        "Location": "4JPV+Q4 La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/TvurWB4",
+            "total": 4.6,
+            "date": "20241208"
+        },
+        "schedules": "Apertura 9:00am y Cierre 9:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Cerdo Estofado",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 20,
+        "menu and prices": {
+            "Offers of the day": {
+                "Pizza Napolitana": "275",
+                "Espaguetis Margarita": "350",
+                "Agrego de Atun": "+100"
+            },
+            "Main Dishes": {
+                "Cerdo Estofado/Guarnicion": "875",
+                "Fajitas de Cerdo": "990",
+                "Bistec de Cerdo/Guarnicion": "850",
+                "Res Estofada": "875",
+                "Lonjas de Res": "945"
+            },
+            "Fittings": {
+                "Arroz con Sustancia": "105"
+            },
+            "Drinks": {
+                "Gin Tonic": "350",
+                "Ron Collins": "300",
+                "Daiquiri": "300",
+                "Licor Cubay de Menta": "200",
+                "Licor Curacao Azul": "200",
+                "Licor Cubay de Anis": "200",
+                "Cerveza Importada/Lata-Botella": "175",
+                "Cerveza Nacional/Lata-Botella": "160",
+                "Parranda": "180",
+                "Jugo Nacional Lata": "90",
+                "Limonada": "100",
+                "Vaso de Jugo Importado": "80",
+                "Malta Importada": "135"
+            },
+            "Coffee": {
+                "Cafe Express": "125",
+                "Cafe Americano": "150",
+                "Cafe Cortado": "175",
+                "Cafe con Leche": "180",
+                "Leche Fria": "160"
+            }
+        }
+    }
+}
+}
