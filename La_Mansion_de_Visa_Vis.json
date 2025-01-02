@@ -1,0 +1,107 @@
+{ 
+"Restaurants":{
+    "La_Mansion_de_Visa_Vis":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle L, & Calle 11, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/xk2C4Ub",
+            "total": 4.0,
+            "date": "20250101"
+        },
+        "schedules": "Apertura 9:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Lonjas de Cerdo",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 100,
+        "menu and prices": {
+            "Starters": {
+                "Carpaccio de Res": "2590",
+                "Carpaccio de Pulpo": "2680",
+                "Ceviche la Mansion": "1850",
+                "Coctel de Mariscos": "1990",
+                "Delicias la Mansion": "5990",
+                "Crocantes de la Mansion": "790",
+                "Tostones de Piher": "1990",
+                "Sopa del Dia": "890",
+                "Ajiaco": "890",
+                "Cremas": "1190"
+            },
+            "Fittings": {
+                "Arroz Moro": "390",
+                "Arroz Blanco": "290",
+                "Vianda Frita": "790"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo": "1490",
+                "Masas de Cerdo Campesinas": "2490",
+                "Milanesa de Cerdo": "2390",
+                "Pollo al Carbon": "1990",
+                "Suprema de Pollo": "2190",
+                "Milanesa de Pollo": "2390",
+                "Ropa Vieja": "2190",
+                "Vaca Frita": "2190",
+                "Chuleta de Cordero": "2290",
+                "Chilindron de Cordero": "2890",
+                "Langosta al Carbon": "4390",
+                "Langosta Enchilada": "4590",
+                "Camarones al Ajillo": "3990",
+                "Camarones Enchilado": "3990",
+                "Filete de Pescado Grille": "2390",
+                "Pescado Canciller": "2990",
+                "Rueda de Aguja": "6990",
+                "Mar y Tierra": "9890",
+                "Dueto de Pollo al Carbon": "3990",
+                "Chuleton de Cocote": "2990"
+            },
+            "Salads": {
+                "Cesar": "1450",
+                "Griega": "1550",
+                "Caprese": "1250",
+                "De la Casa": "550"
+            },
+            "Pasta": {
+                "Pesto con Camarones": "2390",
+                "Frutti di Mare": "2290",
+                "Bolognesa": "1400",
+                "Pomodoro": "950",
+                "4 Quesos": "2150"
+            },
+            "Rice": {
+                "Paella Valenciana": "4690",
+                "Paella de Carne": "2990",
+                "Paella de Mariscos": "4490",
+                "Paella de Vegetales": "2490"
+            },
+            "Entrepanes": {
+                "Sandwich Cubano": "1690",
+                "Ciabatta": "1990",
+                "Jamon y Queso": "1390"
+            },
+            "Desserts":{
+                "Flan de la casa": null
+            },
+            "Drinks":{
+                "Agua Natural Nacional": "220",
+                "Agua Natural Importada": "270",
+                "Refrescos Nacionales": "270",
+                "Refrescos Importados": "350",
+                "Malta Nacional": "410",
+                "Malta Importada": "380",
+                "Cerveza Nacional": "480",
+                "Cerveza Importada": "280"
+            }
+        }
+    }
+}
+}

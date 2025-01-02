@@ -1,0 +1,43 @@
+{ 
+"Restaurants":{
+    "Los_Amigos":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle M no. 253 e/ 19 y 21(Interiores)",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/b21nHeV",
+            "total": 4.1,
+            "date": "20250101"
+        },
+        "schedules": "Apertura 12:00m y Cierre 8:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Masas de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 20,
+        "menu and prices": {
+            "Main Dishes": {
+                "Fricase de Cerdo": "800",
+                "Masa de Cerdo": "800",
+                "Bistec de Cerdo": "850",
+                "Bistec Uruguayo": "900",
+                "Chuleta de Cerdo": "4000",
+                "Bistec de Higado": "700"
+            },
+            "Drinks": {
+                "Cerveza": "300",
+                "Refresco": "300"
+            }
+        }
+    }
+}
+}

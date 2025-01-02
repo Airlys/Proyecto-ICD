@@ -1,0 +1,216 @@
+{ 
+"Restaurants":{
+    "Cafe_Laurent":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "4JR8+MC7, Penthouse, 257 Calle M, La Habana 10400",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/qfdY1YR",
+            "total": 4.2,
+            "date": "20250101"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Internacional",
+        "Most popular food": "Costilla a la Barbikiu",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": 150,
+        "menu and prices": {
+            "Starters": {
+                "Pan Baguette con Aceite de Oliva y Vinagre Balsamico": "1085",
+                "Crema de Verduras": "1240",
+                "Salmorejo": "1550",
+                "Sopa de Mariscos": "1860",
+                "Ensalada Vegetales": "1550",
+                "Ensalada con Mozarella y Vegetales": "2170",
+                "Ensalada de Pollo": "2759",
+                "Carpaccio de Res": "3720",
+                "Tabla de Quesos y Confituras": "3720",
+                "Tabla de Jamon Serrano y Quesos": "4650",
+                "Piquillo de Ternera": "2170",
+                "Coctel de Camaron": "3720",
+                "Chilado de Camaron": "3100",
+                "Carpaccio de Langosta": "4340",
+                "Carpaccio de Pulpo": "3100",
+                "Tiradito de Atun": "3720",
+                "Ensalada Tai": "2635",
+                "Ceviche con chips de Boniato": "2480",
+                "Croquetas de la Casa": "1860",
+                "Empanadas": "2480"
+            },
+            "Main Dishes": {
+                "Pescado Grille con Refrito de Ajo": "6820",
+                "Pescado en Salsa Verde": "6820",
+                "Pescado Entero a la Plancha": "7440",
+                "Camaron al Ajillo": "6820",
+                "Camaron a la Diabla": "6510",
+                "Pulpo Grillado": "7750",
+                "Pulpo a la Gallega": "8370",
+                "Langosta Grille con Crema Americana": "9300",
+                "Langosta Enchilada": "8990",
+                "Caldereta de Mariscos": "10850",
+                "Grillada Mar y Tierra": "10850",
+                "Pollo Asado al Carbon": "6200",
+                "Pollo Salteado con Vegetales": "6510",
+                "Costillas BBQ": "7750",
+                "Solomillo con Salsa Dijon": "10850",
+                "Ropa Vieja de Res": "6200"
+            },
+            "Rice": {
+                "Arroz Campero": "6820",
+                "Meloso de Mariscos": "7750",
+                "Meloso de Pollo y Champiñon": "7130",
+                "Arroz Negro": "7750"
+            },
+            "Fittings": {
+                "Pure Vianda": "930",
+                "Vianda Frita": "930",
+                "Verduras Grilladas": "1209",
+                "Arroz Blanco": "620",
+                "Arroz Moro": "930"
+            },
+            "Desserts": {
+                "Helados Variados": "1240",
+                "Profiteroles con Crema Pastelera": "1550",
+                "Infusion de Frutos Silvestres": "1860",
+                "Brownie de Chocolate": "2325",
+                "Tarta de Limon": "1705",
+                "Arroz con Leche": "1550"
+            },
+            "Coffee": {
+                "Espresso": "465",
+                "Americano": "558",
+                "Cortado": "620",
+                "Con Leche": "775",
+                "Cappuchino": "930",
+                "Carajillo": "775",
+                "Rocio de Gallo": "930",
+                "Frappuchino": "1085",
+                "Te": "558"
+            },
+            "Drinks": {
+                "Aguas Nacionales": "620",
+                "Aguas Importadas": "1085",
+                "Agua Tonica Nacional": "620",
+                "Agua Tonica Importada": "1085",
+                "Jugos Naturales": "620",
+                "Refrescos Nacionales": "775",
+                "Refrescos Importados": "775",
+                "Malta": "930",
+                "RedBull": "930",
+                "Cerveza Nacional": "775",
+                "Cerveza Importada": "1085"
+            },
+            "Rums":{
+                "Havana Club 3 Años": "620",
+                "Havana Club Añejo Especial": "775",
+                "Havana Club Reserva": "930",
+                "Havana Club 7 Años": "1085",
+                "Seleccion de Maestro": "1550",
+                "Pacto Navio": "1550",
+                "Havana Club 15 Años": "3100",
+                "Havana Club Union": "9300",
+                "Santiago 8 Años": "1550",
+                "Santiago 11 Años": "1860",
+                "Santiago 12 Años": "2170",
+                "cubay 10 Años": "620"
+            },
+            "Whisky": {
+                "Black & White": "775",
+                "Ballantine": "775",
+                "Chivas Regal 12 Años": "1240",
+                "Chivas Regal 15 Años": "2480",
+                "JB": "620",
+                "Johnnie Walker Red Label": "1550",
+                "Johnnie Walker black Label": "2170",
+                "Johnnie Walker Green Label": "3100",
+                "Johnnie Walker 18 Años": "5270",
+                "Johnnie Walker Blue Label": "7750",
+                "Old Parr": "1395"
+            },
+            "Geneva": {
+                "Ginebra": "775",
+                "Gordon's": "930",
+                "Master's": "930",
+                "Gin Mare": "1550" 
+            },
+            "Wines": {
+                "Vermouth Cinzano Ext Dry": "1240"
+            },
+            "Cocktails": {
+                "Mojito": "930",
+                "mojito con 7 Años": "1550",
+                "Mojito Frappe": "1240",
+                "Mojito de Sabor": "1550",
+                "Mojito Laurent": "2325",
+                "Limonada Natural": "620",
+                "Limonada Frappe": "620",
+                "Limonada Verde": "1085",
+                "Limonada Clarete": "1550",
+                "Daiquiri Frappe": "930",
+                "Daiquiri Mulata": "1240",
+                "Daiquiri de Sabor": "1240",
+                "Cuba Libre": "930",
+                "Chelada Nacional": "1085",
+                "Chelada Internacional": "1395",
+                "Michelada Nacional": "1395",
+                "Michelada Internacional": "1705",
+                "Ron Collins": "930",
+                "Sangria": "1240",
+                "Tinto Verano": "1240",
+                "Vodka Tonic": "1240",
+                "Piña Colada": "1240",
+                "Screwdriver": "930",
+                "Cubata": "1240",
+                "Martini Extra Dry": "1240",
+                "Martini Blanco": "1240",
+                "Gin Tonic Nacional": "1240",
+                "Gin Tonic Internacional": "1550",
+                "JagguerBull": "1860",
+                "JagguerCaipi": "2170",
+                "Caipirissima": "1240",
+                "Caipiriña": "1240",
+                "Caipiroska": "1240",
+                "Caipiriña Fruta": "1395",
+                "Margarita": "1240",
+                "Margarita Laurent": "2635",
+                "Jarra Sangria": "4650"
+            },
+            "Tequila":{
+                "Olmeca Blanco": "775",
+                "Olmeca Reposado": "930",
+                "Don Ramon Platinium": "4030",
+                "Don Ramon Reposado": "4650",
+                "Patron Silver": "4228.4",
+                "Patron Reposado": "4932.1",
+                "Rose": "1860"
+            },
+            "Vodka": {
+                "Ciroc": "1178",
+                "Absoluto": "775",
+                "De la Casa": "620"
+            },
+            "Liqueurs": {
+                "Licor Frangelico": "1240",
+                "Licor Limoncello": "620",
+                "Anis del Mono": "620",
+                "Licor Kalhua": "620",
+                "Sambuca Molinari Cafe": "620"
+            },
+            "Creams": {
+                "Crema Barcelo": "930",
+                "Crema Baileys": "930"
+            }
+        }
+    }
+}
+}

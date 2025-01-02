@@ -1,0 +1,113 @@
+{ 
+"Restaurants":{
+    "Gusto":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": " Calle N no.153 e/ 17 y 19 Vedado, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/b7hw9B7",
+            "total": 4.6,
+            "date": "20250101"
+        },
+        "schedules": "Apertura 11:30m y Cierre 11:30pm",
+        "Days of the week": "Lunes,Martes,Jueves,Viernes,Sabados",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": "Carbonara",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 45,
+        "menu and prices": {
+            "Starters": {
+                "Caprese": "1750",
+                "Ensalada de Atun": "1980",
+                "Berenjena a la Parmesana": "1485",
+                "Bruschette": "990",
+                "Ensalada RAM": "2350",
+                "Entrante Italiano": "5600"
+            },
+            "Pasta": {
+                "Carbonara Romana Tradicional": "3190",
+                "Pasta All'Amatriciana": "2970",
+                "Pasta Mar y Montaña": "3080",
+                "Pasta Ajo,Aceite de Oliva y Picantes": "1738",
+                "Pasta con Camarones al Guazzetto": "3200",
+                "Pasta Michi": "2800",
+                "Pasta al Ragu": "2800",
+                "Pasta con langosta": "2900",
+                "Pasta Siciliano": "3800",
+                "Pasta con Frijoles": "2100",
+                "Pasta Piselli": "2550"
+            },
+            "Main Dishes": {
+                "Salteado de Camarones al Guazzetto": "3420",
+                "Langosta": "3520",
+                "Filete Pescado del Dia": "2585",
+                "Grillada Mixta de Mar": "3850",
+                "Cotoletta a la Milanesa": "2680",
+                "Pollo a la Plancha": "1815",
+                "Ropa Vieja": "1980",
+                "Bistec de Cerdo": "2090"
+            },
+            "Fittings": {
+                "Arroz Blanco o Moro": "300",
+                "Frijoles Negros": "400",
+                "Papas Fritas": "700",
+                "Papas al Horno": "700",
+                "Ensalada Mixta": "700",
+                "Vegetales Salteados": "700"
+            },
+            "Pizza": {
+                "Marinara": "1375",
+                "Margarita": "1890",
+                "Napolitana": "2750",
+                "Fiamma ": "2900",
+                "Prosciutto Crudo": "2600",
+                "Roberta": "2565",
+                "Funghi y ...": "2800",
+                "Atun y Cebolla": "2600",
+                "Bismarck": "2600",
+                "4 Quesos": "2860",
+                "Focaccia con Agregos": "1550",
+                "Focaccia Bianca": "990",
+                "...... Hawaiana": "100000"
+            },
+            "Drinks":{
+                "Agua Natural Nacional": "275",
+                "Agua Gaseada Nacional": "300",
+                "Agua Natural Importada": "495",
+                "Agua Gaseada Importada": "495",
+                "Agua Tonica Importada": "600",
+                "Cerveza Nacional": "550",
+                "Cerveza Importada": "750",
+                "Limonada Natural": "660",
+                "Limonada Frappe": "660",
+                "Limonada Frescura": "850",
+                "Frescupiña": "850",
+                "Jugo Natural": "450",
+                "Refrescos": "600",
+                "Aperol Spritz": "2160",
+                "Negroni": "1900",
+                "Sangria": "935",
+                "Cocteles": "880",
+                "Gin Tonic": "1400",
+                "Margarita": "990",
+                "Vodka Tonic": "1200",
+                "Piña Colada": "1000",
+                "Servicio de Michelada": "800",
+                "Limoncello": "550",
+                "Rones Santiago": "1350 a 1800",
+                "Tequila": "990 a 2500",
+                "Affogato al Caffe": "770"
+            }
+        }
+    }
+}
+}

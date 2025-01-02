@@ -1,0 +1,217 @@
+{ 
+"Restaurants":{
+    "La_Carreta":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "4JQ7+VRG, esq. K, Vedado,, Calle 21, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Restaurante%2BLa%2BCarreta/data%3D!4m2!3m1!1s0x0:0xc0bd0b78a1558e60%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjR3vv__c2KAxVnSzABHbxHJJIQ_BJ6BAhAEAk&usg=AOvVaw0vy6pU89wLFf8kzZnZkUG2",
+            "total": 3.9,
+            "date": "20241229"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Ropa Vieja",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 150,
+        "menu and prices": {
+            "Starters": {
+                "Cesta de Pan de la Casa": "600",
+                "Coctel Colage de Frutas Tropicales": "600",
+                "Ensalada de Frutas Tropicales": "600",
+                "Coctel de Langosta": "2100",
+                "Coctel de Camarones": "1800",
+                "Tabla Mediterranea": "3600",
+                "Ensalada de la Huerta": "600",
+                "Vegetales Salteados": "650",
+                "Vianda Hervida": "500",
+                "Tamal en Hojas": "500",
+                "Ajiaco Criollo": "500",
+                "Antojito del Dia": "750",
+                "Croquetas de la Casa": "750",
+                "Toston de Puñetazo": "600",
+                "Tostones Rellenos": "900",
+                "Vianda Frita": "600",
+                "Picando con Guajiros": "2400"
+            },
+            "Main Dishes": {
+                "Picadillo a la Habanera": "1300",
+                "Vaca Frita a la Tradicion": "2400",
+                "Ropa Vieja Carretera": "2400",
+                "Tasajo": "5000",
+                "Lonjas de Cerdo el Estribo": "2000",
+                "Bistec del Yunta": "2000",
+                "Masas Fritas a lo Campestre": "3000",
+                "Costillas Tentadoras al Gusto": "4000",
+                "Lomo Ahumado al Gusto": "2400",
+                "Chilindron a lo Montuno": "4000",
+                "Cordero al Curry": "4000",
+                "Pollo Asado al Estilo Carreta": "2000",
+                "Pechuga Grille": "2100",
+                "Pollo al Curry": "2000",
+                "Grillada del Corral": "8000",
+                "Grillada del Mar": "9000",
+                "Grillada Mar y Tierra": "10000",
+                "Paletilla de Cordero al Vino Tinto y Romero": "7500",
+                "Cantio de Gallo": "4000",
+                "Filete de Pescado Grille": "2700",
+                "Filete de Pescado Enchilado": "2900",
+                "Camarones Grille": "3500",
+                "Camarones al Ajillo": "3550",
+                "Enchilado de Camaron": "3550",
+                "Enchilado de Langosta": "4000",
+                "Langosta Grille": "4000"
+            },
+            "Childrens": {
+                "Pechuga de Pollo con Arroz,Vianda Frita y Jugo Natural": "1350",
+                "Pizza Napolitana y Jugo Natural": "1350",
+                "Espaguetis Napolitano y Jugo Natural": "1350"
+            },
+            "Fittings": {
+                "Arroz Blanco": "250",
+                "Moros y Cristianos": "300",
+                "Arroz Primavera": "350",
+                "Frijoles Negros": "300"
+            },
+            "Desserts": {
+                "Bocadito Dulce de Limon y Crema": "800",
+                "Regalo de Mulato": "800",
+                "Canoa de Helado": "500",
+                "Variedad de Postres": "2500",
+                "Flan Tentador": "500",
+                "Arroz con Leche de la Abuela": "450",
+                "Cake a la Moda": "800"
+            },
+            "Drinks": {
+                "Agua Nacional": "250",
+                "Agua Gaseada": "250",
+                "Agua Tonica Nacional": "300",
+                "Agua Importada": "500",
+                "Refrescos Nacionales": "300",
+                "Refrescos Importados": "450",
+                "Malta": "400",
+                "Malteada": "500",
+                "Cerveza Nacional": "400",
+                "Cervezas Importadas": "400",
+                "Vaso 8oz": "210",
+                "Jarra 500ml": "420",
+                "Jugos Naturales": "300",
+                "San Francisco": "300",
+                "Jugos en Conserva": "400",
+                "Limonada Frappe": "450",
+                "Limonada Frescura": "500",
+                "Naranjada": "400"
+            },
+            "Wines": {
+                "Blanco": "600",
+                "Rosado": "600",
+                "Tinto": "600",
+                "Vermouth Rosso": "525",
+                "Vermouth Blanco": "525",
+                "Vermouth Extra Dry": "525"
+            },
+            "Coffee": {
+                "Espresso": "250",
+                "Cortado": "300",
+                "Americano": "300",
+                "Cappuchino": "400",
+                "Con Leche": "450",
+                "Bombon": "500",
+                "Frappuchino": "500",
+                "Te": "150"
+            },
+            "Cocktails": {
+                "Mojito Tradicional": "600",
+                "Mojito Tropical": "700",
+                "Daiquiri Natural": "550",
+                "Daiquiri Frappe": "550",
+                "Cubanito": "550",
+                "Cuba Libre": "550",
+                "Canchanchara": "925",
+                "Caipirissima": "550",
+                "Caipiriña": "550",
+                "Caipiroska": "550",
+                "Screwdriver": "750",
+                "Bloody Mary": "950",
+                "Piña Colada": "950",
+                "Servicio de Chelada": "600",
+                "Servicio de michelada": "600",
+                "Mega Mojito": "1250",
+                "Sangria": "900",
+                "Tinto de Verano": "850",
+                "Gin Tonic con Imagin": "900",
+                "Gin Tonic con Beefeater": "1000",
+                "Gin Tonic con Tanqueray": "1100",
+                "Vodka Tonic con Belvedere": "1100",
+                "Vodka Tonic con Absolut": "1100"
+            },
+            "Rums": {
+                "Havana Club 3 Años": "300",
+                "Havana Club Especial": "330",
+                "Havana Club Reserva": "360",
+                "Havana Club Ritual": "390",
+                "Havana Club 7 Años": "500",
+                "Havana Club Seleccion de Maestros": "1000",
+                "Havana Club Profundo": "350",
+                "Santiago Añejo": "500",
+                "Santiago Añejo 8 Años": "750",
+                "Santiago Añejo 11 Años": "1000",
+                "Santiago Añejo 12 Años": "1000",
+                "Santiago Extra Seco": "1100",
+                "Mulata 15 Años": "1200",
+                "Santero 11 Años": "1000" 
+            },
+            "Whisky": {
+                "Ballantine's": "625",
+                "Chivas Regal 12 Años": "1500",
+                "Clan Campbell": "700",
+                "Jameson": "815",
+                "Buchanans": "2200",
+                "Johnnie Walker Red Label": "900",
+                "Johnnie Walker BLack Label": "2000"
+            },
+            "Cognac": {
+                "Hennessy": "1000"
+            },
+            "Brandy": {
+                "Torres 5": "500",
+                "Napoleon": "500"
+            },
+            "Geneva": {
+                "Beefeater": "525",
+                "Imagin": "450",
+                "Reythor": "475"
+            },
+            "Vodka": {
+                "Absolut": "950",
+                "Belvedere": "1050"
+            },
+            "Tequila": {
+                "Olmeca BLanco": "500",
+                "Olmeca Reposado": "550"
+            },
+            "Liqueurs": {
+                "Sambuca": "450",
+                "Anis Seco": "450",
+                "Campari": "450",
+                "Limoncello": "550",
+                "Aperol": "700",
+                "Grappa": "550"
+            },
+            "Aguardiente":{
+                "De la Casa": "300"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,78 @@
+{ 
+"Restaurants":{
+    "Lucky_Bite":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "4JW6+4MR, Calle L, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Lucky%2BBite/data%3D!4m2!3m1!1s0x0:0xd5b86635834df7e2%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiWg7zF0dWKAxW5RDABHQsfFg4Q_BJ6BAg3EAk&usg=AOvVaw2igYx7x7LRNvT-Zt4W8bRU",
+            "total": 5.0,
+            "date": "20250101"
+        },
+        "schedules": "Apertura 8:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": "Pan con Lechon",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 28,
+        "menu and prices": {
+            "Starters": {
+                "Tostones Campesinos": "440",
+                "Tostones con Jamon y Queso": "740",
+                "Tostones con Atun": "890",
+                "Croquetas de la Casa": "890",
+                "Frituras de Malanga": "750"
+            },
+            "Pastas": {
+                "Espaguetis": "1190"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "1290",
+                "Pizza de Atun y Cebolla": "2190",
+                "Pizza Hawaiana": "2190",
+                "Pizza Iberica": "3540"
+            },
+            "Sandwich": {
+                "Sandwich de Atun": "1900",
+                "Sandwich de J&Q": "1490",
+                "Pan con Lechon": "1670",
+                "Pollo Chiflado": "1590"
+            },
+            "Hamburger": {
+                "Cerdo": "1390",
+                "Res": "1600"
+            },
+            "Drinks": {
+                "Jugo Natural": "430",
+                "Batido de Fruta": "650",
+                "Limonada Natural": "690",
+                "Limonada Frappe": "690",
+                "Cerveza Importada": "320",
+                "Cerveza Nacional": "440",
+                "Energizante": "450",
+                "Agua Natural": "350",
+                "Agua Gaseada": "420",
+                "Refresco Importado": "410"
+            },
+            "Coffee": {
+                "Espresso": "310",
+                "Cortado": "360",
+                "Cappuchino": "430",
+                "Bombon": "620",
+                "Latte": "430",
+                "Te": "360",
+                "Te frio": "410"
+            }
+        }
+    }
+}
+}
