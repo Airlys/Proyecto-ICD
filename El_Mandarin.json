@@ -1,0 +1,140 @@
+{ 
+"Restaurants":{
+    "El_Mandarin":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "4JR8+4W2, Av. 23, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/gYXSzBg",
+            "total": 3.4,
+            "date": "20250102"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:45pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "China",
+        "Most popular food": "Arroz Frito",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": true,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 32,
+        "menu and prices": {
+            "Starters": {
+                "Maripositas Chinas": "260",
+                "Sopa de Marisco": "100",
+                "Sopa China con Pasta": "185",
+                "Croquetas de Pollo con Aderezo": "250",
+                "Coctel de Frutas Naturales": "80",
+                "Ensalada Fria de Embutidos": "240",
+                "Picadera": "500",
+                "Coctel de Camarones": "620",
+                "Coctel de Langosta": "620",
+                "Lonjas de Jamon": "180"
+            },
+            "Main Dishes": {
+                "Filete de Pescado": "900",
+                "Ruedas de Bonito": "570",
+                "Camaron Enchilado": "950",
+                "Camaron Grille": "950",
+                "Masa de Langosta Enchilada": "980",
+                "Masa de Langosta al Ajillo": "950",
+                "Langosta Mariposa": "1100",
+                "Langosta al Estilo Cantonesa": "1200",
+                "Langosta Entera": "1200",
+                "Pollo Cantones": "680",
+                "Pollo Agridulce Estilo Chino": "700",
+                "Cerdo al Estilo Chino": "850",
+                "Tirillas de Cerdo Agridulce": "850",
+                "Chop Suey de Jamon": "320",
+                "Chop Suey de Cerdo": "380",
+                "Chop Suey de Pollo": "380",
+                "Chop Suey de Langosta": "400",
+                "Chow Mein de Jamon": "350",
+                "Chow Mein de Cerdo": "400",
+                "Chow Mein de Pollo": "400",
+                "Chow Mein de Langosta": "460",
+                "Mar y Tierra": "1500",
+                "Delicias del Mar": "1500"
+            },
+            "Chef's Suggestions": {
+                "Arroz Frito Especial": "750",
+                "Arroz Mandarin": "700"
+            },
+            "Fittings": {
+                "Arroz Blanco": "50",
+                "Arroz con Vegetales": "100",
+                "Arroz Salteado": "350",
+                "Arroz Chino Tres Delicias": "500",
+                "Arroz con Langosta": "600",
+                "Ensalada de Estacion": "45",
+                "Ensalada Mixta": "50",
+                "Vianda con Mojo": "70",
+                "Vianda Frita": "350"
+            },
+            "Desserts": {
+                "Postre del dia": "250"
+            },
+            "Coffee":{
+                "Espresso": "25",
+                "Cafe con Golosinas": "45",
+                "Te con Golosinas": "45",
+                "Te": "65"
+            },
+            "Packaging": {
+                "Termopack": "100",
+                "Cartuchos": "30",
+                "Envase con Tapa para Salsas": "80",
+                "Palillos Chinos": "250"
+            },
+            "Drinks": {
+                "Jugo de Mango": "90",
+                "Jugo Importado Dompy": "270",
+                "Malta": "270",
+                "Refresco Importado": "270",
+                "Cerveza Dispensada": "55",
+                "Cerveza Importada": "280"
+            },
+            "Cocktails": {
+                "Ron Collins": "150",
+                "Cuba Libre": "280",
+                "Mojito": "285",
+                "Caipiriña": "150",
+                "Cubata": "290",
+                "Daiquiri": "150",
+                "Coladita Mandarin": "260"
+            },
+            "Liqueurs": {
+                "Platano": "65",
+                "Cacao": "65",
+                "Cafe": "65",
+                "Limon": "65",
+                "Pasas": "65",
+                "Licor Marrasquino": "65",
+                "Licor Triple Sec": "65",
+                "Elixir 33": "85"
+            },
+            "Wines": {
+                "Copa de Vino La Campana": "250",
+                "Copa de Vino Baron Lescompte": "250"
+            },
+            "Vodka":{
+                "Vodka": "150"
+            },
+            "Rums": {
+                "Ron Santa Cruz Carta Oro": "75",
+                "Havana Club Profundo": "180",
+                "Havana Club Añejo Reserva": "200",
+                "Havana Club 7 Años": "250",
+                "Havana Club Smokin": "300",
+                "Shipmaster": "125"
+            }
+        }
+    }
+}
+}

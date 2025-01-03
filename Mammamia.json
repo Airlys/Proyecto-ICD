@@ -1,0 +1,104 @@
+{ 
+"Restaurants":{
+    "Mammamia":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "4HCC+95C, Avenida 1ra, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Mammamia/data%3D!4m2!3m1!1s0x0:0xd6122314a1b5a63%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiiqpblxNiKAxXZfzABHa72OPcQ_BJ6BAg1EAk&usg=AOvVaw1iK0g3NFVuMry5_qK5ElMA",
+            "total": 5.0,
+            "date": "20250102"
+        },
+        "schedules": "Apertura 7:00am y Cierre 11:30pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiano",
+        "Most popular food": "Pasta Carbonara",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 70,
+        "menu and prices": {
+            "Starte": {  
+                "Tagliere di Salumi & Formaggi x2": "5000",
+                "Tagliere di Salumi & Formaggi x4": "9800",
+                "Carpaccio di Manzo": "3600",
+                "Jamon Serrano": "4200",
+                "Tar Tar di Tonno": "3800",
+                "Pomodori al Graten": "3800",
+                "Tar Tar di Manzo": "4800",
+                "Insalata Cesar": "3200",
+                "Bruschetta Mediterranea": "2800"
+            },
+            "Pastas": {
+                "Pasta a la Carbonara": "3500",
+                "Pasta a la Bolognesa": "3500",
+                "Linguine alla Aragosta": "5800",
+                "Pasta Gamberi & Pesto": "4800",
+                "Linguine allo Scoglio": "4200",
+                "Lasagna a la Bolognesa": "4200",
+                "Gnocchi alla Sorrentina": "3800",
+                "Risotto alla Pescatora": "4500",
+                "Risotto ai Funghi": "5000",
+                "Gnocchi 4 Formaggi": "3800",
+                "Pasta Salsiccia & Porcini": "5500",
+                "Pasta alla Amatriciana": "3200",
+                "Pasta Vodka & Salmone": "4800",
+                "Cacio & Pepe/Alfredo al Tavolo": "5500"
+            },
+            "Main Dishes": {
+                "Filetto di Tonno al Punto Rosso": "4500",
+                "Filet Mignon": "8000",
+                "Tagliata di Manzo": "9000",
+                "Scaloppina di Pollo al Vino Bianco": "4200",
+                "Grigliata di Terra": "27000",
+                "Salmone alla Griglia": "5000",
+                "Re Buy Black Angus": "11000",
+                "Grigliata di Mare": "16000"
+            },
+            "Pizza": {
+                "Marinara": "2000",
+                "Margarita": "2500",
+                "Napolitana": "3300",
+                "Hawaiana": "3800",
+                "Romagnola": "5800",
+                "Diavola": "3300",
+                "Prosciutto Cotto": "3300",
+                "Prosciutto Crudo & Rucola": "4200",
+                "4 Formaggi": "3500",
+                "Pizza alla Pescatora": "5200",
+                "Salsiccia & Funghi": "3800",
+                "Breadly Cooper": "4200",
+                "Calzone Ripieno": "3500",
+                "Mammamia": "5000"
+            },
+            "Cocktails": {
+                "Aperol Spritz": "2500",
+                "Negroni": "2800",
+                "Cuba Libre": "1000",
+                "Daiquiri": "1000",
+                "Gin Tonic": "2000",
+                "Vodka Tonic": "1800",
+                "Margarita": "2200"
+            },
+            "Drinks":{
+                "Refrescos": "700",
+                "Cerveza Nacional": "900",
+                "Cerveza Importada": "1000/1300/1500",
+                "Jugos Embotellado": "800",
+                "Jugos Naturales": "1200",
+                "Copa de Vino": "1200"
+            },
+            "Coffee": {
+                "Espresso": "400"
+            }
+        }
+    }
+}
+}
