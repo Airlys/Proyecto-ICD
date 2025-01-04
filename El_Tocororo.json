@@ -1,0 +1,191 @@
+{ 
+"Restaurants":{
+    "El_Tocororo":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "4HFH+RF3, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/vJ3fgrQ",
+            "total": 4.2,
+            "date": "20250103"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Pollo Asado",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 70,
+        "menu and prices": {
+            "Starters": {
+                "Coctel de Langosta": "550",
+                "Coctel de Pescado": "385",
+                "Ensalada de Pollo Tropical": "300",
+                "Dados de Queso en Escabeche": "425",
+                "Entremes de Jamon": "285",
+                "Seviche Caribeño": "450",
+                "Picadera Especial Tocororos": "1500",
+                "Frituritas de la Abuela": "170",
+                "Croquetas del Chef": "200",
+                "Eperlan de Pescado": "675",
+                "Mejillones a la Diabla": "700",
+                "Sopa Campesina": "80",
+                "Frijoles Negros a la Criolla": "180",
+                "Caldo Marinero": "195"     
+            },
+            "Pastas": {
+                "Espaguetis Napolitano": "550",
+                "Espaguetis Primavera": "625",
+                "Espaguetis al Olio": "550",
+                "Espaguetis Guarnecido con Jamon": "685",
+                "Espaguetis Marinero": "850"
+            },
+            "Main Dishes": {
+                "Pesca Especial del Dia con Salsa de Limon": "1600",
+                "Delicias del Caribe": "1775",
+                "Langosta Grille,Abrillantada con Mantequilla y Olivo": "1750",
+                "Langosta Enchilada": "1700",
+                "Mejillones a la Diabla": "1250",
+                "Pollo al Horno al Estilo del Chef": "820",
+                "Suprema de Pollo Perfumada al Olivo": "850",
+                "Higado Grille con Aderezo Primavera": "985",
+                "Lonjas de Cerdo Asado con Mojo Criollo": "1500",
+                "Costilla de Cerdo Asado a lo Cubano": "1425",
+                "Ternera Guisada a la Campesina": "1550"
+            },
+            "Fittings": {
+                "Hortalizas Salteadas": "100",
+                "Arroz Blanco": "110",
+                "Arroz Moro": "200",
+                "Vianda Hervida": "100",
+                "Vianda Frita": "100",
+                "Papas Fritas": "150"
+            },
+            "Salads": {
+                "Ensalada de Hortalizas": "120"
+            },
+            "Desserts": {
+                "Deliciosa Torta de Chocolate": "160",
+                "Arroz con Leche a la Canela": "115",
+                "Torrijas en Almibar": "105",
+                "Dulces en Almibar Guarnecido con Queso": "145",
+                "Natilla de la Abuela": "95"
+            },
+            "Coffee":{
+                "Espresso": "70",
+                "Cortadito": "80",
+                "Rocio de Gallo": "125",
+                "Carajillo": "125",
+                "Americano": "80",
+                "Te": "80",
+                "Irlandes": "250",
+                "Al Licor": "125"
+            },
+            "Drinks": {
+                "Refrescos Importados": "220",
+                "Refresco Nacional": "150",
+                "Vaso de Refresco": "80",
+                "Jugos de Frutas Frescas": "120",
+                "RedBull": "400",
+                "Agua Mineral Natural": "80",
+                "Agua Mineral Carbonarada": "80",
+                "Agua Natural": "150",
+                "Agua Saborizada": "100",
+                "Agua Tonica MG": "200",
+                "Agua Importada": "180",
+                "Cerveza Dispensada": "250",
+                "Cerveza Parranda": "260",
+                "Cerveza Nacional": "250",
+                "Cerveza Importada": "280",
+                "Cerveza Importada 237ml": "150"
+            },
+            "Cocktails":{
+                "Mojito": "300",
+                "Cubata": "300",
+                "Cuba Libre": "275",
+                "Daiquiri": "300",
+                "Havana Special": "250",
+                "Mary Pickford": "250",
+                "Mojito Oro": "325",
+                "Ron Collins": "285",
+                "Canchanchara Fashion": "275",
+                "Gin Tonic": "325",
+                "Tom Collins": "325",
+                "Screwdriver": "325",
+                "Tequila Sunrise": "325",
+                "Margarita": "350",
+                "Caipirissima": "300",
+                "Caipiroska": "325",
+                "Piña Colada": "350",
+                "Sangria": "350",
+                "Servicio de Chelada": "325",
+                "Servicio de Michelada": "350",
+                "Honey Lips": "240",
+                "San Francisco": "200",
+                "Limonada": "200"
+            },
+            "Rums": {
+                "Legendario Añejo Blanco": "115",
+                "Legendario Dorado": "160",
+                "Legendario Rose": "145",
+                "Legendario Elixir": "150",
+                "Cubay Carta Blanca": "100",
+                "Cubay Añejo": "120",
+                "Havana Club 3 Años": "115",
+                "Havana Club Profundo": "145",
+                "Havana Club Añejo Especial": "135",
+                "Havana Club Reserva": "165",
+                "Havana Club 7 Años": "200",
+                "Havana Club Smoky": "250",
+                "Havana Club Seleccion de Maestros": "380",
+                "Havana Club 15 Años": "1200"
+            },
+            "Whisky": {
+                "J&B": "380",
+                "Johnnie Walker Red Label": "380",
+                "Johnnie Walker Black Label": "500",
+                "Ellior Hall": "120"
+            },
+            "Geneva": {
+                "Gordon's": "240"
+            },
+            "Tequila": {
+                "Tabay Licor de Tequila": "125"
+            },
+            "Vodka": {
+                "Vodka Legendario": "130",
+                "Vodka Tabarish": "120"
+            },
+            "Wines": {
+                "Castell Blanc Semi Seco": "1600",
+                "Henkell Trocken": "1750",
+                "Brincos": "1675",
+                "Condelier Semi-seco": "1600",
+                "Sidras": "700",
+                "Frontera Chardonnay": "1500",
+                "J.P. Chenet Colombard-Sauvignon": "1900",
+                "Copa Frontera": "300",
+                "La Baronne": "1250",
+                "Entrerios": "1250",
+                "Viña Sol": "2100",
+                "Copa de Vino de la Casa": "250",
+                "Pluvium": "1250",
+                "La Baronne(Tinto)": "1250",
+                "Pluvium(Tinto)": "1250",
+                "Entrerios(Tinto)": "1250",
+                "Santa Digna": "2300",
+                "Altos Ibericos": "3500",
+                "Copa de Vino de la Casa(Tinto)": "250"
+            }
+        }
+    }
+}
+}

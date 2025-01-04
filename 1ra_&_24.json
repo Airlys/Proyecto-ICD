@@ -1,0 +1,105 @@
+{ 
+"Restaurants":{
+    "1ra_&_24":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "Calle 1ra entre 22 y 24, Havana",
+        "Stars":{
+            "Social network": "Google",
+            "url": null,
+            "total": null,
+            "date": "20250103"
+        },
+        "schedules": "Apertura 8:00am y Cierre 8:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Masas de Cerdo",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 36,
+        "menu and prices": {
+            "Breakfast": {
+                "Huevos": "200",
+                "Jamon": "210",
+                "Queso": "200",
+                "Tostadas": "130"
+            },
+            "Starters": {
+                "Croquetas": "410",
+                "Frituras de Malanga": "350",
+                "Fajitas de Pollo": "780",
+                "Fajitas de Cerdo": "870",
+                "Ensalada Fria": "550"
+            },
+            "Tacos": {
+                "Tacos de Pollo": "750",
+                "Tacos de Cerdo": "800",
+                "Tacos de Camaron": "1400",
+                "Tacos Mixtos": "1000"
+            },
+            "Hamburger": {
+                "Hamburguesa con Queso": "1200",
+                "Hamburguesa Sencilla": "950"
+            },
+            "Sandwich": {
+                "Sandwich de Jamon y Queso": "690",
+                "Sandwich de Lechon": "720",
+                "Sandwich Cubano": "760",
+                "Sandwich de Atun": "700"
+            },
+            "Main Dishes": {
+                "Eperlan": "800",
+                "Bistec de Cerdo": "1200",
+                "Masas de Cerdo": "1300",
+                "Ropa Vieja de Cerdo": "1150",
+                "Lomo Natural": "1500",
+                "Lomo Ahumado": "1600",
+                "Uruguayo": "1500",
+                "Milanesa de Cerdo": "1300",
+                "Bistec de Pollo": "1150",
+                "Pechuga Grille": "1300",
+                "Pechuga Gratinada": "1400",
+                "Gordon Bleu": "1400",
+                "Milanesa de Pollo": "1200",
+                "Picadillo de Res": "1150",
+                "Pescado Grille": "1600",
+                "Pescado Gratinado": "1700",
+                "Pescado Empanado": "1650",
+                "Canciller": "1750",
+                "Camarones al Gusto": "1800",
+                "Espaguetis": "400"
+            },
+            "Additions": {
+                "Queso": "200",
+                "Jamon": "210",
+                "Picadillo": "350",
+                "Camaron": "1200"
+            },
+            "Fittings": {
+                "Arroz Moro": "250",
+                "Arroz Frito": "960",
+                "Arroz Especial": "1110",
+                "Frijol Negro": "350",
+                "Papas Fritas": "470"
+            },
+            "Desserts": {
+                "Flan": "370"
+            },
+            "Coffee":{
+                "Espresso": "160",
+                "Cortado": "180",
+                "Americano": "160",
+                "Cappuchino": "270",
+                "Con Leche": "270"
+            }
+        }
+    }
+}
+}

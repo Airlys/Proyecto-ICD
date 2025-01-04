@@ -1,0 +1,226 @@
+{ 
+"Restaurants":{
+    "Mes_Amis":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "Calle 20 # 103, esq. 1ra, Miramar, Playa",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/kWbVQeH",
+            "total": 3.5,
+            "date": "20250103"
+        },
+        "schedules": "24 Horas",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Internacional",
+        "Most popular food": "Croquetas de la Casa",
+        "Facilities": {
+            "Pets": false,
+            "Wheelchair ramp": true,
+            "infant stool": true,
+            "Smoking area": true,
+            "Parking": false,
+            "Home service": true,
+            "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 100,
+        "menu and prices": {
+            "Starters": {
+                "Fritura de Malanga": "1650",
+                "Tostones Gratinados": "1620",
+                "Bruschettas de Tomate": "1640",
+                "Fajitas de Pollo": "2500",
+                "Crema de Viandas": "2100",
+                "Salsa de Quesos": "3300",
+                "Serrano a la Mesa": "3300",
+                "Coctel de Mariscos": "2990",
+                "Croquetas de la Casa": "2500",
+                "Picadera Catalana Mama Mia": "7700",
+                "Picadera Francesa Mes Amis": "9400"
+            },
+            "Main Dishes": {
+                "Eperlan de Pescado": "2500",
+                "Ceviche de Pescado": "2900",
+                "Gordon Bleu de Res": "7980",
+                "Pollo": "2450",
+                "Cerdo": "2850",
+                "Solomillo de Cerdo": "3550",
+                "Pescado": "3150",
+                "Pescado Calidad Extra": "3900",
+                "Solomillo de Res": "7200",
+                "Entrecote de Res": "8800",
+                "Mariscos": "4300",
+                "Garbanzo Frito": "2650",
+                "Cachopo Asturiano": "11900"
+            },
+            "Entrepanes": {
+                "Pan Baguette de Vegetales": "1310",
+                "Pan Baguette de Jamon": "1690",
+                "Pan Baguette de Queso": "1690",
+                "Pan Baguette de Jamon y Queso": "1960",
+                "Pan Baguette de Cerdo": "2720",
+                "Pan Baguette de Pollo": "2170",
+                "Pan Baguette de Atun": "2150",
+                "Pan Baguette Catalana": "3120",
+                "Hamburguesa": "1800"
+            },
+            "Pasta": {
+                "Tomate Parmesano": "1830",
+                "Carbonara": "2680",
+                "Frutos del Mar": "3560",
+                "Funghi Porcini": "3030",
+                "Pulpo a la Mejor Pasta": "3450",
+                "Nero di Sepia": "4600"
+            },
+            "Pizza": {
+                "Mediana": "1960",
+                "Extra Grande": "3640"
+            },
+            "Additions":{
+                "Cebolla": "300",
+                "Aji Pimiento": "320",
+                "Huevo": "390",
+                "Piña": "390",
+                "Jamon Vicking": "580",
+                "Jamon Pierna": "680",
+                "Chorizo Iberico": "760",
+                "Bacon": "800",
+                "Queso Gouda": "650",
+                "Tomate Natural": "400",
+                "Atun": "750",
+                "Champiñones": "720",
+                "Aceitunas": "500",
+                "Queso Azul": "860",
+                "Queso Parmesano": "860",
+                "Jamon Serrano": "1200"
+            },
+            "Drinks":{
+                "Batidos de Helado sin Nata": "1280",
+                "Batido de Helado con Nata": "1525",
+                "Batido de Frutas": "850",
+                "Jugo Natural": "600",
+                "Jugos en Conserva": "400",
+                "Malteada": "1090",
+                "Limonada Natural": "950",
+                "Malta": "420",
+                "Refresco Importado": "350",
+                "RedBull": "750",
+                "Refresco Importado 1.75L": "700",
+                "Kermato": "750",
+                "Yogurt Vaso": "250",
+                "Leche con Chocolate": "750",
+                "Leche con Cafe": "750",
+                "Agua Natural Importada": "380",
+                "Agua Natural Importada 1.5L": "600",
+                "Agua Gaseada Importada": "650",
+                "Agua Tonica Importada": "650",
+                "Cerveza Cristal": "390",
+                "Cerveza Super Bock": "400",
+                "Cerveza Cristal(Botella)": "450",
+                "Cerveza Heineken": "650",
+                "Cerveza 3 Horses": "350"
+            },
+            "Cocktails": {
+                "Servicio de Michelada": "320",
+                "Servicio de Chelada": "300",
+                "Ron Collins": "550",
+                "Mojito": "850",
+                "Mojito Afro": "980",
+                "Cuba Libre": "750",
+                "Daiquiri Natural": "920",
+                "Daiquiri de Frutas": "1100",
+                "Cubanito": "1450",
+                "Cubata HC 7 Años": "950",
+                "Cubata HC Especial": "800",
+                "Caipiriña": "860",
+                "Caipiroska": "1200",
+                "Caipirissima": "780",
+                "Margarita": "990",
+                "Screwdriver": "990",
+                "Bloody Mary": "1290",
+                "Martini": "1000",
+                "Gin Tonic": "1200",
+                "Piña Colada": "1500",
+                "San Francisco": "760",
+                "Sangria Española": "1450",
+                "Sangria Catalaña": "1450",
+                "Orgasmo": "1940",
+                "Aperol Spritz": "1980",
+                "Negroni": "1980",
+                "Barbie": "2050",
+                "Coctel Mes Amis": "1700",
+                "French Connection": "1900"
+            },
+            "Rums": {
+                "Havana Club 3 Años": "420",
+                "Havana Club Añejo Especial": "530",
+                "Havana Club Reserva": "660",
+                "Havana Club 7 Años": "700",
+                "Seleccion de Maestros": "1350",
+                "Pacto Navio": "980",
+                "Santiago Carta Blanca": "420",
+                "Santiago Añejo": "560",
+                "Santiago 8 Años": "810",
+                "Santiago 12 Años": "1100"
+            },
+            "Geneva": {
+                "Ginebra Beefeater": "950",
+                "Ginebra Tanqueray": "1190"
+            },
+            "Tequila": {
+                "Tequila Reposado": "1340",
+                "Tequila Blanco": "990"
+            },
+            "Whisky": {
+                "Johnnie Walker Red Label": "840",
+                "Johnnie Walker Black Label": "1120",
+                "Johnnie Walker Doble Black": "1750",
+                "Ballantines": "850",
+                "Jameson": "850",
+                "Ballantines 12 Años": "1250",
+                "Chivas Regal 12 Años": "1250",
+                "Chivas Regal 18 Años": "1860",
+                "J&B": "910",
+                "Buchanans": "1260"
+            },
+            "Brandy":{
+                "Cognac": "2050"
+            },
+            "Vodka":{
+                "Vodka Absolut": "910"
+            },
+            "Liqueurs":{
+                "Jager": "925",
+                "Baylies": "1320"
+            },
+            "Wines": {
+                "Por Copa": "1000",
+                "Botellas Ecologicas": "3500",
+                "Botellas Clasicas": "5000",
+                "Espumoso": "7000",
+                "Botellas de Reserva": "9000",
+                "Gran reserva": "12000",
+                "Cava": "7000"
+            },
+            "Coffee": {
+                "Te": "350",
+                "Espresso": "395",
+                "Cortado": "510",
+                "Americano": "395",
+                "Cappuchino": "700",
+                "Bombon": "990",
+                "Carajillo": "990",
+                "Cafe Joie": "1700"
+            },
+            "Desserts": {
+                "Postre Tipico Cubano": "850",
+                "Mouse de Chocolate": "950",
+                "Tarta de Limon": "1000",
+                "Cheese Cake": "1500",
+                "Canoa de Helado": "845",
+                "Copa de Helado": "1050"
+            }
+        }
+     } 
+}
+}

@@ -1,0 +1,92 @@
+{ 
+"Restaurants":{
+    "Le_Gusto":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "4HFG+W43, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": null,
+            "total": null,
+            "date": "20250103"
+        },
+        "schedules": "Apertura 9:00am y 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Filete de Cerdo",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 28,
+        "menu and prices": {
+            "Breakfast": {
+                "Desayuno": "800"
+            },
+            "Entrepanes": {
+                "Pan Baguette de Jamon y Queso": "650",
+                "Pan Baguette de Chorizo y Queso": "720",
+                "Pan Baguette de Pechuga": "1050",
+                "Pan Baguette de Cerdo Asado": "1050",
+                "Pan Baguette Le Gusto": "1100"
+            },
+            "Starters": {
+                "Croquetas": "550",
+                "Fritura de Malanga": "450",
+                "Bolita de Queso": "850",
+                "Fajitas de Pollo": "1200",
+                "Coctel de Camarones": "1200",
+                "Brusquetas de Jamon y Queso": "750",
+                "Entremes Surtido": "450",
+                "Tamal con Ropa Vieja": "750"
+            },
+            "Main Dishes": {
+                "Pechuga Grille": "1300",
+                "Pechuga Empanada": "1450",
+                "Gordon Bleu": "1500",
+                "Fajitas de Pechuga Salteadas": "1400",
+                "Cerdo Asado": "1300",
+                "Lomo de Cerdo Natural": "1400",
+                "Lomo Encebollado": "1400",
+                "Fajitas de Lomo Salteadas": "1500",
+                "Milanesa de Cerdo": "1650",
+                "Uruguayo de Cerdo": "1700",
+                "Masas Fritas de Cerdo": "1700",
+                "Fricase de Cerdo": "1700",
+                "Ropa Vieja": "1400",
+                "Camarones al Gusto": "1600",
+                "Arroz Frito Especial": "1300",
+                "Filete de Cerdo Encebollado": "1700"
+            },
+            "Pastas": {
+                "Espaguetis Napolitano": "750",
+                "Espaguetis Amatriciana": "950",
+                "Espaguetis Carbonara": "1200"
+            },
+            "Desserts": {
+                "Dulce Nata Rellenos": "500",
+                "Flan": "400"
+            },
+            "Drinks":{
+                "Cerveza Nacional": "330",
+                "Refresco": "290",
+                "RedBull": "500",
+                "Kermato": "550",
+                "Jugos Enlatados": "350"
+            },
+            "Coffee": {
+                "Espresso": "150",
+                "Cortado": "170",
+                "Amatriciana": "150",
+                "Cappuchino": "250",
+                "Con Leche": "250"
+            }
+        }
+    }
+}
+}

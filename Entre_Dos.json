@@ -1,0 +1,131 @@
+{ 
+"Restaurants":{
+    "Entre_Dos":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "4HFG+R3R La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": null,
+            "total": null,
+            "date": "20250103"
+        },
+        "schedules": "Apertura 7:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": "Hamburguesa la Mulatona",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 42,
+        "menu and prices": {
+            "Breakfast":{
+                "Buena Vista": "1545",
+                "Gaudi": "1300",
+                "Entre Dos": "1595"
+            },
+            "Coffee": {
+                "Leche": "300",
+                "Cortado": "280",
+                "Chocolate Negro": "350",
+                "Chocolate Blanco": "350",
+                "Cappuchino": "400",
+                "Bombon": "350",
+                "Americano": "250",
+                "Espresso": "250",
+                "Con Leche": "300"
+            },
+            "Entrepanes": {
+                "Tumbao": "1520",
+                "Sandwich Habanero": "1320",
+                "Sandwich Bikini": "880",
+                "Mediterraneo Verde": "1200",
+                "Sandwich de Queso Chamaco": "980",
+                "Miniburguer": "1230",
+                "Mini Pan con Lechon": "1270",
+                "Semita Hausbrot": "850",
+                "Buns Bolsa": "380"
+            },
+            "Hamburger": {
+                "La Mulatona Burguer": "2180",
+                "Hamburguesa Tostada": "1930",
+                "Corona Mediterranea": "1930",
+                "Bustamante Burguer": "3075",
+                "Garcia": "1930",
+                "Hamburguesa Hausbrot": "700"
+            },
+            "Starters": {
+                "Tartaletas Mixtas": "1200",
+                "Tabla Entre Dos": "1770",
+                "Tabla de Jamon y Queso": "1200",
+                "Papitas Fritas": "1000",
+                "Fajitas de Pechuga": "850",
+                "Ensalada de Atun": "1750",
+                "Croquetas Solera": "750",
+                "Brusquetas Mixtas": "850",
+                "Bambina": "750"
+            },
+            "Pizza": {
+                "Pizza de Queso": "1000"
+            },
+            "Drinks": {
+                "Yambi Naranja": "350",
+                "Yambi Limon": "350",
+                "Yambi Cola": "350",
+                "Tigon": "500",
+                "Tehuacan": "500",
+                "Suero de Helado": "1500",
+                "Refresco Piñita": "350",
+                "Refresco Mate": "350",
+                "Mirinda": "350",
+                "Malteada": "800",
+                "Malta": "380",
+                "Energizante": "450",
+                "Cerveza Nacional": "450",
+                "Cerveza Importada": "500",
+                "Agua": "300",
+                "7 UP": "350"
+            },
+            "Additions": {
+                "Tostadas": "250",
+                "Tortilla": "300",
+                "Queso Gouda": "150",
+                "Pastrami": "250",
+                "Jamon Serrano": "180",
+                "Huevo Frito": "300",
+                "Guacamole": "150",
+                "Aguacate": "150",
+                "Salsa de Trufas": "150",
+                "Queso Azul": "200",
+                "Papas Fritas": "400",
+                "Jamon Sandwich": "150",
+                "Chorizo": "150",
+                "Bacon": "200"
+            },
+            "Cocktails": {
+                "Screwdriver": "500",
+                "Sangria Española": "950",
+                "Mojito": "500",
+                "Michelada": "250",
+                "Cubata": "500",
+                "Cuba Libre": "500",
+                "Copa de Sangria": "550",
+                "Servicio de Chelada": "150",
+                "Caipiroska": "500",
+                "Caipirissima": "500"
+            },
+            "Packaging": {
+                "Vasos Domo 12 oz": "100",
+                "Cajita Hamburguesa": "100",
+                "Caja Grande": "200"
+            }
+        }
+    }
+}
+}

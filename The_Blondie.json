@@ -1,0 +1,107 @@
+{ 
+"Restaurants":{
+    "The_Blondie":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "5ta Ave. #25804 e/ 258 Y 260 Playa, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": null,
+            "total": null,
+            "date": "20250103"
+        },
+        "schedules": "24 Horas",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Goldon Blue",
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Picadera de la Casa": "3000",
+                "Picadera Mixta": "2000",
+                "Picadera Fria": "1500",
+                "Picadera Iberica": "3200",
+                "Ensalada Fria": "650",
+                "Fajitas de Pollo": "950",
+                "Papas Fritas": "400",
+                "Croquetas de Pollo": "600",
+                "Tostones Rellenos": "650",
+                "Fritura de Malanga": "450",
+                "Bolitas de Queso": "500"
+            },
+            "Main Dishes": {
+                "Solomillo de Cerdo": "2500",
+                "Gordon Blue": "1950",
+                "Pechuga": "1500",
+                "Tacos al Pastor": "1350",
+                "Muslito el Mar": "850",
+                "Filetico de Merlusa": "1000",
+                "Pizza de Queso Gouda": "1000",
+                "Espaguetis": "800"
+            },
+            "Sandwich": {
+                "Sandwich de Atun": "1100",
+                "Sandwich de Jamon y Queso": "900"
+            },
+            "Additions": {
+                "Piña": "200",
+                "Jamon": "350",
+                "Chorizo": "300",
+                "Cebolla": "200",
+                "Aji": "200",
+                "Doble Queso": "400",
+                "Aceituna": "400",
+                "Atun": "550",
+                "Jamon Serrano": "800"
+            },
+            "Cocktails": {
+                "Cuba Libre": "450",
+                "Mojito": "450",
+                "Caipiriña": "500",
+                "Caipiroska": "500",
+                "Sangria": "400",
+                "Screwdriver": "550",
+                "Michelada Nacional": "600",
+                "Michelada Importada": "450",
+                "Gin Tonic": "650"
+            },
+            "Drinks": {
+                "Cerveza Importada": "250",
+                "Cerveza Nacional": "350",
+                "Refresco": "250",
+                "Agua Pequeña": "200",
+                "Energizante": "350",
+                "Jugo de Cajita": "250"
+            },
+            "Drinks 2": {
+                "Legendario": "350",
+                "Havana Club 3 Años": "350",
+                "Havana Club 7 Años": "450",
+                "Ritual": "350",
+                "Ron Mulata": "600",
+                "Santiago": "450",
+                "Tequila Monte Rosa": "300",
+                "Olmeca Blanco": "550",
+                "Olmeca Reposado": "600",
+                "Vodka Ragnarock": "300",
+                "Whisky Glenmarangie": "380",
+                "Havana Club Especial": "400",
+                "Vino Tinto": "300",
+                "Baileys": "650",
+                "Vodka Gey Goose": "650",
+                "Henessy": "650",
+                "Balentay": "650"
+            }
+        }
+    }
+}
+}

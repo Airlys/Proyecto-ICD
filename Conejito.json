@@ -1,0 +1,92 @@
+{ 
+"Restaurants":{
+    "Conejito":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "4JV8+23J, Calle M, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2BConejito/data%3D!4m2!3m1!1s0x0:0xbd5724c2497f4dc8%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwj28vamxduKAxV7RDABHfMzGgUQ_BJ6BAg4EAk&usg=AOvVaw1s8uoUwDogtW1orLjUFzn-",
+            "total": 3.2,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 11:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Cerdo Asado",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": false,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 100,
+        "menu and prices": {
+            "Starters": {
+                "Platanos Chatinos de la Casa": "200",
+                "Chicharrones de Cerdo": "225",
+                "Frituras de Malanga": "230",
+                "Ensalada Fria de Embutido": "250",
+                "Entremes de Embutido": "410",
+                "Coctel de Langosta": "450",
+                "Picadera de la Casa": "600"
+            },
+            "Main Dishes": {
+                "Fajitas de Cerdo Salteadas": "1090",
+                "Costillas de Cerdo Fritas": "1140",
+                "Bistec de Cerdo Grille": "1250",
+                "Ternera Guisada": "1450",
+                "Fajita de Pollo Salteados": "800",
+                "Pechuga de Pollo Grille": "1400",
+                "Pollo Asado": "730",
+                "Masas de Pescado Enchilado": "550",
+                "Rueda de Pescado Bonito Grille": "900",
+                "Langosta Enchilada": "1230",
+                "Langosta Grille": "1200",
+                "Picadillo a la Criolla": "400"
+            },
+            "Rice": {
+                "Arroz Blanco": "120",
+                "Arroz Congris Oriental": "200",
+                "Arroz Moros y Cristianos": "200",
+                "Arroz Amarillo con Subproducto de Cerdo": "280"
+            },
+            "Fittings": {
+                "Ensalada Simple": "50",
+                "Ensalada Mixta de Vegetales": "200",
+                "Vianda Hervida con Mojo": "100"
+            },
+            "Desserts": {
+                "Sorpresa de la Casa": "200"
+            },
+            "Coffee": {
+                "Te": "30",
+                "Cafe": "60",
+                "Bombon": "90"
+            },
+            "Drinks": {
+                "Cerveza Dispensada": "40"
+            },
+            "Cocktails": {
+                "Coctel Tody": "250",
+                "Mary Pickford": "250",
+                "Coctel Smash": "250",
+                "Servicio de Chelada": "250",
+                "Habana Special": "250",
+                "Mojito": "250",
+                "Limonada Natural": "250",
+                "Daiquiri Natural": "250",
+                "Sangria Conejito": "350"
+            },
+            "Wines": {
+                "Vino Tinto Baron Lescompte": "1800",
+                "Vino Blanco Paz vi Verdejo": "2000",
+                "Vino Consejo Real": "2400"
+            }
+        }
+    }
+}
+}

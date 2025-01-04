@@ -1,0 +1,151 @@
+{ 
+"Restaurants":{
+    "28_&_Mar":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "4HFF+953, Avenida 1ra, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/6wa6kLj",
+            "total": 3.7,
+            "date": "202500103"
+        },
+        "schedules": "Apertura 8:30am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": "Solomillo de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 100,
+        "menu and prices": {
+            "Starters": {
+                "Tapas Variadas": "1100",
+                "Tapas de Croquetas": "1250",
+                "Tostones Rellenos": "950",
+                "Brusquetas": "950",
+                "Bolitas de Queso": "950",
+                "Empanadas de Queso Azul": "1050",
+                "Empanada Bolognesa": "1050",
+                "Fajitas de Pollo": "1450",
+                "Crema Aurora": "750",
+                "Crema de Queso": "750",
+                "Crema Virginia": "850"
+            },
+            "Main Dishes": {
+                "Pechuga de Pollo": "3500",
+                "Solomillo de Res": "6500",
+                "Solomillo de Cerdo": "4500",
+                "Pollo y Cerdo": "4000",
+                "Pollo y Res": "5000",
+                "Res y Cerdo": "5500",
+                "Pollo, Res y Cerdo": "7250"
+            },
+            "Breakfast": {
+                "Desayuno Europeo": "1650",
+                "Desayuno Americano": "1650",
+                "Desayuno Miramar": "2150",
+                "Desayuno Continental": "2800",
+                "Ensalada de Frutas": "700",
+                "Tortilla Natural": "750",
+                "Huevo Frito": "1050",
+                "Huevo Revuelto con Bacon": "1050",
+                "Mini Bocadito de Jamon y Queso": "800",
+                "Tostadas con Mantequilla": "650",
+                "Crepes": "750"
+            },
+            "Sandwich": {
+                "Pepito": "3150",
+                "Paquito": "2150",
+                "Elena Ruz": "1850",
+                "Bocadito de Atun": "1450",
+                "Pollo": "1650",
+                "Jamon Serrano": "2150",
+                "Atun": "1750",
+                "Bolognesa": "2050",
+                "Jamon Pierna, Barra y Chorizo": "2050",
+                "Vegetariano": "1350",
+                "Pollo y Bacon": "2050",
+                "Jamon y Queso": "1750"
+            },
+            "Pasta": {
+                "Pizza": "1350",
+                "Espaguetis": "1150",
+                "Lasagna de Jamon": "1750",
+                "Lasagna Bolognesa": "2150"
+            },
+            "Additions": {
+                "Jamon Serrano": "850",
+                "Jamon Barra": "400",
+                "Jamon Pierna": "450",
+                "Chorizo": "450",
+                "Bacon": "450",
+                "Salsa Bolognesa": "550",
+                "Pechuga de Pollo": "650",
+                "Atun": "450",
+                "Champiñon": "350",
+                "Aceitunas": "350",
+                "Vegetal de Estacion": "350",
+                "Vianda Frita": "350",
+                "Papas Fritas": "550",
+                "Piña Glaseada": "350",
+                "Queso Gouda": "450",
+                "Queso Mozzarella": "450",
+                "Queso Parmesano": "550",
+                "Queso Azul": "550",
+                "Nutella": "450"
+            },
+            "Hamburger":{
+                "Otoño": "1750",
+                "Jamon y Queso": "1800",
+                "Jamon Serrano": "1950"
+            },
+            "Salads": {
+                "Primavera": "1350",
+                "Caprichosa": "1750",
+                "Verano": "1650",
+                "Otoño": "1200"
+            },
+            "Drinks": {
+                "Juego de Fruta Natural": "350",
+                "Jugo de Caja Importado": "300",
+                "Batido de Fruta": "600",
+                "Suero de Helado": "850",
+                "Refresco Nacional": "350",
+                "Refresco Importado": "450",
+                "Malta": "450",
+                "Malteada": "650",
+                "Agua Natural": "300",
+                "Agua Natural Importada": "350",
+                "Agua Carbonatada": "300",
+                "Agua Carbonatada Importada": "850",
+                "Agua Tonica MG": "600",
+                "Agua Tonica Scheweppes": "900",
+                "Kermato": "750",
+                "RedBull": "650",
+                "Cerveza": "650"
+            },
+            "Coffee": {
+                "Espresso": "350",
+                "Americano": "350",
+                "Nespresso": "700",
+                "Bombon": "550",
+                "Cappuchino": "700",
+                "Cappuchino Nespresso": "950",
+                "Cortado": "400",
+                "Con Leche": "600",
+                "Irlandes": "700",
+                "Frappuchino": "750",
+                "Chocolate a la Española": "600",
+                "Te Caliente o Frio": "350"
+            }
+        }
+    }
+}
+}

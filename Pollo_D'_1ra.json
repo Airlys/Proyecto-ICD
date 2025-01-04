@@ -1,0 +1,78 @@
+{ 
+"Restaurants":{
+    "Pollo_D'_1ra":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "4HFF+PV5, Avenida 1ra, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Pollo%2BD%25271ra/data%3D!4m2!3m1!1s0x0:0x335e3f23d4ce863d%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwi-n72ru9uKAxVzTTABHay3GEoQ_BJ6BAg9EAk&usg=AOvVaw1cnfyUeFzMYz96RKLRH6kB",
+            "total": 2.3,
+            "date": "20250103"
+        },
+        "schedules": "Apertura 10:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "El Pollo Frito",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia  y Efectivo"
+        },
+        "Capacity": 20,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas": "600",
+                "Frituras": "500"
+            },
+            "Main Dishes": {
+                "Pollo Chiflado": "1300",
+                "Canciller": "2000",
+                "Eperlan": "1500",
+                "Fajita de Pollo": "1300",
+                "Fajita de Cerdo": "1100",
+                "Pechuga": "1500",
+                "Golden Blue": "1700",
+                "Bistec de Cerdo": "1400",
+                "Uruguayo": "1800",
+                "Pescado": "1800",
+                "Solomillo de Cerdo": "1800",
+                "Lomo Ahumado": "1400"
+            },
+            "Pizzas": {
+                "Queso": "850",
+                "Jamon": "950",
+                "Chorizo": "950",
+                "Hawaiana": "1000",
+                "Pimiento": "1100",
+                "Cebolla": "900",
+                "4 Estaciones": "1200",
+                "Atun": "1350",
+                "Doble Queso": "1100"
+            },
+            "Entrepanes": {
+                "Baguette de Jamon y Queso": "850",
+                "Baguette de Atun": "1000",
+                "Baguette de Pollo": "1100",
+                "Baguette Mixto": "950",
+                "Hamburguesa de Queso": "1100",
+                "Hamburguesa Mixta": "1300"
+            },
+            "Tacos": {
+                "Tacos de Pollo": "1000",
+                "Tacos de Cerdo": "1200"
+            },
+            "Desserts":{
+                "Flan": "450"
+            },
+            "Coffee": {
+                "Cafe": "300"
+            }
+        }
+    }
+}
+}

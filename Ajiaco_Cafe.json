@@ -1,0 +1,142 @@
+{ 
+"Restaurants":{
+    "Ajiaco_Cafe":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "5P63+J4W, Los Pinos, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/wb77aVY",
+            "total": 4.6,
+            "date": "20250103"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Pescado al Sofrito",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Coctel de Camarones": "1200",
+                "Coctel de Langosta": "990",
+                "Escabeche de Pescado": "990",
+                "Pulpo": "1350",
+                "Ajiaco Cuba con Dados de Tamal y Corona de Ropa Vieja": "390",
+                "Sopa Crema de Malanga": "650",
+                "Garbanzos Fritos": "1470",
+                "Croquetas Caseras del Dia": "490",
+                "Tostones Rellenos con Ropa Vieja": "990",
+                "Tostones Rellenos con Jamon y Queso": "990",
+                "Tostones Rellenos Mixtos": "990",
+                "Cartucho de Frituras de Malanga": "490",
+                "Tamal en Cazuela": "1200",
+                "Tamal en Hoja en Monteria de Cerdo": "890",
+                "Tamal en Hoja con Salsa Chimichurri": "420"
+            },
+            "Pastas": {
+                "Espaguetis con Queso": "790",
+                "Espaguetis de Jamon": "1150",
+                "Espaguetis con Camarones": "1990"
+            },
+            "Pizzas": {
+                "Pizza de Queso": "1250",
+                "Pizza con Jamon": "1550",
+                "Pizza con Camarones": "1990",
+                "Pizza Hawaiana": "1490"
+            },
+            "Main Dishes": {
+                "Arroz a la Cubana": "590",
+                "Arroz a la Marinera": "2200",
+                "Arroz a la Campesina": "1690",
+                "Arroz con Pollo en Baño de Cerveza": "1650",
+                "Pescado Fresco con Salteado de Albahaca,Tomate y Ajo": "2100",
+                "Eperlan de Pescado": "1890",
+                "Minutas de Pescado": "1890",
+                "Cazuela Mixta del Mar": "2450",
+                "Filete de Pescado al Estilo Canciller": "2290",
+                "Pulpo Estofado en Vino Tinto y Salsa Criolla": "2980",
+                "Camarones Grille": "2190",
+                "Camarones Cocidos en Aceite,Ajo y Guindilla": "2450",
+                "Langosta Cocida en Aceite, Ajo y Guindilla": "2450",
+                "Langosta al Ron en Salsa Criolla": "2400",
+                "Suprema de Pollo Grille": "1400",
+                "Fricase de Pollo al Estilo Campesino": "1690",
+                "Suprema de Pollo Relleno con Jamon y Queso": "1750",
+                "Bistec de Cerdo": "1450",
+                "Masas de Cerdo Fritas con Marinado de Ajo y Oregano": "2490",
+                "Patas de Cerdo Cocidas en Salsa Criolla": "1050",
+                "Cerdo Empanado y Relleno con Jamon y Queso": "1890",
+                "Escalopes de Cerdo Empanados": "1390",
+                "Ropa Vieja de la Casa": "1950",
+                "Chilindron de Carnero al Aroma del Monte Cubano": "2150",
+                "Estofado de Res": "2900"
+            },
+            "Fittings": {
+                "Arroz Blanco": "290",
+                "Moros y Cristianos": "380",
+                "Vegetales Frescos,Marinados, Salteados": "290",
+                "Frijoles Negros Dormidos": "350",
+                "Seleccion de Viandas con Mojo del Dia": "290",
+                "Pure de Viandas": "250",
+                "Vianda Frita": "350",
+                "Tamal en Hoja": "210"
+            },
+            "Desserts": {
+                "Helados": "550"
+            },
+            "Coffee": {
+                "Espresso": "180",
+                "Te": "120"
+            },
+            "Cocktails": {
+                "Mojito Ajiaco": "350",
+                "Mojito Clasico": "350",
+                "Cuba Libre": "350",
+                "Daiquiri": "350",
+                "Daiquiri de Frutas": "350",
+                "Ron Collins": "350",
+                "Cubata": "350",
+                "Habana Special": "350",
+                "Caipiriña": "350",
+                "Caipiroska": "350",
+                "Caipirissima": "350",
+                "Canchanchara": "350",
+                "Piña Colada": "380",
+                "Sangria": "380",
+                "Gin Tonic": "380",
+                "Vodka Tonic": "380",
+                "Margarita": "380"
+            },
+            "Drinks": {
+                "Piña Colada": "650",
+                "Jugos Naturales": "220",
+                "Limonada Natural": "220",
+                "Limonada Frappe": "220",
+                "Refrescos Nacionales": "280",
+                "Aguas Nacionales": "220",
+                "Agua Tonica": "220",
+                "Energizante": "280",
+                "Cerveza Nacional": "350",
+                "Cervezas": "290",
+                "Malta": "300",
+                "Copa de Vino de la Casa": "390"
+            },
+            "Rums": {
+                "Havana Club 3 Años": "200",
+                "Havana Club Añejo Especial": "210",
+                "Havana Club Reserva": "210",
+                "Havana Club 7 Años": "290"
+            }
+        }
+    }
+}
+}

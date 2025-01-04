@@ -1,0 +1,56 @@
+{ 
+"Restaurants":{
+    "Siete_Mares":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "358 Av. 23, La Habana 10400",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Siete%2BMares/data%3D!4m2!3m1!1s0x0:0xb6196be0ebf5f844%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjyloaRxtuKAxU7TjABHfryFwsQ_BJ6BAg8EAk&usg=AOvVaw1DOFy85eQqpuRMdFDtZCUo",
+            "total": 2.5,
+            "date": "20250103"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:45pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mariscos",
+        "Most popular food": "Langosta",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 40,
+        "menu and prices": {
+            "Starters": {
+                "Eperlan de Pescado": "600",
+                "Croquetas de la Casa": "250"
+            },
+            "Main Dishes": {
+                "Langosta Grille": "1200",
+                "Langosta Enchilada": "1200",
+                "Camaron Grille": "750",
+                "Camaron Enchilado": "750",
+                "Rueda de Bonito Grille": "700",
+                "Filete de Pescado Empanado": "800",
+                "Masas de Pescado Enchiladas": "800",
+                "Chuletas de Cerdo": "900",
+                "Bistec de Cerdo Grille": "850",
+                "Fajitas de Cerdo": "850",
+                "Lomo Ahumado Grille": "850"
+            },
+            "Fittings": {
+                "Arroz Blanco": "90",
+                "Arroz Moro": "100",
+                "Arroz con Vegetales": "200",
+                "Ensalada Mixta": "150",
+                "Vianda Frita": "200",
+                "Vianda Hervida con Mojo": "100"
+            }
+        }
+    }
+}
+}

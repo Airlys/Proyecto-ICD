@@ -1,0 +1,126 @@
+{ 
+"Restaurants":{
+    "La_Giraldilla_de_G_Ranchon":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "4JJ9+F3X, Zapata, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/GpmUy5Z",
+            "total": 2.4,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 2:00pm y Cierre 5:45pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Masas de Cerdo",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 250,
+        "menu and prices": {
+            "Starters": {
+                "Chicharrones de Cerdo": "150",
+                "Ajiaco Criollo": "80",
+                "Frituras de Maiz": "120",
+                "Croquetas Buffet": "50",
+                "Bolitas de Carne": "60",
+                "Tostones Rellenos": "250",
+                "Costillas de Cerdo Caramelizadas": "425",
+                "Picadera Ranchon": "650",
+                "Jugos de Frutas Naturales": "60",
+                "Coctel de Frutas": "80",
+                "Ensalada de Frutas Naturales": "160",
+                "Entremes de Jamon": "320",
+                "Entremes de Queso": "320",
+                "Entremes Surtidos": "480",
+                "Entremes de Jamon y Queso": "320",
+                "Bocadito de Jamon y Queso": "290",
+                "Eperlan de Pescado": "350"
+            },
+            "Main Dishes": {
+                "Fajitas de Cerdo al Limon": "600",
+                "Chuletas de Cerdo Grille": "1200",
+                "Bistec de Cerdo": "1200",
+                "Costillas de Cerdo Fritas": "600",
+                "Masas de Cerdo Confitadas": "1100",
+                "Cerdo Asado": "1100",
+                "Brochetas de Cerdo con Vegetales": "100",
+                "Pollo Grille": "675",
+                "Mar y Tierra": "3150",
+                "Enchilado de Langosta": "1100",
+                "Langosta al Ajillo": "1100",
+                "Cola de Langosta Grille": "1100",
+                "Filete de Pescado": "1000",
+                "Filete de Pescado Gratinado": "1250"
+            },
+            "Fittings": {
+                "Arroz Blanco": "100",
+                "Arroz Amarillo": "80",
+                "Arroz Moro": "200",
+                "Ensalada de Vegetales": "60",
+                "Vianda Frita": "80",
+                "Vianda Hervida": "60",
+                "Tostones Tradicional": "120"
+            },
+            "Desserts": {
+                "Dulce de Fruta Bomba en Almibar": "150",
+                "Mermelada de Guayaba con Queso": "210",
+                "Mermelada de Mango con Queso": "210",
+                "Cascos de Guayaba con Queso": "210",
+                "Dulces Finos Variados": "250"
+            },
+            "Coffee": {
+                "Espresso": "60"
+            },
+            "Drinks": {
+                "Cerveza Dispensada": "100",
+                "Cerveza Nacional": "80",
+                "Refresco Dispensado": "10",
+                "Agua Natural Importada": "180",
+                "Limonada": "100",
+                "Refresco Importado": "280",
+                "Cerveza Importada": "280"
+            },
+            "Cocktails": {
+                "Mojito Mulato": "150",
+                "Ron Collins Pardo": "150",
+                "Daiquiri": "150",
+                "Mojito": "150",
+                "Ron Collins": "150",
+                "Sangria": "150",
+                "Cubata": "150",
+                "Telegrama": "150",
+                "Cuba Libre": "150",
+                "Tinto Verano": "150"
+            },
+            "Rums": {
+                "Havana Club Añejo 3 Años": "75",
+                "Havana Club Añejo Especial": "80",
+                "Havana Club Añejo Reserva": "135",
+                "Havana Club 7 Años": "150",
+                "Ron Añejo Ritual": "100",
+                "Pacto Navio": "200"
+            },
+            "Whisky": {
+                "Johnnie Walker": "300",
+                "Glen Glenlivet": "250",
+                "Chivas Regal 12 Años": "200"
+            },
+            "Liqueurs": {
+                "Jagermeister": "300"
+            },
+            "Vodka": {
+                "Vodka Absolut": "200",
+                "Vodka Ciroc": "100"
+            }
+        }
+    }
+}
+}
