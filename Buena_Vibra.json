@@ -1,0 +1,58 @@
+{ 
+"Restaurants":{
+    "Buena_Vibra":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "3MX9+M25, Beltran, La Habana 19709",
+        "Stars":{
+            "Social network": "Google",
+            "url": null,
+            "total": null,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Bistec de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 20,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas": "400",
+                "Fritura de Malanga": "400",
+                "Vianda Frita": "300",
+                "Tostones Tradicionales": "300",
+                "Tostones Rellenos": "500"
+            },
+            "Hamburger": {
+                "Hamburguesa de Pollo": "300"
+            },
+            "Main Dishes": {
+                "Bistec de Pollo": "850",
+                "Bistec de Pollo Empanado": "900",
+                "Higado de Cerdo": "800",
+                "Lomo Ahumado": "900",
+                "Bistec de Cerdo": "900",
+                "Pechuga de Pollo": "900"
+            },
+            "Pasta": {
+                "Espaguetis con Queso": "400",
+                "Espaguetis de Jamon": "550"
+            },
+            "Drinks": {
+                "Piña Colada": "300",
+                "Tequila Reposado": "300",
+                "Licor Crema": "200"
+            }
+        }
+    }
+}
+}

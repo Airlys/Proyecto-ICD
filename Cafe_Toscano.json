@@ -1,0 +1,59 @@
+{ 
+"Restaurants":{
+    "Cafe_Toscano":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "3MCR+MVP, Calz. de Guines, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": null,
+            "total": null,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 8:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "",
+        "Most popular food": "Pizza",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 12,
+        "menu and prices": {
+            "Starters": {
+                "Tostones Rellenos": "250",
+                "Tostones": "150",
+                "Platano": "100"
+            },
+            "Hamburger": {
+                "Hamburguesa Sencilla": "300",
+                "Hamburguesa con Queso": "380",
+                "Hamburguesa Doble con Queso": "550"
+            },
+            "Main Dishes": {
+                "Pollo Chiflado": "400",
+                "Pollo Especial": "1000"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "330",
+                "Espaguetis con Queso Gouda": "400"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "170",
+                "Pizza Doble de Queso": "250",
+                "Pizza Hawaiana": "290",
+                "Pizza con Queso Gouda": "250",
+                "Pizza Cubana": "320",
+                "Pizza Napolitana Grande": "550",
+                "Pizza Doble de Queso Grande": "790",
+                "Pizza con Queso Gouda Grande": "940"
+            }
+        }
+    }
+}
+}

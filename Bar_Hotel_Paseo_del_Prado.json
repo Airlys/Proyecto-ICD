@@ -1,0 +1,239 @@
+{ 
+"Restaurants":{
+    "Bar_Hotel_Paseo_del_Prado":{
+        "Province": "La Habana",
+        "Municipality": "Centro Habana",
+        "Location": "Prado San Lazaro y Malecon, La Habana 10200 Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Hotel_Review-g147271-d19330414-Reviews-Royalton_Habana-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwj1x7Prgd6KAxX8RjABHTUeCXEQFnoECBgQAQ&usg=AOvVaw37dlQsr3c0XTks8jL9pCww",
+            "total": 4.5,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 4:00pm y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Cocteleria",
+        "Most popular food": "Piña Colada",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia"
+        },
+        "Capacity": 70,
+        "menu and prices": {
+            "Starters": {
+                "Picadera Royalton": "4200",
+                "Croquetas de Jamon": "1500",
+                "fajitas de Pollo con Salsa Barbacoa": "1800",
+                "Papas Fritas": "950",
+                "Empanada Frita Chilena con Pino de Carne y Pebre de Tomate": "1600",
+                "Chipirones Fritos con Salsa Alioli": "2400",
+                "Ricard Anise Aperitif": "600",
+                "Volini Rosso": "540",
+                "Petroni Vermu": "540",
+                "Sammarco si Palazzo Rosso": "540",
+                "Bitter DiMarco": "540"
+            },
+            "Pastas": {
+                "Espaguetis Napolitano": "1900"
+            },
+            "Pizzas": {
+                "Pizza Margarita": "1800",
+                "Pizza Diabla": "1900",
+                "Pizza Royalton": "2300"
+            },
+            "Main Dishes":{
+                "Masa de Cerdo Frita a la Criolla": "1850"
+            },
+            "Sandwich": {
+                "Bruschetta con Tomate y Queso": "1200",
+                "Sandwich de Jamon y Queso": "1300",
+                "Sandwich Cubano": "1500"
+            },
+            "Hamburger": {
+                "Hamburguesa Clasica": "1900",
+                "Hamburguesa Royalton": "2200"
+            },
+            "Salads": {
+                "Ensalada de Camaron con Dulce de Piña": "2200",
+                "Ensalada de Atun Estilo Oriental": "2350"
+            },
+            "Desserts": {
+                "Brownie Royalton": "720",
+                "Panna Cotta de Vainilla": "900"
+            },
+            "Coffee": {
+                "Espresso": "420",
+                "Doble Espresso": "600",
+                "Con Leche": "600",
+                "Cafe Frio": "480",
+                "Cappuchino": "600",
+                "Americano": "600",
+                "Latte": "600",
+                "Frappuchino": "720",
+                "Cortado": "600",
+                "Frappuchino con Licor": "840",
+                "Te": "480"
+            },
+            "Drinks": {
+                "Agua Natural": "300",
+                "Agua Gaseada": "240",
+                "Refresco Nacional": "420",
+                "Refresco Importado": "480",
+                "Variedad de Jugos": "420",
+                "Malta": "480",
+                "Malteada": "600",
+                "Limonada": "480",
+                "Cerveza Nacional": "540",
+                "Cerveza Importada": "600",
+                "Cerveza Dispensada": "600"
+            },
+            "Wines": {
+                "Vino Tinto": "960",
+                "Vino Blanco": "960",
+                "Vino Rose": "960",
+                "Vino Espumoso": "960"
+            },
+            "Cocktails": {
+                "Blue Long Island": "960",
+                "Presidente": "960",
+                "Piña Colada": "960",
+                "Sangria": "960",
+                "Servicio de Chelada": "720",
+                "Cubata": "960",
+                "Caipiriña": "960",
+                "Daiquiri": "960",
+                "Ron Collins": "960",
+                "Margarita": "960",
+                "Mojito": "840",
+                "Gin & Tonic": "1080",
+                "Cinderella": "720",
+                "Virgen Mojito": "720",
+                "Virgen Piña Colada": "720",
+                "San Francisco": "720",
+                "Sambuca Molinari": "660",
+                "Sambuca Vinci": "600",
+                "Limoncello di Capri": "600",
+                "Limoncello Casal D'Amelia": "840",
+                "Amaretto Conti": "600",
+                "Osborne Porto Tawny 20 Años": "720"
+            },
+            "Rums": {
+                "Havana Club 3 Años": "600",
+                "Havana Club 7 Años": "840",
+                "Havana Club 15 Años": "3720",
+                "Havana Club Union Cohiba": "7320",
+                "Havana Club Seleccion de Maestro": "1080",
+                "Havana Club Edicion Profesional": "600",
+                "Havana Club Ritual": "600",
+                "Havana Club Especial": "840",
+                "Havana Club Reserva": "960",
+                "Havana Club Profundo": "720",
+                "Havana Club Cuban Spiced Havana": "840",
+                "Havana Club Smoky": "720",
+                "Pacto Navio": "1080",
+                "Cubay 10 Años": "720",
+                "Cubay Añejo Suave": "600",
+                "Black Tears Roble Superior": "600",
+                "Black Tears Spiced": "600",
+                "Black Tears Super Dry": "840",
+                "Black Tears Aguardiente": "600",
+                "Saocan Aguardiente": "540",
+                "Santiago 8 Años": "960",
+                "Santiago 11 Años": "1560",
+                "Santiago 12 Años": "1740"
+            },
+            "Geneva": {
+                "Gin Mare": "1500",
+                "Monkey 47": "1440",
+                "Tanqueray": "840",
+                "Tanqueray No Ten": "1080",
+                "Beefeater": "720",
+                "Gin MG": "840",
+                "Gin MG Rosa": "840",
+                "Capitan Gin": "720",
+                "Master's London Dry Gin": "840",
+                "Master's Pink": "840",
+                "Harpoon London Dry Gin": "720",
+                "Jodhpur London Dry Gin": "1500",
+                "Volcanic": "960"
+            },
+            "Whisky": {
+                "Johnnie Walker Red Label": "720",
+                "Johnnie Walker Black Label": "960",
+                "Johnnie Walker Double Black": "1560",
+                "Johnnie Walker Swing": "1080",
+                "Glenlivet Founder's Reserve": "840",
+                "Chivas Regal 12 Años": "1080",
+                "Chivas Regal 15 Años": "1560",
+                "Chivas Regal 18 Años": "1920",
+                "Chivas Regal 25 Años": "6600",
+                "Ballantines": "720",
+                "Glenmorangie 10 Años": "1080",
+                "Glenmorangie Nectar D'Or": "1800",
+                "Buchanan's Master": "1440",
+                "Buchanan's DeLuxe 12 Años": "1680",
+                "J&B Rare Whisky": "720",
+                "Canadian Guard House": "720",
+                "Crown Whisky": "720",
+                "Jameson": "720",
+                "Black Head": "660",
+                "Glen Scanlan": "660",
+                "Black & White": "600",
+                "Clan Campbell": "600",
+                "VAT 69": "600"
+            },
+            "Tequila": {
+                "Olmeca Silver": "720",
+                "Olmeca Reposado": "900",
+                "Alto Plata": "840",
+                "Alto Reposado": "960",
+                "Don Ramon Silver": "1200",
+                "Don Ramon Reposado": "1440",
+                "Patron Citron": "840",
+                "Tabay Blanco": "660",
+                "Buen Amigo Silver": "720",
+                "Buen Amigo Gold": "840"
+            },
+            "Creams": {
+                "Baileys The Original": "960",
+                "Ruavieja Crema": "720",
+                "Ruavieja Crema de Arroz": "720",
+                "Ruavieja Crema de Chocolate": "720",
+                "Ruavieja Palm Crema": "720"
+            },
+            "Brandy": {
+                "Gran Duque D'Alba Gran Reserva": "1080",
+                "Armagnac Prince de Conde": "1080",
+                "Torres 10 Reserva Imperial": "720",
+                "Torres 15 Reserva Privada": "840",
+                "Torres 20 Superior Brandy": "1080",
+                "Torres 10 Smoked Barrel": "960",
+                "Torres 30 Jaime I": "2160",
+                "Magno Solera Reserva": "1200",
+                "Carlos III Solera Reserva": " 960",
+                "Suau 15 Solera Reserva": "960",
+                "Felipe II Solera": "840",
+                "Osborne Veterano": "840",
+                "Osborne 103": "780",
+                "Napoleon": "660",
+                "Spirit Napoleon": "660"
+            },
+            "Vodka": {
+                "Absolut": "720",
+                "Grey Goose": "960",
+                "Ciroc": "720",
+                "Ciroc Peach": "720",
+                "Igor": "600",
+                "Koltsova": "600",
+                "Priskaya": "600",
+                "Mouka": "600"
+            }
+        }
+    }
+}
+}

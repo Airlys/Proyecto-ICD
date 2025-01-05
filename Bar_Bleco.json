@@ -1,0 +1,122 @@
+{ 
+"Restaurants":{
+    "Bar_Bleco":{
+        "Province": "La Habana",
+        "Municipality": "Centro Habana",
+        "Location": "Vapor y Hornos, 63 e Marina, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/tyJRKbi",
+            "total": 4.2,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 1:00pm y Cierre 2:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Cocteleria",
+        "Most popular food": "Margarita",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 180,
+        "menu and prices": {
+            "Starters": {
+                "Tabla de Jamon Iberico de Bellota,Serrano,Chorizo y Quesos": "7000",
+                "Papas Fritas con Truffa y Parmesano": "2500",
+                "Carpaccio de Res Trufado": "6000",
+                "Chili con Carne": "7000",
+                "Burrata Trufada con Jamon Iberico de Bellota": "6500",
+                "Tabla Vegetariana": "3000",
+                "Coctel de Aceitunas Gigantes": "1200",
+                "Focaccia Jamon Iberico de Bellota,Burrata Trufada y Tomate": "7000"
+            },
+            "Pastas": {
+                "Espaguetis Aglio, Oleo y Peperonni": "3000",
+                "Espaguetis Pomodoro": "3500",
+                "Espaguetis Carbonara": "6000",
+                "Espaguetis Amatriciana": "6000",
+                "Espaguetis Funghi Porcini": "6000",
+                "Rigatoni Pesto e Burrata": "6000",
+                "Rigatoni Straccetti di Manzo e Crema di Tartufo": "7000",
+                "Rigatoni Cuatro Quesos": "7000"
+            },
+            "Pizzas": {
+                "Margarita": "3300",
+                "Vegetariana": "4000",
+                "Jamon y Manzana": "4300",
+                "Mozzarella,Queso Azul y Jamon": "4300",
+                "Salchicha Italiana": "4300",
+                "Picante": "6000",
+                "Chorizo Iberico Bellota": "6000",
+                "Jamon Iberico Bellota y Parmesano": "6500"
+            },
+            "Main Dishes": {
+                "Rib Eye Steak": "1300"
+            },
+            "Fitting": {
+                "Ensalada Griega": "80"
+            },
+            "Desserts": {
+                "Focaccia de Nutella y Frutos del Bosque": "3500",
+                "Tarta de Queso Manchego": "3500",
+                "Philadelphia Cheesecake": "3500"
+            },
+            "Coffee":{
+                "Espresso": "1200",
+                "Cortado": "1300",
+                "Con Leche": "1500",
+                "Cappuchino": "1500",
+                "Cappuchino con Crema": "2000",
+                "Frappuchino": "1500",
+                "Frappuchino con Crema": "2500",
+                "Te": "1200"
+            },
+            "Drinks":{
+                "Agua Tonica": "1500",
+                "Refrescos": "1000",
+                "RedBull": "1500",
+                "Cervezas": "1200"
+            },
+            "Wines": {
+                "Tinto": "1700",
+                "Blanco": "1700",
+                "Espumoso": "2000"
+            },
+            "Cocktails":{
+                "Delicioso Shot": "600",
+                "Buggy": "2500",
+                "Habibi": "2500",
+                "Bloco": "1800",
+                "Margarita": "1800",
+                "Mojito": "1500",
+                "Caipiriña": "1500",
+                "Caipiroska": "1800",
+                "Canchanchara": "1500",
+                "Ron Fashioned": "1500",
+                "Negroni": "1800",
+                "Piña Colada": "2000",
+                "Piña Colada con Crema": "3000",
+                "Gin Tonic": "1800",
+                "Sangria": "1800",
+                "Servicio de Michelada": "1800",
+                "Bloody Mary": "1800",
+                "Aperol Spritz": "2000",
+                "Old Fashioned": "2000",
+                "Moscow Mule": "1800",
+                "Cubata": "1500",
+                "Cuba Libre": "1500",
+                "Espresso Martini": "2200",
+                "Daiquiri": "1500",
+                "Daiquiri de Frutas": "1800",
+                "Vodkiri": "2000",
+                "ST Germain Spritz": "2300"
+            }
+        }
+    }
+}
+}

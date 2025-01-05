@@ -1,0 +1,93 @@
+{ 
+"Restaurants":{
+    "GaraG":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "C. Guanabacoa #1214 % B y C,Los Angeles",
+        "Stars":{
+            "Social network": "Facebook",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/p/GARAG-Bar-Restaurante-100064683952235/&ved=2ahUKEwiZx9zhhN6KAxWKVTABHVjJKrcQFnoECBQQAQ&usg=AOvVaw2wKaxZkJPfgo170iQtXdfQ",
+            "total": 5.0,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Picadera GaraG": "3500",
+                "Toston Alfredo": "750",
+                "Eperlan": "1650",
+                "Fajitas de Pollo": "1225",
+                "Fajitas de Cerdo": "1550",
+                "Croquetas de Mima": "750",
+                "Ceviche": "900",
+                "Tacos de Carnita": "1205",
+                "Tacos Marinesos": "1295",
+                "Ensalada Fria": "750",
+                "Coctel de Camaron": "1250"
+            },
+            "Pastas": {
+                "Espaguetis Napolitano": "930",
+                "Anti Hawaiana": "1555",
+                "5 Quesos": "1650",
+                "Lechoncita": "1595"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "930",
+                "Anti Hawaiana": "1555",
+                "5 Quesos": "1650",
+                "Lechoncita": "1595"
+            },
+            "Main Dishes": {
+                "Filete de Pescado Grille": "1920",
+                "Filete de Pescado Empanado": "1980",
+                "Filete de Pescado GaraG": "2225",
+                "Canciller": "2150",
+                "Filete Alfredo": "2150",
+                "Masas de Pescado al Ajito": "1920",
+                "Pargo Frito": "2150",
+                "Pollo Frito": "1350",
+                "Bistec de Pollo Grille": "1350",
+                "Pollo Empanado": "1450",
+                "Gordon Bleu": "1925",
+                "Bistec de Cerdo Encebollado": "1950",
+                "Cerdo Grille": "1700",
+                "Cerdo Empanado": "1750",
+                "Uruguayo de Cerdo": "1955",
+                "Masa de Cerdo Frita": "2200",
+                "Cerdo Asado": "2150",
+                "Camaron al Ajillo": "2300",
+                "Camaron Grille": "2105",
+                "Camaron Enchilado": "2230",
+                "Camaron Empanado": "2290",
+                "Aporreado de Res": "1950",
+                "Ropa Vieja": "1930",
+                "Arroz Frito Especial": "1350"
+            },
+            "Fittings": {
+                "Arroz Frito": "1200",
+                "Ensalada Estacion": "350",
+                "Vegetal Salteado": "350"
+            },
+            "Desserts":{
+                "Copa de Helado": "400",
+                "Copa Lolita": "650",
+                "Cake a la Moda": "850",
+                "Batido de Helado": "750"
+            }
+        }
+    }
+}
+}

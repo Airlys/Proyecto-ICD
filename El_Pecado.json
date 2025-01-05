@@ -1,0 +1,64 @@
+{ 
+"Restaurants":{
+    "El_Pecado":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "Calle Matos #152 % Fernanda y Central, La Fernanda",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Bar%2BEl%2BPecado/data%3D!4m2!3m1!1s0x0:0x3cc6c958c73ffa02%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwirx42nhN6KAxVSTTABHQHYB48Q_BJ6BAg3EAQ&usg=AOvVaw0fX1wBSGh6Gmtn9Mzr2O6x",
+            "total": 4.0,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Entrantes": {
+                "Aceitunas": "350",
+                "Entremes de Jamon y Queso": "300",
+                "Bolitas de Queso": "350",
+                "Papitas Fritas": "350",
+                "Croquetas": "340",
+                "Fajitas de Pollo": "500",
+                "Eperlan de Pescado": "600",
+                "Coctel de Camaron": "570",
+                "Tostones de Jamon y Queso": "380",
+                "Tostones de Atun": "450",
+                "Picadera Pecado": "1200"
+            },
+            "Main Dishes": {
+                "Cerdo Grille": "650",
+                "Masas Fritas": "750",
+                "Solomillo de Cerdo": "720",
+                "Costillas en Salsa BBQ": "600",
+                "Uruguayo de Cerdo": "850",
+                "Pechuga Empanada": "700",
+                "Pechuga Grille": "650",
+                "Pechuga Princesa": "800",
+                "Pechuga Gordon Bleu": "850",
+                "Filete de Pescado": "730",
+                "Pescado Canciller": "950",
+                "Pescado Jhonbill": "1200",
+                "Pescado Empanado": "780",
+                "Ropa Vieja": "650",
+                "Vaca Frita": "720",
+                "Filete de Res Encebollado": "750",
+                "Uruguayo de Res": "730",
+                "Camarones": "750" 
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,84 @@
+{ 
+"Restaurants":{
+    "Yesterday_Havana":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "Rita % Blanchi y Calzada de Guines",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/yz5zBci",
+            "total": 4.5,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 12:00m y Cierre 2:00am",
+        "Days of the week": "Sabado,Domingo,Miercoles,Jueves y Viernes",
+        "Type of food or specialty": "Comida Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Papas Fritas": "600",
+                "Picadera Yesterday": "3000",
+                "Tacos de Cerdo": "800",
+                "Tacos de Pollo": "800",
+                "Ceviche": "800",
+                "Eperlan": "900",
+                "Coctel de Camarones": "1000",
+                "Entremes de Jamon, Queso y Chorizo": "800",
+                "Ensalada Fria": "650",
+                "Toston al Ajo": "600",
+                "Frituras de Malanga": "500",
+                "Croquetas de la Casa": "500",
+                "Fajitas de Pollo": "950",
+                "Fajitas de Cerdo": "950",
+                "Brochetas Mixtas": "2500",
+                "Garbanzo Frito": "2000",
+                "Fabada": "2000",
+                "Crema del Dia": "1000"
+            },
+            "Main Dishes": {
+                "Mariscada Yesterday": "7000",
+                "Calamar al Gusto": "3000",
+                "Langosta al Gusto": "3000",
+                "3 Delicias": "3000",
+                "Camarones al Ajo": "2000",
+                "Camarones Grille": "2000",
+                "Enchilado de Camarones": "2000",
+                "Camaron Empanado": "2500",
+                "Filete de Pescado": "1800",
+                "Filete de Pescado Jhombill": "2200",
+                "Rueda de Pescado Frito": "2500",
+                "Bistec de Cerdo": "1800",
+                "Cerdo Encebollado": "2000",
+                "Pechuga de Pollo Grille": "1800",
+                "Mar y Tierra": "5500",
+                "Cordero al Vino": "3000",
+                "Costillas de Cerdo": "3000",
+                "Cerdo Desmechado": "3000",
+                "Masas Fritas": "3000",
+                "Lonjas de Cerdo": "3000",
+                "Lonjas Ahumadas": "3000",
+                "Uruguayo": "2500",
+                "Canciller": "2500",
+                "Gordon Bleu": "2500",
+                "Solomillo de Cerdo": "4000",
+                "Arroz a la Marinera": "3500",
+                "Arroz Campesino": "3000",
+                "Arroz Frito(Camaron)": "2000",
+                "Arroz Frito(Langosta)": "2500",
+                "Ropa Vieja": "2500",
+                "Bistec de Res": "2500"
+            }
+        }
+    }
+}
+}

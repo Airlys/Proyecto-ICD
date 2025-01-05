@@ -1,0 +1,72 @@
+{ 
+"Restaurants":{
+    "El_Trafico":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "Calzada de Guines entre 90 y 94",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Cafeteria%2BEl%2BTrafico/data%3D!4m2!3m1!1s0x0:0x42b372e1f4c3f42%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiV-enDhN6KAxVjRzABHf5pOKEQ_BJ6BAg0EAk&usg=AOvVaw29fSXsMSzd6fbkN5Mk7O5R",
+            "total": 2.0,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": "Pizza",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 20,
+        "menu and prices": {
+            "Main Dishes": {
+                "Bistec de Pollo": "1500",
+                "Bistec de Cerdo": "1950",
+                "Bistec de Res": "1950",
+                "Pechuga de Pollo": "1950",
+                "Chuleta de Cerdo": "1950",
+                "Masa de Cerdo Frita": "2000",
+                "Cerdo Guisado": "2000",
+                "Lomo Ahumado": "2000",
+                "Costilla de Cerdo": "2000",
+                "Ropa Vieja": "2000",
+                "Filete de Merluza": "2000"
+            },
+            "Pastas": {
+                "Espaguetis con Queso Blanco": "400",
+                "Espaguetis con Queso Gouda": "420",
+                "Espaguetis con Queso Parmesano": "450"
+            },
+            "Pizzas": {
+                "Pizza de Queso Blanco": "280",
+                "Pizza de Queso Blanco XL": "770",
+                "Pizza de Queso Gouda": "320",
+                "Pizza de Queso Gouda XL": "830",
+                "Pizza de Queso Parmesano": "350",
+                "Pizza de Queso Parmesano XL": "850"
+            },
+            "Additions": {
+                "Queso Blanco": "300",
+                "Queso Gouda": "320",
+                "Queso Parmesano": "350",
+                "Cebolla": "200",
+                "Pimiento": "200",
+                "Piña": "200",
+                "Camaron": "350",
+                "Jamon": "200",
+                "Chorizo": "200",
+                "Bacon": "200",
+                "Salchicha": "200",
+                "Aceituna": "300",
+                "Atun": "300"
+            }
+        }
+    }
+}
+}

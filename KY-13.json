@@ -1,0 +1,118 @@
+{ 
+"Restaurants":{
+    "KY-13":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "Calzada de Guines #45 e/ 13 y 23 AMP. San Matias",
+        "Stars":{
+            "Social network": "Facebook",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/Calle13BarRestaurante/%3Flocale%3Des_LA&ved=2ahUKEwiQ-5zKht6KAxVGRzABHUbFGLkQFnoECC0QAQ&usg=AOvVaw2KxkooxvF8ifvVsR-bt7LF",
+            "total": 4.0,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 10:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Pizza",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 24,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de Queso": "600",
+                "Frituras de Malanga": "600",
+                "Tostones Rellenos": "700",
+                "Eperlan": "1300",
+                "Dados de Pollo": "1000",
+                "Coctel de Camaron": "1300",
+                "Camaron Rebozado": "1200",
+                "Crema de Queso": "850",
+                "Crema Aurora": "550",
+                "Crema Virginia": "800",
+                "Crema de Camaron": "900",
+                "Surtido KY-13": "4000"
+            },
+            "Hamburger": {
+                "Hamburguesa Sencilla": "1400",
+                "Hamburguesa KY-13": "2950"
+            },
+            "Sandwich": {
+                "Sandwich Sencillo": "1250",
+                "Sandwich Lomo Ahumado": "1250",
+                "Sandwich Especial": "2100",
+                "Sandwich de Atun": "1150"
+            },
+            "Fittings": {
+                "Arroz Blanco": "300",
+                "Arroz Moro": "480",
+                "Vianda Frita": "700",
+                "Ensalada Mixta": "700"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo Grille": "2350",
+                "Bistec de Cerdo Empanado": "2700",
+                "Uruguayo de Cerdo": "3500",
+                "Pechuga de Pollo Grille": "2400",
+                "Pechuga de Pollo Gratinada": "2800",
+                "Pollo Gordon Bleu": "3650",
+                "Pollo Frito": "2000",
+                "Pollo Asado": "2000",
+                "Ropa Vieja de Res": "2800",
+                "Picadillo a la Habanera": "2700",
+                "Chuleta de Cerdo": "2600",
+                "Lomo Ahumado": "2500",
+                "Costilla de Cerdo Frita": "2300",
+                "Masa de Cerdo Frita": "3800",
+                "Bistec de Pollo": "2200",
+                "Arroz Frito": "2800",
+                "Filete de Pescado Grille": "3000",
+                "Filete de Pescado Empanado": "3300",
+                "Filete de Pescado Gratinado": "3500",
+                "Pescado Montetoro": "3800",
+                "Pescado Canciller": "4250",
+                "Camaron Grille": "2600",
+                "Enchilado de Camaron": "2800",
+                "Camaron al Ajillo": "2700",
+                "Langosta Grille": "2700",
+                "Langosta Enchilada": "2800"
+            },
+            "Pasta": {
+                "Espaguetis de Queso": "1300",
+                "Lasagna de Jamon": "1800",
+                "Espaguetis a la Carbonara": "2000"
+            },
+            "Pizza": {
+                "Pizza de Queso": "1200",
+                "Pizza de Queso Familiar": "3350"
+            },
+            "Additions": {
+                "Queso Gouda Sencilla": "560",
+                "Queso Gouda Familiar": "1400",
+                "Jamon Sencilla": "620",
+                "Jamon Familiar": "1550",
+                "Vegetales Sencilla": "500",
+                "Vegetales Familiar": "1250",
+                "Chorizo Sencilla": "450",
+                "Chorizo Familiar": "825",
+                "Aceituna Sencilla": "600",
+                "Aceituna Familiar": "1500",
+                "Piña Sencilla": "300",
+                "Piña Familiar": "750",
+                "Jamon Pierna Sencilla": "700",
+                "Jamon Pierna Familiar": "1750",
+                "Camaron Sencilla": "800",
+                "Camaron Familiar": "2000",
+                "Atun Sencilla": "790",
+                "Atun Familiar": "1975"
+            }
+        }
+    }
+}
+}

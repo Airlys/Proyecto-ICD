@@ -1,0 +1,52 @@
+{ 
+"Restaurants":{
+    "Bar_Colina":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "Esquina B y Calzada de Guines, Reparto Merceditas",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": "Tapas",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 200,
+        "menu and prices": {
+            "Starters": {
+                "Entremes de Jamon y Queso": "600",
+                "Croquetas": "400",
+                "Frituras de Malanga": "550",
+                "Tostones": "400",
+                "Tostones Rellenos": "600",
+                "Chicharrita": "300"
+            },
+            "Pastas": {
+                "Espaguetis Napolitano": "550"
+            },
+            "Pizzas": {
+                "Pizza Napolitana Grande": "650",
+                "Pizza Napolitana": "220"
+            },
+            "Additions": {
+                "Queso": "200",
+                "Chorizo": "300",
+                "Jamon": "300",
+                "Piña": "150"
+            }
+        }
+    }
+}
+}

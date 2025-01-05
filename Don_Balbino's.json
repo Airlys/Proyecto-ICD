@@ -1,0 +1,138 @@
+{ 
+"Restaurants":{
+    "Don_Balbino's":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "Calzada San Miguel del Padron entre 8va y B",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Balbino%2527s/data%3D!4m2!3m1!1s0x0:0x29e78d5ce769dc04%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwin6La9g96KAxUWTTABHVe-GGsQ_BJ6BAg7EAQ&usg=AOvVaw2qyccspdEwxJYPFTAvjBLk",
+            "total": 1.0,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 8:30am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Bolitas de Queso": "950",
+                "Croquetas Especiales de la Casa": "1200",
+                "Croquetas del Dia": "900",
+                "Fajitas de Pollo": "1100",
+                "Frituras de Malanga": "800",
+                "Masas de Cerdo": "1500",
+                "Papas Fritas": "850",
+                "Tabla Don Balbino": "3000",
+                "Tabla de Vegetales": "1400",
+                "Tacos de Res": "1500",
+                "Tacos de Cerdo": "1400",
+                "Tostones Rellenos": "900"
+            },
+            "Fittings": {
+                "Arroz Blanco": "200",
+                "Arroz Moro": "300",
+                "Ensalada de Vegetales": "500",
+                "Vegetales Salteados": "450",
+                "Vianda Frita":  "300",
+                "Tostones": "650",
+                "Vianda con Mojo": "650",
+                "Platano Maduro Frito": "500"
+            },
+            "Hamburger": {
+                "Hamburguesa Full Pork": "800",
+                "Hamburguesa Original Beef Balbinos": "900",
+                "Hamburguesa Pollo Crispy": "850"
+            },
+            "Sandwich": {
+                "Pan con Lechon Criollo": "850",
+                "Sandwich Balbinos": "1000",
+                "Sandwich de Atun": "900",
+                "Sandwich de Pollo": "850",
+                "Sandwich de Jamon y Queso": "750",
+                "Sandwich Cubano": "950"
+            },
+            "Main Dishes": {
+                "Arroz Frito": "1500",
+                "Fabada": "2900",
+                "Pechuga de Pollo Grille": "2200",
+                "Pollo Frito": "1800",
+                "Bistec de Cerdo Encebollado": "2300",
+                "Cerdo Asado": "2500",
+                "Costillas de Cerdo": "2600",
+                "Fricase de Cerdo a la Habanera": "2650",
+                "Lomo Ahumado": "2700",
+                "Masa de Cerdo Frita": "2550",
+                "Bistec de Cerdo Grille": "2400",
+                "Estofado de Res": "2700",
+                "Punta de Filete": "2500",
+                "Ropa Vieja": "2600",
+                "Camaron Grille": "2400",
+                "Camaron Enchilado": "2800",
+                "Langosta Enchilado": "2800",
+                "Langosta Grille": "2550",
+                "Filete de Pescado Grille": "2150"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "1000",
+                "Espaguetis Bolognesa": "1200",
+                "Espaguetis Don Balbino": "1300"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "1200"
+            },
+            "Additions": {
+                "Queso Gouda": "385",
+                "Jamon Barra": "420",
+                "Jamon Pierna": "440",
+                "Jamon Serrano": "660",
+                "Bacon": "495",
+                "Chorizo": "330",
+                "Salsa Bolognesa": "660",
+                "Atun": "605",
+                "Ropa Vieja": "660",
+                "Vegetales": "385",
+                "Aceituna": "460",
+                "Cebolla": "365",
+                "Aji Pimiento": "240",
+                "Piña Glaseada": "385",
+                "Huevos": "275",
+                "Camarones": "750"
+            },
+            "Desserts":{
+                "Batido de Helado": "700",
+                "Suero de Helado": "930"
+            },
+            "Drinks":{
+                "Cerveza Dispensada": "400",
+                "Cerveza Heineken": "500",
+                "Cerveza Importada": "350",
+                "Cerveza Nacional": "350",
+                "Servicio de Chelada": "250",
+                "Servicio de Michelada": "300",
+                "Agua Natural": "250",
+                "Batido de Frutas": "550",
+                "Jugo Natural de Frutas": "400",
+                "Jugo de Lata": "400",
+                "Malta Importada": "400",
+                "Malta Morena": "250",
+                "Malta Nacional": "500",
+                "Malteada": "300",
+                "RedBull": "250",
+                "Refresco Importado": "450",
+                "Refresco Nacional": "500"
+            }
+        }
+    }
+}
+}

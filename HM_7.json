@@ -1,0 +1,135 @@
+{ 
+"Restaurants":{
+    "HM_7":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Avenida Paseo #7 altos, e/ 1ra y, 3ra, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/nAiG9bR",
+            "total": 4.4,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mariscos",
+        "Most popular food": "Langosta",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Baguette Aromatizado con Romero": "700",
+                "Tartar de Emperador": "1700",
+                "Coctel de Langosta": "2400",
+                "Crema de Camaron": "1900",
+                "Carpaccio de Res y Alcaparras": "2800",
+                "Tacos de la Casa": "1600",
+                "Tabla Mixta": "3200",
+                "Croquetas y Alioli": "1400",
+                "Dumplings de Camaron y Wakame": "2100",
+                "Ensalada Cesar HM 7": "2500",
+                "Ensalada Mixta de Estacion": "1200",
+                "Aceitunas Aliñadas": "1000",
+                "Ceviche al Añejo Cubano y Cilantro": "1800",
+                "Bocata de Jamon y Queso": "1500",
+                "Tabla de Jamon Serrano": "2800"
+            },
+            "Pastas": {
+                "Pasta al Frutti di Mare": "3800",
+                "Pasta al Funghi Porcini y Camarones": "3700",
+                "Pasta a la Carbonara con Salsa de Tartufo": "3500",
+                "Pasta a la Bolognesa": "3400",
+                "Risotto Negro del Mar": "4300",
+                "Risotto de Bacon y Pollo con Crema de Tartufo": "4000"
+            },
+            "Main Dishes": {
+                "Arroz Meloso Marinero": "4600",
+                "Paella de Mariscos": "7200",
+                "Panhuela de Mariscos": "4300",
+                "Filete de Pescado con Almejas en Salsa de Citricos": "3600",
+                "Camarones Thai": "3800",
+                "Pulpo a la Plancha con Cremoso de Boniato": "4600",
+                "Langosta Grillada": "4800",
+                "Gran Concha de Mariscos al Grill": "7400",
+                "Solomillo de Ternera con Salsa Frutos del Bosque y Gratin de Vegetales": "6700",
+                "Brochetas de Filete de Res y Chimichurri": "5600",
+                "Filetillos de Res Salteados con Vegetales en Salsa Teriyaki": "5800",
+                "Ropa Vieja de Res Estilo HM 7": "3400",
+                "Solomillo de Cerdo con Mojo Criollo": "3500",
+                "Cordero al Curry": "4300"
+            },
+            "Fittings": {
+                "Vegetales Salteados": "1200",
+                "Pure de Temporada": "800",
+                "Arroz Blanco": "500"
+            },
+            "Drinks": {
+                "Limonada Natural": "550",
+                "Limonada Frappe": "600",
+                "Limonada Frescura": "650",
+                "San Francisco": "800",
+                "Jugos de Frutas Naturales": "500",
+                "Agua Natural Nacional": "400",
+                "Agua Gaseada Nacional": "400",
+                "Agua Natural Importada": "800",
+                "Agua Gaseada Importada": "800",
+                "Agua Tonica Nacional": "400",
+                "Agua Tonica Importada": "900",
+                "Refresco Nacional": "450",
+                "Refresco Importado": "500",
+                "Malta Nacional": "600",
+                "Malta Importada": "550",
+                "Cerveza Nacional": "600",
+                "Cerveza Importada": "550",
+                "Cerveza Heineken": "700",
+                "Cerveza Corona": "750",
+                "Cerveza Sol": "750",
+                "Kermato": "800",
+                "RedBull": "900",
+                "Servicio de Chelada": "300",
+                "Servicio de Michelada": "350"
+            },
+            "Cocktails": {
+                "Mojito": "950",
+                "Cuba Libre": "950",
+                "Piña Colada": "1300",
+                "Daiquiri": "900",
+                "Daiquiri de Fruta": "950",
+                "Cubanito": "1200",
+                "Cubata": "1100",
+                "Caipiriña": "950",
+                "Canchanchara": "1100",
+                "Old Fashion": "1200",
+                "Mint Julep": "1300",
+                "New York Sour": "1400",
+                "Manhattan": "1400",
+                "Screwdriver": "1200",
+                "Bloody Mary": "1300",
+                "Black Russian": "1300",
+                "Caipiroska": "1300",
+                "Vodka Tonic": "1300",
+                "Martini ": "1300",
+                "Gin Tonic": "1300",
+                "Margarita": "1200",
+                "Tequila Sunrise": "1200",
+                "Charro Negro": "1300",
+                "Orgasmo": "1800",
+                "Mimosa": "1000",
+                "Sangria": "1200",
+                "Aperol Spritz": "1500"
+            },
+            "Wines": {
+                "Copa de Vino de la Casa": "950"
+            }
+        }
+    }
+}
+}

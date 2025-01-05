@@ -1,0 +1,86 @@
+{ 
+"Restaurants":{
+    "Baronesa":{
+        "Province": "La Habana",
+        "Municipality": "Centro Habana",
+        "Location": "4JRH+3X3, Lagunas, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2Bbaronesa/data%3D!4m2!3m1!1s0x0:0x9d4a3c5ff4bf0935%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwisiNu4gt6KAxUnQTABHQgaEqAQ_BJ6BAhTEAk&usg=AOvVaw1AMLbw48JmgNjFV4H6_xML",
+            "total": 3.0,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 8:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Bistec de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": false,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 12,
+        "menu and prices": {
+            "Breakfast": {
+                "Tortilla Natural": "350",
+                "Tortilla con Vegetales": "380",
+                "Tortilla con Queso": "400",
+                "Tortilla con Jamon": "400",
+                "Tortilla con Jamon y Queso": "450"
+            },
+            "Entrepanes": {
+                "Pan con Bistec de Pollo": "650",
+                "Pan con Bistec de Cerdo": "750",
+                "Pan con Jamon y Queso": "350"
+            },
+            "Starters": {
+                "Croquetas de la Casa": "600",
+                "Croquetas con Jamon y Queso": "750",
+                "Fajitas de Jamon y Queso": "950"
+            },
+            "Hamburger": {
+                "Hamburguesa Sencilla": "300",
+                "Hamburguesa con Vegetales": "350",
+                "Hamburguesa con Jamon": "400",
+                "Hamburguesa con Queso": "400",
+                "Hamburguesa con Jamon y Queso": "500",
+                "Super Hamburguesa": "650",
+                "Hamburguesa Super al Burro": "800"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo": "1500",
+                "Bistec de Cerdo Encebollado": "1550",
+                "Cerdo a la Campesina(Picante)": "1550",
+                "Ropa Vieja": "1650",
+                "Fajitas con Vegetales": "1550",
+                "Fajitas Empanizadas": "1600",
+                "Lonjas de Cerdo": "1500",
+                "Lomo Ahumado": "1350",
+                "Fricase de Cerdo": "1750",
+                "Solomillo al Jugo": "1750",
+                "Bistec Uruguayo": "1800",
+                "Chuleton de Cerdo": "1850",
+                "Pollo Chiflado": "750",
+                "Bistec de Pollo Grille": "1200",
+                "Pollo a la Campesina": "1250",
+                "Fajitas de Pollo con Vegetales": "1250",
+                "Fajitas de Pollo Empanizadas": "1350",
+                "Filete de Pescado": "1500",
+                "Camarones": "1600",
+                "Langosta": "2500",
+                "Canciller": "1800"
+            },
+            "Fittings":{
+                "Vegetales Salteados": "350",
+                "Moro": "250",
+                "Vianda Frita": "350",
+                "Tostones": "450"
+            }
+        }
+    }
+}
+}

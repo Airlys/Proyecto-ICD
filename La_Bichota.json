@@ -1,0 +1,257 @@
+{ 
+"Restaurants":{
+    "La_Bichota":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle Paseo, 7 entre 1ra y 3ra, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Bar%2B-%2BRestaurante%2B%2522La%2BBichota%2522/data%3D!4m2!3m1!1s0x0:0xfb2be81b9ccef306%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjxsoHfh96KAxWxSjABHd_tCmgQ_BJ6BAg0EAk&usg=AOvVaw1SIV_9PWkrz_HDAgPDxL_M",
+            "total": 5.0,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 7:00am y Cierre 3:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 150,
+        "menu and prices": {
+            "Breakfast": {
+                "Desayuno Americano": "1450",
+                "Desayuno Internacional": "1300",
+                "Desayuno Continental": "1150"
+            },
+            "Starters": {
+                "Frituras de Malanga": "650",
+                "Croquetas": "700",
+                "Nuggets de Pollo": "1800",
+                "Eperlan": "1400",
+                "Ceviche": "1800",
+                "Fajitas de Pollo": "2200",
+                "Tostones Rellenos de Jamon": "1000",
+                "Tostones Rellenos de Atun": "1300",
+                "Tostones Rellenos Mixtos": "1200",
+                "Alitas de Pollo": "2200",
+                "Papas Fritas": "500",
+                "Picadera Mixta": "4500",
+                "Tabla Iberica": "4500",
+                "Tabla de Quesos": "5500",
+                "Picadera Bichota": "6500"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "1300",
+                "Agregos": {
+                    "Jamon": "350",
+                    "Queso Gouda": "400",
+                    "Queso de Cabra": "600",
+                    "Queso Azul": "800",
+                    "Jamon Serrano": "950",
+                    "Vegetales": "200",
+                    "Chorizo": "450",
+                    "Bacon": "450",
+                    "Cebolla": "200",
+                    "Camaron": "700",
+                    "Piña": "450",
+                    "Aceituna": "350",
+                    "Atun": "500"
+                }
+            },
+            "Sandwich": {
+                "Sandwich Cubano": "2000",
+                "Sandwich de Jamon y Queso": "1300",
+                "Sandwich de Atun": "1850"
+            },
+            "Hamburger": {
+                "Hamburguesa Crispy": "1680",
+                "De Cerdo": "1500",
+                "De Res": "1700",
+                "Agregos": {
+                    "Jamon": "350",
+                    "Queso Gouda": "400",
+                    "Queso de Cabra": "600",
+                    "Queso Azul": "800",
+                    "Jamon Serrano": "950",
+                    "Vegetales": "200",
+                    "Chorizo": "450",
+                    "Huevo": "300",
+                    "Bacon": "450",
+                    "Cebolla": "200"
+                }
+            },
+            "Pasta": {
+                "Pasta Napolitana": "1250",
+                "Pasta de Pescado con Vegetales y Nata": "2500",
+                "Pasta de Camarones con Nata": "3000",
+                "Pasta Fruti di Mare": "3200",
+                "Pasta Carbonara": "2700",
+                "Pasta Bolognesa": "2400",
+                "Pasta Asiatica de Camaron": "2800",
+                "Pasta Asiatica de Pollo": "2600"
+            },
+            "Main Dishes": {
+                "Camaron al Gusto": "4000",
+                "Bistec de Cerdo": "3000",
+                "Masas de Cerdo": "3200",
+                "Ropa Vieja": "3500",
+                "Filete de Pescado": "3500",
+                "Filete de Pescado Empanado": "3000",
+                "Langosta al Gusto": "5000",
+                "Pulpo al Gusto": "5000"
+            },
+            "Desserts": {
+                "Copa de Helado": "1300",
+                "Tarta con Helado": "1500",
+                "Tarta de Vainilla": "1000",
+                "Tarta de Chocolate": "1000"
+            },
+            "Coffee": {
+                "Espresso": "300",
+                "Americano": "300",
+                "Con Leche": "400",
+                "Bombon": "600",
+                "Cappuchino": "450",
+                "Frappuchino": "650",
+                "Cortado": "350"
+            },
+            "Cocktails": {
+                "Caipiriña": "600",
+                "Caipirissima": "600",
+                "Caipiroska": "600",
+                "Sangria": "950",
+                "Piña Colada": "700",
+                "Canchanchara": "600",
+                "Coctel La Bichota": "1000",
+                "Mojito": "600",
+                "Mojito Frappe": "700",
+                "Margarita": "700",
+                "Gin Tonic": "1000",
+                "Vodka Tonic": "1000",
+                "Daiquiri Frappe": "850",
+                "Daiquiri Natural": "850",
+                "Daiquiri Mulata": "600",
+                "Cuba Libre": "600",
+                "Cubata": "750",
+                "Havana Special": "700",
+                "Mary Pickford": "900",
+                "Black Russian": "1300",
+                "White Russian": "1300",
+                "French Connection": "1500",
+                "God Father": "1300",
+                "God Mother": "1300",
+                "Espresso Martini": "1300",
+                "Irish Coffee": "1300",
+                "Brandy Alexander": "1500",
+                "Espresso 43": "1300",
+                "Martini Dry": "1100",
+                "Manhattan": "1500",
+                "Martini Perfecto": "1100",
+                "Bloody Mary": "1200",
+                "Tequila Sunrise": "1300",
+                "Campari Orange": "1300",
+                "Long Island Loed Tea": "1200",
+                "Aperol Spritz": "2500",
+                "Americano": "1300",
+                "Mai Tai": "1500",
+                "San Francisco(Sin Alcohol)": "700",
+                "Charly Temple(Sin Alcohol)": "700",
+                "Bella Dama(Sin Alcohol)": "700",
+                "Paseo y Malecon(Sin Alcohol)": "700",
+                "Reina de Verano(Sin Alcohol)": "700",
+                "Golden Cohiba": "2000",
+                "Blue Hawai": "1500",
+                "Tikiba": "1600",
+                "Old Fashion Plus": "2800",
+                "Piña Nevada del Puro": "1200",
+                "Bichota": "1200",
+                "Caipiriña de Paseo": "1200",
+                "Eclipse Royal": "1500",
+                "Sex on the Bar": "1800",
+                "Tumba'o del Monte": "2000",
+                "Negroni Habanero": "2800",
+                "Adan y Eva Molecular": "2000",
+                "Los Compadres Molecular": "2000",
+                "Presidente Molecular": "1500",
+                "Margarita Blue Molecular": "1500",
+                "Miss Marylin Molecular": "1800"
+            },
+            "Drinks": {
+                "Agua Natural Importada": "300",
+                "Agua Natural 1500ml": "600",
+                "Agua Gaseada Importada": "700",
+                "Agua Tonica": "425",
+                "Refrescos Importados": "300",
+                "Malta": "400",
+                "Jugo Natural": "350",
+                "Tigon": "500",
+                "RedBull": "800",
+                "Cerveza Importada": "700",
+                "Cerveza Nacional": "500",
+                "Servicio de Michelada": "350",
+                "Servicio de Chelada": "250",
+                "Limonada": "400",
+                "Suero de Helado": "1200"
+            },
+            "Whisky": {
+                "Clan Campbell": "450",
+                "Ballantines": "600",
+                "Chivas 12": "800",
+                "Johnnie Walker Red Label": "700",
+                "Johnnie Walker Black Label": "1200",
+                "Buchanans": "2100",
+                "Jack Daniel's": "900",
+                "Jameson": "900",
+                "Label 5": "320",
+                "Black Label Triple Cask Edition": "2000"
+            },
+            "Brandy": {
+                "Henessy V8": "2500",
+                "Torres 15": "1200"
+            },
+            "Wines": {
+                "Vino Blanco Frontera Chardonnay": "800",
+                "Vino Tinto Morin 2013": "650",
+                "Vino Tinto Morin 2016": "1300",
+                "Cava Vallformosa Classic": "1700",
+                "Cava Vallformosa Classic(Botella)": "6500",
+                "Cava Vallformosa Organic(Botella)": "8000"
+            },
+            "Tequila": {
+                "Tequila Rose": "1500",
+                "Clase Azul": "8000",
+                "Reina del Sur": "400",
+                "Tres Sombreros": "650",
+                "Patron Silver": "6000",
+                "Patron Reposado": "6500",
+                "Cincoro": "8000",
+                "Cristalino Espolon": "6500",
+                "Olmeca Dark Chocolate": "800"
+            },
+            "Vodka": {
+                "Stolichnaya": "400",
+                "Ciroc Neutro": "1100"
+            },
+            "Rums": {
+                "Havana Club Profundo": "400",
+                "Havana Club 3 Años": "350",
+                "Havana Club Spices": "500",
+                "Havana Club Especial": "450",
+                "Havana Club Smoky": "550",
+                "Havana Club Reserva": "600",
+                "Havana Club 7 Años": "750",
+                "Havana Club Seleccion de Maestro": "1500",
+                "Havana Club Pacto Navio": "1500",
+                "Aguardiente Black Tears": "450"
+            }
+        } 
+    }
+}
+}

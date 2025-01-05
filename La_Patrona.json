@@ -1,0 +1,83 @@
+{ 
+"Restaurants":{
+    "La_Patrona":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "Calzada de Guines en San Francisco de Paula",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 8:00am y Cierre 12:00am",
+        "Days of the week": "Martes,Miercoles,Jueves,Viernes,Sabado,Domingo",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Arroz Frito",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 6,
+        "menu and prices": {
+            "Hamburger": {
+                "Hamburguesa Clasica": "500",
+                "Hamburguesa Sencilla": "700",
+                "Hamburguesa Grosera": "1200",
+                "Hamburguesa Patrona": "1000"
+            },
+            "Main Dishes": {
+                "Bistec Uruguayo": "2600",
+                "Ropa Vieja": "1400",
+                "Escalope de Cerdo": "1800",
+                "Bistec de Cerdo": "1600",
+                "Arroz Frito": "1000"
+            },
+            "Pasta": {
+                "Lasagna": "1250",
+                "Canelones": "1100",
+                "Espaguetis Carbonara": "1500"
+            },
+            "Pizza": {
+                "Pizza La Patrona": "1800"
+            },
+            "Additions": {
+                "Jamon Serrano": "800",
+                "Jamon": "400",
+                "Chorizo": "400",
+                "Bacon": "400",
+                "Pepperoni": "400",
+                "Queso Parmesano": "400",
+                "Queso Blanco": "300",
+                "Queso Gouda": "400",
+                "Cebolla": "300",
+                "Piña": "300",
+                "Aceituna": "300",
+                "Atun": "500"
+            },
+            "Desserts": {
+                "Flan": "200",
+                "Copa Lolita": "400",
+                "Cesta de Helado": "500",
+                "Tres Gracias": "300"
+            },
+            "Coffee": {
+                "Espresso": "150",
+                "Con Crema": "180",
+                "La Patrona": "250",
+                "Frappuchino": "250"
+            },
+            "Drinks": {
+                "Jugos": "100",
+                "Suero Helado": "350",
+                "Batidos": "300"
+            }
+        }
+    }
+}
+}

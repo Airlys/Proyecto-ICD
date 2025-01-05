@@ -1,0 +1,52 @@
+{ 
+"Restaurants":{
+    "Don_Timbon":{
+        "Province": "La Habana",
+        "Municipality": "San Miguel del Padron",
+        "Location": "3MHJ+47F, 23, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://maps.app.goo.gl/SLCukU61MneXJ9PN7",
+            "total": 3.8,
+            "date": "20250104"
+        },
+        "schedules": "Apertura 9:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": "Pizza",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 12,
+        "menu and prices": {
+            "Hamburger": {
+                "Hamburguesa Sencilla": "350"
+            },
+            "Entrepanes": {
+                "Pan con Bistec": "550"
+            },
+            "Main Dishes": {
+                "Arroz Salteado": "500"
+            },
+            "Pasta": {
+                "Lasagna": "550",
+                "Espaguetis Napolitano": "300"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "160"
+            },
+            "Additions": {
+                "Jamon": "80",
+                "Chorizo": "100",
+                "Atun": "100"
+            }
+        }
+    }
+}
+}
