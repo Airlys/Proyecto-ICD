@@ -1,0 +1,118 @@
+{ 
+"Restaurants":{
+    "MM_Cafeteria":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "23°5'22''N,82°25'17''W",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 9:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Hamburger": {
+                "Hamburguesa Clasica": "400",
+                "Hamburguesa de Queso": "600",
+                "Hamburguesa de Jamon": "550",
+                "Hamburguesa de Jamon y Queso": "700"
+            },
+            "Starters": {
+                "Papas Fritas": "650",
+                "Croquetas": "550",
+                "Fritura de Malanga": "550",
+                "Tostones Rellenos": "650",
+                "Ensalada Fria de Jamon": "800",
+                "Ensalada Fria de Atun": "900",
+                "Fajitas de Pechuga Salteada": "1200",
+                "Fajitas de Pechuga Empanada": "1450",
+                "Fajitas de Cerdo Salteadas": "1300",
+                "Fajitas de Cerdo Empanadas": "1350",
+                "Eperlan": "1350",
+                "Coctel de Camarones": "2100"
+            },
+            "Main Dishes": {
+                "Taco de Cerdo": "1200",
+                "Taco de Camaron": "1400",
+                "Taco de Pollo ": "1100",
+                "Taco de Res": "1300",
+                "Bistec de Cerdo Grille": "1400",
+                "Cerdo Bistec Empanizado": "1600",
+                "Bistec de Cerdo Uruguayo": "1950",
+                "Masa de Cerdo Salteada": "1350",
+                "Lomo de Cerdo": "1500",
+                "Fricase de Cerdo": "1400",
+                "Bistec de Pollo Gordon Bleu": "1900",
+                "Bistec de Pechuga Gordon Bleu": "1900",
+                "Pechuga de Pollo Grille": "1500",
+                "Pechuga de Pollo Empanada": "1400",
+                "Vaca Frita": "1900",
+                "Ropa Vieja": "1900",
+                "Pescado Grille": "1500",
+                "Pescado Empanizado": "1900",
+                "Camaron Enchilado": "1400",
+                "Camaron al Ajillo": "1700",
+                "Camaron Empanado": "2000",
+                "Canciller 190Grs": "2000",
+                "Canciller 180Grs": "2000",
+                "Langosta": "2100",
+                "Cazuela de Mariscos": "2100",
+                "Arroz Frito": "1550",
+                "Arroz Imperial": "1650",
+                "Paella": "2100",
+                "Arroz Frito de Cerdo,Pollo y Mejillon": "1450"
+            },
+            "Pasta": {
+                "Crema de Queso": "800",
+                "Lasagna Bolognesa": "1700",
+                "Espaguetis Napolitano": "700"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "750",
+                "Pizza de Jamon": "1100",
+                "Pizza de Bacon": "1650",
+                "Pizza Pimiento": "1050",
+                "Pizza Cebolla": "950",
+                "Pizza Hawaiana": "1350",
+                "Pizza Atun": "1650",
+                "Pizza de Camaron": "1350",
+                "Pizza Ropa Vieja": "1500",
+                "Pizza de Chorizo": "1100",
+                "Pizza MM": "1800"
+            },
+            "Fittings": {
+                "Arroz Blanco": "200",
+                "Arroz Congri": "300"
+            },
+            "Desserts":{
+                "Helado CID": "850"
+            },
+            "Drinks": {
+                "Agua": "130",
+                "Refresco Santa": "200",
+                "Sprite": "450",
+                "Santa Isabel": "250",
+                "Energizante": "260",
+                "Cerveza Cristal V": "245",
+                "Cerveza Cristal B": "200",
+                "Cerveza Bucanero": "240",
+                "Jugo Lata": "265"
+            }
+        }
+    }
+}
+}

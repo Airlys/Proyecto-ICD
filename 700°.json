@@ -1,0 +1,114 @@
+{ 
+"Restaurants":{
+    "700°":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "Avenida 41 Esquina 86",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/mEpKcGr",
+            "total": 3.0,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 11:00am y Cierre 3:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo|"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Tostones Rellenos de Jamon y Queso": "890",
+                "Croquetas de la Casa": "890",
+                "Finger de Pollo Empanizado": "890",
+                "Tacos de Pollo": "990",
+                "Tacos de Cerdo": "1100",
+                "Frituras de Malanga": "790",
+                "Entremes de Aceituna": "1130",
+                "Papas Fritas": "890",
+                "Eperlan de Pescado": "1380",
+                "Coctel de Langosta": "1600",
+                "Coctel de Camaron": "1600"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "1100",
+                "Espaguetis con Camaron": "2500",
+                "Espaguetis de Langosta": "2500",
+                "Espaguetis Marineros": "1100"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "1200",
+                "Pizza Hawaiana": "1450"
+            },
+            "Main Dishes": {
+                "Lonjas de Cerdo al Carbon": "1850",
+                "Saltimboca de Cerdo": "1750",
+                "Bistec de Cerdo": "1650",
+                "Fajitas de Cerdo Salteadas": "1650",
+                "Solomillo de Cerdo": "2900",
+                "Masa de Cerdo en Salsa Teriyaki": "2200",
+                "Fricase de Cerdo": "2200",
+                "Pechuga de Pollo": "1650",
+                "Bistec Uruguayo de Res": "1850",
+                "Ropa Vieja de Res": "2200",
+                "Filete de Pescado": "1850",
+                "Camaron al Gusto": "2800",
+                "Langosta Enchilada": "2800",
+                "Paella de Marisco": "3550",
+                "Cazuela de Marisco": "3600",
+                "Mar y Tierra Campesina": "3550",
+                "Filete Jhonbill": "3550"
+            },
+            "Fittings": {
+                "Arroz Moro": "100",
+                "Vianda Frita": "100",
+                "Platano Maduro Frito": "100",
+                "Ensalada Estancion": "100",
+                "Platano Chatinos": "100",
+                "Arroz Blanco": "100"
+            },
+            "Drinks": {
+                "Agua Natural": "290",
+                "Refresco Importado": "380",
+                "Malta Importada": "440",
+                "Energizante": "550",
+                "Red Bull": "830",
+                "Cerveza Importada": "350",
+                "Cerveza Dispensada": "350",
+                "Cerveza Nacional": "550",
+                "Cerveza Corona": "750",
+                "Cerveza Sol": "750",
+                "Cerveza Heineken": "750",
+                "Limonada Frescura": "250",
+                "Limonada Natural": "250"
+            },
+            "Cocktails":{
+                "Servicio de Michelada": "490",
+                "Servicio de Chelada": "300",
+                "Caipiroska": "380",
+                "Caipirissima": "380",
+                "Mojito": "450",
+                "Caipiriña": "380",
+                "Sangria": "400",
+                "Vodka Tonic": "480",
+                "Gin Tonic": "550",
+                "Cuba Libre": "480",
+                "Cubata Especial": "490",
+                "Daiquiri": "380",
+                "Piña Colada": "450"
+            },
+            "Wines": {
+                "Vino Tinto": "400"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,76 @@
+{ 
+"Restaurants":{
+    "Los_Taticos":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "3HM7+JJC, 27 y 27A",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Los%2BTaticos/data%3D!4m2!3m1!1s0x0:0x483b041ad4e354e1%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwid1tG4_eOKAxU_ZzABHc7nHfMQ_BJ6BAg4EAk&usg=AOvVaw3EeHwn2kohZsjSRsjl-2En",
+            "total": 5.0,
+            "date": "20250105"
+        },
+        "schedules": "8:00am y 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Variada",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": true,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Picadera Tatico": "2800",
+                "Entremes Surtido": "800",
+                "Tostones Rellenos": "800",
+                "Bolitas de Queso": "800",
+                "Bolitas de Carne": "800",
+                "Croquetas Caseras": "800"
+            },
+            "Hamburger": {
+                "Super Hamburguesa Tatico": "900",
+                "Hamburguesa Tatico": "750",
+                "Super Hamburguesa Queso": "800",
+                "Hamburguesa Queso": "650",
+                "Super Hamburguesa Sencilla": "700",
+                "Hamburguesa Sencilla": "600"
+            },
+            "Sandwich": {
+                "Sandwich Tatico": "300"
+            },
+            "Entrepanes": {
+                "Bocadito de Atun": "600",
+                "Pan con Lechon": "650",
+                "Pan con Croqueta": "240"
+            },
+            "Pasta": {
+                "Lasagna": "1250"
+            },
+            "Pizza": {
+                "Pizza Tatico": "1200",
+                "Pizza Mixta": "680",
+                "Pizza Hawaiana": "680",
+                "Pizza de Jamon": "680",
+                "Pizza de Queso": "680"
+            },
+            "Main Dishes": {
+                "Taco de Cerdo": "650",
+                "Pollo al Carbon": "1200",
+                "Taco de Carne": "800",
+                "Taco de Atun": "800"
+            },
+            "Fittings": [
+                "Arroz Blanco",
+                "Frijoles",
+                "Arroz Moro"
+            ]
+        }
+    }
+}
+}

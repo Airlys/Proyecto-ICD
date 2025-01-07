@@ -1,0 +1,96 @@
+{ 
+"Restaurants":{
+    "Bar_Tropicana":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "72 e/ 45 y Línea del Ferrocarril , Marianao, La Habana. Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Tropicana/data%3D!4m2!3m1!1s0x0:0xb980d751c3a3ea6c%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiE_M-_gOSKAxUtRzABHTXKOtwQ_BJ6BAhCEAk&usg=AOvVaw2x4baHuXtvpbsfD0bRXOsN",
+            "total": 4.4,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Cocteleria",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Drinks": {
+                "Aguas Nacional": "100",
+                "Agua Saborizada": "100",
+                "Agua Natural": "100",
+                "Refresco": "60",
+                "Jugos de Frutas en Conserva": "100",
+                "Jugos de Frutas Naturales": "100",
+                "Cerveza Nacionale": "200",
+                "Cerveza Importada": "200",
+                "Cerveza Dispensada": "160"
+            },
+            "Wines": {
+                "Copa de Vino de la Casa": "300"
+            },
+            "Rums": {
+                "Havana Club Especial": "120",
+                "Havana Club 7 Años": "320",
+                "Havana Club Pacto Navio": "730",
+                "Havana Club Seleccion de Maestros": "750",
+                "Aguardiente Gobernador": "14300"
+            },
+            "Whisky": {
+                "Chiva Regal 12 Años": "995",
+                "Ballantines Finest": "500",
+                "J&B": "650",
+                "Johnnie Walker Red Label": "550",
+                "Jameson": "650",
+                "VAT": "580"
+            },
+            "Tequila": {
+                "3 Sombreros": "300"
+            },
+            "Vodka": {
+                "Igor": "395"
+            },
+            "Brandy": {
+                "Napoleon": "190"
+            },
+            "Creams and Liqueurs": {
+                "Cacao": "85",
+                "Cafe": "85",
+                "Menta": "85",
+                "Marrasquino": "85",
+                "Triple sec": "85",
+                "Curacao Azul": "85",
+                "Piña": "85"
+            },
+            "Cocktails": {
+                "Daiquiri": "450",
+                "Daiquiri Frappe": "450",
+                "Cuba Libre": "730",
+                "Cubata": "700",
+                "Daiquiri Mulata": "620",
+                "Daiquiri Saborizado": "450",
+                "Gin Cola": "750",
+                "Gin Tonic": "785",
+                "Ron Tonic": "550",
+                "Vodka Cola": "600",
+                "Vodka Tonica": "650",
+                "Whisky Cola": "500",
+                "Tropicana Special": "450",
+                "Cocteles Internacionales": "500",
+                "Canchanchara": "450",
+                "Piña Colada": "450"
+            }
+        }
+    }
+}
+}

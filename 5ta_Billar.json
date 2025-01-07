@@ -1,0 +1,108 @@
+{ 
+"Restaurants":{
+    "5ta_Billar":{
+        "Province": "La Habana",
+        "Municipality": "Regla",
+        "Location": "4MFG+CFF, Enlace, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/zo8Qbv4",
+            "total": 4.8,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 1:00pm y Cierre 1:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Cocteleria",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Cacahuates Picantes": "110",
+                "Tostones Rellenos J&G": "750",
+                "Tostones Rellenos de Atun": "980",
+                "Tostones Rellenos de Carne": "900",
+                "Croquetas Bola 9": "650",
+                "Bolita de Queso": "850",
+                "Fajitas de Pollo": "920",
+                "Eperlan": "950",
+                "Entremes": "960",
+                "Surtido 5Tabilla": "1650",
+                "Surtido Premium": "2950",
+                "Rositas de Maiz": "600"
+            },
+            "Main Dishes": {
+                "Tacos de Cerdo": "950",
+                "Pollo a la Gordon Bleu": "1800",
+                "Uruguayo de Cerdo": "2100",
+                "Bistec de Pollo Encebollado": "1600",
+                "Bistec de Cerdo Encebollado": "1900",
+                "Brochetas de Cerdo al Carbon": "1800",
+                "Baby Chicken": "960",
+                "Kings Chicken": "1350",
+                "Lomo de Cerdo Asado al Carbon": "1800",
+                "Chorizada al Carbon": "2000",
+                "La Parrillada": "4950"
+            },
+            "Pizzas": {
+                "Focaccia": "700",
+                "Pizza Napolitana": "1100",
+                "Pizza Mixta": "1600",
+                "Pizza Cuatro Estaciones": "1900"
+            },
+            "Drinks": {
+                "Cerveza Nacional": "400",
+                "Cerveza Corona": "600",
+                "Cerveza Importada": "320",
+                "Malteada": "250",
+                "Refresco": "340",
+                "Malta": "400",
+                "RedBull": "750",
+                "Agua Natural": "220",
+                "Kermato": "680",
+                "Tigon": "400",
+                "Jugo": "230",
+                "Limonada Frappe": "300",
+                "Limonada Frappe Curacao": "350",
+                "Limonada Frappe Granadina": "380",
+                "Limonada Frappe Melocoton": "400",
+                "Limonada Frappe Menta": "380",
+                "Limonada Frappe Mora": "380",
+                "Limonada Frappe Naranja": "470",
+                "Limonada Frescura": "350",
+                "Limonada Frappe Piña": "350",
+                "Limonada Frappe Tropical Blue": "350"
+            },
+            "Cocktails": {
+                "Margarita": "400",
+                "Margarita Blue": "400",
+                "Tequila Sunrise": "400",
+                "Medusa": "650",
+                "Servicio de Chelada": "450",
+                "Servicio de Michelada": "350",
+                "Jagger Bomb": "1200",
+                "Mojito Corona": "900",
+                "Corona Sunrise": "880",
+                "Sangria": "760",
+                "Jarra de Sangria": "3720",
+                "Alexander": "1000",
+                "Eclipse": "1020",
+                "Mai Tai": "550",
+                "Orgasmo": "1080",
+                "Aperol Spritz": "1650",
+                "Italian Sunset": "780",
+                "Mimosa": "1500",
+                "San Francisco(sin Alcohol)": "350"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,95 @@
+{ 
+"Restaurants":{
+    "Restaurante_El_Pavo":{
+        "Province": "La Habana",
+        "Municipality": "Regla",
+        "Location": "4MFJ+M6J, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/KBTGbxa",
+            "total": 4.3,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Ensalada Fria de Jamon": "500",
+                "Ensalada Fria de Atun": "500",
+                "Croquetas": "200",
+                "Fajitas": "500",
+                "Tostones Rellenos de Jamon": "450",
+                "Tostones Rellenos de Atun": "450",
+                "Costillas": "800",
+                "Coctel de Camaron": "700",
+                "Garbanzo Frito": "400",
+                "Eperlan": "600",
+                "Entremes": "800"
+            },
+            "Main Dishes": {
+                "Pollo Grille": "1100",
+                "Masa de Cerdo": "1600",
+                "Cerdo a la Milanesa": "1400",
+                "Bistec de Cerdo": "1300",
+                "Bistec de Res": "1300",
+                "Ropa Vieja": "1600",
+                "Camarones Enchilados": "1300",
+                "Camarones al Ajillo": "1300",
+                "Camarones Grille": "1200",
+                "Camarones Rebosados": "1300",
+                "Langosta Enchilado": "1400",
+                "Langosta Grille": "1300",
+                "Pescado Grille": "1400",
+                "Marinada al Pavo": "2500"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "600",
+                "Pizza de Vegetales": "650",
+                "Pizza de Jamon": "800",
+                "Pizza de Chorizo": "800",
+                "Pizza Hawaiana": "850",
+                "Pizza de Carne": "800",
+                "Pizza de Camarones": "1000",
+                "Pizza Especial El Pavo": "1500"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "600",
+                "Espaguetis con Jamon": "800",
+                "Espaguetis Bolognesa": "800",
+                "Espaguetis con Camarones": "1000",
+                "Espaguetis con Atun": "950",
+                "Espaguetis con Bacon": "800",
+                "Lasagna de Jamon": "800",
+                "Lasagna de Carne": "900"
+            },
+            "Desserts": {
+                "Flan de Leche": "180"
+            },
+            "Drinks": {
+                "Cerveza Nacional": "250",
+                "Cerveza Nacional ": "200",
+                "Cerveza Corona": "300",
+                "Agua Natural": "180",
+                "Agua Gaseada": "180",
+                "Refresco Nacional": "225",
+                "Refresco Importado": "260",
+                "Malta Importada": "225",
+                "Malta HyperMalt": "260",
+                "Jugo de Caja": "180"
+            }
+        }
+    }
+}
+}

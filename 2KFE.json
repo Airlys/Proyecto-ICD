@@ -1,0 +1,73 @@
+{ 
+"Restaurants":{
+    "2KFE":{
+        "Province": "La Habana",
+        "Municipality": "Regla",
+        "Location": "4MH8+57M entre Marti y Maceo, Pereira, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/2KF%25C3%2589/data%3D!4m2!3m1!1s0x0:0xfaf6dfa7bc96ab80%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiM2pv2_-OKAxUxTTABHcr6NqUQ_BJ6BAg-EAk&usg=AOvVaw2fj5ewIJQy5ZyXqE5chmRg",
+            "total": 5.0,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 10:00am y Cierre 8:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas": "300",
+                "Viandas Fritas": "100",
+                "Brusquetas": "250",
+                "Entremes Surtido": "800",
+                "Mini Gordon Bleu": "800",
+                "Plato Combinado": "1200"
+            },
+            "Main Dishes": {
+                "Tacos Carnitas": "850",
+                "Tacos de Res": "900",
+                "Tacos de Pollo": "600",
+                "Tacos Vegetariano": "400",
+                "Tacos con Vegetales Salteados en Mantequilla y Limon": null,
+                "Tacos de Jamon y Queso": "650"
+            },
+            "Coffee": {
+                "Espresso": "100",
+                "Americano": "100",
+                "Cortadito": "150",
+                "Con Leche": "200",
+                "Espresso Macchiato": "180",
+                "Caramel Macchiato": "250",
+                "Cappuchino": "220",
+                "Frappuchino": "500",
+                "Irlandes": "250",
+                "Caribeño": "180",
+                "Alma Mia": "180",
+                "Minty Coffee": "250",
+                "2KF": "250",
+                "Lujo": "600"
+            },
+            "Sugerencia de la Casa": {
+                "Lazaña de Embutido": "600"
+            },
+            "Agregos": {
+                "Piña": "80",
+                "Jamon": "240",
+                "Chorizo": "240",
+                "Queso Blanco": "200",
+                "Queso Gouda": "360"
+            }
+        }
+    }
+}
+}

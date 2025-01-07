@@ -1,0 +1,70 @@
+{ 
+"Restaurants":{
+    "Tropicana":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "Avenida 41, Calle 72",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/eUok2FU",
+            "total": 4.4,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 11:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Tostones": "350",
+                "Tostones Rellenos": "450",
+                "Crema de Queso": "450",
+                "Crema Aurora": "450",
+                "Crema de Jamon": "450",
+                "Consome": "450",
+                "Eperlan": "500",
+                "Croquetas": "500",
+                "Picadera de la Casa": "100"
+            },
+            "Hamburger": {
+                "Super Hamburguesa": "560"
+            },
+            "Entrepanes": {
+                "Pan con Jamon y Queso": "280"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo": "1300",
+                "Bistec de Cerdo a la Milanesa": "1800",
+                "Bistec de Pollo": "1000",
+                "Pollo Frito": "1000",
+                "Pollo a la Milanesa": "1500",
+                "Ropa Vieja": "1550",
+                "Canciller": "2500",
+                "Pescado Entero": "2000",
+                "Rueda de Atun": "1700",
+                "Camarones": "1700",
+                "Filete de Pescado": "1500",
+                "Arroz Frito": "700"
+            },
+            "Desserts": {
+                "Helado Gusto": "1000"
+            },
+            "Pizza": {
+                "Pizza de Queso Gouda": "750",
+                "Pizza Hawaiana": "800",
+                "Pizza Tropicana": "950"
+            }
+        }
+    }
+}
+}

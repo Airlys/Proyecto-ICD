@@ -1,0 +1,139 @@
+{ 
+"Restaurants":{
+    "Colesterol_5.1":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "Avenida 51 entre 134 y 136",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 10:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Variada",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Tostones": "490",
+                "Mariposita China": "565",
+                "Frituras de Malanga": "590",
+                "Bolitas de Queso con Miel y Mostaza": "730",
+                "Croquetas Colesterol 5.1": "835",
+                "Fajitas de Pollo": "950",
+                "Fajitas de Cerdo": "1150",
+                "Coctel de Camarones": "1670",
+                "Eperlan de Pescado": "950",
+                "Ensalada Fria de Jamon": "835",
+                "Ensalada Fria de Pollo": "865",
+                "Ensalada Fria de Atun": "995",
+                "Ensalada Fria de Marisco": "1125",
+                "Crema de Queso": "595",
+                "Crema de Mariscos": "920",
+                "Garbanzo Frito": "1670",
+                "Tacos de Pollo": "1260",
+                "Tacos de Cerdo": "1670",
+                "Tacos de Res": "1925",
+                "Tacos de Marineros": "2330",
+                "Tabla Colesterol": "3320"
+            },
+            "Hamburger": {
+                "Hamburguesa de Pollo": "1650",
+                "Hamburguesa de Cerdo": "1795",
+                "Hamburguesa de Res": "1945"
+            },
+            "Sandwich": {
+                "Sandwich Ropa Vieja": "760",
+                "Sandwich de Jamon y Queso": "765",
+                "Sandwich Cubano": "1320",
+                "Sandwich de Atun y Cebolla": "1945"
+            },
+            "Main Dishes": {
+                "Tamal Estilo Colesterol": "1925",
+                "Masa de Cerdo Frita": "2725",
+                "Bistec Uruguayo": "2995",
+                "Chuleta de Cerdo en Salsa Agridulce": "3200",
+                "Bistec Suprema": "2460",
+                "Ropa Vieja de Res": "2190",
+                "Vaca Frita": "2190",
+                "Brocheta Mixta": "2600",
+                "Enchilado de Cangrejo": "1005",
+                "Enchilado de Langosta": "3030",
+                "Mariscada Estelares 5.1": "3800",
+                "Pescado Enchilado": "2600",
+                "Filete de Pescado Grille": "3675",
+                "Filete de Pescado Canciller": "3675",
+                "Arroz con Artistage": "2800"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "925",
+                "Espaguetis con Jamon": "1145",
+                "Espaguetis a la Bolognesa": "1800",
+                "Espaguetis al Pesto": "1265",
+                "Espaguetis Carbonara": "2475",
+                "Espaguetis con Frutos de Mar": "3750",
+                "Lasagna Bolognesa": "2245"
+            },
+            "Pizza": {
+                "Pizza Margarita 5.1": "1930",
+                "Pizza de Jamon": "2115",
+                "Pizza Hawaiana": "2215",
+                "Pizza de Bacon, Pepperoni y Jamon Serrano": "2845",
+                "Pizza Campesina": "2645",
+                "Pizza Marinera": "3020"
+            },
+            "Desserts": {
+                "Churros con Leche Condensada": "300",
+                "Tocinillo": "300",
+                "Sunday": "470",
+                "Churros Acompañado de Chocolate Caliente": "700"
+            },
+            "Cocktails":{
+                "Servicio de Chelada": "170",
+                "Servicio de Michelada": "220",
+                "Caipiroska": "495",
+                "Caipiriña": "495",
+                "Cubata": "550",
+                "Cuba Libre": "550",
+                "Daiquiri Floridita": "600",
+                "Tinto Verano": "600",
+                "Gin Tonic": "650",
+                "Canchanchara": "660",
+                "Piña Colada": "660",
+                "Mojito": "720",
+                "Sangria Especial 5.1": "720"
+            },
+            "Coffee": {
+                "Espresso": "250",
+                "Frappuchino": "450"
+            },
+            "Drinks": {
+                "Agua Mineral": "190",
+                "Jugos de Frutas": "300",
+                "Jugos de Cajita": "340",
+                "Batidos de Frutas": "495",
+                "Malta": "420",
+                "Malteada": "545",
+                "Refresco de Lata": "350",
+                "Refresco Pepsi": "420",
+                "Refresco Seven Up": "420",
+                "Suero de Helado": "610",
+                "Energizante": "360",
+                "Cerveza Nacional": "480",
+                "Cerveza Importada": "380"
+            }
+        }
+    }
+}
+}

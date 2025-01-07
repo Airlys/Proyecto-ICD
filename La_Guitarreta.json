@@ -1,0 +1,139 @@
+{ 
+"Restaurants":{
+    "La_Guitarreta":{
+        "Province": "La Habana",
+        "Municipality": "Regla",
+        "Location": "4MFC+QW5, Loredo, La Habana, Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Restaurante%2BLa%2BGuitarreta/data%3D!4m2!3m1!1s0x0:0x65499c5590700abc%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwi0vtiJ_eOKAxV3SDABHYivFi4Q_BJ6BAg-EAk&usg=AOvVaw3CtZGd9vUR8hBKoRJomIwV",
+            "total": 5.0,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Internacional",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Racion de Yuca con Mojo": "250",
+                "Ensalada de Estacion": "150",
+                "Tacos de Pollo": "750",
+                "Tacos de Cerdo": "1000",
+                "Tacos de Res": "1200",
+                "Fajitas de Pollo": "800",
+                "Bolitas de Queso G": "700",
+                "Tostones Rellenos QB": "600",
+                "Tostones Rellenos QG": "750",
+                "Papas Fritas con Ketchup": "500",
+                "Papas Fritas con Ketchup y QG": "650",
+                "Croquetas de la Abuela": "350",
+                "Croquetas Bechamel": "650",
+                "Maripositas Chinas": "400"
+            },
+            "Main Dishes": {
+                "Arroz Frito": "1500",
+                "Arroz Frito Especial": "1800",
+                "Ropa Vieja": "1800",
+                "Pechuga Empanada": "1400",
+                "Pechuga Milanesa": "1500",
+                "Pechuga Grille": "1600",
+                "Pechuga Princesa": "1750"
+            },
+            "Fittings": {
+                "Arroz Moro": "200",
+                "Arroz Blanco": "150"
+            },
+            "Pizza": {
+                "Pizza de Queso Blanco": "700",
+                "Pizza de Queso Gouda": "950",
+                "Pizza Hawaiana QB": "1000",
+                "Pizza Hawaiana QG": "1250"
+            },
+            "Pasta": {
+                "Lasagna": "1350",
+                "Espaguetis de Queso Blanco": "550",
+                "Espaguetis de Queso Gouda": "700"
+            },
+            "Drinks": {
+                "Cerveza Importada": "200",
+                "Cerveza Importada ": "250",
+                "Cerveza Nacional": "300",
+                "Agua Natural Importada": "200",
+                "Refresco de Cola Importada": "220",
+                "Refresco de Cola Importada Pepsi": "260",
+                "Refresco de Limon Importado": "260",
+                "Refresco de Naranja Importado Fanta": "260",
+                "Refresco de Naranja Importado": "260",
+                "Refresco Mate": "280",
+                "Malta Nacional Bucanero": "300",
+                "Energizante Importado": "300",
+                "Energizante RedBull": "500",
+                "Limonada Frappe": "290",
+                "Suero de Helado": "550",
+                "Piña Colada Virgen": "500",
+                "Piña Colada": "600"
+            },
+            "Cocktails": {
+                "Pantera Rosa": "650",
+                "Sangria": "500",
+                "Tinto Verano": "400",
+                "Long Island": "850",
+                "Screwdriver": "300",
+                "Gin Tonic": "450",
+                "Gin Tonic Beefeater": "600",
+                "Vodka Tonic": "450",
+                "Cuba Libre": "250",
+                "Cubata": "350",
+                "Pocion Guitarreta": "800",
+                "Servicio de Michelada": "250",
+                "Servicio de Chelada": "150",
+                "Caipiroska": "450",
+                "Caipirissima": "450",
+                "Daiquiri": "400"
+            },
+            "Rums": {
+                "Havana Club Añejo Especial": "300",
+                "Havana Club Ritual": "350",
+                "Havana Club Añejo 7 Años": "400"
+            },
+            "Creams": {
+                "Crema Tequila de Fresa": "400",
+                "Crema de Ron Ruavieja": "550",
+                "Crema de Whisky Baileys": "800"
+            },
+            "Whisky": {
+                "Johnnie Walker Red Label": "650",
+                "Ballantines": "600",
+                "Jameson": "550",
+                "Chivas Regal": "700",
+                "J&B": "450",
+                "Chanceler": "200"
+            },
+            "Tequila": {
+                "Olmeca Silver": "400"
+            },
+            "Liqueur": {
+                "Jagermeister": "500"
+            },
+            "Wines": {
+                "Copa de Vino Tinto Semidulce": "350",
+                "Copa de Vino Tinto Merlot": "400",
+                "Copa de Vino Tinto Cabernet Sauvignon": "450",
+                "Copa de Vino Tinto Tempranillo": "675",
+                "Copa de Vino Blanco": "350"
+            }
+        }
+    }
+}
+}
