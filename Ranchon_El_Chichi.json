@@ -1,0 +1,92 @@
+{ 
+"Restaurants":{
+    "Ranchon El Chichi":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Ave. Las Terrazas e/10 y Rotonda, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Ranchon%2BEl%2BMojito/data%3D!4m2!3m1!1s0x0:0x825825dcf4de0301%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiFosHv9-OKAxUFQjABHeq5LlwQ_BJ6BAg2EAk&usg=AOvVaw23WRTDWgEV8TIPHMN-7Ud_",
+            "total": 5.0,
+            "date": "20250106"
+        },
+        "schedules": "Apertura 9:30am y Cierre 7:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Masas de Cerdo",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 26,
+        "menu and prices": {
+            "Starters": {
+                "Crema de Queso": "400",
+                "Croquetas de la Casa": "400",
+                "Tostones Chatino": "400",
+                "Frituras de Malanga": "450",
+                "Crema Aurora": "450",
+                "Crema Virginia": "480",
+                "Papas Fritas": "800",
+                "Ensalada de Atun": "900",
+                "Tostones Rellenos con Jamon y Queso": "900",
+                "Tostones Rellenos de Atun": "950",
+                "Tostones Rellenos con Ropa Vieja": "1000",
+                "Fajitas de Pollo": "1000",
+                "Fajitas de Cerdo": "1200",
+                "Entremes Surtido": "1400",
+                "Picaderas Surtidas": "1500"
+            },
+            "Main Dishes": {
+                "Pollo Asado": "1300",
+                "Fajitas de Pollo Salteadas": "1400",
+                "Pollo Grille": "1400",
+                "Bistec de Pollo Princesa": "1800",
+                "Bistec Encebollado": "1600",
+                "Fajitas Salteadas": "1600",
+                "Lonjas de Cerdo": "1800",
+                "Lomo Ahumado": "1700",
+                "Bistec Uruguayo": "2500",
+                "Pescado Frito": "1800",
+                "Arroz Frito": "1000",
+                "Garbanzos Fritos": "1200",
+                "Ropa Vieja de Res": "2200",
+                "Masas de Cerdo": "1800"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "800",
+                "Pizza de Jamon": "1300",
+                "Pizza de Atun": "1400",
+                "Pizza Hawaiana": "1500"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano con Queso": "1000",
+                "Espaguetis de Jamon y Queso": "1200",
+                "Espaguetis de Atun y Queso": "1300"
+            },
+            "Fittings": {
+                "Arroz Blanco": "150",
+                "Ensalada de Estacion": "150",
+                "Vianda Hervida": "180",
+                "Arroz Moro": "200",
+                "Ensalada Mixta": "350"
+            },
+            "Coffee": {
+                "Espresso": "100",
+                "Cortado": "150",
+                "Bombon": "250"
+            },
+            "Additions":{
+                "Aji": "200",
+                "Queso": "350",
+                "Cebolla": "400"
+            }
+        }
+    }
+}
+}

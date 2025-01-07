@@ -1,0 +1,56 @@
+{ 
+"Restaurants":{
+    "La_Ceiba":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "2JQV+M22 Primer Anillo de La Habana, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2BCeiba/data%3D!4m2!3m1!1s0x0:0x1b9aee008540ce1a%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiRqqaq9OOKAxWwgoQIHW5PM4sQ_BJ6BAgyEAk&usg=AOvVaw2XYLveSxWDhqA3NAMiPngt",
+            "total": 3.3,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 11:45am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Asado al Carbon",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 120,
+        "menu and prices": {
+            "Starters": {
+                "Chicharrones": "300",
+                "Croqueta Buffet": "120",
+                "Steak de Jamonada": "150"
+            },
+            "Main Dishes": {
+                "Chuleta de Cerdo": "1450",
+                "Fricase de Cerdo": "1250",
+                "Costilla de Cerdo": "900",
+                "Masas de Cerdo": "1250",
+                "Lechon Asado": "1450",
+                "Pierna Asada": "1400",
+                "Camaron Enchilado": "1450"
+            },
+            "Fittings": {
+                "Arroz Moro": "150",
+                "Vianda Frita": "150",
+                "Vianda Hervida": "150",
+                "Ensalada Mixta": "250"
+            },
+            "Desserts": {
+                "Dulce en Almibar con Queso": "180",
+                "Helado Chocolate Guarina": "100"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

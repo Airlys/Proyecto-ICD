@@ -1,0 +1,105 @@
+{ 
+"Restaurants":{
+    "O'Connor's":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Calle 410, 410 Vía Blanca, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/sXMhxq3",
+            "total": 4.4,
+            "date": "20250106"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Bistec Uruguayo",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 16,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de la Casa": "250",
+                "Tostones Rellenos de Jamon y Queso": "400",
+                "Tostones Rellenos de Camaron y Queso": "450",
+                "Garbanzo Frito": "600",
+                "Eperlan de Pescado": "750",
+                "Fajitas de Pollo": "750",
+                "Papas Fritas": "500"
+            },
+            "Main Dishes": {
+                "Ropa Vieja de Cerdo": "1800",
+                "Bistec de Cerdo Encebollado": "1800",
+                "Escalope de Cerdo": "1900",
+                "Bistec Uruguayo": "2200",
+                "Chuleta de Cerdo": "2200",
+                "Filete de Pescado Grille": "1900",
+                "Filete de Pescado Empanado": "2100",
+                "Filete de Pescado Monte Toro": "2300",
+                "Filete de Pescado O'Connor's": "2500",
+                "Filete Canciller": "2450",
+                "Camaron al Ajillo": "2600",
+                "Camaron Empanado": "2600",
+                "Camaron Enchilado": "2600",
+                "Pulpo al Ajillo": "2350",
+                "Pulpo en Salsa de Tomate": "2350",
+                "Langosta Grille": "2500",
+                "Langosta Enchilada": "2600",
+                "Vaca Frita": "2400",
+                "Ropa Vieja de Res": "2400",
+                "Bistec de Pechuga de Pollo Grille": "1600",
+                "Cordon Bleu": "2100"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "850",
+                "Pizza Hawaiana": "1500"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "750",
+                "Lasagna": "1600"
+            },
+            "Fittings": {
+                "Arroz Blanco": "170",
+                "Arroz Congris": "250",
+                "Ensalada Estacion": "200",
+                "Vianda Frita": "200"
+            },
+            "Additions": {
+                "Cebolla": "150",
+                "Pimiento": "150",
+                "Chorizo": "200",
+                "Aceituna": "200",
+                "Bacon": "250",
+                "Jamon": "200",
+                "Queso": "300",
+                "Atun": "400",
+                "Camaron": "250"
+            },
+            "Desserts": {
+                "Flan": "250",
+                "Helado": "250"
+            },
+            "Coffee": {
+                "Espresso": "50",
+                "Cortado": "80"
+            },
+            "Drinks": {
+                "Agua Natural": "200",
+                "Refrescos Importados": "280",
+                "Refrescos Nacionales": "280",
+                "Malta Bucanero": "350",
+                "Cerveza Nacional": "300",
+                "Cerveza Corona": "350",
+                "Cerveza Importada": "250"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,258 @@
+{ 
+"Restaurants":{
+    "El_bacura":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "San Juan No.7 Reparto Celimar, La Habana 10900 Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d4932608-Reviews-El_Bacura-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwjEvo_q9eOKAxV7RDABHUWlGoIQFnoECB8QAQ&usg=AOvVaw3H4p7JwvfnGwEnC2RnsqA1",
+            "total": 4.5,
+            "date": "20250106"
+        },
+        "schedules": "Apertura 9:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Bistec Uruguayo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 150,
+        "menu and prices": {
+            "Starters": {
+                "Tortilla Desayuno": "850",
+                "Tacos de Pollo": "2600",
+                "Tacos de Cordero": "5000",
+                "Tacos de Masas de Cerdo": "3250",
+                "Tacos de Res": "7000",
+                "Tostones Rellenos de Chorizo y Queso": "1750",
+                "Tostones de Atun": "1850",
+                "Tostones de Camaron": "3050",
+                "Tostones de Pulpo": "6000",
+                "Tostones de Jamon y Queso": "1200",
+                "Carpaccio de Res": "3000",
+                "Coctel de Langosta": "2000",
+                "Coctel de Camaron": "2500",
+                "Ensalada Fria de Pollo": "1600",
+                "Ensalada Fria de Atun": "1350",
+                "Ensalada Fria de Jamon": "1300",
+                "Ceviche de Pescado 300GR": "2890",
+                "Sopa de Pescado": "2200",
+                "Sopa de Pollo": "1400",
+                "Sopa de Vegetales": "1050",
+                "Crema de Malanga": "1800",
+                "Tabla Serrano": "4800",
+                "Surtido Salchichon Iberico": "5500",
+                "Surtido Chorizo Iberico": "5500",
+                "Papas Fritas": "2000",
+                "Surtido de Jamon Curado": "5500",
+                "Surtido de Lomo Embuchado": "5500",
+                "Aros de Cebolla": "1700",
+                "Eperlan": "2500",
+                "Eperlan de Langosta": "3000",
+                "Papas Bacura": "4500",
+                "Picadera Bacura": "2500",
+                "Fritura de Malanga": "400",
+                "Tostones Naturales": "350",
+                "Surtido Iberico": "5500"
+
+            },
+            "Sandwich": {
+                "Disco de Jamon, Queso y Bacon": "950",
+                "Disco de Ropa Vieja": "1270",
+                "Disco de Lechon": "1720",
+                "Pan con Timba": "750",
+                "Sandwich con Jamon y Queso": "1300",
+                "Sandwich de Pollo": "1200",
+                "Pan Natural": "100"
+            },
+            "Main Dishes": {
+                "Ribeye de Res": "12500",
+                "Bistec Grille de Res": "5900",
+                "Bistec de Res Uruguayo": "6500",
+                "Punta de Filete": "12500",
+                "Pollo Asado en Cazuela": "3500",
+                "Pescado Entero x LB": "2500",
+                "Chilindron de Cordero": "3600",
+                "Paella al Graten": "7500",
+                "Mar y Tierra": "10220",
+                "Paella": "8500",
+                "Langosta al Ajillo": "4000",
+                "Canciller": "3495",
+                "Camaron Grille": "4850",
+                "Camaron Enchilado": "4850",
+                "Filete de Pescado Grille": "3000",
+                "Camaron al Ajillo": "4850",
+                "Camaron Empanado": "4850",
+                "Pulpo al Gusto": "8500",
+                "Langosta Grille": "4000",
+                "Langosta Enchilada": "4000",
+                "Cerdo Asado al Carbon": "3500",
+                "Brocheta de Cerdo": "3000",
+                "Brocheta de Camaron": "3500",
+                "Brocheta de Langosta": "3800",
+                "Langosta a la Brasa": "6300",
+                "Costillas de Cerdo al Carbon": "2800",
+                "Pollo al Carbon": "3500",
+                "Servicio del Carbon": "300",
+                "Arroz Frito": "1200",
+                "Arroz Frito Especial": "2250",
+                "Bistec de Cerdo Uruguayo": "4000",
+                "Lomo de Cerdo Ahumado": "3200",
+                "Bistec de Cerdo": "3000"
+            },
+            "Pizza": {
+                "Pizza Bacura": "1950",
+                "Pizza de Langosta": "2550",
+                "Pizza de Atun": "1300",
+                "Pizza Hawaiana": "1350",
+                "Pizza de Jamon": "1200",
+                "Pizza de Cebolla": "1000",
+                "Pizza Chorizo": "1200",
+                "Pizza Napolitana": "1100"
+            },
+            "Pasta": {
+                "Espaguetis de Langosta": "2000",
+                "Espaguetis Carbonara": "2500",
+                "Espaguetis de Jamon": "1500",
+                "Espaguetis Napolitano": "1250"
+            },
+            "Additions": {
+                "Queso": "350",
+                "Champiñon": "200",
+                "Parmesano": "500",
+                "Jamon": "300",
+                "Bacon": "400",
+                "Cebolla": "200",
+                "Piña": "250",
+                "Jamon Serrano": "1500",
+                "Aji Pimiento": "200",
+                "Langosta": "2000",
+                "Camaron": "2500",
+                "Aceituna": "200",
+                "Atun": "500"
+            },
+            "Fittings": {
+                "Vianda Hervida": "500",
+                "Arroz Moro": "300",
+                "Pure de Malanga": "850",
+                "Ensalada de Vegetales": "300",
+                "Arroz Blanco": "200",
+                "Vianda Frita": "200",
+                "Fabada": "1500"
+            },
+            "Desserts": {
+                "Mermelada de Guayaba con Queso Gouda": "900",
+                "Helado Pote": "900",
+                "Suero de Helado": "1000",
+                "Helado": "395",
+                "Copa Lolita": "850",
+                "Cake Crema de Vainilla": "5000",
+                "Tartaleta": "250",
+                "Eclear": "250",
+                "Lonjas de Crema Pastelera": "350",
+                "Masarreal": "190",
+                "Pasta Risa": "100",
+                "Donas": "250"
+            },
+            "Drinks":{
+                "Malta": "500",
+                "Cerveza Stella Artois": "600",
+                "Agua Gaseada 620ml": "900",
+                "Malteada": "1000",
+                "Cerveza Cristal": "600",
+                "Agua Tonica": "700",
+                "Refresco Coca Cola": "450",
+                "Agua Ciego Montero Natural": "300",
+                "Jugo Natural de Piña": "350",
+                "Jugo de Guayaba": "350",
+                "Refresco Fanta": "400",
+                "Refresco 7UP": "400",
+                "Batido de Guayaba": "950",
+                "RedBull": "800"
+            },
+            "Cocktails": {
+                "Tinto Verano": "1500",
+                "Caipiroska": "850",
+                "Caipirissima": "850",
+                "Limoncello Tonic": "2500",
+                "Limoncello Martini": "2500",
+                "Mojito": "1000",
+                "Agua de Coco": "1000",
+                "Limonada Gaseada": "1000",
+                "Cuba Libre": "700",
+                "Caipiriashi": "2300",
+                "Limonada Frescura": "800",
+                "Daiquiri Piña": "900",
+                "Gin Tonic Beefeater": "1800",
+                "Margarita": "1200",
+                "Vodka Tonic": "750",
+                "Ron Collins": "700",
+                "Daiquiri": "1500",
+                "Sangria": "2300",
+                "Limonada": "750",
+                "Mojito Tequila": "1000",
+                "Piña Colada": "1200",
+                "Orgasmo": "3500",
+                "Salsa Chelada": "300"
+            },
+            "Coffee": {
+                "Bombon": "900",
+                "Con Leche": "590",
+                "Cortado": "350",
+                "Espresso": "250",
+                "Te Manzanilla": "200",
+                "Te": "80",
+                "Frappuchino": "500"
+            },
+            "Wines": {
+                "Copa de Vino Tinto Fino": "2000",
+                "Copa de Vino Blanco Fino": "2000",
+                "Bot Cava Gran Baron Brut": "5300",
+                "Bot Cava La Plume de Mistinguett": "14500",
+                "Bot Cava Gran Baron Rosado": "5000"
+            },
+            "Rums": {
+                "Havana Club Profundo": "350",
+                "Havana Club Ritual": "500",
+                "Trago Mulata 11 Años": "1100"
+            },
+            "Whisky": {
+                "Jameson": "1800"
+            },
+            "Vodka": {
+                "Vodka Krova": "1100",
+                "Vodka Eco": "400",
+                "Vodka Gomi Premium": "1800",
+                "Vodka Gomi Elite": "900"
+            },
+            "Liqueurs": {
+                "Limoncello": "900",
+                "Jigg'lt": "1500",
+                "Baileys": "1500",
+                "Jaggermeister": "900",
+                "Kalua": "500",
+                "Licor Anis": "500",
+                "Amaretto": "1500",
+                "Licor 43": "1200" 
+            },
+            "Tequila": {
+                "Don Julio": "7200",
+                "Olmeca Blanco": "1300"
+            },
+            "Geneva":{
+                "Gin Beefeater": "600"
+            },
+            "Cognac": {
+                "Cognac XO": "2800"
+            }
+        }
+    }
+}
+}

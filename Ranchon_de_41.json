@@ -1,0 +1,60 @@
+{ 
+"Restaurants":{
+    "Ranchon_de_41":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "3HQH+R9, Avenida 41 y 84",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2BRanch%25C3%25B3n%2Bde%2B41/data%3D!4m2!3m1!1s0x0:0xf319048b068eb273%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjQpIzP9OOKAxXySjABHUT8AKsQ_BJ6BAg-EAQ&usg=AOvVaw1K7C7koDuCTLnPtjo8_2ZZ",
+            "total": null,
+            "date": "20250105"
+        },
+        "schedules": "24h",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de la Casa": "400",
+                "Coctel de Camaron": "650",
+                "Picadera el Toro Bravo": "1700"
+            },
+            "Main Dishes": {
+                "Pollo Chiflado": "1200",
+                "Fajitas de Pollo": "750"
+            },
+            "Pizzas": {
+                "Pizza de Queso Blanco": "400",
+                "Pizza de Queso Gouda": "680"
+            },
+            "Pasta": {
+                "Espaguetis": "700"
+            },
+            "Additions": {
+                "Piña": "150",
+                "Jamon": "150",
+                "Chorizo": "150",
+                "Queso": "200",
+                "Queso Gouda": "500",
+                "Cebolla": "150",
+                "Aceituna": "200",
+                "Atun": "300"
+            },
+            "Desserts": {
+                "Suero de Helado": "400"
+            }
+        }
+    }
+}
+}

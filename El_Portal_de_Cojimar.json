@@ -1,0 +1,250 @@
+{ 
+"Restaurants":{
+    "El_Portal_de_Cojimar":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Calle Morro #8001, Esquina, K, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/g4SBtfN",
+            "total": 4.0,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Pizza",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 100,
+        "menu and prices": {
+            "Starters": {
+                "Surtido Parrillero": "2950",
+                "Picadera Mixta": "2500",
+                "Garbanzo Frito": "1750",
+                "Rollito de Jamon y Queso": "1300",
+                "Papas Locas": "1850",
+                "Ent. Eperlan": "1450",
+                "Tacos de Cerdo": "1750"
+            },
+            "Pizza": {
+                "Pizza Plus": "1510"
+            },
+            "Main Dishes": {
+                "Parrillon Mixto": "6750",
+                "Gordon Bleu": "2300",
+                "Chuleta de Cerdo a la Brasa": "2950",
+                "Lomo de Cerdo": "2295",
+                "Brocheta de Cerdo": "3000",
+                "Lonjas de Cerdo Mechado": "3400",
+                "Ropa Vieja de Res": "2350",
+                "Filete de Pescado a la Brasa": "2100",
+                "Exquisitez del Portal": "4800"
+            },
+            "Fittings": {
+                "Arroz Blanco": "210",
+                "Moros y Cristianos": "250"
+            },
+            "Additions": {
+                "Aceituna": "350",
+                "Aceitunas Negras": "320",
+                "Queso Gouda": "300",
+                "Jamon": "370",
+                "Chorizo": "320",
+                "Atun": "580",
+                "Queso Lasqueado": "250"
+            },
+            "Desserts": {
+                "Turron Blando": "1700",
+                "Turron Duro": "1000",
+                "Cuña de Cake": "500",
+                "Cake Tres Leches y Merengue": "3750",
+                "Cake Bombon de Nata": "5750",
+                "Copa de Chocolate y Frutos Secos": "500",
+                "Mini Mocca 3 Leches": "500"
+            },
+            "Drinks": {
+                "Cerveza Hollandia Clasica": "300",
+                "Agua Mineral Natural 500ml": "300",
+                "Termo de Cerveza Dispensada": "2300",
+                "Refresco Naranja": "350",
+                "Jarra de Cerveza Dispensada": "280",
+                "Isla del Tesoro": "200000",
+                "Pepsi-Cola": "350",
+                "Refresco de Piña": "350",
+                "Bebida Energetica": "550",
+                "Cerveza Cristal de Botella": "400",
+                "Jugo de Naranja": "300",
+                "Malta Belga": "370",
+                "Pepsi Cola Dietetica": "350",
+                "Refresco Limon": "350"
+            },
+            "Rums": {
+                "Havana Club Especial(Botella)": "3000",
+                "Cubay Extra Seco": "16000",
+                "Pacto Navio": "600",
+                "Black Tear Super Dry": "90",
+                "Black Tear Super Dry Roble Superior": "95",
+                "Black Tear Super Dry Spice": "140",
+                "Cuban Spiced": "210",
+                "Cubay 10 Años": "380",
+                "Cubay 1870": "18400",
+                "Havana Club Seleccion Maestro": "620",
+                "Havana Club 3 Años": "170",
+                "Havana Club 7 Años": "400",
+                "Havana Club Añejo Blanco": "150",
+                "Havana Club Especial": "300",
+                "Havana Club Profundo": "150",
+                "Havana Club Reserva": "350",
+                "Havana Club Ritual": "150",
+                "Havana Club Smoky": "500",
+                "Marshal": "400",
+                "Ron Barcelo": "220",
+                "Santa Teresa": "300",
+                "Santiago 11": "570",
+                "Santiago 12": "710",
+                "Santiago 8 Años": "540",
+                "Santiago Añejo": "300",
+                "Santiago Extra Seco": "530",
+                "Varadero 7 Años": "150"
+            },
+            "Whisky": {
+                "Chivas Regal 25 Años": "64000",
+                "Chivas Regal 15 Años": "1500",
+                "Ballantines": "400",
+                "Ballantines 12 Años": "620",
+                "Canadian Mist": "300",
+                "Chivas Regal 12 Años": "500",
+                "Chivas Regal Extra": "670",
+                "Glenlivent 18": "800",
+                "Jameson": "400",
+                "Jim Beam": "600",
+                "Johnnie Walker Red Label": "550",
+                "Knockando Single 12": "560",
+                "Old Parr": "450"
+            },
+            "Wines": {
+                "Botella Cava Campo Vieja": "5000",
+                "Copa de Vino Blanco": "925",
+                "Copa de Vino Tinto": "925",
+                "VT Cabernet Sauvignon Frontera": "3700",
+                "Cinzano Dry": "650",
+                "Cinzano Rosso": "650",
+                "Cognac Remy Martin V.S.O.P": "1000"
+            },
+            "Cocktails": {
+                "Gin Tonic de la Casa": "1100",
+                "Coctel Guava": "550",
+                "Appletini": "500",
+                "Blue Lagos": "500",
+                "Cosmopolitan": "500",
+                "Coctel Cooler": "500",
+                "Coctel Presidente": "500",
+                "Coctel Mulata": "500",
+                "Coctel Santiago": "500",
+                "Piña Colada": "1000",
+                "Cuba Libre": "500",
+                "Margarita": "600",
+                "Daiquiri Frappe": "500",
+                "Mojito": "500",
+                "Negroni": "800",
+                "Gregorio": "500",
+                "Bloody Mary": "700",
+                "Habana Especial(Coctel)": "500",
+                "Mary Pickford": "500",
+                "Ron Alexander": "500",
+                "Tequila Sunrise": "500",
+                "Americano": "700",
+                "Campari Orange": "600",
+                "Ron Collins": "500",
+                "Manhattan": "650",
+                "Vodka Tonic": "700",
+                "B 52": "500",
+                "Cubata": "500",
+                "Cubanito": "600",
+                "Aperol Spritz": "750",
+                "Black Russian": "600",
+                "Campari Tonic": "600",
+                "Canchanchara 7": "500",
+                "Coctel de Autor": "800",
+                "Daiquiri de Fruta": "600",
+                "Espresso Martini": "800",
+                "Gin Tonic Absenthe": "820",
+                "Gin Tonic Beefeater": "950",
+                "Gin Tonic Gordon": "600",
+                "Gin Tonic Mares": "1000",
+                "Gin Tonic Reythor": "500",
+                "Good Father": "400",
+                "Long Island Ice Tea": "400",
+                "Mai Tai": "700",
+                "Orgasmo": "700",
+                "San Francisco": "350",
+                "Sangria": "1000",
+                "Screwdriver Plus": "700",
+                "Sex on the Beach": "700",
+                "Tinto de Verano": "1000",
+                "Whisky Sour": "600",
+                "White Russian": "700"
+            },
+            "Liqueurs": {
+                "Licor de Chocolate Ruavieja": "250",
+                "Licor de Leche Ruavieja": "250",
+                "Absente": "370",
+                "Amaretto": "305",
+                "Aperol": "400",
+                "Campari": "390",
+                "Cointreau": "1400",
+                "Disaronno": "350",
+                "Drambuie": "400",
+                "Felipe II": "300",
+                "Grand Marnier": "2300",
+                "Grappa Caballina Bianca": "290",
+                "Licor Especial Jager Master": "510",
+                "Sambuca Molinari": "350",
+                "Tia Maria Frozen": "250"
+            },
+            "Geneva": {
+                "Gin Gordons": "350",
+                "Beefeater": "200",
+                "Black and White": "400",
+                "Gin Bulldog": "500",
+                "Gin Strange Love": "350"
+            },
+            "Cognac": {
+                "Hennessy V.S.O.P": "2575",
+                "Martell V.S.": "1100"
+            },
+            "Tequila": {
+                "Olmeca de Chocolate": "480",
+                "Olmeca Blanco": "300",
+                "Olmeca Reposado": "320"
+            },
+            "Vodka": {
+                "Tito's Vodka": "600",
+                "Belvedere": "860",
+                "Igor": "200",
+                "Skyy": "540",
+                "Stolishnaya": "450",
+                "Wyborowa": "450"
+            },
+            "Brandy": {
+                "Torres 5": "400"
+            },
+            "Coffee": {
+                "Carajillo": "190",
+                "Frappuchino": "650",
+                "Hot Margarita": "400",
+                "Te": "60",
+                "Te Frio": "30"
+            }
+        }
+    }
+}
+}

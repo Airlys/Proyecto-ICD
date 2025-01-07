@@ -1,0 +1,95 @@
+{ 
+"Restaurants":{
+    "Magic's_Cream_y_Burger":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "3JHQ+M9X, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/WgnX8Ns",
+            "total": 5.0,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 11:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": "Hamburguesa de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 38,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas Magic's": "400",
+                "Fritura de Malanga": "400",
+                "Tacos de Pollo": "700",
+                "Tacos de Cerdo": "800",
+                "Fajitas de Pollo": "600",
+                "Bolitas de Queso": "500",
+                "Papas Fritas": "500"
+            },
+            "Hamburger": {
+                "Hamburguesa de Cerdo": "430",
+                "Hamburguesa de Pollo": "430",
+                "Hamburguesa Doble": "1000",
+                "Hamburguesa Super Magic's": "1500"
+            },
+            "Additions": {
+                "Jamon": "100",
+                "Queso": "100",
+                "Vegetales": "100",
+                "Papas": "500"
+            },
+            "Desserts": {
+                "Helado 1 Bola": "70",
+                "Helado Jimagua": "195",
+                "Helado Ensalada": "350",
+                "Batido de Helado": "395",
+                "Tres Gracias": "245"
+            },
+            "Drinks": {
+                "Cerveza Importada": "220",
+                "Cerveza Nacional": "300",
+                "Malta": "300",
+                "Pepsi": "300",
+                "Refresco Lata": "210",
+                "Limonada Frappe": "250"
+            },
+            "Cocktails":{
+                "Servicio de Michelada": "250",
+                "Piña Colada sin Alcohol": "500",
+                "Piña Colada": "575",
+                "Cuba Libre": "500",
+                "Mojito": "500"
+            },
+            "Whisky": {
+                "Johnnie Walker Red Label": "600",
+                "Ballantines": "550",
+                "Howells": "300",
+                "Gran Marchell": "300"
+            },
+            "Rums": {
+                "Pacto Navio": "700",
+                "Havana Club Añejo Reserva": "400",
+                "Havana Club Añejo 3 Años": "350"
+            },
+            "Geneva": {
+                "Ginebra": "300"
+            },
+            "Vodka": {
+                "Vodka": "300"
+            },
+            "Wines": {
+                "Copa de Vino Tinto": "600",
+                "Copa de Vino Blanco": "550"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,119 @@
+{ 
+"Restaurants":{
+    "La_Pimienta":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "5Calle 9na A N° 45402, e/ 454 y 456, Alturas de Boca Ciega Guanabo / Habana del Este, La Habana Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Hotel_Review-g147271-d10100939-Reviews-La_Pimienta-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwjexPnN9uOKAxW4mYQIHdLWDDcQFnoECB8QAQ&usg=AOvVaw3I1yebMRkyn-bDEq4JpoEN",
+            "total": 3.0,
+            "date": "20250106"
+        },
+        "schedules": "Apertura 11:00am y Cierre 2:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Fajitas de Pollo",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Bolitas de Queso": "700",
+                "Fajitas de Pollo": "800",
+                "Frituras de Malanga": "500",
+                "Vianda Frita": "300",
+                "Ensalada Fria": "800",
+                "Croquetas Especialidad de la Casa": "700",
+                "Fajitas de Cerdo": "900",
+                "Chips de Boniato": "300",
+                "Coctel de Camarones": "1200"
+            },
+            "Main Dishes": {
+                "Bistec de Pollo a la Plancha": "1800",
+                "Bistec de Cerdo y Chuleta": "2200",
+                "Filete de Pescado": "2300",
+                "Pescado Entero": "2400",
+                "Pescado Empanado": "2300",
+                "Langosta Grille": "2500",
+                "Camarones Enchilados": "2500"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "900",
+                "Pizza Doble Queso": "1200",
+                "Pizza de Jamon": "1200",
+                "Pizza Hawaiana": "1400",
+                "Pizza de Camaron": "1700"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "900",
+                "Espaguetis de Jamon": "1200"
+            },
+            "Hamburger": {
+                "Hamburguesa": "700"
+            },
+            "Sandwich": {
+                "Sandwich de Jamon y Queso": "700"
+            },
+            "Desserts": {
+                "Helado de Pote(400)": "600",
+                "Helado de Pote(1000)": "1100"
+            },
+            "Coffee": {
+                "Espresso": "150",
+                "Bombon": "200"
+            },
+            "Cocktails": {
+                "Cuba Libre": "450",
+                "Cubata": "450",
+                "Daiquiri": "450",
+                "Caipirissima": "450",
+                "Mojito": "500",
+                "Caipiroska": "500",
+                "Blue Lagoon": "500",
+                "Servicio de Chelada": "450",
+                "Sangria": "500",
+                "Vino por Copas": "500",
+                "Ron Collins": "500",
+                "Jack Daniel's": "750",
+                "Black Barrel": "660",
+                "Pacto Navio": "1000",
+                "Grey Goose": "750",
+                "Imagination": "300",
+                "Gin Kinross": "500",
+                "Vat 69": "350",
+                "Vodka Obsolut": "600",
+                "Johnnie Walker": "700",
+                "Tequila Barra": "400",
+                "Licor de Menta": "350",
+                "Whisky Barra": "350",
+                "Vino Masia Condal": "700",
+                "Jameson Black Barrel": "800",
+                "Red Label": "700",
+                "Tequila Olmeca": "500",
+                "Tequila Olmeca Reposado": "800",
+                "Beefeater": "350",
+                "Santiago 11": "500",
+                "Ron Barcelo": "350"
+            },
+            "Drinks": {
+                "Cerveza Hollandia": "220",
+                "Cerveza Cristal": "300",
+                "Cerveza Bucanero": "300",
+                "Cerveza Bavaria": "250",
+                "Maltas": "300",
+                "Nectar de Manzana": "280",
+                "Refrescos": "230",
+                "Agua": "250"
+            }
+        }
+    }
+}
+}

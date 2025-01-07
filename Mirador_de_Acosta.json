@@ -1,0 +1,199 @@
+{ 
+"Restaurants":{
+    "Mirador_de_Acosta":{
+        "Province": "La Habana",
+        "Municipality": "10 de Octubre",
+        "Location": "3JQQ+HRJ, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/CFSvMgs",
+            "total": 3.5,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 10:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Bistec de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 60,
+        "menu and prices": {
+            "Starters": {
+                "Super Picadera": "3000",
+                "Coctel de Camarones": "1780",
+                "Coctel de Langosta": "2000",
+                "Eperlan de Pescado": "1900",
+                "Tamal en Cazuela": "1500",
+                "Fajitas de Pollo": "1500",
+                "Entremes": "2200"
+            },
+            "Main Dishes": {
+                "Pollo Frito": "1760",
+                "Pollo con Papas Fritas": "2600",
+                "Bistec de Pechuga de Pollo": "2200",
+                "Pollo Cordon Bleu": "2860",
+                "Bistec de Cerdo Grille": "2200",
+                "Lomo Ahumado de Cerdo": "2450",
+                "Chuleta de Cerdo": "2300",
+                "Fricase de Cerdo": "3300",
+                "Estofado de Cerdo": "3300",
+                "Bistec Uruguayo": "3850",
+                "Bistec Uruguayo de Res": "4200",
+                "Vaca Frita": "2530",
+                "Ropa Vieja de Res": "2750",
+                "Bistec de Res": "3200",
+                "Pulpo": "3200",
+                "Filete de Pescado Grille": "2860",
+                "Filete de Pescado Johnbill": "3700",
+                "Rueda de Pescado": "3850",
+                "Pescado Canciller": "4200",
+                "Camaron al Gusto": "2750",
+                "Langosta en sus Variedades": "3300",
+                "Langosta Thermidor": "3960",
+                "Grillada Mirador": "5500",
+                "Mariscada": "5500",
+                "Mar y Tierra": "5800"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "1300",
+                "Pizza Hawaiana": "2100",
+                "Pizza de Atun": "2300",
+                "Pizza de Camarones": "2500",
+                "Pizza Mirador": "2700"
+            },
+            "Pasta": {
+                "Lazagna": "1400",
+                "Espaguetis Napolitano": "1210",
+                "Espaguetis de Jamon": "1500",
+                "Espaguetis de Chorizo": "1500",
+                "Espaguetis Amatriciana": "2300",
+                "Espaguetis Frutti di Mare": "2650",
+                "Espaguetis Carbonara": "2300"
+            },
+            "Additions": {
+                "Piña": "300",
+                "Cebolla": "300",
+                "Pimientos": "300",
+                "Aceituna": "350",
+                "Jamon": "350",
+                "Chorizo": "350",
+                "Champiñon": "400",
+                "Queso Gouda": "400",
+                "Atun": "400",
+                "Camaron": "650"
+            },
+            "Fittings": {
+                "Arroz Blanco": "280",
+                "Arroz Moro": "350",
+                "Arroz Pilaf": "500",
+                "Arroz Frito": "2350",
+                "Arroz Frito Especial": "2700",
+                "Vianda Hervida": "400",
+                "Ensalada Mixta": "350",
+                "Vianda Frita": "400",
+                "Tostones Tradicionales": "450",
+                "Papa Frita": "900"
+            },
+            "Desserts": {
+                "Arroz con Leche": "600",
+                "Flan": "700"
+            },
+            "Coffee": {
+                "Espresso": "260",
+                "Cortado": "330"
+            },
+            "Drinks": {
+                "Cerveza Importada": "300",
+                "Cerveza Nacional": "350",
+                "Cerveza Corona": "550",
+                "Cubetazo con Importada": "1700",
+                "Cubetazo con Nacional": "2000",
+                "Energizante": "350",
+                "Kermato": "550",
+                "Agua": "250",
+                "Refresco Importado": "350",
+                "Jugo de Lata": "330",
+                "Malta Nacional": "385",
+                "Malta Importada": "330",
+                "Jugo Natural": "350",
+                "Limonada Frappe": "520"
+            },
+            "Cocktails": {
+                "Cuba Libre": "660",
+                "Daiquiri": "660",
+                "Daiquiri Rebelde": "660",
+                "Mojito": "700",
+                "Piña Colada": "850",
+                "Piña Colada sin Alcohol": "600",
+                "Cubanito": "750",
+                "Caipirissima": "660",
+                "Caipiroska": "750",
+                "Caipiriña": "660",
+                "Screwdriver": "700",
+                "Bloody Mary": "780",
+                "Cubata": "700",
+                "Sangria": "750",
+                "Tinto Verano": "700",
+                "Limonada Clarete": "700",
+                "Servicio de Chelada": "770",
+                "Servicio de Michelada": "880",
+                "Chelada con Corona": "800",
+                "Michelada con Corona": "935",
+                "Dry Martini": "900",
+                "Sweet Martini": "850",
+                "Margarita": "850",
+                "Vodka Tonic": "900",
+                "Gin Tonic": "950"
+            },
+            "Rums": {
+                "Havana Club 3 Años": "430",
+                "Havana Club Especial": "490",
+                "Havana Club Reserva": "530",
+                "Havana Club 7 Años": "700",
+                "Havana Club Cuban Smoky": "700",
+                "Havana Club Seleccion de Maestro": "1500",
+                "Santiago 8 Años": "600",
+                "Santiago 12 Años": "1500"
+            },
+            "Tequila": {
+                "Tequila Blanco": "750",
+                "Tequila Reposado": "800"
+            },
+            "Vodka": {
+                "Absolut": "620",
+                "Absolut Mandarin": "620"
+            },
+            "Geneva": {
+                "Ginebra Bombay Sapphire": "620"
+            },
+            "Whisky": {
+                "Clan Campbell": "750",
+                "J&B": "800",
+                "Ballantines": "860",
+                "Dewar's White Label": "860",
+                "Jameson": "900",
+                "Johnnie Walker Red Label": "1050",
+                "Chiva Regal 12 Años": "1350",
+                "Johnnie Walker Doble Black": "1700"
+            },
+            "Liqueurs": {
+                "Amaretto": "890",
+                "Frangelico": "730"
+            },
+            "Wines": {
+                "Vermouth Cinzano Blanco": "500",
+                "Vermouth Cinzano Rosso": "500",
+                "Copa de Vino Tinto": "640",
+                "Botella de Vino Tinto": "3800"
+            }
+        }
+    }
+}
+}

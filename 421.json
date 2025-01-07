@@ -1,0 +1,42 @@
+{ 
+"Restaurants":{
+    "421":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "5V83+73C, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/XNFHAVm",
+            "total": 4.6,
+            "date": "20250106"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mixta",
+        "Most popular food": "Paella Mixta",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 40,
+        "menu and prices": {
+            "Starters": {
+                "Surtido-421": "2600",
+                "Croquetas de Pescado": "1100",
+                "Pechuga de Pollo Margarita": "2880",
+                "Pechuga de Pollo Parmesana": "2990",
+                "Costillas de Cerdo con Mojo Criollo": "2550",
+                "Costillas de Cerdo con Salsa BBQ": "2990",
+                "Picadillo de Res a la Habanera": "2500",
+                "Filete de Pescado y Camarones": "2600"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

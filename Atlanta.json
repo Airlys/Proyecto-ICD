@@ -1,0 +1,202 @@
+{ 
+"Restaurants":{
+    "Atlanta":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "Atlanta #9, entre Calzada de Porvenir y Calzada de 10 de Octubre, La Palma, Arroyo Naranjo",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/g5dPYE3",
+            "total": 4.0,
+            "date": "20250106"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Lunes, Martes, Miercoles, Viernes, Sabado y Domingo",
+        "Type of food or specialty": "criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de la Casa": "850",
+                "Ensalada de Pollo": "950",
+                "Tostones Rellenos": "850",
+                "Frituras de Malanga": "650",
+                "Garbanzo Frito": "1200",
+                "Eperlan": "1200",
+                "Fajitas de Pollo": "950",
+                "Ceviche Atlanta": "950"
+            },
+            "Main Dishes": {
+                "Tacos Atlanta": "1650",
+                "Arroz Frito": "1200",
+                "Arroz Frito Especial": "1400",
+                "Paella Valenciana": "1500",
+                "Paella Mixta": "1650",
+                "Arroz con Pollo a la Chorrera": "1500",
+                "Bistec de Cerdo Grille": "1600",
+                "Masas de Cerdo Fritas": "2000",
+                "Bistec de Cerdo Uruguayo": "2500",
+                "Filete de Pescado Grille": "1850",
+                "Filete de Pescado con Queso": "2200",
+                "Filete Canciller": "2500",
+                "Pollo Frito": "1500",
+                "Pollo Asado": "1500",
+                "Pechuga de Pollo Grille": "1600",
+                "Pechuga Gratinada": "1850",
+                "Pechuga Princesa": "2000",
+                "Cordon Bleu": "2500",
+                "Lomo Ahumado Grille": "1850",
+                "Lomo Ahumado Gratinado con Queso": "2150",
+                "Lomo Ahumado a la Piña": "2000",
+                "Pechugon Atlanta": "2650"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "950",
+                "Pizza Atlanta": "1800"
+            },
+            "Pasta": {
+                "Lazagna de Jamon": "950",
+                "Espaguetis Napolitano": "950"
+            },
+            "Sandwich": {
+                "Sandwich de Jamon y Queso": "850",
+                "Sandwich de Media Noche": "1650",
+                "Sandwich Cubano": "1650",
+                "Sandwich de Atun": "1300"
+            },
+            "Hamburger": {
+                "Cheeseburguer": "1200",
+                "Hamburguesa Atlanta": "1500"
+            },
+            "Fittings": {
+                "Arroz Blanco": "320",
+                "Ensalada Mixta": "320",
+                "Arroz Congri": "480",
+                "Vianda Frita": "320"
+            },
+            "Desserts": {
+                "Suero de Helados": "850"
+            },
+            "Additions": {
+                "Queso Gouda": "250",
+                "Jamon Visking": "250",
+                "Queso Azul": "650",
+                "Lomo Ahumado": "450",
+                "Jamon Pierna": "450",
+                "Bacon": "650",
+                "Cebolla": "200",
+                "Piña": "200",
+                "Pimientos": "200",
+                "Aceituna": "450",
+                "Chorizo Criollo": "250",
+                "Atun": "650",
+                "Chorizo Vela": "650",
+                "Champiñon": "650",
+                "Jamon Serrano": "920",
+                "Queso Parmesano": "820"
+            },
+            "Cocktails": {
+                "Servicio de Chelada": "200",
+                "Servicio de Michelada": "250",
+                "Ron Collins": "600",
+                "Calimocho": "600",
+                "Tinto de Verano": "700",
+                "Caipiroska": "700",
+                "Caipiriña": "700",
+                "Caipirissima": "700",
+                "Canchanchara": "600",
+                "Piña Colada": "700",
+                "Cuba Libre": "650",
+                "Sangria": "700",
+                "Mojito": "700",
+                "Daiquiri": "700",
+                "Cubata": "800",
+                "Cubanito": "800",
+                "Sex on the Beach": "800",
+                "Bloody Mary": "800",
+                "Gin Tonic": "900",
+                "Vodka Tonic": "900",
+                "Margarita": "900",
+                "Jaggerbull": "1250",
+                "Negroni": "1550"
+            },
+            "Geneva": {
+                "Ginebra de la Casa": "350",
+                "Beefeater": "500",
+                "Tanqueray": "700",
+                "Gordons": "1000"
+            },
+            "Tequila": {
+                "Silver de la Casa": "700",
+                "Reposado de la Casa": "750",
+                "Olmeca Silver": "750",
+                "Olmeca Reposado": "800",
+                "Olmeca Dark": "800",
+                "Patron Silver": "1550",
+                "Patron Reposado": "1700"
+            },
+            "Vodka": {
+                "Vodka de la Casa": "350",
+                "Absolut": "650",
+                "Grey Goose": "1550"
+            },
+            "Whisky": {
+                "Whisky de la Casa": "400",
+                "William Lawson": "500",
+                "VAT 69": "500",
+                "Ballantines": "650",
+                "Johnnie Walker Red Label": "700",
+                "Johnnie Walker Black Label": "1250",
+                "Buchanans Deluxe": "1550",
+                "Chivas Regal": "1200"
+            },
+            "Rums": {
+                "Havana Club Blanco": "350",
+                "Havana Club 3 Años": "400",
+                "Havana Club Reserva": "500",
+                "Havana Club 7 Años": "550",
+                "Santiago Club Blanco": "500",
+                "Santiago 8 Años": "1000",
+                "Santiago 11 Años": "1450",
+                "Santiago 12 Años": "1550"
+            },
+            "Drinks": {
+                "Cerveza Cristal(Lata)": "400",
+                "Cerveza Cristal(Botella)": "400",
+                "Cerveza Bucanero": "350",
+                "Cerveza Corona": "550",
+                "Cerveza Heineken": "500",
+                "Cervezas Importadas": "300",
+                "Agua Natural": "250",
+                "Refresco Importado": "350",
+                "Jugos Naturales": "350",
+                "Batido de Frutas": "600",
+                "RedBull": "650",
+                "Malta Bucanero": "400",
+                "Malta": "350"
+            },
+            "Wines": {
+                "Copa de Vino de la Casa": "420",
+                "Copa de Vino Frontera": "500"
+            },
+            "Coffee": {
+                "Espresso": "250",
+                "Cortado": "320",
+                "Bombon": "400",
+                "Cappuchino": "450",
+                "Frappuchino": "500",
+                "Frappuchino con Helado": "880"
+            }
+        }
+    }
+}
+}

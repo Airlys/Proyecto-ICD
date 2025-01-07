@@ -1,0 +1,51 @@
+{ 
+"Restaurants":{
+    "El_Triangulo":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "Esquina Calzada de 10 de Octubre y Calzada Porvenir, La Palma, Arroyo Naranjo",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2Btri%25C3%25A1ngulo/data%3D!4m2!3m1!1s0x0:0x70bfff9d38a7fbe5%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiZw_Hw-OOKAxULSTABHRriKc0Q_BJ6BAg8EAQ&usg=AOvVaw37Enp8ShXO0AYgguM4M98i",
+            "total": 5.0,
+            "date": "20250106"
+        },
+        "schedules": "Apertura 8:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Fajitas de Pollo": "350",
+                "Croquetas": "150",
+                "Bolitas de Queso": "150",
+                "Tostones": "150"
+            },
+            "Main Dishes": {
+                "Pollo Frito": "450"
+            },
+            "Drinks": {
+                "Cerveza Cristal": "250",
+                "Cerveza Bucanero": "250",
+                "Cerveza Escorial": "200",
+                "Cerveza Holanda": "200",
+                "Agua": "120",
+                "Refresco": "220",
+                "Jugo de Caja": "180",
+                "RedBull": "230",
+                "Malta": "220"
+            }
+        }
+    }
+}
+}

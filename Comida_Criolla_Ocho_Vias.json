@@ -1,0 +1,64 @@
+{ 
+"Restaurants":{
+    "Comida_Criolla_Ocho_Vias":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "Avenida 1er Anillo 3Km despues de San Agustin, Arroyo Naranjo",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/5vMxPtL",
+            "total": null,
+            "date": "20250106"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de Queso": "500",
+                "Tostones Rellenos": "800",
+                "Tostones Tradicionales": "250",
+                "Papas Fritas": "800",
+                "Platanos Fritos": "200"
+            },
+            "Main Dishes": {
+                "Bistec de Higado": "1600",
+                "Higado Italiana": "1600",
+                "Bistec de Cerdo": "2200",
+                "Chuleta de Cerdo": "2200",
+                "Fricase de Cerdo": "2500",
+                "Masa Frita": "2200",
+                "Fricase de Carnero": "2200",
+                "Bistec Uruguayo": "2800",
+                "Pescado Entero a la Marinera": "2200",
+                "Ropa Vieja": "2700",
+                "Camaron Enchilado": "2700",
+                "Langosta Grille": "2700",
+                "Langosta Enchilada": "2800",
+                "Pescado Empanado": "2500",
+                "Cangrejo Enchilado": "1800",
+                "Bistec de Pollo": "2000",
+                "Pechuga de Pollo": "2000",
+                "Costilla de Cerdo Frita": "2200",
+                "Costilla de Cerdo Fricase": "2200"
+            },
+            "Fittings": {
+                "Arroz Moro": "200",
+                "Ensalada Mixta": "300"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

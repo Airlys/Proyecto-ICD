@@ -1,0 +1,55 @@
+{ 
+"Restaurants":{
+    "Cafeteria_Obelisco":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "3HMG+V7F, Avenida 31",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Obelisco%2Bde%2BMarianao/data%3D!4m2!3m1!1s0x0:0xa8b0831d740b3d04%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwihg-aH9OOKAxXUSjABHdpIIB0Q_BJ6BAg-EAk&usg=AOvVaw2-Siw6w5c4xRmaraRli4MA",
+            "total": 4.4,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 9:00am y Cierre 6:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Entrepanes": {
+                "Pan con Queso y Embutido": "250"
+            },
+            "Starters": {
+                "Bolitas de Carne": "20",
+                "Dados de Queso": "180"
+            },
+            "Pizzas": {
+                "Pizza de Queso": "200"
+            },
+            "Fittings": {
+                "Frijol Negro": "55",
+                "Arroz Blanco": "70"
+            },
+            "Drinks": {
+                "Agua Saborizada": "50",
+                "Agua Natural": "180",
+                "Cerveza Cristal": "180",
+                "Cerveza": "50"
+            },
+            "Wines": {
+                "Vino Blanco Entrerio": "160",
+                "Vino Blanco": "160"
+            }
+        }
+    }
+}
+}

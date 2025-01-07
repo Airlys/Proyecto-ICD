@@ -1,0 +1,187 @@
+{ 
+"Restaurants":{
+    "La_Fuente":{
+        "Province": "La Habana",
+        "Municipality": "10 de Octubre",
+        "Location": "3JQQ+FPX No. 268, Avenida de Acosta, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/WrQs812",
+            "total": 4.3,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Uruguayo de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": true,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 60,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de Pollo": "920",
+                "Croquetas de Bacalao": "920",
+                "Bolitas de Queso": "1200",
+                "Ceviche de Pescado": "1550",
+                "Coctel de Camarones": "1485",
+                "Coctel de Langosta": "1650",
+                "Capaccio de Res": "2950",
+                "Jamon Serrano": "3950",
+                "Frituras de Malanga": "660",
+                "Crema del Dia": "850",
+                "Crema de Queso": "1000",
+                "Crema Aurora": "1000",
+                "Crema Virginia": "1000",
+                "Crema Mixta": "1200",
+                "Baguette all Oleo": "550",
+                "Pan & Mantequilla": "720",
+                "Brusquetas": "1020",
+                "Eperlan de Pescado": "2275",
+                "Fajitas de Pollo": "2275"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "1155",
+                "Pizza de Jamon": "1815",
+                "Pizza Hawaiana": "1980",
+                "Agrego de Queso": "525",
+                "Agrego de Jamon": "510",
+                "Agrego de Piña": "455"
+            },
+            "Main Dishes": {
+                "Ropa Vieja": "2145",
+                "Vaca Frita": "2145",
+                "Bistec de Res Grille": "2640",
+                "Escalope de Res": "2805",
+                "Milanesa de Res": "3135",
+                "Uruguayo de Res": "3355",
+                "Mignon": "4000",
+                "Bistec de Cerdo Grille": "1750",
+                "Escalope de Cerdo": "1980",
+                "Masas de Cerdo": "2110",
+                "Cerdo Caribeño": "2310",
+                "Lomo Ahumado": "2500",
+                "Uruguayo de Cerdo": "2610",
+                "Suprema de Pollo Grille": "2145",
+                "Suprema de Pollo Rellena con Vegetales": "2310",
+                "Angel de Suprema": "2640",
+                "Suprema de Pollo Empanada": "2275",
+                "Milanesa de Pollo": "2475",
+                "Pollo Tropical": "2520",
+                "Cordon Bleu": "2640",
+                "Camarones a la Plancha": "2640",
+                "Camarones Enchilados": "2805",
+                "Camarones al Ajillo": "2970",
+                "Camarones Rebozados": "3300",
+                "Pescado Grille": "2145",
+                "Escalope de Pescado": "2275",
+                "Pescado Montetoro": "2475",
+                "Pescado Canciller": "2640",
+                "Pescado Johnville": "4620"
+            },
+            "Fittings": {
+                "Arroz Blanco": "330",
+                "Arroz Moros y Cristianos": "495",
+                "Arroz Pilaf": "660",
+                "Ensalada Mixta": "495",
+                "Vegetales Salteados": "660",
+                "Pure de Malanga": "500",
+                "Platanos Maduro Fritos": "525",
+                "Papas Fritas": "800"
+            },
+            "Desserts": {
+                "Postre del Dia": "955"
+            },
+            "Drinks": {
+                "Agua Mineral Nacional": "250",
+                "Agua con Gas Nacional": "320",
+                "Agua Tonica": "510",
+                "Energizante": "610",
+                "Jugos de Frutas Nacionales": "335",
+                "Jugos Importados": "500",
+                "Limonada Frappe": "520",
+                "Malta": "495",
+                "Refresco Importado": "365",
+                "Batido de Helado": "925",
+                "Kermato": "610",
+                "Cervezas Nacionales": "395",
+                "Cervezas Importadas": "395",
+                "Cerveza Corona": "600",
+                "Michelada con Cerveza Nacional": "825",
+                "Michelada con Cerveza Importada": "825",
+                "Michelada con Corona": "925"
+            },
+            "Cocktails": {
+                "Aperol Spritz": "750",
+                "Bloody Mary": "700",
+                "Cubanito": "610",
+                "Caipiriña": "610",
+                "Caipirissima": "610",
+                "Caipiroska": "610",
+                "Cuba Libre": "560",
+                "Daiquiri": "560",
+                "Daiquiri Rebelde": "660",
+                "Gin Tonic": "840",
+                "Margarita": "820",
+                "Mojito": "610",
+                "Piña Colada sin Alcohol": "610",
+                "Piña Colada": "660",
+                "Sangria": "660",
+                "Screwdriver" :"610"
+            },
+            "Tequila": {
+                "Olmeca Blanco": "780",
+                "Olmeca Reposado": "780",
+                "Tequila Rose": "965"
+            },
+            "Whisky": {
+                "Ballantines": "785",
+                "Black & White": "610",
+                "Clan Campbell": "630",
+                "Chivas Regal 12 Años": "1150",
+                "Chivas Regal 15 Años": "1650",
+                "Chivas Regal 18 Años": "2550",
+                "Jameson": "610",
+                "Jack Daniel's": "990",
+                "J&B": "610",
+                "Johnnie Walker Red Label": "1050",
+                "Johnnie Walker Black Label": "1550",
+                "Royal Salute 21 Años": "3150"
+            },
+            "Rums": {
+                "Havana Club 3 Años": "430",
+                "Havana Club Añejo Especial": "490",
+                "Havana Club Añejo Reserva": "510",
+                "Havana Club 7 Años": "690",
+                "Havana Club Seleccion de Maestros": "1650",
+                "Santiago 12 Años": "890"
+            },
+            "Liqueurs": {
+                "Amaretto Di Amore": "890",
+                "Amaretto Disaronno": "890",
+                "Amarula": "710",
+                "Baileys": "730",
+                "Frangelico": "730",
+                "Jaggermeister": "1160",
+                "Vermouth Blanco": "660",
+                "Vermouth Rosso": "660"
+            },
+            "Coffee": {
+                "Espresso": "260",
+                "Cortado": "340",
+                "Cappuchino": "420",
+                "Americano": "290",
+                "Carajillo": "490",
+                "Frappuchino": "560",
+                "Te": "220"
+            }
+        }
+    }
+}
+}

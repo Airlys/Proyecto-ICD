@@ -1,0 +1,107 @@
+{ 
+"Restaurants":{
+    "Los_Caneyes":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "2MX8+4V9, Marti, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Restaurante%2BLos%2BCaneyes/data%3D!4m2!3m1!1s0x0:0x91d52a5b7c4229fc%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwib4ZfM8-OKAxWSVzABHdPULXkQ_BJ6BAg1EAk&usg=AOvVaw0NPIeavoVHT5k6htlQkfjn",
+            "total": null,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Bistec Uruguayo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 33,
+        "menu and prices": {
+            "Starters": {
+                "Tostones": "800",
+                "Papas Fritas": "900",
+                "Fajitas de Pollo Empanadas": "1000",
+                "Fajitas de Cerdo Empanadas": "1000",
+                "Eperlan de Pescado": "1000",
+                "Masa de Cangrejo con Tostones": "1300",
+                "Milanguesa de Res con Papas Fritas": "1500",
+                "Hamburguesa de Res con Queso Gratinado y Papas Fritas": "1500",
+                "Hamburguesa de Salmon con Queso Gratinado y Tostones": "1500"
+            },
+            "Fittings": {
+                "Ensalada Mixta de Estacion": "250",
+                "Arroz Blanco": "150",
+                "Arroz Congri": "200",
+                "Yuca con Mojo": "200",
+                "Pure de Malanga": "400"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "900",
+                "Pizza Napolitana con Queso Gouda": "1300",
+                "Agregos": {
+                    "Jamon": "200",
+                    "Hawaiana": "250",
+                    "Chorizo": "200",
+                    "Cebolla": "150",
+                    "Pimientos": "150",
+                    "Queso Gouda": "400"
+                }
+            },
+            "Main Dishes": {
+                "Filete de Pescado Grille": "1500",
+                "Filete de Pescado Empanado": "1500",
+                "Filete de Pescado Monte Toro": "1800",
+                "Filete de Pescado Canciller": "2100",
+                "Filete de Pescado Los Caneyes": "2500",
+                "Masa de Cangrejo en Salsa de Tomate": "1300",
+                "Salmon Troceado en Salsa de Tomate": "1500",
+                "Camarones al Ajillo": "2200",
+                "Camaron Enchilado": "2200",
+                "Camaron Rebozado": "2200",
+                "Lomo Ahumado Deshuesado": "1800",
+                "Bistec de Cerdo Frito": "1300",
+                "Escalope de Cerdo": "1500",
+                "Bistec de Cerdo con Jamon, Chorizo y Queso": "1900",
+                "Bistec Uruguayo": "1800",
+                "Doucht de Cerdo": "1300",
+                "Ropa Vieja": "1700",
+                "Vaca Frita": "1700",
+                "Supremo de Pollo": "1300",
+                "Fajitas de Pollo Salteadas": "1300",
+                "Fajitas de Pollo Empanadas": "1300",
+                "Suprema de Pollo Empanado": "1400",
+                "Suprema Los Caneyes": "2300",
+                "Suprema de Pollo con Jamon y Queso": "1800",
+                "Gordon Blue": "1800",
+                "Suprema de Pollo Rellena con Camarones y Queso": "2300"
+            },
+            "Desserts": {
+                "Tarta con Ganache de Chocolate": "450",
+                "Pote de Helado Gusto": "1000"
+            },
+            "Drinks": {
+                "Refresco de Cola": "250",
+                "Refresco de Limon": "250",
+                "Refresco de Mate": "270",
+                "Malta": "300",
+                "Agua Mineral Embotellada": "180",
+                "Cervezas": "300",
+                "Cerveza Cristal": "330",
+                "Jugo de Lata": "300",
+                "Bebida Energizante": "300"
+            },
+            "Coffee": {
+                "Cafe": "100"
+            }
+        }
+    }
+}
+}

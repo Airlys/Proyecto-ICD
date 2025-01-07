@@ -1,0 +1,75 @@
+{ 
+"Restaurants":{
+    "La_Yaya":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "3HJH+G9J, 100 y 51",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250105"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Super Picadera": "2500",
+                "Tostones Rellenos": "600",
+                "Frituras de Malanga": "500",
+                "Papas Fritas": "500",
+                "Croquetas": "600"
+            },
+            "Hamburger": {
+                "Hamburguesa": "400",
+                "Hamburguesa Yuya": "900"
+            },
+            "Entrepanes": {
+                "Pan con Jamon": "350",
+                "Pan con Perro": "280"
+            },
+            "Pasta": {
+                "Espaguetis con Queso Gouda": "700",
+                "Espaguetis Doble Queso": "1000"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "1000",
+                "Pizza Doble Queso": "1300",
+                "Pizza de Jamon": "1350"
+            },
+            "Main Dishes": {
+                "Fajitas de Pollo con Papa": "900"
+            },
+            "Additions":{
+                "Jamon": "260",
+                "Queso": "260",
+                "Salami": "200"
+            },
+            "Desserts": {
+                "Helados Gusto": "1000"
+            },
+            "Drinks": {
+                "Refrescos Importados": "250",
+                "Cervezas Importadas": "250",
+                "Jugo de Lata": "280",
+                "Jugo de Caja": "650",
+                "Malta Santa Isabel": "280",
+                "Cerveza Cubelazo": "2700",
+                "Termo de Cerveza": "2000"
+            }
+        }
+    }
+}
+}
