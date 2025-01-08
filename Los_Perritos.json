@@ -25,9 +25,10 @@
         },
         "Capacity": 60,
         "menu and prices": {
-            "Entrepanes": {
+            "Starters": {
                 "Club Sandwich": "550"
             },
+            "Main Dishes": null,
             "Drinks": {
                 "Agua Natural(500ml)": "100",
                 "Agua Natural(1500ml)": "250",
@@ -51,6 +52,7 @@
                 "Cafe Carajillo": "250",
                 "Cappuchino": "250"
             },
+            "Desserts": null,
             "Wines":{
                 "White Wine": {
                     "Vino Espumoso Semiseco Condelier 11% España": "1800",

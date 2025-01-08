@@ -25,6 +25,7 @@
         },
         "Capacity": 20,
         "menu and prices": {
+            "Starters": null,
             "Main Dishes": {
                 "Fricase de Cerdo": "800",
                 "Masa de Cerdo": "800",
@@ -36,7 +37,8 @@
             "Drinks": {
                 "Cerveza": "300",
                 "Refresco": "300"
-            }
+            },
+            "Desserts": null
         }
     }
 }

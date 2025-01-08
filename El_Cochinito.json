@@ -24,7 +24,7 @@
                 "Payment type": "Efectivo y transferencia"
         },
             "Capacity": 180,
-            "Menu and price": {
+            "menu and prices": {
                 "Starters": {
                     "Albondigas de Carne": "$350",
                     "Chicharrones de Cerdo": "$250",
@@ -53,6 +53,7 @@
                     "Ensalada de estacion": "$70",
                     "Ensalada Mixta": "$90"
             },
+            "Desserts": null,
                 "Termopack": "%100",
                 "Offer": "Por cada plato fuerte tiene derecho a 2 cervezas",
                 "Drinks": {

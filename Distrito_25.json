@@ -1,0 +1,135 @@
+{ 
+"Restaurants":{
+    "Distrito_25":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle 25 entre M y N, Vedado",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/sQ76XTU",
+            "total": 3.2,
+            "date": "20250107"
+        },
+        "schedules": "Apertura 11:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mexicana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Nachos": "400",
+                "Nachos Ranchero": "650",
+                "Chilaquiles de Pollo": "650",
+                "Tostones de Jamon y Queso": "550",
+                "Toston de Tomasa": "700",
+                "Tostones de Camarones": "800",
+                "Toston de Cangrejo": "900",
+                "Ceviche de Pescado": "850",
+                "Crudo de Camaron": "900",
+                "Coctel de Camaron": "1000",
+                "Coctel de Langosta": "1500",
+                "Tabla Especial": "3000",
+                "Croquetas(5u)": "600",
+                "Croquetas(10u)": "1000",
+                "Ostiones": "500"
+            },
+            "Main Dishes": {
+                "Burrito de Cerdo": "900",
+                "Burrito Tomasa": "1000",
+                "Burrito Cangrejo": "1100",
+                "Burrito Langosta": "1500",
+                "Burrito de Camaron": "1200",
+                "Super Burrito": "2000",
+                "Tacos Chochitos": "450",
+                "Tacos Pastor": "500",
+                "Tacos Habaneros": "400",
+                "Tacos Tinga": "450",
+                "Tacos Caribeños": "500",
+                "Tacos Navilio": "700",
+                "Tacos Tomasa": "650",
+                "Quesadilla": "400",
+                "Taco Estrella": "2000",
+                "Lomo Mechado": "1700",
+                "Pollo en Crema al Caju": "1800",
+                "Pollo Grille": "1500",
+                "Mar y Tierra": "4000",
+                "Langosta": "2000",
+                "Arroz Meloso": "1800",
+                "Langostino": "2000",
+                "Camaron al Gusto": "1600",
+                "Filete de Pescado": "1800",
+                "Pulpo al Gusto": "2000",
+                "Caldereta de Mariscos": "3500",
+                "Cerdo en Crema de Queso al Cajun": "2500"
+            },
+            "Pasta": {
+                "Espaguetis Napolitanos": "650",
+                "Espaguetis Frutti di Mare": "1000"
+            },
+            "Additions": {
+                "Jamon": "250",
+                "Queso": "350",
+                "Cebolla": "200",
+                "Piña": "150",
+                "Aceituna": "300",
+                "Pimiento": "200",
+                "Camaron": "350"
+            },
+            "Sandwich": {
+                "Sandwich Campesino": "750",
+                "Sandwich de Pollo": "550",
+                "Sandwich de Jamon y Queso": "500"
+            },
+            "Cocktails": {
+                "Mojito": "450",
+                "Mojito Moreno": "600",
+                "Ron Collins": "400",
+                "Daiquiri": "400",
+                "Daiquiri de Fresa": "500",
+                "Canchanchara": "500",
+                "Cancha": "550",
+                "Caipirissima": "500",
+                "Caipiriña": "500",
+                "Caipiroska": "500",
+                "Sangria": "600",
+                "Piña Colada": "600",
+                "Gin Tonic": "500",
+                "Vodka Tonic": "500",
+                "Blue Lagon": "550",
+                "Ballantines 12 Años": "600",
+                "Cuba Libre": "450",
+                "Servicio de Michelada": "200",
+                "Servicio de Chelada": "150"
+            },
+            "Drinks": {
+                "Limonada": "350",
+                "Limonada Frescura": "400",
+                "Cerveza Nacional": "350",
+                "Cerveza Importada": "300",
+                "Refresco Importado": "300",
+                "Jugo Natural": "300",
+                "Batido de Mamey": "700",
+                "Agua Natural": "200",
+                "Energizante": "400"
+            },
+            "Coffee": {
+                "Espresso": "120",
+                "Cortado": "180",
+                "Bombon": "350",
+                "Cappuchino": "320",
+                "Frappuchino": "500"
+            },
+            "Desserts": null
+        }
+    }
+}
+}

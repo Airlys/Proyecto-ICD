@@ -51,7 +51,7 @@
                 "Lomo Ahumado": "1990",
                 "Solomillo de Cerdo": "2700",
                 "Solomillo de Cerdo A la Turca": "7500",
-                "Pescado Entero Frito": "2500-5000",
+                "Pescado Entero Frito": "2500",
                 "Filete de Pescado": "2200",
                 "Filete Canciller": "2900",
                 "Filete en Salsa de Camaron": "2990",
@@ -155,7 +155,7 @@
                 "Falda de Res": "7500",
                 "Solomillo de Res": "4000"
             },
-            "Dessert": {
+            "Desserts": {
                 "De la Casa": "850",
                 "Español del Dia": "950",
                 "Copa de Helado": "850",

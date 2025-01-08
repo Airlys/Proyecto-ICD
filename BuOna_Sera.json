@@ -24,14 +24,15 @@
                 "Payment type": "Efectivo y transferencia"
         },
             "Capacity": 44,
-            "Menu and price": {
+            "menu and prices": {
                 "Starters": {
                     "Entremes de Jamon": "$360",
                     "Entremes de Chorizo": "$360",
                     "Entremes de Jamon/Chorizo": "$720",
-                    "Bolitas de queso": "$50.00",
-                    "Bolitas de Embutido": "$45.00"
+                    "Bolitas de queso": "$50",
+                    "Bolitas de Embutido": "$45"
             },
+            "Main Dishes": null,
                 "Pastas": {
                     "Espaguetis Napolitano de Queso Blanco": "$450",
                     "Espaguetis Napolitano de Queso Gouda": "$600"
@@ -50,7 +51,9 @@
                     "Chorizo": "$240",
                     "Queso Blanco": "$200",
                     "Queso Gouda": "$360"
-            }
+            },
+            "Drinks": null,
+            "Desserts": null
         }
     }
 }

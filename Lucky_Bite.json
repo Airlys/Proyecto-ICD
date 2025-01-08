@@ -32,6 +32,7 @@
                 "Croquetas de la Casa": "890",
                 "Frituras de Malanga": "750"
             },
+            "Main Dishes": null,
             "Pastas": {
                 "Espaguetis": "1190"
             },
@@ -51,6 +52,7 @@
                 "Cerdo": "1390",
                 "Res": "1600"
             },
+            "Desserts": null,
             "Drinks": {
                 "Jugo Natural": "430",
                 "Batido de Fruta": "650",

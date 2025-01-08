@@ -49,7 +49,9 @@
                 "Ensalada Mixta": "150",
                 "Vianda Frita": "200",
                 "Vianda Hervida con Mojo": "100"
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

@@ -1,0 +1,116 @@
+{ 
+"Restaurants":{
+    "Asia_Cuba":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle 6 ##562 entre 23 y 25, Vedado",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/search?client=firefox-b-d&sca_esv=26f78b0cb435cecb&sxsrf=ADLYWILMKFdZ2yS6VnZ3hPk1hKG7dfEK4A%3A1736271774550&kgmid=%2Fg%2F11bc59lr5_&q=Plaza%20de%20la%20Revoluci%C3%B3n&shndl=30&shem=uaasie&source=sh%2Fx%2Floc%2Funi%2Fm1%2F1&kgs=c8edfb50404d6e2c",
+            "total": 4.5,
+            "date": "20250107"
+        },
+        "schedules": "Apertura 7:30 y Cierre 11:00pm",
+        "Days of the week": "Lunes, Martes, Jueves, Viernes, Sabado, Domingo",
+        "Type of food or specialty": "Asiatica",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 40,
+        "menu and prices": {
+            "Starters": {
+                "Caribe Zen Roll": "1840",
+                "Tartar Sakura Tango Saigon": "2500",
+                "Satay de Sumatra": "1550",
+                "Croquetas Sonaderas de Pollo/Ropa Vieja": "1800",
+                "Mano del Dragon": "2080",
+                "Rey Mono": "2080",
+                "Dragon del Mar": "2400"
+            },
+            "Main Dishes": {
+                "Bonito Tai Red": "3840",
+                "Maki Saiko Ebi Hana": "2080",
+                "Brasa Patagonia": "6560",
+                "Langosta Coco Verde": "5760",
+                "Uramaki Umi no Haikiri": "1950",
+                "Nigiri Ika no Yume": "2400",
+                "Brocheta Dak Galbi": "3840",
+                "Brocheta Gochu Vermounth Harmony": "4480",
+                "Char Siu Delhi": "4160",
+                "Ssamn Kimuchi Tropical": "3200"
+            },
+            "Desserts": {
+                "Sensei Borracho": "1920",
+                "Maestro Shifu": "2080",
+                "Mei Mei": "1800",
+                "Maestro Shinobi": "1760"
+            },
+            "Drinks": null,
+            "Cocktails": {
+                "Daiquiri": "900",
+                "Daiquiri de Fruta": "1100",
+                "Gin Tonic": "1400",
+                "Margarita": "900",
+                "Martini Dry": "1100",
+                "Servicio de Michelada": "1100",
+                "Mojito": "900",
+                "Negroni": "1200",
+                "Aperol Spritz": "1400",
+                "Bloody Mary": "1100",
+                "Caipirissima": "900",
+                "Caipiroska": "900",
+                "Canchanchara": "900",
+                "Coctel Danzon": "1200",
+                "Coctel Mambo": "1200",
+                "Coctel Son": "1500",
+                "Coctel Tecno Sour": "1100",
+                "Coctel Tango": "1200",
+                "Cuba Libre": "900",
+                "Cubanito": "1200",
+                "Sambuca San Faustino": "600",
+                "Old Fashioned": "1500",
+                "Piña Colada": "1200",
+                "Pisco Sour": "1400",
+                "Sangria": "1500",
+                "Penicillin": "1400",
+                "Lemon Song": "1100",
+                "Okinawa Spritz": "1400"
+            },
+            "Creams and Liqueurs": {
+                "Crema Baileys": "950",
+                "Frangelico": "1000",
+                "Limoncello": "600",
+                "Sirope de Kiwi": "600",
+                "Sirope de Manzana": "125",
+                "Campari": "850",
+                "Licor de Cafe": "740"
+            },
+            "Whisky": {
+                "Jack Daniel's": "1500",
+                "Jim Bean": "1200",
+                "Johnnie Walker Red Label": "1200",
+                "Jameson": "850",
+                "Johnnie Walker Black Label": "2000"
+            },
+            "Rums": {
+                "Havana Club Pacto Navio": "2000",
+                "Havana Club 3 Años": "480",
+                "Havana Club 7 Años": "900",
+                "Santiago 8 Años": "950",
+                "Santiago 11 Años": "1250",
+                "Santiago 12 Años": "1650",
+                "Eminente 3 Años": "3000",
+                "Black Tears Roble Superior": "650",
+                "Havana Club Seleccion de Maestros": "3300"
+            }
+        }
+    }
+}
+}

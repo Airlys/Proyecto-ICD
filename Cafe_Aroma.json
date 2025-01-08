@@ -1,0 +1,134 @@
+{ 
+"Restaurants":{
+    "Cafe_Aroma":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": "Calle 244 No. 5106 e/ 51 y 61, San Agustín, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Aroma%2Bde%2BCaf%25C3%25A9/data%3D!4m2!3m1!1s0x0:0xf87ca5a6d0b99249%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjRxteIp-WKAxULRTABHarcAIIQ_BJ6BAg_EAk&usg=AOvVaw0zn69zZ7Vf43fxBsXjBlKB",
+            "total": 4.9,
+            "date": "20250107"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Coffee",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Nachos con Salsa": "200",
+                "Croquetas": "320",
+                "Picadera Aroma": "550",
+                "Garbanzos Fritos": "600",
+                "Eperlan de Pescado": "700",
+                "Tostones Rellenos de Jamon y Queso": "380",
+                "Tostones Rellenos de Atun": "400",
+                "Tostones Rellenos de Ropa Vieja": "500"
+            },
+            "Main Dishes": {
+                "Enchilado de Cangrejo": "600",
+                "Fajitas de Cerdo": "600",
+                "Tacos de Pollo": "500",
+                "Tacos de Cangrejo": "600",
+                "Tacos de Cerdo": "620",
+                "Tacos de Ropa Vieja": "750",
+                "Tacos de Jamon Pierna": "750"
+            },
+            "Desserts": {
+                "Donas": "200",
+                "Helados/Galletas": "320",
+                "Bola de Helado": "140",
+                "Dulce Aroma": "350"
+            },
+            "Cocktails": {
+                "Caipiriña": "250",
+                "Daiquiri": "250",
+                "Caipiroska": "280",
+                "Caipirissima": "280",
+                "Screwdriver": "280",
+                "Mojito": "300",
+                "Mojito Ruso": "300",
+                "Cremas de Tequila": "320",
+                "Piña Colada": "350",
+                "Martini": "300",
+                "Copa de Vino": "300",
+                "Gin Tonic": "350",
+                "Sex on the Beach": "320",
+                "Sangria": "350",
+                "Margarita": "350",
+                "Orgasmo": "350"
+            },
+            "Entrepanes": {
+                "Sandwich de Jamon y Queso": "320",
+                "Sandwich de Jamon y Queso ": "360",
+                "Sandwich de Jamon": "360",
+                "Sandwich de Queso": "320",
+                "Sandwich de Queso ": "360",
+                "Sandwich de Pollo": "370",
+                "Sandwich de Atun": "480",
+                "Sandwich Hawaiano": "380",
+                "Sandwich Hawaiano ": "430"
+            },
+            "Drinks": {
+                "Cerveza Importada": "230",
+                "Jugo Natural": "250",
+                "Limonada": "100",
+                "Batido de Chocolate": "180",
+                "Batido de Frutas": "280",
+                "Batido de Helado": "330",
+                "Batido de Helado Plus": "380",
+                "Capricho": "350",
+                "Refresco Importado": "350"
+            },
+            "Drinks 2":{
+                "Havana Club 3 Años": "250",
+                "Havana Club Especial": "280",
+                "Havana Club Reserva": "300",
+                "Havana Club 7 Años": "350",
+                "Havana Club Smoky": "350",
+                "Havana Club Seleccion de Maestros": "600",
+                "Havana Club Pacto Navio": "600",
+                "Black Tears Super Dry": "250",
+                "Black Tears Roble Superior": "300",
+                "Jameson": "450",
+                "Ballantines": "300",
+                "Chivas Regal 12": "500",
+                "Johnnie Walker Red Label": "450",
+                "Johnnie Walker Black Label": "500",
+                "Buchanans": "500",
+                "Tequila Olmeca": "500",
+                "Crema Baileys": "300",
+                "Jaggermeister": "300",
+                "Vodka": "250",
+                "Ciroc": "400"
+            },
+            "Coffee": {
+                "Espresso": "100",
+                "Cappuchino": "150",
+                "Cortado": "120",
+                "Moka": "180",
+                "Carajillo": "180",
+                "Especiado": "110",
+                "Americano": "115",
+                "Bombon": "110",
+                "Cremoso": "300",
+                "Frappuchino": "550",
+                "Frappuchino Moka": "280",
+                "Frappuchino Aroma": "300",
+                "Frappuchino Sorpresa": "250",
+                "Frappuchino Mousse": "380"
+            }
+        }
+    }
+}
+}
