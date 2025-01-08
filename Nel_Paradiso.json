@@ -1,0 +1,144 @@
+{ 
+"Restaurants":{
+    "Nel_Paradiso":{
+        "Province": "La Habana",
+        "Municipality": "Diez de Octubre",
+        "Location": "3JQQ+JXX, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/r4rwjs1",
+            "total": 3.7,
+            "date": "20250107"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:30pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": true,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de la Casa con Salsa Rosa": "792",
+                "Frituras de la Casa con Miel y Mostaza": "880",
+                "Bastones de Pollo con Salsa Rosa": "1760",
+                "Bastones de Mar en Salsa Alioli": "1760",
+                "Tamal en Cazuela": "1584",
+                "Tamal Marinero": "2376",
+                "Coctel de Langosta": "2112",
+                "Tabla de Quesos": "2816",
+                "Lonjas de Jamon Serrano": "2640",
+                "Salmon Paradiso": "2816",
+                "Fajitas de Cerdo": "2112",
+                "Crema de Queso": "1232",
+                "Crema de Calabaza": "750",
+                "Ensalada de Atun y Huevo": "1760",
+                "Ceviche de Pescado": "1584",
+                "Picadera Paradiso": "2992",
+                "Coctel de Camarones": "1936"
+            },
+            "Pastas": {
+                "Espaguetis Napolitano de Queso Blanco": "450",
+                "Espaguetis Napolitano de Queso Gouda": "600"
+            },
+            "Main Dishes": {
+                "Ropa Vieja de Cordero": "1848",
+                "Cabrito Picoso": "2640",
+                "Cordero al Vino Tinto": "2464",
+                "Pechuga Grille": "2112",
+                "Jardinera de Pechuga": "2464",
+                "Pechuga Roquefort": "2816",
+                "Pechuga Paradiso": "2992",
+                "Ropa Vieja de Res": "2552",
+                "Bistec de Res": "2904",
+                "Fajita de Res": "2464",
+                "Filete a la Douche": "2990",
+                "Bistec de Cerdo Glaseado al Vino Tinto": "2112",
+                "Chuleta en Salsa Verde": "2288",
+                "Entrecot de Cerdo": "3520",
+                "Estofado de Cerdo": "6600",
+                "Masa de Pescado Frita": "2640",
+                "Filete Johnbill": "3256",
+                "Camarones a la Eleccion": "2995",
+                "Arroz Frito": "2112",
+                "Paella": "3168",
+                "Paella Especial": "6600"
+            },
+            "Fittings": {
+                "Arroz Blanco": "422",
+                "Arroz Moro": "636",
+                "Arroz Pilaf": "880",
+                "Pure de Malanga": "640",
+                "Ensalada de Vegetales": "633"
+            },
+            "Pizza": {
+                "Napolitana": "1140",
+                "Margarita": "1232",
+                "De Cebolla": "1325",
+                "Ortolan": "1496",
+                "Hawaiana": "2288",
+                "Jamon o Chorizo": "1760",
+                "De Atun": "2640",
+                "De Camarones": "2640",
+                "De Jamon Serrano": "2816",
+                "Pizza Nel Paradiso": "2992"
+            },
+            "Pasta": {
+                "Napolitana": "1230",
+                "Amatriciana": "1936",
+                "Carbonara": "2200",
+                "Nero di Sepia": "3256",
+                "Pasta al Pesto": "2756",
+                "Lasagna": "1895",
+                "MonteMari Paradiso": "4576",
+                "Caldereta de Mariscos": "4480"
+            },
+            "Desserts": {
+                "Flan de Caramelo": "800",
+                "Bola de Helado": "200",
+                "Copa de Helado": "200",
+                "Tarta del Dia": "980"
+            },
+            "Drinks": {
+                "Cerveza Nacional": "375",
+                "Cerveza Importada": "330",
+                "Cerveza Corona/Heineken": "600",
+                "Sidra": "3000",
+                "Jugo Natural": "270",
+                "Batido de Frutas Naturales": "450",
+                "Malteada": "675",
+                "Batido de Helado": "987",
+                "Agua Natura;": "260",
+                "Refresco Nacional": "300",
+                "Refresco Importado": "350",
+                "Energizante": "330",
+                "RedBull": "600",
+                "Kermato": "600"
+            },
+            "Coffee": {
+                "Espresso": "300",
+                "Cortado": "375",
+                "Americano": "350",
+                "Cappuchino": "400"
+            },
+            "Cocktails": {
+                "Freixenet": "6000",
+                "Coctel Paradiso": "870",
+                "Manhattan": "720",
+                "Bloody Mary": "825"
+            },
+            "Wines": {
+                "Copa de Vino Tinto": "600",
+                "Copa de Vino Blanco": "550"
+            }
+        }
+    }
+}
+}
