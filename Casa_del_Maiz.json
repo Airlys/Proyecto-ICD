@@ -1,0 +1,75 @@
+{ 
+"Restaurants":{
+    "Casa_del_Maiz":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "Avenida 1er Anillo % Calzada de Managua y San Agustin, Arroyo Naranjo",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Casa%2Bdel%2BMaiz/data%3D!4m2!3m1!1s0x0:0xbef11a21befb51b%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjw3cTfyumKAxVkSzABHYbWJVgQ_BJ6BAgyEAQ&usg=AOvVaw25r6YGuKuE9LOTHFxe-LWB",
+            "total": null,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 10:00am y Cierre 8:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Fritura de Malte": "350",
+                "Fritura de Malanga": "450",
+                "Tostones Rellenos": "450",
+                "Chicharron": "500",
+                "Garbanzos": "550",
+                "Cubito de Maiz": "1070",
+                "Garbanzos Fritos": "450"
+            },
+            "Main Dishes": {
+                "Fricase de Cerdo": "1150",
+                "Bistec de Cerdo": "1250",
+                "Lomo Ahumado": "1450",
+                "Costilla Ahumada": "1450",
+                "Fajitas de Cerdo": "1150",
+                "Fajitas de Pollo": "1150",
+                "Alitas de Pollo": "1050",
+                "Pollo en Cazuela": "1050",
+                "Pechuga de Pollo": "1650",
+                "Filete de Pescado": "1480",
+                "Espeñan": "1280",
+                "Ropa Vieja": "1420",
+                "Chilindron de Carnero": "1420"
+            },
+            "Fittings": {
+                "Arroz Salteado": "530",
+                "Arroz Moro": "250",
+                "Arroz Blanco": "180",
+                "Tamal Especial": "90",
+                "Toston Criollo": "450",
+                "Ensalada Mixta": "450",
+                "Aji Relleno": "650",
+                "Malanga Hervida": "425",
+                "Pure de Boniato": "250",
+                "Platano Maduro Frito": "400",
+                "Yuca con Mojo": "250",
+                "Fufu de Platano": "300"
+            },
+            "Desserts": {
+                "Helado Pote de 1 lt": "850",
+                "Helado Pote Pequeño": "490",
+                "Arroz con Leche": "200"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

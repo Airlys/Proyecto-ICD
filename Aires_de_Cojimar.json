@@ -1,0 +1,82 @@
+{ 
+"Restaurants":{
+    "Aires_de_Cojimar":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Pezuela #3e05 entre RUA y Espartero, Cojimar",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/s4e3yqh",
+            "total": 4.4,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 15,
+        "menu and prices": {
+            "Starters": {
+                "Coctel de Pescado": "550",
+                "Ensalada Mixta": "400",
+                "Picadera Mixta": "1200",
+                "Coctel Bella Mar": "750",
+                "Ceviche Aires de Cojimar": "850",
+                "Lomo de Pescado en Escabeche": "950",
+                "Bolitas de Queso": "550",
+                "Eperlan": "950",
+                "Frituras de Malanga": "550",
+                "Tapas Caprichosas": "425",
+                "Surtido de Croquetas": "450",
+                "Tostones al Ajo": "350",
+                "Sopon de Mariscos": "750",
+                "Sopa de Pollo y Vegetales": "550",
+                "Crema de Calabaza y Queso": "500",
+                "Crema de Queso": "500",
+                "Crema de Mariscos": "600"
+            },
+            "Main Dishes": {
+                "Costillas de Cerdo Fritas": "1950",
+                "Arroz con Camarones": "1450",
+                "Milanesa a la Napolitana": "1450",
+                "Uruguayo de Cerdo": "1750",
+                "Camaron al Ajillo": "1550",
+                "Langosta Varadero": "1950",
+                "Langosta Busito": "2000",
+                "Langosta Aires de Cojimar": "5500",
+                "Pulpo al Vino Tinto": "2850",
+                "Pulpo al Ajillo": "2850",
+                "Filete de Pescado Grille": "1250",
+                "Filete de Pescado en Salsa de Romero y Limon": "1350",
+                "Filete de Pescado con Camarones al Graten": "1650",
+                "Filete de Pescado Canciller": "1650",
+                "Camarones Tropicales": "1550",
+                "Camarones Enchilado": "1450",
+                "Camarones al Sesamo": "1450",
+                "Caldereta Dona Blanca": "3500",
+                "Dados de Cerdo a la Cojimera": "1400",
+                "Bistec de Cerdo al Mojo Criollo": "1400",
+                "Pollo con Camarones al Graten": "1450",
+                "Pollo Hawaiano": "1150",
+                "Sabor del Cielo": "1550"
+            },
+            "Fittings": {
+                "Ensalada Mixta": "400"
+            },
+            "Drinks": null,
+            "Desserts": {
+                "Dulces Fino": "450"
+            }
+        }
+    }
+}
+}

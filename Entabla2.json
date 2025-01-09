@@ -1,0 +1,127 @@
+{ 
+"Restaurants":{
+    "Entabla2":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Carretera Terminal 2, Aeropuerto Internacional J. Marti, Calixto Sanchez",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Entabla%2B2/data%3D!4m2!3m1!1s0x0:0x4a6f09715d253f11%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjJ99a2zOmKAxV3ibAFHQ22IBcQ_BJ6BAg7EAk&usg=AOvVaw3zV051vwswh8FVhIaAWqvA",
+            "total": 4.0,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Caldo de Mariscos": "1200",
+                "Eperlan": "1500",
+                "Tacos de Cerdo": "1150",
+                "Tacos de Langosta": "950",
+                "Frituras de Malanga": "350",
+                "Crujientes de Pollo": "800",
+                "Coctel de Camaron": "1150",
+                "Ceviche de Pescado": "1150",
+                "Coctel de Langosta": "1050",
+                "Pan con Lechon": "1100",
+                "Huevo Hervido": "300",
+                "Huevos Fritos": "380",
+                "Revoltillo Natural": "380"
+            },
+            "Main Dishes": {
+                "Langosta Grille": "1950",
+                "Langosta al Ajillo": "1950",
+                "Langosta Enchilada": "2250",
+                "Camaron Enchilado": "2300",
+                "Camarones Grille": "2150",
+                "Costilla Frita": "2600",
+                "Camaron al Ajillo": "2150",
+                "Fricase de Cerdo": "2250",
+                "Costilla en Salsa BBQ": "2680",
+                "Bistec Gratinado": "2150",
+                "Bistec de Cerdo": "1850",
+                "Chuleta de Cerdo": "1950",
+                "Masa Frita": "2150",
+                "Chuleton de Cerdo": "2500",
+                "Super Chuleton Entabla2": "3200",
+                "Filete de Pescado al Vino": "2000",
+                "Filete de Pescado Mediterraneo": "2050",
+                "Filete Don Pedro": "2900",
+                "Lonja de Cerdo": "2150"
+            },
+            "Fittings": {
+                "Vianda Hervida con Mojo": "200",
+                "Arroz Moro": "250",
+                "Ensalada de Vegetales": "200",
+                "Arroz Blanco": "200"
+            },
+            "Desserts": {
+                "Copa de Helado": "500"
+            },
+            "Rums": {
+                "Havana Club Añejo 3 Años": "300",
+                "Havana Club Añejo Especial": "300",
+                "Aguardiente Black Tears": "150"
+            },
+            "Geneva": {
+                "Gin MG": "140",
+                "Beefeater": "240",
+                "Le Tribute": "490"
+            },
+            "Liqueurs": {
+                "Sambuca Extra Molinari": "200"
+            },
+            "Wines": {
+                "Copa de Vino Blanco": "450",
+                "Copa de Vino Tinto": "450"
+            },
+            "Cocktails": {
+                "Caipirissima": "650",
+                "Cuba Libre": "460",
+                "Sangria": "650",
+                "Cubata": "480",
+                "Caipiriña": "550",
+                "Canchanchara": "450",
+                "Caipiroska": "550",
+                "Tinto Verano": "600",
+                "Servicio de Chelada": "120"
+            },
+            "Drinks": {
+                "Jugos Naturales": "350",
+                "Suero de Helado": "850",
+                "Limonada Frappe": "500",
+                "Batido de Frutas Naturales": "450",
+                "Agua 600ml Niagara": "250",
+                "Refresco Mirinda": "430",
+                "Malteada": "430",
+                "Malteada ": "780",
+                "Cerveza Cristal": "600",
+                "Jugo Importado de Fruta Fresca": "300",
+                "Refresco Pepsi": "430",
+                "Refresco 7UP": "430",
+                "Cerveza Blue": "450",
+                "Malta Turbo": "450"
+            },
+            "Coffee": {
+                "Espresso": "150",
+                "Cortado": "250",
+                "Bombon": "550",
+                "Cappuchino": "400",
+                "Con Leche": "400"
+            }
+        }
+    }
+}
+}

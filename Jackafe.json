@@ -1,0 +1,112 @@
+{ 
+"Restaurants":{
+    "Jackafe":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Calle 164B, #3B01, Esquina 3ra B, Mercado de los Rusos, Zona 1, Alamar",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/JacKaf%25C3%25A9/data%3D!4m2!3m1!1s0x0:0x45d081e9ec4b3660%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiZrozfzOmKAxXDRjABHWMWPEsQ_BJ6BAhCEAk&usg=AOvVaw3t52fgIWDL_VB1JJkDs6JT",
+            "total": 4.9,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 9:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 40,
+        "menu and prices": {
+            "Starters": {
+                "Ceoquetas": "360",
+                "Bolitas de Queso": "280",
+                "Tostones Rellenos de Chorizo": "940",
+                "Tostones Rellenos de Atun": "840",
+                "Tostones Rellenos de Jamon": "680",
+                "Coctel de Pescado": "760",
+                "Coctel de Camaron": "780",
+                "Coctel de Langosta": "980",
+                "Trio de Cocteles": "2280",
+                "Ceviche": "1190",
+                "Eperlan": "1720",
+                "Garbanzo Frito": "1680",
+                "Entremes de la Casa": "1920",
+                "Entremes de Jamon Serrano": "1350",
+                "Tabla de Quesos": "1820",
+                "Crema de Queso": "590"
+            },
+            "Pastas": {
+                "Lazagna Bolognesa": "1690",
+                "Espaguetis Napolitano de Queso Gouda": "840",
+                "Espaguetis Napolitano de Queso Mozarella": "610",
+                "Espaguetis al Aglio y Olio": "1240"
+            },
+            "Pizza": {
+                "Pizza Napolitana de Queso Gouda": "760",
+                "Pizza Napolitana de Queso Mozarella": "610"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo Grille": "1620",
+                "Bistec de Cerdo Princesa": "2240",
+                "Bistec Uruguayo": "2380",
+                "Cordero al Vino Tinto": "2730",
+                "Estofado de Res": "3320",
+                "Filete de Pescado Grille": "1590",
+                "Filete de Pescado Princesa": "2140",
+                "Canciller": "2320",
+                "Pulpo Enchilado": "1330",
+                "Pulpo al Ajillo": "1850",
+                "Langosta Grille": "2190",
+                "Langosta Enchilada": "2310",
+                "Langosta Thermidor": "2520"
+            },
+            "Additions": {
+                "Champiñon": "140",
+                "Atun": "510",
+                "Aceitunas": "450",
+                "Jamon": "250",
+                "Jamon Serrano": "650",
+                "Chorizo": "480",
+                "Queso Gouda": "420",
+                "Queso Mimolett": "480",
+                "Queso Azul": "380",
+                "Piña": "170",
+                "Salsa de Tomate": "150"
+            },
+            "Fittings": {
+                "Arroz Blanco": "180",
+                "Arroz Moro": "250",
+                "Arroz Frito Jackafe": "1480",
+                "Ensalada de Estacion": "250",
+                "Viandas Fritas": "250"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Importada": "280",
+                "Cerveza Michelada": "100",
+                "Refresco Importado": "330",
+                "Jugo de Caja": "850",
+                "Energizante": "370",
+                "Agua Natural Importada": "260",
+                "Agua Tonica": "720"
+            },
+            "Coffee": {
+                "Espresso": "180",
+                "Americano": "180",
+                "Cortado": "250",
+                "Cappuchino": "300",
+                "Con Ashe": "395",
+                "Te": "80"
+            }
+        }
+    }
+}
+}

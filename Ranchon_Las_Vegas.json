@@ -1,0 +1,124 @@
+{
+"Restaurants":{
+    "Ranchon_Las_Vegas":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Calle 409 % 182 & Avenida Independencia, Santiago de las Vegas",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Las%2BVegas/data%3D!4m2!3m1!1s0x0:0x611322924f7bcc2c%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjh86mxz-mKAxV0RzABHbwaLrAQ_BJ6BAg7EAk&usg=AOvVaw3eTh7ONcs-p2_g_B6gb1av",
+            "total": null,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 11:30am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Brusquetas de Serrano y Queso": "600",
+                "Montaditos de Cerdo": "700",
+                "Papas Fritas": "800",
+                "Patacon de Cerdo": "900",
+                "Croquetas Rancho": "1000",
+                "Papas Fritas y Chorizo": "1000",
+                "Tamal en Cazuela": "1000",
+                "Tacos de Pollo": "1100",
+                "Tacos de Cerdo": "1200",
+                "Tabla de Queso": "1900",
+                "Tabla de Serrano, Quesos y Frutos Secos": "2000",
+                "La Tranka": "2500",
+                "Hamburguesa Clasica": "800",
+                "Baguette Guajiro": "1300",
+                "Sandwich Cubano": "1500"
+            },
+            "Main Dishes": {
+                "Pollo Grille al Carbon": "1600",
+                "Brochetas de Pollo": "1800",
+                "Bistec de Cerdo": "1600",
+                "Cerdo Asado": "1800",
+                "Lomo Ahumado": "1900",
+                "Uruguayo": "2200",
+                "Brochetas de Cerdo": "2200",
+                "Costillas BBQ": "2500",
+                "Fricase de Cerdo": "2500",
+                "Ropa Vieja de Res": "1800",
+                "Vaca Frita": "1800",
+                "Entrecot": "5000",
+                "Steak New York": "6000",
+                "Steak Ribeye": "6500",
+                "Cangrejo Enchilado": "2200",
+                "Camarones Enchilados": "2500",
+                "Pescado 1 pax": "2500",
+                "Super Fish + Copa de Vino": "4500",
+                "Atun de Aleta Amarilla": "7000"
+            },
+            "Fittings": {
+                "Arroz Blanco": "300",
+                "Arroz Moro": "350",
+                "Ensalada de Estacion": "350",
+                "Pure del Dia": "350",
+                "Verduras Grilladas": "400"
+            },
+            "Desserts": {
+                "Helado": "450",
+                "Flan": "450",
+                "Copa Lolita": "850"
+            },
+            "Coffee": {
+                "Cafe": "350"
+            },
+            "Cocktails": {
+                "Cuba Libre": "750",
+                "Caipiriña": "750",
+                "Caipiroska": "750",
+                "Caipirissima": "750",
+                "Mojito": "750",
+                "Daiquiri": "800",
+                "Piña Colada Virgen": "800",
+                "Piña Colada": "900",
+                "Bloody Mary": "900",
+                "Tinto de Verano": "900",
+                "Sangria": "900",
+                "Cubanito": "900",
+                "Margarita": "1250",
+                "Servicio de Chelada": "300",
+                "Servicio de Michelada": "400" 
+            },
+            "Drinks": {
+                "Cerveza Importada": "250",
+                "Cerveza Cristal": "350",
+                "Energizante Importado": "400",
+                "Cerveza Cristal Botella": "450",
+                "Cerveza Corona": "600",
+                "Cerveza Modelo": "700",
+                "Agua Natural": "200",
+                "Refresco Cola": "250",
+                "Refresco de Limon": "250",
+                "Refresco de Naranja": "250",
+                "Piña": "250",
+                "Jugos": "250",
+                "Coca Cola": "350",
+                "Sprite": "350",
+                "Malta": "300",
+                "Malta Bucanero": "350",
+                "Pepsi Cola": "350"
+            },
+            "Wines": {
+                "Vino Blanco": "700",
+                "Vino Tinto": "700"
+            } 
+        }
+    }
+}
+}

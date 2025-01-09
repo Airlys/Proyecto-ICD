@@ -1,0 +1,148 @@
+{ 
+"Restaurants":{
+    "Divino":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "#50, Calle Raquel entre Esperanza y Lindero, Mantilla",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/uh29HSE",
+            "total": 4.4,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierra 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": 100,
+        "menu and prices": {
+            "Starters": {
+                "Crema de Vegetales": "450",
+                "Coctel de Mariscos": "1700",
+                "Croquetas de la Casa": "1200",
+                "Tostones Rellenos Mixtos": "1500",
+                "Canapes Agridulces de Jamon y Queso con Piña": "1200",
+                "Pulpo sobre Boniato a las Brasas y Salsa de Pimiento": "2500",
+                "Surtido Divino": "1800"
+            },
+            "Main Dishes": {
+                "Pollo a la Campesina": "1800",
+                "Cerdo Ahumado al Mangle Rojo": "2880",
+                "Langosta Marinera": "3000",
+                "Pinchos de Camaron Aromatizados con Aceite de Trufa": "3200",
+                "Suprema de Pollo a la Mostaza": "1950",
+                "Pulpo a la Gallega": "4500",
+                "Reino del Mar": "9500",
+                "Arroz a la Cubana": "1500"
+            },
+            "Desserts": {
+                "Mousse de Limon": "1000",
+                "Mousse de Fruto del Bosque": "1000",
+                "Copa de Helado": "1300",
+                "Flan de la Casa": "600"
+            },
+            "Drinks": {
+                "Cerveza Importada": "350",
+                "Cerveza Nacional": "500",
+                "Cubetazo": "3000",
+                "Refresco": "400",
+                "Agua Natural": "200",
+                "Jugo Natural": "250",
+                "Batido de Helado": "700",
+                "Limonada Natural": "600",
+                "Limonada Fresh": "700",
+                "Limonada Frappe": "600"
+            },
+            "Wines": {
+                "Copa de Vino Tinto": "700",
+                "Gavi di Gavi": "350"
+            },
+            "Coffee": {
+                "Espresso": "250",
+                "Tradicional": "150",
+                "Cortado": "250",
+                "Con Leche": "350",
+                "Cappuchino": "400",
+                "Bombon": "500",
+                "Americano": "200",
+                "Cafe al Ron Cubano": "300",
+                "Te": "200"
+            },
+            "Cocktails": {
+                "Mojito": "800",
+                "Cubata": "750",
+                "Daiquiri Frappe": "700",
+                "Piña Colada": "800",
+                "Margarita": "700",
+                "Sangria Española": "800",
+                "Sangria Asturiana": "850",
+                "Caipiroska": "700",
+                "Ron Collins": "500",
+                "Long Island": "1000",
+                "Screwdriver": "700",
+                "Servicio de Michelada": "400",
+                "Servicio de Chelada": "400" 
+            },
+            "Tequila": {
+                "Olmeca Silver": "400",
+                "Olmeca Reposado": "500"
+            },
+            "Rums": {
+                "Santiago Carta Blanca": "900",
+                "Santiago 8 Años": "1200",
+                "Santiago 11 Años": "1900",
+                "Santiago 12 Años": "1900",
+                "Havana Club 7 Años": "600",
+                "Havana Club Pacto Navio": "1900",
+                "Havana Club Smoky": "700",
+                "Havana Club Spiced": "700",
+                "Havana Club Ritual": "450",
+                "Cubay 10 Años": "850",
+                "Barcelo": "400",
+                "Barcelo Gran Añejo": "500",
+                "Legendario Rose": "350",
+                "Grappa Chanti": "350",
+                "Grappa Prosecco": "350"
+            },
+            "Liqueurs": {
+                "Pazo Pondal": "250",
+                "Anis del Mono": "380",
+                "Anisado Pastis": "350",
+                "Baileys": "800",
+                "Crema Ruavieja de Chocolate": "600",
+                "Crema Ruavieja de Arroz": "600",
+                "Jaggermeister": "700",
+                "Pisco Mosto Verde": "400"
+            },
+            "Whisky": {
+                "J&B": "500",
+                "Johnnie Walker Gold": "2500",
+                "Johnnie Walker Red Label": "1000",
+                "Jameson": "500",
+                "Ballantines": "500",
+                "Glen Scalan": "850"
+            },
+            "Vodka": {
+                "Wiborowa": "650"
+            },
+            "Geneva": {
+                "Beefeater": "750",
+                "Gin MG": "650",
+                "Gin MG Rose": "700",
+                "Tanqueray #10": "1500",
+                "Gin Master": "800",
+                "Q Rose": "600"
+            }
+        }
+    }
+}
+}

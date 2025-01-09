@@ -1,0 +1,60 @@
+{ 
+"Restaurants":{
+    "Joe's_Burguer":{
+        "Province": "La Habana",
+        "Municipality": "Diez de Octubre",
+        "Location": "Esquina Mayia Rodriguez y Aranguren",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Burguer%2BJoe/data%3D!4m2!3m1!1s0x0:0x3ae96005a83a2218%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwj334qAzemKAxWhTTABHYf-NOEQ_BJ6BAg5EAk&usg=AOvVaw0erUVOvQu0IqgOTRRMtYxj",
+            "total": 3.6,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 8:00am y Cierre 10:00pm(Lunes-Jueves), Apertura 8:00am y Cierre 11:00pm(Viernes-Domingo)",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Hamburgueseria",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 20,
+        "menu and prices": {
+            "Starters": null
+            },
+            "Main Dishes": {
+                "Hamburguesa de Cerdo": "500",
+                "Hamburguesa de Pollo": "500",
+                "Hamburguesa de Res": "700",
+                "Hamburguesa Doble": "900",
+                "Bocadito de Jamon y Queso": "450"
+            },
+            "Additions": {
+                "Queso": "120",
+                "Lechuga": "100",
+                "Jamon": "100",
+                "Chorizo": "80",
+                "Bacon": "150",
+                "Huevo": "150",
+                "Cebolla": "150",
+                "Pepinillo": "30",
+                "Tomate": "100"
+            },
+            "Drinks": {
+                "Cerveza": "350",
+                "Limonada Frappe": "500",
+                "Batido de Helado": "700",
+                "Malteada": "500",
+                "Potes de Helado": "1000"
+            },
+            "Desserts": {
+                "Copa de Helado": "300"
+            }
+        }
+    }
+}

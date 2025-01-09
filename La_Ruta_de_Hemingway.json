@@ -1,0 +1,131 @@
+{ 
+"Restaurants":{
+    "La_Ruta_de_Hemingway":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Calle Real entre Victoria y Marcos, Cojimar",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/oNPnBgg",
+            "total": 3.7,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 30,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de la Casa": "500",
+                "Ceviche de Pescado": "1300",
+                "Tostones Rellenos": "1150",
+                "Eperlan de Pescado": "1300",
+                "Garbanzo Fritos": "1350",
+                "Ensalada Fria": "1050",
+                "Brusquetas": "450"
+            },
+            "Main Dishes": {
+                "Pincho Pio": "2500",
+                "Bistec de Cerdo a la Campesina": "2400",
+                "El Balsero": "3100",
+                "Pulpo a las Brasas": "3500",
+                "Camaron a la Mantequilla": "2900",
+                "Langosta al Carbon": "3600",
+                "Fajas Ibericas": "4250",
+                "Chilindron de Cordero": "3450",
+                "Fricase de Costilla": "3650",
+                "Masas de Cerdo a la Campesina": "3200",
+                "Pescado Entero": "3100",
+                "Tambor Cubano": "3100",
+                "Rueda de Pescado": "2700"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "2000"
+            },
+            "Fittings": {
+                "Viandas Fritas": "300",
+                "Vianda con Mojo": "300",
+                "Ensalada de Estacion": "400",
+                "Arroz Blanco": "300",
+                "Arroz Moro": "400"
+            },
+            "Drinks": {
+                "Jugo de Lata": "300",
+                "Jugo de Fruta": "300",
+                "Batido de Fruta": "420",
+                "Limonada Frappe": "450",
+                "Limonada Frescura": "480",
+                "Malta": "360",
+                "Malteada": "500",
+                "Refresco Importado": "300",
+                "Agua Natural": "250",
+                "Agua Tonica": "700",
+                "Energizante": "300",
+                "Kermato": "500",
+                "Cerveza Nacional": "300",
+                "Cerveza en Lata Importada": "250",
+                "Cerveza Presidente": "300",
+                "Cerveza Heineken": "400",
+                "Cerveza Corona": "450"
+            },
+            "Wines": {
+                "Copa de Vino": "650",
+                "Botella de Vino": "3000"
+            },
+            "Cocktails":{
+                "Todos los Cocteles": "450",
+                "Sangria": "800",
+                "Piña Colada": "700",
+                "Gin Tonic": "800"
+            },
+            "Drinks 2": {
+                "Ron Barcelo Dorado": "400",
+                "Brandy": "600",
+                "Ginebra Tanqueray": "600",
+                "Cognac": "1000",
+                "Havana Club 7 Años": "600",
+                "Havana Club 3 Años": "300",
+                "Havana Club Pacto Navio": "1200",
+                "Havana Club Reserva": "350",
+                "Havana Club Especial": "300",
+                "Havana Club Seleccion de Maestros": "1300",
+                "Jaggermeister": "700",
+                "Legendario": "250",
+                "Ron 15 Años": "1100",
+                "Whisky Pasportt": "400",
+                "Johnnie Walker Black Label": "1000",
+                "Johnnie Walker Double Black": "1800",
+                "Whisky 15 Años": "1900",
+                "Johnnie Walker Red Label": "800",
+                "VAT 69": "350",
+                "Black and White": "500",
+                "Buchanans": "1650",
+                "Tequila Olmeca": "800",
+                "Ginebra": "600"
+            },
+            "Coffee": {
+                "Espresso": "250",
+                "Americano": "250",
+                "Chocolate": "300",
+                "Cortado": "300",
+                "Bombon": "370",
+                "Con Leche": "450",
+                "Cappuchino": "450"
+            },
+            "Desserts": {
+                "Postre del Dia": "750"
+            }
+        }
+    }
+}
+}

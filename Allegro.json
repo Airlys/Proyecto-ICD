@@ -1,0 +1,47 @@
+{ 
+"Restaurants":{
+    "Allegro":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Paseo de la Villa, Villa Panamericana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Allegro/data%3D!4m2!3m1!1s0x0:0x6c71f130d637135c%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiApdjuyemKAxVZRzABHcXhGxQQ_BJ6BAg3EAk&usg=AOvVaw00YVyiaIK7wLSoG6YpdzQ5",
+            "total": 4.0,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 9:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 20,
+        "menu and prices": {
+            "Starters": {
+                "Crema de Queso": "313",
+                "Crema Aurora": "315",
+                "Crema Virginia": "329"
+            },
+            "Main Dishes": {
+                "Espaguetis Napolitano": "410",
+                "Espaguetis de Jamon": "570",
+                "Lazagna de Jamon": "550",
+                "Pizza Napolitana": "390",
+                "Pizza de Jamon": "540",
+                "Pizza de Chorizo": "588",
+                "Pizza de Bacon": "735"
+            },
+            "Drinks": null,
+            "Desserts": null
+        }
+    }
+}
+}

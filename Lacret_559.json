@@ -1,0 +1,94 @@
+{ 
+"Restaurants":{
+    "Lacret_559":{
+        "Province": "La Habana",
+        "Municipality": "Diez de Octubre",
+        "Location": "4J2G+J2P, 10 de Octubre, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/DhBxaEz",
+            "total": 4.3,
+            "date": "20250108"
+        },
+        "schedules": "Apertura  12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Internacional",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": null,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Fritura de Malanga": "425",
+                "Croquetas 559": "650",
+                "Croqueton de Res": "1000",
+                "Eperlan de Pescado": "700",
+                "Carpaccio de Res": "1550",
+                "Carpaccio de Langosta": "1500",
+                "Carpaccio de Pulpo": "1600",
+                "Ceviche": "950",
+                "Piquillos Rellenos del Mar": "1050",
+                "Piquillos Rellenos de Ropa Vieja": "1550",
+                "Papas Bravas": "700",
+                "Fajitas de Pollo": "700",
+                "Brusquetas a la Parmesana": "600",
+                "Totopitos Picantes": "400",
+                "Papas Fritas": "700"
+            },
+            "Main Dishes": {
+                "Tacos de Res": "1550",
+                "Tacos de Mar": "1550",
+                "Tacos de Cerdo": "1200",
+                "Tacos de Pollo": "1000",
+                "Ropa Vieja de Res": "2025",
+                "Pechuga de Pollo Grille": "1975",
+                "Pechuga de Pollo a la Cordon Bleu": "2175",
+                "Pescado Grille": "1975",
+                "Pescado Enchilado": "1975",
+                "Pescado Canciller": "2175",
+                "Langosta al Gusto": "2600",
+                "Camarones al Gusto": "2400",
+                "Lomo Ahumado": "2175",
+                "Lomo Importado": "2500",
+                "Chuleta de Cerdo": "2100",
+                "Enchilado de Cangrejo": "2400",
+                "Hamburguesa de Res": "850"
+            },
+            "Pizza": {
+                "Pizza de Queso Azul": "2000",
+                "Pizza Napolitana": "1360",
+                "Margarita": "1400",
+                "Pizza Parmesana": "1800",
+                "Pizza Carbonara": "1950",
+                "Pizza Hawaiana": "1800",
+                "Pizza Cantabrica": "1800",
+                "Pizza Marina": "2400",
+                "Pizza Mediterranea": "1800",
+                "Pizza Mixta Lacret": "2700",
+                "Pizza de Jamon": "1500",
+                "Pizza de Chorizo": "1450",
+                "Pizza con Bacon": "1850",
+                "Pizza de Cebolla": "1400",
+                "Pizza de Pimiento": "1500",
+                "Pizza con Vegetales": "1700",
+                "Pizza de Champiñon": "1700",
+                "Pizza de Atun": "2300",
+                "Pizza de Aceituna": "1400",
+                "Pizza con Jamon Serrano": "3000",
+                "Pizza con Jamon Iberico": "3400",
+                "Pizza con Pepperoni": "2000",
+                "Pizza Ranchera": "2500"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

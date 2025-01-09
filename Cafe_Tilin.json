@@ -1,0 +1,147 @@
+{ 
+"Restaurants":{
+    "Cafe_Tilin":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Avenida Independencia Km 9 1/2, Fontanar",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/nJAnsbH",
+            "total": 4.0,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 11:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de la Casa": "850",
+                "Tostones Rellenos de Jamon y Queso": "950",
+                "Tostones Rellenos de Atun": "950",
+                "Tostones Rellenos de Ropa Vieja": "950",
+                "Fritura de Malanga": "850",
+                "Fajitas de Pollo": "950",
+                "Fajitas de Cerdo": "950",
+                "Picadera Tilin": "2500",
+                "Hamburguesa Clasica": "1100",
+                "Hamburguesa Bar": "1300",
+                "Hamburguesa Mexicana": "1750",
+                "Hamburguesa Tilin": "2000",
+                "Combo Americano": "1750",
+                "Hamburguesa La Cubana": "1800",
+                "Hamburguesa Super Clasica": "1750",
+                "Crema de Malanga": "800"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo Encebollado": "1850",
+                "Bistec de Cerdo Grille": "1600",
+                "Masas de Cerdo": "1850",
+                "Escalope de Cerdo": "1950",
+                "Ropa Vieja de Cerdo": "1700",
+                "Arroz Frito": "1500",
+                "Suprema de Pollo": "1850",
+                "Fajitas de Pollo Salteadas con Vegetales": "1750",
+                "Pollo Frito": "1450",
+                "Brochetas Mixtas al Carbon": "2500",
+                "Cordon Bleu": "3050",
+                "Bistec Uruguayo": "3250",
+                "Milanesa a la Napolitana": "3300"
+            },
+            "Fittings": {
+                "Arroz Moro": "350",
+                "Arroz Blanco": "250",
+                "Ensalada Mixta": "750",
+                "Viandas Fritas": "650",
+                "Papas Fritas": "750"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "1300",
+                "Espaguetis de Jamon": "1700"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "1300",
+                "Pizza de Chorizo": "1700",
+                "Pizza  de Atun": "1700",
+                "Pizza Hawaiana": "1950",
+                "Pizza Tilin": "2500",
+                "Pizza de Jamon": "1700",
+                "Pizza de Cebolla": "1500",
+                "Pizza Napolitana 21cm": "500"
+            },
+            "Desserts": {
+                "Postre del Dia": "500",
+                "Tarta Helada": "950",
+                "Flan de Caramelo": "350",
+                "Copa de Helado": "450",
+                "Copa Lolita": "650"
+            },
+            "Coffee": {
+                "Espresso": "200",
+                "Americano": "200",
+                "Cortado": "250",
+                "Cappuchino": "350",
+                "Frappuchino": "750",
+                "Cafe Tilin": "600",
+                "Cafe Tolon": "750"
+            },
+            "Drinks": {
+                "Jugo de Frutas": "500",
+                "Suero de Helado": "850",
+                "Agua Natural Nacional": "250",
+                "Agua Natural Importada": "300",
+                "Refresco Importado": "300",
+                "Energizante": "350",
+                "Malta Importada": "350",
+                "Cerveza Nacional": "400",
+                "Limonada Frappe": "450"
+            },
+            "Cocktails": {
+                "Piña Colada": "950",
+                "Servicio de Michelada": "750",
+                "Servicio de Chelada": "650",
+                "Cubanito": "800",
+                "Mojito": "500",
+                "Mojito de Fruta": "750",
+                "Daiquiri": "500",
+                "Daiquiri de Fruta": "750",
+                "Caipiriña": "500",
+                "Caipiroska": "650",
+                "Caipirissima": "600",
+                "Bloody Mary": "900",
+                "Screwdriver": "700",
+                "Cuba Libre": "550",
+                "Sangria": "850",
+                "Margarita": "1250",
+                "San Francisco": "750",
+                "Blue Lagoon": "800",
+                "Coctel de la Casa un Tilin": "1500"
+            },
+            "Drinks 2": {
+                "Tequila": "900",
+                "Copa de Vino Frontera": "900",
+                "Copa de Vino Casillero del Diablo": "1200",
+                "Linea Chanceler": "250",
+                "Linea Jaggermeister": "1000",
+                "Linea Red Label": "1200",
+                "Linea Ballantines Finest": "1200",
+                "Linea Ballantines 10 Años": "1500",
+                "Linea Chivas Regal 12 Años": "1800",
+                "Linea Jack Daniels": "2500",
+                "Botella de Vino Frontera": "4500",
+                "Botella de Vino Casillero del Diablo": "8000"
+            }
+        }
+    }
+}
+}

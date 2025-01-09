@@ -1,0 +1,53 @@
+{ 
+"Restaurants":{
+    "La_Divina_Pastora":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Complejo Morro Cabana, Via Monumental",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/56qLqpA",
+            "total": 3.7,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia"
+        },
+        "Capacity": 100,
+        "menu and prices": {
+            "Starters": {
+                "Croqueticas La Tasca": "540",
+                "Deditos de Pollo": "540",
+                "Empanadas Divina Pastora": "1500",
+                "Fritura de Malanga": "540",
+                "Garbanzo Frito": "1620",
+                "Tablita de Salmon Ahumado": "1620",
+                "Pastas Frutos del Mar": "2100",
+                "Hamburguesa Pastora": "1080",
+                "Sandwich Roast Beef": "1620"
+            },
+            "Main Dishes": {
+                "Pollo Empanado a la Parmesana": "1200",
+                "Filete de Pescado": "2300",
+                "Filete de Cerdo": "2040",
+                "Rollito de Cerdo": "1560",
+                "Filete de Res": "2880",
+                "Estofado de Res": "2040",
+                "Langosta Divina Pastora": "2500"
+            },
+            "Drinks": null,
+            "Desserts": null
+        }
+    }
+}
+}

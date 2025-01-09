@@ -1,0 +1,78 @@
+{ 
+"Restaurants":{
+    "Beer_para_Creer":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Centro Comercial Falcon, Alamar",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g562656-d5927767-Reviews-Beer_para_Creer-Parla.html&ved=2ahUKEwjPtf2IyumKAxUtTTABHbqWAtcQFnoECBcQAQ&usg=AOvVaw3cDry7ZZBWRK5NvzSQmfAD",
+            "total": 4.5,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 10:00am y Cierre 9:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 15,
+        "menu and prices": {
+            "Starters": {
+                "Hamburguesa Simple": "450",
+                "Hamburguesa Especial": "550",
+                "Sandwich Pinareño": "900",
+                "Croquetas del Chef": "650",
+                "Pan con Lechon": "350",
+                "Sandwich Cubano con Lechon": "950"
+            },
+            "Main Dishes": {
+                "Fajitas de Pollo": "850",
+                "Espaguetis Napolitano": "520",
+                "Arroz Frito": "800",
+                "Masas de Cerdo Fritas": "1350",
+                "Ropa Vieja de Cerdo": "1400",
+                "Fricase de Cerdo": "1400",
+                "Bistec de Cerdo Grille": "850",
+                "Bistec de Cerdo Princesa": "1100",
+                "Milanesa de Cerdo": "1100",
+                "Envoltino de Cerdo": "1250",
+                "Lomo Ahumado": "1000",
+                "Lonjas de Cerdo Asadas al Carbon": "1300",
+                "Uruguayo de Cerdo": "1150",
+                "Escalope de Cerdo": "950",
+                "Cordon Bleu": "1250",
+                "Bistec de Pollo Grille": "850",
+                "Fricase de Pollo": "1400",
+                "Arroz a la Chorrera": "1400",
+                "Pollo Chiflado": "850"
+            },
+            "Pizza": {
+                "Pizza de Queso Blanco": "160",
+                "Pizza de Queso Gouda": "250"
+            },
+            "Additions": {
+                "Jamon": "100",
+                "Queso Blanco": "80",
+                "Cebolla": "120",
+                "Chorizo": "100"
+            },
+            "Fittings": {
+                "Arroz Blanco": "250",
+                "Arroz Moro": "180",
+                "Vianda Frita": "100",
+                "Ensalada de Vegetales": "80"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

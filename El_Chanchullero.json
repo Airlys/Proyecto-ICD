@@ -1,0 +1,94 @@
+{ 
+"Restaurants":{
+    "El_Chanchullero":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "#162D entre Calle 5G y Calle 162, Zona 6, Alamar",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/gTmAAHe",
+            "total": 4.4,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 30,
+        "menu and prices": {
+            "Starters": {
+                "Chicharrita de Platano Macho": "250",
+                "Tostones Rellenos con Cerdo": "375",
+                "Fritura de Malanga con Miel": "375",
+                "Ceviche de Pulpo y Pescado": "450"
+            },
+            "Main Dishes": {
+                "Cerdo al Perejil": "795",
+                "Brochetas de Cerdo": "795",
+                "Bistec de Cerdo Encebollado": "800",
+                "Ropa Vieja": "800",
+                "Cerdo Asado al Horno": "795",
+                "Pulpo al Ajillo": "925",
+                "Pescado Chanchullero": "800",
+                "Langosta Enchilada": "975",
+                "Langosta a la Plancha": "975",
+                "Masas de Cerdo": "800"
+            },
+            "Desserts": {
+                "Flan al Caramelo": "150"
+            },
+            "Drinks": {
+                "Jugo de Fruta Natural": "140",
+                "Agua Natural": "130",
+                "Agua Gaseada": "180",
+                "Refrescos Importados": "240",
+                "Refrescos Nacionales": "200",
+                "Cerveza Importada": "275",
+                "RedBull": "300"
+            },
+            "Coffee": {
+                "Espresso": "100"
+            },
+            "Cocktails": {
+                "Catarro": "275",
+                "Cuba Libre": "275",
+                "Mojito": "275",
+                "Caipirissima": "275",
+                "Ron Collins": "275",
+                "Caipiroska": "275",
+                "Caipiriña": "300",
+                "Daiquiri": "300",
+                "Piña Colada": "300",
+                "Vodka con Naranja": "300",
+                "Servicio de Chelada": "400",
+                "Servicio de Michelada": "450",
+                "Finest Blended": "400"
+            },
+            "Wines": {
+                "Copa de Vino": "300",
+                "Botella de Vino": "1200"
+            },
+            "Rums": {
+                "Havana Club Especial": "325"
+            },
+            "Whisky": {
+                "Black and White": "395",
+                "Clancampbell": "425",
+                "Jameson": "425"
+            },
+            "Vodka": {
+                "Absolut": "525"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,68 @@
+{ 
+"Restaurants":{
+    "Los_Doce_Apostoles":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Complejo Morro Cabana, Via Monumental",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/c6rzeXz",
+            "total": 3.7,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia"
+        },
+        "Capacity": 60,
+        "menu and prices": {
+            "Starters": {
+                "Entremes de Jamon y Queso": "400",
+                "Eperlan de Pescado": "550",
+                "Anillas de Calamar": "550",
+                "Alitas de Pollo": "450",
+                "Nuggets de Pollo": "250",
+                "Picadera Especial": "600"
+            },
+            "Main Dishes": {
+                "Pollo Grille": "700",
+                "Fajitas de Res": "950",
+                "Steak de Res": "950",
+                "Fajitas de Cerdo": "800",
+                "Masas de Cerdo": "900",
+                "Filete de Pescado": "900",
+                "Pescado del Chef": "1100",
+                "Gambas al Grill": "1200"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Dispensada": "190",
+                "Cerveza Importada": "220",
+                "Cerveza Nacional": "215",
+                "Malta": "210",
+                "Malta Perla Negra": "180",
+                "Jugo Natural en Caja": "300",
+                "Refrescos Nacionales": "280"
+            },
+            "Rums": {
+                "Havana Club Añejo Blanco": "80",
+                "Havana Club Profundo": "160",
+                "Havana Club Seleccion de Maestro": "350",
+                "Cubay Carta Blanca": "100"
+            },
+            "Wines": {
+                "Vino Tinto(Copa)": "200"
+            }
+        }
+    }
+}
+}

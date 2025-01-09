@@ -1,0 +1,119 @@
+{ 
+"Restaurants":{
+    "Ranchon_Hanoi":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Parque Hanoi, Zona 6, Alamar",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Hanoi/data%3D!4m2!3m1!1s0x0:0x54baee40957e0202%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjdhPDYz-mKAxW8RzABHXbMJRwQ_BJ6BAg4EAk&usg=AOvVaw0mWz-XAouCEm8N0wJGGIH4",
+            "total": 4.4,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Martes-Domingo",
+        "Type of food or specialty": "Mixta",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 30,
+        "menu and prices": {
+            "Starters": {
+                "Dados de Jamon": "300",
+                "Dados de Queso Gouda": "450",
+                "Entremes de Jamon y Queso Gouda": "700",
+                "Entremes de Chorizo y Queso Gouda": "700",
+                "Entremes Surtido": "1200",
+                "Coctel de Camaron": "950",
+                "Coctel de Langosta": "950",
+                "Ensalada Fria de Jamon": "360",
+                "Ensalada Fria de Atun": "400",
+                "Croquetas de la Casa": "300",
+                "Baston de Pollo": "500",
+                "Eperlan de Pescado": "900",
+                "Tostones con Mojo Criollo": "250",
+                "Tostones Estilo Ranchon": "580",
+                "Tostones Rellenos con Jamon y Queso Gouda": "600"
+            },
+            "Pastas": {
+                "Espaguetis Napolitano": "650"
+            },
+            "Pizzas": {
+                "Pizza Napolitana": "300"
+            },
+            "Fittings": {
+                "Vianda Frita": "250",
+                "Arroz Blanco": "100",
+                "Arroz Moro": "150",
+                "Vianda Hervida": "150",
+                "Ensalada de Estacion": "150"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo": "1350",
+                "Fajitas de Cerdo": "1350",
+                "Bistec de Cerdo Napado con Queso": "1700",
+                "Bistec de Cerdo a la Princesa": "1950",
+                "Fricase de Cerdo": "1500",
+                "Masas de Cerdo Fritas": "1450",
+                "Lomo de Cerdo Ahumado": "1450",
+                "Ropa Vieja": "1100",
+                "Fricase de Cordero": "1650",
+                "bistec de Pollo al Queso": "1690",
+                "Pollo San Carlos con Jamon Gratinado con Queso": "1850",
+                "Pollo al Gusto": "1000",
+                "Higado de Res a la Italiana": "900",
+                "Filete de Pescado": "1700",
+                "Ruedas de Pescado": "1650",
+                "Filete de Pescado Gratinado al Queso": "1950",
+                "Filete de Pescado JohnBill": "2400",
+                "Eperlan de Pescado": "1800",
+                "Pescado Entero": "1500",
+                "Langosta Grille": "1800",
+                "Langosta Enchilada": "1900",
+                "Camaron Grille": "1800",
+                "Camaron Enchilado": "1900",
+                "Todo Mar": "2600",
+                "Mar y Tierra": "2300"
+            },
+            "Desserts": {
+                "Flan": "250",
+                "Copa Lolita": "425",
+                "Jimaguas de Helado": "200",
+                "3 Gracias": "270",
+                "Ensalada de Helado": "400"
+            },
+            "Drinks": null,
+            "Coffee": {
+                "Cortado": "250",
+                "Espresso": "100"
+            },
+            "Cocktails": {
+                "Cuba Libre": "380",
+                "Cubata": "400",
+                "Mojito": "400",
+                "Ron Collins": "400",
+                "Mary Pickford": "400",
+                "Habana Especial": "400",
+                "Daiquiri": "350",
+                "Daiquiri Rebelde": "380",
+                "Piña Colada": "500",
+                "Caipiriña": "350",
+                "Caipiroska": "350",
+                "Caipirissima": "350",
+                "Servicio de Michelada": "500",
+                "Servicio de Chelada": "400",
+                "Sangria": "500",
+                "Tinto Verano": "500",
+                "Limonada Clarete": "500"
+            }
+        }
+    }
+}
+}
