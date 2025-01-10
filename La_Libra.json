@@ -1,0 +1,62 @@
+{ 
+"Restaurants":{
+    "La_Libra":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "Calle 105 entre 20 y 26",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/17q7itP",
+            "total": null,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 11:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Fajitas de Pollo": "1700",
+                "Fajitas de Cerdo": "1600",
+                "Alitas de Pollo": "1300",
+                "Croquetas": "550",
+                "Toston Natural": "300",
+                "Toston al Ajillo": "350",
+                "Toston Relleno": "1100",
+                "Toston Campesino": "1100",
+                "Papas Fritas": "900",
+                "Fritura de Malanga": "500",
+                "Entremes": "1500",
+                "Eperlan": "2500"
+            },
+            "Main Dishes": {
+                "Langosta Grille": "2000",
+                "Masa Fritas": "2400",
+                "Bistec de Cerdo": "2000",
+                "Fricase de Cerdo": "2300",
+                "Costilla Frita": "2300",
+                "Costilla en Salsa": "2500",
+                "Langosta Enchilada": "2500",
+                "Camaron Grille": "1700",
+                "Camaron Enchilado": "2300",
+                "Camaron al Ajillo": "1500",
+                "Bistec de Res Grille": "3000",
+                "Filete de Cerdo": "3400",
+                "Bistec Uruguayo": "2900"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

@@ -1,0 +1,198 @@
+{ 
+"Restaurants":{
+    "Ole_Ole":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "71 Esquina 46 y 48, Loteria",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/MXdggcq",
+            "total": 4.4,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 9:00am y Cierre 12:00am",
+        "Days of the week": "Lunes,Martes,Miercoles,Jueves,Sabado y Domingo",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Tacos de Res": "750",
+                "Tacos de Cerdo": "750",
+                "Frituras de Malanga": "450",
+                "Chicharritas": "320",
+                "Picadera": "1500",
+                "Brocheta Ole": "1200",
+                "Croquetas Ole Ole": "500",
+                "Tostones Tradicionales": "450",
+                "Ensalada Mixta": "350",
+                "Tostones de Atun": "1000",
+                "Eperlan": "1000",
+                "Coctel de Camarones": "1350",
+                "Baston de Pollo": "900",
+                "Entremes": "1000",
+                "Picadera Premium": "1800"
+            },
+            "Main Dishes": {
+                "Pizza Napolitana Gouda": "1100",
+                "Pizza de Jamon-Gouda": "1280",
+                "Pizza de Chorizo Gouda": "1260",
+                "Pizza Doble Queso Gouda": "1420",
+                "Pizza Camarones Gouda": "1800",
+                "Pizza Hawaiana Gouda": "1400",
+                "Pizza Habanera Gouda": "1790",
+                "Pizza al Tonno Gouda": "1400",
+                "Pizza Jamon Piña Gouda": "1500",
+                "Pizza Napolitana": "700",
+                "Pizza Jamon": "900",
+                "Pizza de Chorizo": "900",
+                "Pizza Doble de Queso": "850",
+                "Pizza de Camarones": "1600",
+                "Pizza Hawaiana": "1000",
+                "Pizza Habanera": "1400",
+                "Pizza al Tonno": "1280",
+                "Pizza Jamon Piña": "1300",
+                "Espaguetis Napolitanos Queso Gouda": "720",
+                "Espaguetis Jamon Queso Gouda": "900",
+                "Espaguetis Al Pomodoro Queso Gouda": "750",
+                "Espaguetis a la Amatriciana Queso Gouda": "1250",
+                "Espaguetis Doble Queso Gouda": "1000",
+                "Espaguetis de Camaron Queso Gouda": "1430",
+                "Espaguetis a la Arabiata Queso Gouda": "770",
+                "Espaguetis Napolitanos": "600",
+                "Espaguetis Jamon": "800",
+                "Espaguetis al Pomodoro": "650",
+                "Espaguetis a la Amatriciana": "1100",
+                "Espaguetis Doble Queso": "800",
+                "Espaguetis de Camaron": "1380",
+                "Espaguetis a la Arabiata": "670",
+                "Filete de Pescado Grille": "1300",
+                "Filete de Pescado Encebollado": "1500",
+                "Pescado Frito al Plato": "1200",
+                "Filete de Pescado a la Vizcaina": "1700",
+                "Rueda de Pescado Marlin": "1650",
+                "Lomo de Pescado a la Grille": "1600",
+                "Lomo de Pescado Encebollado": "1700",
+                "Lomo de Pescado a la Vizcaina": "1750",
+                "Langosta a la Grille": "2000",
+                "Langosta Enchilada": "2200",
+                "Langosta al Ajillo": "2470",
+                "Mariscada": "4500",
+                "Camaron Enchilado": "2200",
+                "Camaron al Ajillo": "2200",
+                "Camaron a la Grille": "1800",
+                "Bistec de Cerdo Grille": "1600",
+                "Bistec de Cerdo Encebollado": "1600",
+                "Masa de Cerdo Frita": "2300",
+                "Espalope de Cerdo a la Milanesa": "2300",
+                "Solomillo de Cerdo": "2900",
+                "Costilla de Cerdo Ahumada": "3000",
+                "Chuleta de Cerdo Grille": "2200",
+                "Lomo Cerdo Grille": "2100",
+                "Pollo Frito": "1000",
+                "Bistec de Pollo Grille": "900",
+                "Bistec de Pollo Encebollado": "950",
+                "Suprema de Pollo Milanesa": "2200",
+                "Pechuga Grille": "1200"
+            },
+            "Fittings": {
+                "Arroz Blanco": "120",
+                "Arroz Moro": "220"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Bucanero Max": "300",
+                "Cerveza Bucanero Roja": "300",
+                "Cerveza Cristal Extra": "280",
+                "Cerveza Caiman": "210",
+                "Cerveza Sureña": "210",
+                "Cerveza Tangua": "210",
+                "Cerveza Gierwalk": "210",
+                "Cerveza Hollandia": "210",
+                "Cerveza Cristal Bot": "300",
+                "Cerveza Cristal Verde": "300",
+                "Energizante Chacal": "280",
+                "Energizante Tigon": "210",
+                "Refrescos": "220",
+                "Malta Licre": "300",
+                "Malta Hiper": "280",
+                "Agua Chiquita": "280",
+                "Jugo Cajita": "180",
+                "Limonada Frappe": "400"
+            },
+            "Cocktails": {
+                "Caipiriña": "450",
+                "Caipiroska": "700",
+                "Caipirissima": "500",
+                "Cubata": "500",
+                "Cuba Libre": "700",
+                "Tequila Sunrise": "450",
+                "Sex on the Beach": "500",
+                "Cubanito": "500",
+                "Bloody Mary": "450",
+                "Ron Collins": "500",
+                "Margarita": "550",
+                "Screwdriver": "750",
+                "Sangria": "1000",
+                "Long Island": "1000",
+                "Blue Island": "550",
+                "Tom Collins": "500",
+                "Piña Colada": "650",
+                "Daiquiri": "450"
+            },
+            "Tequila": {
+                "Olmeca Blanco": "655",
+                "Olmeca Reposado": "700",
+                "Olmeca Dark Chocolate": "460",
+                "Tequila Rosa": "415"
+            },
+            "Geneva": {
+                "Beefeater": "340"
+            },
+            "Whisky": {
+                "The Famous Grose": "545",
+                "Johnnie Walker Red Label": "725",
+                "Jameson": "580",
+                "Johnnie Walker Black Label": "1365",
+                "VAT 69": "435",
+                "Clan Campbell": "590",
+                "Ballantines": "460",
+                "Grants": "600"
+            },
+            "Cream and Liqueurs": {
+                "Crema Baileys": "570",
+                "Crema Pattys": "315"
+            },
+            "Wine": {
+                "Vino Tinto": "560",
+                "Copa de Vino": "600"
+            },
+            "Vodka": {
+                "Absolut": "400",
+                "AMG": "270",
+                "Veldevere": "270"
+            },
+            "Rums": {
+                "Santiago Extra Seco": "350",
+                "Havana Club Cuban Smoky": "550",
+                "Ron Santiago 11 Años": "800",
+                "Havana Club 7 Años Añejo": "410",
+                "Santiago Añejo Tradicion": "360"
+            },
+            "Brandy": {
+                "Napoleon": "200",
+                "Lecuivier": "220"
+            }
+        }
+    }
+}
+}

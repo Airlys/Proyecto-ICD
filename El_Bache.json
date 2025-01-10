@@ -1,0 +1,57 @@
+{ 
+"Restaurants":{
+    "El_Bache":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "Calle 30 entre 95 y 97, Las Brisas",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/NctMRRu",
+            "total": null,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 10:30am y Cierre 10:30pm",
+        "Days of the week": "Lunes,Martes,Miercoles,Jueves y Viernes",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+               "Pizza Napolitana": "700",
+               "Pizza de Cebolla": "900",
+               "Pizza de Chorizo": "900",
+               "Pizza de Jamon": "1000",
+               "Pizza de Aceituna": "1000",
+               "Pizza Doble Queso": "1000",
+               "Pizza Hawaiana": "1300",
+               "Pizza de Queso Gouda": "1000",
+               "Pizza de Atun": "1450",
+               "Pizza 4 Estaciones": "1700",
+               "Espaguetis": "700",
+               "Espaguetis de Queso Gouda": "1000",
+               "Lasagna de Queso Blanco": "900",
+               "Lasagna de Queso Gouda": "1300" 
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Malta": "280",
+                "Cerveza": "250",
+                "Cerveza Cristal": "300",
+                "Refresco": "250",
+                "Jugos": "200",
+                "Energizante": "250"
+            }
+        }
+    }
+}
+}

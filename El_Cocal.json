@@ -1,0 +1,61 @@
+{ 
+"Restaurants":{
+    "El_Cocal":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "Calle 65 % 38A y 42",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/fqekNcM",
+            "total": 4.4,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas": "600",
+                "Bolitas de Queso": "650",
+                "Ensalada de Atun": "1000",
+                "Tostones de Queso": "600",
+                "Tostones de Jamon y Queso": "600",
+                "Tostones de Atun": "1000",
+                "Crema de Queso": "550",
+                "Crema Aurora": "600",
+                "Crema Virginia": "650",
+                "Crema Mixta": "700",
+                "Coctel de Camaron": "1500",
+                "Eperlan": "550"
+            },
+            "Main Dishes": {
+                "Pizza de Queso": "1200",
+                "Pizza de Jamon": "1400",
+                "Pizza Hawaiana": "1500",
+                "Eperlan de de Pechuga": "1600",
+                "Eperlan de Pescado": "2000"
+            },
+            "Fittings": {
+                "Yuca": "400",
+                "Toston": "400"
+            },
+            "Desserts": {
+                "Flan": "500",
+                "Empellas": "550"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

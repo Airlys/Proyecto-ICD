@@ -1,0 +1,88 @@
+{ 
+"Restaurants":{
+    "Mc.Cesar":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "Calle Primera entre 220 y 221",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/McCesar%2527s/data%3D!4m2!3m1!1s0x0:0x1dc8dd2068afac4d%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiD8pnZu-uKAxUeTDABHfvKFwoQ_BJ6BAg6EAk&usg=AOvVaw2PZLGxyBbGOeE25IwFbPar",
+            "total": 4.1,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 9:30am y Cierre 11:00pm",
+        "Days of the week": "Martes,Miercoles,Jueves,Viernes,Sabado y Domingo",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Dados de Jamon y Queso": "1000",
+                "Eperlan": "1300",
+                "Ensalada Fria": "300",
+                "Tostones Rellenos": "600",
+                "Tostones Criollos": "350",
+                "Croquetas de la Casa": "500",
+                "Picadera Mc.Cesar": "2500"
+            },
+            "Main Dishes": {
+                "Hamburguesa de Cerdo": "500",
+                "Pan de Atun": "600",
+                "Pan de Jamon y Queso": "500",
+                "Pan de Pechuga": "500",
+                "Pan con Bistec": "500",
+                "Pizza": "500",
+                "Espaguetis": "500",
+                "Garbanzos Fritos": "1000",
+                "Higado de Cerdo a la Italiana": "1000",
+                "Salteado de Vegetales": "1500",
+                "Uruguayo": "1500",
+                "Brocha Cerdo-Pollo": "1700",
+                "Bistec Grille": "1300",
+                "Faja De Cerdo": "1400",
+                "Escalope": "1400",
+                "Solomillo": "2000",
+                "Lomo Ahumado Deshuesado": "1300",
+                "Pechuga Grille": "1300",
+                "Salteado de Pollo": "1400",
+                "Pollo Deshuesado": "900",
+                "Cordon Bleu": "1500",
+                "Suprema Princesa": "1500",
+                "Ropa Vieja": "1800",
+                "Vaca Frita": "1800",
+                "Bistec de Res": "2000",
+                "Pescado Grille": "1500",
+                "Pescado Mc.Cesar": "2500",
+                "Canciller": "1800",
+                "Pescado Empanado": "1600",
+                "Pescado con Salsa de Limon": "1700",
+                "Camaron Grille": "1900",
+                "Camaron al Ajillo": "1900",
+                "Camaron Enchilado": "2000"
+            },
+            "Fittings": {
+                "Arroz a la Campesina": "1500",
+                "Arroz Moro": "300",
+                "Arroz Blanco": "200",
+                "Arroz Frito": "500"
+            },
+            "Desserts": {
+                "Torrejas": "500",
+                "Ensalada Helado": "500",
+                "Bola de Helado": "100",
+                "Batido de Helado": "500"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

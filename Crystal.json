@@ -1,0 +1,159 @@
+{ 
+"Restaurants":{
+    "Crystal":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "Avenida 101 entre 18 y 20 Centro",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/wReHovn",
+            "total": 4.2,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 11:00am y 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Eperlan de Pescado o Baston de Pollo": "1600",
+                "Croquetas de la Casa": "500",
+                "Croquetas Especiales de Jamon Importado": "1000",
+                "Frituras de Malanga": "700",
+                "Entremes Surtido": "2000",
+                "Tacos a Eleccion": "2000",
+                "Tostones Rellenos": "1200",
+                "Coctel de Camarones": "1800",
+                "Coctel de Langosta": "1800",
+                "Pica Pica Cafe Crystal": "4400",
+                "Camarones Empanados": "2000",
+                "Anillas de Calamar Empanadas": "2000",
+                "Picadera Estrella Mar y Tierra": "8000"
+            },
+            "Pasta": {
+                "Pasta Napolitana": "1000"
+            },
+            "Pizza": {
+                "Pizza de Queso Gouda": "1500",
+                "Pizza Cafe Crystal": "4000"
+            },
+            "Sugerencia de la Casa": {
+                "Lazaña de Embutido": "600"
+            },
+            "Additions": {
+                "Jamon": "200",
+                "Queso Gouda": "650",
+                "Bacon": "500",
+                "Cebolla": "100",
+                "Champiñones": "250",
+                "Carbonara": "1000",
+                "Atun": "500",
+                "Camarones": "1500",
+                "Frutti di Mare": "1500",
+                "Chorizo": "650",
+                "Pepperoni": "500",
+                "Piña": "200",
+                "Parmesano": "250",
+                "Pure de Tomate": "150",
+                "Alfredo": "900",
+                "Pesto": "200",
+                "Aceituna": "500"
+            },
+            "Fittings": {
+                "Ensalada de Estacion": "700",
+                "Ensalada de Atun": "1250",
+                "Ensalada Cafe Crystal": "1500",
+                "Termo Ensalada Fria": "2000",
+                "Arroz Moro": "500",
+                "Arroz Pilaf": "650",
+                "Arroz Frito Especial": "3000",
+                "Arroz Imperial": "3000",
+                "Viandas Fritas": "600",
+                "Tostones Tradicionales": "700",
+                "Papas Fritas": "700",
+                "Pure de Papas": "700"
+            },
+            "Main Dishes": {
+                "Fajitas con Reducido de Vino Tinto y Champiñones": "2500",
+                "Ropa Vieja de Res": "2200",
+                "Vaca Frita": "2200",
+                "Bistec Encebollado": "2200",
+                "Uruguayo de Res": "3000",
+                "Bistec de Cerdo Grille": "1800",
+                "Masa de Cerdo Frita 1 Libra": "3300",
+                "Uruguayo de Cerdo": "2800",
+                "Costilla de Cerdo": "3000",
+                "Lomo Ahumado": "2500",
+                "Pollo Cordon Bleu": "2800",
+                "Pechuga de Pollo Milanesa": "1800",
+                "Chop Suey": "2500",
+                "Filete de Pescado": "2000",
+                "Pescado Canciller": "3000",
+                "Camaron Grille": "2800",
+                "Camaron al Ajillo": "2800",
+                "Camaron Enchilado": "3000",
+                "Cola de Langosta": "2800",
+                "Langosta Enchilada": "3000",
+                "Enchilado de Calamar": "3000",
+                "Enchilado de Anillas de Calamar": "3000"
+            },
+            "Desserts": {
+                "Flan": "600",
+                "Copa de Helado": "900",
+                "Copa Lolita": "900",
+                "Cheese Cake": "980"
+            },
+            "Drinks": {
+                "Cerveza Importada": "400",
+                "Cerveza Cristal": "400",
+                "Cerveza Bucanero": "400",
+                "Refresco de Lata": "300",
+                "Jugo de Caja": "300",
+                "Refresco Linea Coca Cola": "400",
+                "Malta Importada": "400",
+                "Malteada": "700",
+                "Batido de Helado": "900",
+                "Agua Natural 500ml": "300",
+                "Energizante": "500"
+            },
+            "Coffee": {
+                "Espresso": "250",
+                "Cortado": "300",
+                "Cappuchino": "550",
+                "Frappuchino": "750"
+            },
+            "Cocktails": {
+                "Mojito": "700",
+                "Ron Collins": "700",
+                "Cuba Libre": "700",
+                "Caipiriña": "700",
+                "Caipiroska": "700",
+                "Caipirissima": "700",
+                "Base de Michelada": "300",
+                "Base de Chelada": "250",
+                "Tequila Sunrise": "1000",
+                "Martini": "1000",
+                "Piña Colada": "1000",
+                "Sangria": "1000",
+                "Cafe Crystal": "1000",
+                "Margarita": "1000",
+                "Gin Tonic": "1000"
+            },
+            "Wines": {
+                "Copa de Vino": "700",
+                "Botella de Vino": "3500"
+            }
+        }
+    }
+}
+}

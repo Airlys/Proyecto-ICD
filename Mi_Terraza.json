@@ -1,0 +1,80 @@
+{ 
+"Restaurants":{
+    "Mi_Terraza":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "Calle 71 % 24 y 26, Las Brisas",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Crema de Queso": "850",
+                "Crema Virginia": "1100",
+                "Pica Pica Mi Terraza": "1700",
+                "Tostones de Jamon y Queso": "1000",
+                "Tostones de Atun": "1200",
+                "Fajitas de Pollo": "1000",
+                "Ensalada de Pollo": "400",
+                "Frituras de Malanga": "400",
+                "Bolitas de Queso": "400",
+                "Croquetas": "400",
+                "Chicharritas": "300",
+                "Papas Prefritas": "600"
+            },
+            "Main Dishes": {
+                "Sandwich de Queso": "700",
+                "Sandwich de Jamon": "650",
+                "Sandwich de Jamon y Queso": "900",
+                "Sandwich de Atun": "1100",
+                "Sandwich Mi Terraza": "1100",
+                "Espaguetis Napolitanos": "1000",
+                "Espaguetis de Jamon": "1250",
+                "Espaguetis de Atun": "1400",
+                "Espaguetis a la Carbonara": "1600",
+                "Espaguetis Doble Queso": "1500",
+                "Canelos": "1500",
+                "Pizza Napolitana": "1200",
+                "Pizza Hawaiana": "1700",
+                "Pizza Mi Terraza": "1800"
+            },
+            "Additions": {
+                "Doble Queso": "500",
+                "Jamon": "300",
+                "Cebolla": "250",
+                "Piña": "200",
+                "Atun": "400",
+                "Aceitunas": "400",
+                "Chorizo": "200",
+                "Bacon": "700"
+            },
+            "Drinks": {
+                "Limonada Frappe": "350",
+                "Malteada": "500",
+                "Batidos": "400",
+                "Batidos de Helado": "600"
+            },
+            "Cocktails": {
+                "Servicio de Chelada": "550"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,195 @@
+{ 
+"Restaurants":{
+    "Don_Omar":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "Calle 22A % 65 y 63, Reparto America",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/H4K1S8e",
+            "total": 3.7,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 10:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Picadera Don Omar": "1800",
+                "Ensalada de Jamon": "350",
+                "Ensalada de Pollo": "400",
+                "Eperlan": "900",
+                "Entremes Surtido": "650",
+                "Entremes J y Q": "500",
+                "Faja de Pollo": "700",
+                "Faja de Cerdo": "850",
+                "Tostones de Jamon": "350",
+                "Tostones de Atun": "350",
+                "Tostones de Queso": "350",
+                "Tostones de Jamon y Queso": "400",
+                "Coctel de Langosta": "800",
+                "Coctel de Camarones": "850",
+                "Ensalada de Atun": "350",
+                "Ensalada de Camaron": "800"
+            },
+            "Pasta": {
+                "Espaguetis Napolitanos": "1000",
+                "Espaguetis de Jamon": "460",
+                "Espaguetis Mixto": "750",
+                "Espaguetis con Camarones": "800",
+                "Espaguetis con Atun": "500",
+                "Espaguetis con Chorizo": "450"
+            },
+            "Pizza": {
+                "Pizza Mixta": "950",
+                "Pizza Hawaiana": "650",
+                "Pizza Atun": "600",
+                "Pizza Camarones": "900",
+                "Pizza Aji": "550",
+                "Pizza de Cebolla": "550",
+                "Pizza de Chorizo": "600",
+                "Pizza de Jamon": "600"
+            },
+            "Additions": {
+                "Jamon": "200",
+                "Cebolla": "150",
+                "Camarones": "650",
+                "Atun": "300",
+                "Piña": "150",
+                "Mayonesa": "150",
+                "Chorizo": "200"
+            },
+            "Main Dishes": {
+                "Camaron Hemingway": "1800",
+                "Camaron al Vino Tinto": "1600",
+                "Langosta al Ron": "1600",
+                "Langosta Mariposa": "1600",
+                "Filete Gratinado con Camarones": "1650",
+                "Filete Gratinado con Jamon y Queso": "1350",
+                "Filete Gratinado con Queso": "1250",
+                "Filete Empanado": "1100",
+                "Bistec Uruguayo de Res": "1100",
+                "Fajita de Res": "900",
+                "Vaca Frita": "900",
+                "Ropa Vieja": "950",
+                "Pollo Parisien": "1600",
+                "Pollo al Angel": "950",
+                "Pollo Cordon Bleu": "1100",
+                "Pollo Reina": "950",
+                "Pollo Gratinado de Jamon y Queso": "1100",
+                "Pollo Empanado": "900",
+                "Pollo Frito": "900",
+                "Pollo Grille": "800",
+                "Pechuga de Pollo": "1100",
+                "Lomo Hawaiano": "1500",
+                "Bistec Uruguayo": "1300",
+                "Bistec Tuna": "1150",
+                "Bistec Reina": "1150",
+                "Escalope de Cerdo": "1150",
+                "Masa de Cerdo Frita": "1050",
+                "Bistec de Cerdo": "1100",
+                "Fricase de Cerdo": "1100",
+                "Estofado de Cerdo": "1100",
+                "Filete de Pescado Grille": "1050",
+                "Pescado Canciller": "1400",
+                "Camaron Grille": "1600",
+                "Camaron al Ajillo": "1600",
+                "Camaron Enchilado": "1600"
+            },
+            "Fittings": {
+                "Arroz Blanco": "150",
+                "Arroz Moro": "250",
+                "Arroz Pilaf": "300",
+                "Tostones": "250",
+                "Platano Maduro Frito": "250",
+                "Chicharritas de Platano": "250",
+                "Chicharritas de Boniato": "250",
+                "Yuca con Mojo": "250",
+                "Ensalada de Estacion": "200",
+                "Papas Fritas": "500",
+                "Sopa de Mariscos": "850",
+                "Sopa de Pollo": "450"
+            },
+            "Desserts": { 
+                "Flan": "300",
+                "Bolas de Helado": "320",
+                "Batido de Helado": "350",
+                "Copa Lolita": "450",
+                "Jugo de Mango": "350",
+                "Batido de Mango": "400",
+                "Batido de Mamey": "400",
+                "Postres de la Casa": "500",
+                "Porcion de Pastel": "400"
+            },
+            "Rums": {
+                "Havana Club Añejo 7 Años": "250",
+                "Havana Club Ritual": "250",
+                "Havana Club Reserva": "250",
+                "Ron Santiago": "200",
+                "Mulata 15 Años": "300",
+                "Old Parr": "350",
+                "Crow Royal": "350",
+                "Flor de Caña": "400",
+                "Brugal": "400",
+                "Santero 7 Años": "250",
+                "Havana Club Pacto Navio": "550",
+                "Havana Club Seleccion de Maestros": "550"
+            },
+            "Whisky": {
+                "Jameson": "450",
+                "Clan Campbell": "350",
+                "Ballantines": "400",
+                "Chiva Regal 15": "550",
+                "Granst": "300",
+                "WS": "200",
+                "River Queen": "200",
+                "Jack Daniels": "550",
+                "Johnnie Walker Red Label": "450",
+                "Johnnie Walker Black Label": "500",
+                "The Glen Livet": "500",
+                "Chancelier": "200"
+            },
+            "Tequila": {
+                "Olmeca Reposado": "450",
+                "Olmeca Blanco": "400",
+                "Tequila Chocolate": "400",
+                "Jose Cuervo": "500",
+                "Grey Goose": "500"
+            },
+            "Drinks": {
+                "Cerveza Importada": "400",
+                "Cerveza Cristal": "400",
+                "Cerveza Bucanero": "400",
+                "Lata de Refresco": "300",
+                "Caja de Jugo": "300",
+                "Malta Importada": "400",
+                "Malteada": "700",
+                "Batido de Helado": "900",
+                "Pomo de Agua": "300",
+                "Energizante": "500"
+            },
+            "Coffee": {
+                "Espresso": "250",
+                "Cortado": "300",
+                "Cappuchino": "550",
+                "Frappuchino": "750"
+            },
+            "Cocktails": {
+                "Mojito": "700",
+                "Cuba Libre": "500"
+            }
+        }
+    }
+}
+}
