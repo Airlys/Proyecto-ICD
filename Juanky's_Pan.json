@@ -1,0 +1,141 @@
+{ 
+"Restaurants":{
+    "Juanky's_Pan":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": "Ave 23a, ent 202 y 212, #20216, La Coronela, La Lisa, La Habana 10100 Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d5262429-Reviews-Juanky_s_PAN-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwjjpYmas-uKAxWKVTABHRhxJCMQFnoECCAQAQ&usg=AOvVaw230YQT9_WTHlu7rGH_bXwE ",
+            "total": 4.0,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Snack Food",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": null
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Entrantes": {
+                "Croquetas de Jamon": "570",
+                "Entremes de Jamon y Queso": "765",
+                "Huevos Rotos": "905",
+                "Mixto de Maria": "2200",
+                "Puñetazos de Cerdo con Queso": "895",
+                "Puñetazos de Cerdo con Queso y Bacon": "1030",
+                "Puñetazos de Cerdo con Bacon": "955"
+            },
+            "Main Dishes": {
+                "Tacos de Ropa Vieja de Carnero": "2055",
+                "Tacos de Ropa Vieja de Cerdo": "1400",
+                "Hamburguesa a Caballo de Cerdo": "733",
+                "Big Cheese Burger de Cerdo": "890",
+                "Big Tasty Cerdo": "870",
+                "Hamburguesa de Cerdo con Atun": "1000",
+                "Hamburguesa de Cerdo con Bacon": "995",
+                "Hamburguesa de Cerdo con Jamon y Queso": "1000",
+                "Doble Hamburguesa de Cerdo": "1050",
+                "Hamburguesa de Cerdo de Doble Queso": "895",
+                "Hamburguesa Don Juan Cerdo": "1130",
+                "Hamburguesa Don Pascual Cerdo": "1375",
+                "Especial de Cerdo": "800",
+                "Hamburguesa Guajira de Cerdo": "2715",
+                "Juanky's Combo de Cerdo con Queso + Jugo": "1094",
+                "Mix sin Pan de Cerdo": "830",
+                "Piña Caramelo de Cerdo": "1055",
+                "Premium de Champiñon Cerdo": "730",
+                "Hamburguesa Sencilla de Cerdo": "838",
+                "Hamburguesa Taquena de Cerdo": "230",
+                "Juankymon": "594",
+                "Media Noche": "454",
+                "Media Noche sin Queso": "760",
+                "Sandwich de Atun": "780",
+                "Sandwich de Queso": "560",
+                "Sandwich Hawaiano": "1360"
+            },
+            "Pasta": {
+                "Espaguetis de Bacon con Queso": "470",
+                "Espaguetis Base": "1195",
+                "Espaguetis con Carne de Cerdo": "1390",
+                "Espaguetis de Chorizo con Queso": "695",
+                "Espaguetis de Jamon con Queso": "985"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Stella": "510",
+                "Jugo de Fruta Bomba": "185",
+                "Jugo de Guayaba": "185",
+                "Limonada": "415",
+                "Jugo de Melon": "185",
+                "Jugo de Platano": "185",
+                "Batido de Helado": "850",
+                "Batido de Fruta Bomba": "300",
+                "Batido de Guayaba": "300",
+                "Helado Montado": "580",
+                "Suero de Helado": "950",
+                "Belga Star": "300",
+                "Refresco de Cola": "300",
+                "Refresco de Limon": "300",
+                "Refresco de Naranja": "300"
+            },
+            "Cocktails": {
+                "Caipirissima": "600",
+                "Caipiroska": "520",
+                "Caipiroska Absolut": "680",
+                "Caipiroska con Ciroc": "950",
+                "Cuba Libre": "530",
+                "Cubanito": "420",
+                "Cubata con 7 Años": "600",
+                "Cubata con Especial": "695",
+                "Cubata con Reserva": "580",
+                "Gin Tonic": "795",
+                "Gin Tonic Beefeater": "940",
+                "Gin Tonic con Tanqueray": "990",
+                "Sangria": "600",
+                "Screwdriver": "500",
+                "Screwdriver con Absolut": "780",
+                "Vodka Tonic": "850",
+                "Vodka Tonic Absolut": "1200"
+            },
+            "Wines": {
+                "Copa de Vino Tinto": "460",
+                "Copa de Vino Tinto Yzaguirre Vermouth": "450"
+            },
+            "Liqueurs": {
+                "Jagger": "350"
+            },
+            "Rums": {
+                "Havana Club Añejo 7 Años": "250",
+                "Havana Club Añejo Especial": "175",
+                "Havana Club Añejo Reserva": "195",
+                "Havana Club Seleccion de Maestros": "830"
+            },
+            "Tequila": {
+                "Don Julio Reposado": "1400",
+                "Silver Los Corrales": "380"
+            },
+            "Whisky": {
+                "Ballantines": "450",
+                "Chivas Regal": "790",
+                "J&B": "350",
+                "Jack Daniel's Black Label": "495",
+                "Jack Daniel's Honey": "380",
+                "Jameson": "575",
+                "Johnnie Walker Black Label": "940",
+                "Johnnie Walker Red Label": "470",
+                "Old Pasrtner": "200",
+                "Spirit Speech": "200"
+            }
+        }
+    }
+}
+}

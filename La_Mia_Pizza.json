@@ -1,0 +1,85 @@
+{ 
+"Restaurants":{
+    "La_Mia_Pizza":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": "Ave 29, e/202 y 204. La Lisa. Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d20024153-Reviews-La_Mia_Pizza-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwjv1se3t-uKAxU9RzABHXbNIgAQFnoECBkQAQ&usg=AOvVaw3z5wSmEQn_m2w6bZ0tcHuP",
+            "total": 1.5,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": null
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Entremes de Jamon y Queso": "1440",
+                "Entremes de Jamon": "500",
+                "Entremes de Ahumados": "440",
+                "Entremes de Aceitunas": "300",
+                "Dados de Queso": "300",
+                "Croquetas de Embutidos": "220",
+                "Crema de Queso": "250",
+                "Crema Aurora": "300",
+                "Crema Virginia": "430"
+            },
+            "Main Dishes": {
+                "Lasagna de Jamon": "500",
+                "Lasagna de Jamon y Queso": "610",
+                "Espaguetis Napolitanos": "700",
+                "Espaguetis a la Carbonara": "860",
+                "Pizza Napolitana": "700",
+                "Pizza La Mia": "2500",
+                "Pizza La Mia de Queso": "1900",
+                "Pizza Tres Quesos": "1700",
+                "Pizza La Mia Familiar": "4800",
+                "Pizza La Mia Familiar de Queso": "4000",
+                "Pizza Familiar Napolitana": "2500"
+            },
+            "Desserts": null,
+            "Rums": {
+                "Havana Club 3 Años": "175",
+                "Havana Club 7 Años": "225"
+            },
+            "Cocktails": {
+                "Piña Colada": "250",
+                "Servicio de Michelada": "420"
+            },
+            "Drinks": {
+                "Cerveza": "270",
+                "Jugo de Frutas Naturales": "200",
+                "Batido de Frutas Naturales": "250",
+                "Suero de Helado": "350",
+                "Helado Montado": "350",
+                "Piña Colada": "250",
+                "Limonada Frappe": "1500",
+                "Refresco": "220",
+                "Refresco de Pomo": "280",
+                "Malta": "250",
+                "Agua": "160",
+                "Agua Saborizada": "170",
+                "Bebida Energizante": "250"
+            },
+            "Vodka": {
+                "Vodka": "340"
+            },
+            "Whisky": {
+                "Whisky": "340"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,90 @@
+{ 
+"Restaurants":{
+    "Ranchon_Don_Martin":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": "No 3733, Calle 198. Entre 37 Y 45. Versalles. La Lisa., La Habana Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d24090068-Reviews-Ranchon_Don_Martin-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwim3uzuseuKAxXUSjABHdxUMv0QFnoECBwQAQ&usg=AOvVaw0fSUfGq2uzFu-9Uzk_n8sD",
+            "total": null,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 11:30am y Cierre 9:00pm",
+        "Days of the week": "Lunes, Martes, Jueves, Viernes, Sabado y Domingo",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": null
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Ensalada Fria": "400",
+                "Coctel de Camarones": "950",
+                "Fritura de Malanga": "470",
+                "Toston con Mojo": "470",
+                "Chicharritas": "380",
+                "Papas Fritas": "370",
+                "Toston Relleno": "700"
+            },
+            "Main Dishes": {
+                "Masa Frita de Cerdo": "2030",
+                "Fricase de Cerdo": "2030",
+                "Bistec de Cerdo Grille": "1400",
+                "Bistec de Cerdo Uruguayo": "2050",
+                "Bistec de Cerdo Empanado": "1600",
+                "Bistec de Cerdo al Graten": "1600",
+                "Bistec de Cerdo a la Reina": "1700",
+                "Vaca Frita": "2820",
+                "Ropa Vieja": "2850",
+                "Pechuga": "1440",
+                "Pechuga Grille": "1530",
+                "Pechuga Empanada": "1520",
+                "Pechuga al Graten": "1580",
+                "Pechuga a la Reina": "1780",
+                "Cordon Bleu": "1600",
+                "Filete de Pescado Grille": "1800",
+                "Filete de Pescado Empanado": "1800",
+                "Filete de Pescado al Graten": "2000",
+                "Canciller": "2450",
+                "Filete Don Martin": "2000",
+                "Camaron Enchilado": "2000",
+                "Camaron al Ajillo": "2100",
+                "Camaron Rebosado": "3600",
+                "Langosta al Ajillo" : "3650",
+                "Langosta Enchilada": "1810",
+                "Chilindron de Cordero": "900",
+                "Hamburguesa": "1280",
+                "Hamburguesa de Jamon y Queso": null,
+                "Espaguetis": "840",
+                "Pizza": "860"
+            },
+            "Fittings": {
+                "Arroz Moro": "180",
+                "Arroz Blanco": "100"
+            },
+            "Desserts": {
+                "Flan": "350"
+            },
+            "Drinks": {
+                "Refresco de Lata": "220",
+                "Malta Caribia": "230",
+                "Refresco Manzanita": "290",
+                "Seven-Up": "240",
+                "Piñita": "225",
+                "Agua": "180",
+                "Energizante": "245",
+                "Jugo de Caja": "175",
+                "Batido de Helado": "450"
+            }
+        }
+    }
+}
+}

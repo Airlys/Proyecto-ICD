@@ -1,0 +1,106 @@
+{ 
+"Restaurants":{
+    "La_Novia":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": "Calle 51 entre 330 y 332 #33013",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Restaurante%2BNovia%2Bdel%2Bmediodia/data%3D!4m2!3m1!1s0x0:0xe62d34260709c7b6%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwizmbPHreuKAxVRTDABHY5mDAwQ_BJ6BAg5EAQ&usg=AOvVaw09-JbXnGzU4iTbK_CoSvey",
+            "total": 3.0,
+            "date": "20250109"
+        },
+        "schedules": null,
+        "Days of the week": null,
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": null
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de la Casa": "600",
+                "Frituras de Malanga": "400",
+                "Bolitas de Yuca y Queso": "350",
+                "Fajitas de Cerdo": "1000",
+                "Fajitas de Pollo": "1000",
+                "Picadera Mixta": "2200",
+                "Chips de Vianda": "200",
+                "Milanesa de Pollo": "1200",
+                "Sandwich de Jamon": "580",
+                "Sandwich de Jamon y Queso": "730",
+                "Sandwich Cubano con Cerdo Asado": "1300",
+                "Ensaladita de Aceitunas, Queso y Pepperoni": "1100",
+                "Tostones Criollos": "300",
+                "Tostones Rellenos": "850"
+            },
+            "Main Dishes": {
+                "Tacos de Cerdo": "1100",
+                "Tacos de Pollo": "1100",
+                "Tacos de Jamon y Queso": "1100",
+                "Tacos Marineros": "1100",
+                "Tacos de Ropa Vieja": "1300",
+                "Masas Fritas de Cerdo": "1700",
+                "Pollo Frito": "1300",
+                "Pollo Asado": "1300",
+                "Bistec de Cerdo": "1200",
+                "Bistec de Pechuga": "1600",
+                "Chuleta de Cerdo": "1600",
+                "Ropa Vieja": "1900",
+                "Brochetas de Cerdo": "1800",
+                "Completa de Enchilado de Cangrejo": "1500",
+                "Cerdo Asado": "1500"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "280",
+                "Pizza de Pepperoni": "400"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "700"
+            },
+            "Fittings": {
+                "Racion de Arroz Moro": "300",
+                "Racion de Ensalada": "300"
+            },
+            "Desserts": {
+                "Copa de Helado": "550",
+                "Flan": "270"
+            },
+            "Drinks": {
+                "Jarra de Cerveza Dispensada": "300",
+                "Cerveza Importada": "250",
+                "Cerveza Nacional": "290",
+                "Agua": "150",
+                "Limonada Frappe": "340",
+                "Limonada Natural": "340",
+                "Jugos Naturales": "160",
+                "Batido de Frutas": "350",
+                "Batido de Helado": "700",
+                "Malta Importada": "290",
+                "Refresco Importado": "260",
+                "Energizante": "260"
+            },
+            "Cocktails": {
+                "Servicio de Michelada": "230",
+                "Michelada Mexicana": "250",
+                "Sangria": "550",
+                "Cuba Libre": "250",
+                "Caipiroska": "300",
+                "Caipiriña": "300",
+                "Piña Colada": "550"
+            },
+            "Coffee": {
+                "Espresso": "100",
+                "Frappuchino": "450"
+            }
+        }
+    }
+}
+}
