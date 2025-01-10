@@ -1,0 +1,69 @@
+{ 
+"Restaurants":{
+    "Beirut":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle 1ra entre A y B, Vedado",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/iww5sbu",
+            "total": 4.4,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Libanesa, de Oriente Medio",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 60,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Shish Taouk": "2950",
+                "Kabab": "2900",
+                "Shish Taouk-Kabab": "2800",
+                "Shish Kabab": "2000",
+                "Tajin": "3500",
+                "Mixto Beirut": "3700"
+            },
+            "Fittings": {
+                "Fetuche": "1500",
+                "Ensalada Mixta": "2000",
+                "Betabel": "2000",
+                "Ensalada Beirut": "2100",
+                "Tabule": "3000"
+            },
+            "Sandwich": {
+                "Shawarma de Pollo": "1520",
+                "Shawarma Arabe": "1520",
+                "Sandwich Falafel": "1420",
+                "Sandwich Shish Taouk": "1720",
+                "Sandwich Kabab": "1720"
+            },
+            "Drinks": {
+                "Limonada": "410",
+                "Agua Nacional": "175",
+                "Refrescos Importados": "290",
+                "Maltas": "290",
+                "Cervezas": "390",
+                "Jugos Naturales": "410"
+            },
+            "Coffee": {
+                "Espresso": "125",
+                "Cappuchino": "300",
+                "Americano": "160",
+                "Cortado": "200",
+                "Te": "150"
+            }
+        }
+    }
+}
+}
