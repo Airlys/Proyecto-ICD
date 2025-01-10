@@ -1,0 +1,91 @@
+{ 
+"Restaurants":{
+    "Doña_Carmela":{
+        "Province": "La Habana",
+        "Municipality": "La Habana del Este",
+        "Location": "Calle #10, Comunidad 1, Complejo Morro Cabana, Via Monumental",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/MwEHBTA",
+            "total": 3.4,
+            "date": "20250109"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 25,
+        "menu and prices": {
+            "Starters": {
+                "Frituras de Malanga y Miel": "600",
+                "Croquetas de la Casa": "600",
+                "Caldo de Pescado": "600",
+                "Caldo de Pollo": "600",
+                "Caldo de Mariscos": "700",
+                "Coctel de Camarones": "1000",
+                "Coctel de Pescado": "900",
+                "Pulpitos para Picar": "1200"
+            },
+            "Main Dishes": {
+                "Pollo Asado": "1800",
+                "Pollo Frito": "1800",
+                "Bistec de Cerdo Encebollado": "2200",
+                "Costillas Fritas": "2400",
+                "Milanesa de Cerdo": "2500",
+                "Ropa Vieja de Cerdo": "2200",
+                "Filete de Pescado Grille": "2200",
+                "Filete de Pescado Gratinado": "2400",
+                "Camaron al Ajillo": "2500",
+                "Camaron a la Criolla": "2500",
+                "Pulpo al Ajillo": "2700",
+                "Pulpo a la Criolla": "2700",
+                "Combinacion Carmela": "4000",
+                "Cordero al Gusto": "3000",
+                "Langosta al Gusto": "6000",
+                "Mariscada": "6000"
+            },
+            "Fittings": {
+                "Arroz Blanco": "300",
+                "Arroz Moro": "300",
+                "Ensalada Mixta": "300",
+                "Frijoles Negros": "300",
+                "Yuca": "300"
+            },
+            "Drinks": {
+                "Cerveza": "500",
+                "Refrescos Nacionales": "350",
+                "Refrescos Importados": "350",
+                "Agua Natural 500ml": "250",
+                "Agua Natural de 1.5l": "600"
+            },
+            "Coffee": {
+                "Cortado": "250",
+                "Espresso": "200",
+                "Con Leche": "300"
+            },
+            "Cocktails": {
+                "Mojito": "700",
+                "Mojito de la Casa": "900",
+                "Cuba Libre": "700",
+                "Sangria": "800",
+                "Cubata": "700",
+                "Piña Colada": "900",
+                "Daiquiri Natural": "700",
+                "Daiquiri": "800"
+            },
+            "Desserts": {
+                "Postre del Dia": "1000"
+            }
+        }
+    }
+}
+}
