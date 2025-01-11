@@ -1,0 +1,67 @@
+{ 
+"Restaurants":{
+    "El_Sauce":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Calle 403 % 180 & 184, Santiago de las Vegas",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2Bsauce/data%3D!4m2!3m1!1s0x0:0x29c645fd91e7b3fd%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjHg4z_y-mKAxUERjABHcApGbAQ_BJ6BAg4EAQ&usg=AOvVaw0dKnagNd87PYv40zr5ZTfj",
+            "total": 5.0,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 10:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Pizza",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Hamburguesa Simple": "400",
+                "Hamburguesa con Jamon": "500",
+                "Hamburguesa con Queso": "550",
+                "Hamburguesa con Bacon": "550",
+                "Hamburguesa con Jamon y Queso": "600",
+                "Hamburguesa Sauce": "850",
+                "Bocadito de Jamon": "200",
+                "Bocadito de Queso": "250",
+                "Bocadito de Jamon y Queso": "300"
+            },
+            "Main Dishes": {
+                "Pizza Napolitana": "500",
+                "Pizza de Jamon": "700",
+                "Pizza de Chorizo": "700",
+                "Pizza de Cebolla": "600",
+                "Pizza de Pimiento": "600",
+                "Pizza Hawaiana": "750",
+                "Pizza Bacon": "750",
+                "Pizza de Atun": "800",
+                "Pizza de Aceitunas": "700",
+                "Pizza Sauce": "900",
+                "Lasagna de Jamon": "900",
+                "Canelon": "700"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Refresco": "220",
+                "Malta": "250",
+                "Cerveza": "280",
+                "Suero de Helado": "550"
+            },
+            "Coffee": {
+                "Espresso": "100",
+                "Cortado": "150"
+            }
+        }
+    }
+}
+}

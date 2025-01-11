@@ -1,0 +1,182 @@
+{ 
+"Restaurants":{
+    "Ranchon_El_Pinareño":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Calle 16(202) % Calle 9(405) & Calle 7(403), Santiago de las Vegas",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2BPinare%25C3%25B1o/data%3D!4m2!3m1!1s0x0:0x15212e7ab6381f64%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwi7jZS8zumKAxUiTTABHbS-J_4Q_BJ6BAg6EAk&usg=AOvVaw0H2Q7TF6Tu7U_K9C11FIfc",
+            "total": 4.7,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Coctel de Langosta": "1000",
+                "Tostones Rellenos con Carnero": "360",
+                "Maripositas de la Casa": "400",
+                "Fritura de Malanga": "350",
+                "Croquetas": "400",
+                "Bolita de Carne": "500",
+                "Coctel de Camarones": "600",
+                "Fajitas de Pollo": "700",
+                "Fajitas de Cerdo": "700",
+                "Eperlan": "600",
+                "Tamal": "600",
+                "Tostones Chatino": "200",
+                "Garbanzo Frito": "800"
+            },
+            "Main Dishes": {
+                "Ropa Vieja de Res": "500",
+                "Bistec de Res Grille": "900",
+                "Bistec de Res Encebollado": "960",
+                "Uruguayo de Res": "1300",
+                "Estofado de Res": "1100",
+                "Picadillo a la Habanera": "650",
+                "Fricase de Cerdo": "1200",
+                "Ropa Vieja de Cerdo": "500",
+                "Bistec de Cerdo": "800",
+                "Bistec de Cerdo Encebollado": "850",
+                "Escalope de Cerdo": "850",
+                "Fajitas de Cerdo Salteadas": "700",
+                "Masa Frita": "1200",
+                "Bistec Uruguayo de Cerdo": "1200",
+                "Lonjas de Cerdo": "1000",
+                "Costillas": "1200",
+                "Costillas al Ajillo": "1280",
+                "Costillas Encebolladas": "1300",
+                "Chuletas": "1200",
+                "Chuletas al Ajillo": "1280",
+                "Chuleta Encebollada": "1300",
+                "Lonjas de Cerdo a la Parrilla": "1000",
+                "Camarones a su Eleccion": "1200",
+                "Langosta Enchilada": "2000",
+                "Langosta a la Mariposa": "2000",
+                "Pescado Grille": "900",
+                "Pescado Empanizado": "950",
+                "Canciller": "1200",
+                "Bistec de Pollo": "800",
+                "Pollo a la Juliana": "830",
+                "Pollo Gratinado": "900",
+                "Cordon Bleu": "1000",
+                "Ropa Vieja de Carnero": "400",
+                "Chilindron de Carnero": "1200",
+                "Arroz Frito": "700"
+            },
+            "Fittings": {
+                "Arroz Blanco": "100",
+                "Arroz Moro": "160",
+                "Ensalada Mixta": "200",
+                "Chicharrita": "150",
+                "Yuca": "200",
+                "Papas Fritas": "500",
+                "Frijol Negro": "200"
+            },
+            "Desserts": {
+                "Flan": "250",
+                "Cake": "350"
+            },
+            "Coffee": {
+                "Americano": "150",
+                "Bombon": "350",
+                "Con Leche": "300",
+                "Carajillo": "350",
+                "Cortado": "250",
+                "Espresso": "150",
+                "Frappuchino": "350",
+                "Rocio Criollo": "350" 
+            },
+            "Drinks": {
+                "Malta Bucanero": "300",
+                "Limonada Frappe": "450",
+                "Limonada Frescura": "550",
+                "Limonada Natural": "450",
+                "Malteada": "600",
+                "Cerveza Cristal Lata": "300",
+                "Cerveza Cristal Botella": "300",
+                "Cerveza Corona Botella": "380",
+                "Cerveza Sol": "350",
+                "Cerveza Bucanero Botella": "300",
+                "Tigon": "300",
+                "Pepsi": "250",
+                "7UP": "250",
+                "Agua Natural": "180",
+                "RedBull": "500",
+                "Jugo de Lata": "250",
+                "Jugo de Caja": "180"
+            },
+            "Rums": {
+                "Havana Club 7 Años": "500",
+                "Barcelo Añejo": "1000",
+                "Barcelo Blanco": "800",
+                "Barcelo Dorado": "1000",
+                "Barcelo Extra Añejo": "1000",
+                "Havana Club Especial": "450",
+                "Havana Club Pacto Navio": "500",
+                "Havana Club Reserva": "450",
+                "Havana Club Ritual": "450",
+                "Ron Blanco Havana Club": "400",
+                "Ron Blanco Santiago": "400",
+                "Santiago 12 Años": "1000",
+                "Havana Club Smoky": "500",
+                "Aguardiente": "500"
+            },
+            "Whisky": {
+                "Ballantines": "1000",
+                "Chivas 12 Años": "1000",
+                "Johnnie Walker Red Label": "1000",
+                "Jameson": "1000",
+                "Old Star": "1000"
+            },
+            "Liqueurs": {
+                "Baileys": "1000",
+                "Crema de Whisky": "600"
+            },
+            "Brandy": {
+                "Torres": "1000"
+            },
+            "Geneva": {
+                "Ginebra": "500"
+            },
+            "Tequila": {
+                "Tequila": "500",
+                "Reposado": "500"
+            },
+            "Wines": {
+                "Vino Tinto": "400"
+            },
+            "Vodka": {
+                "Vodka": "1000"
+            },
+            "Cocktails": {
+                "Bloody Mary": "550",
+                "Caipirissima": "550",
+                "Caipiriña": "550",
+                "Caipiroska": "550",
+                "Servicio de Chelada": "550",
+                "Gin Tonic": "550",
+                "Ron Collins": "550",
+                "Sangria": "550",
+                "Cuba Libre": "550",
+                "Cubanito": "550",
+                "Cubata": "550",
+                "Servicio de Michelada": "600"
+            }
+        }
+    }
+}
+}

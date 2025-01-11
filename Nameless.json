@@ -1,0 +1,60 @@
+{ 
+"Restaurants":{
+    "Nameless":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Avenida Independencia % 407A & 409, Santiago de las Vegas",
+        "Stars":{
+            "Social network": "Google",
+            "url": null,
+            "total": null,
+            "date": "20250108"
+        },
+        "schedules": "Apertura 8:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Picadera Mixta": "1600"
+            },
+            "Main Dishes": {
+                "Arroz Frito": "700",
+                "Pollo Frito": "1000",
+                "Chuleta de Cerdo Natural": "1000",
+                "Lomo de Cerdo Natural": "1000",
+                "Bistec de Cerdo": "1000",
+                "Bistec de Res": "1300",
+                "Uruguayo de Res": "1700",
+                "Canciller": "1700",
+                "Pechuga": "1200",
+                "Fricase de Res": "1000",
+                "Cordon Bleu": "1700",
+                "Costilla de Cerdo a la Barbacoa": "1200"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "600",
+                "Pizza de Jamon": "700",
+                "Pizza de Aceitunas": "900",
+                "Pizza de Cebolla": "700",
+                "Pizza Marinera": "1500",
+                "Pizza Doble Via": "1500",
+                "Pizza Hawaiana": "850",
+                "Pizza de Chorizo": "900"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}
