@@ -1,0 +1,81 @@
+{ 
+"Restaurants":{
+    "Abuela_D'Oro":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Calzada Aldabo % 12 y 13, Aldabo",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/jYB1kqR",
+            "total": 3.1,
+            "date": "20250110"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas": "500",
+                "Empanadas": "500",
+                "Frituras": "500",
+                "Tostones Rellenos": "1000",
+                "Papas Bravas": "500",
+                "Papas Doradas": "450",
+                "Ceviche": "2000",
+                "Coctel de Langosta": "2000",
+                "Coctel de Camarones": "2000",
+                "Tabla Surtida": "3000"
+            },
+            "Main Dishes": {
+                "Pizza Napolitana": "1000",
+                "Pizza de Jamon": "1300",
+                "Pizza Hawaiana": "1400",
+                "Pizza de Cebolla": "1100",
+                "Pizza de Pimiento": "1100",
+                "Pizza de Pepperoni": "1500",
+                "Espaguetis Napolitanos": "1200",
+                "Espaguetis de Jamon": "1500",
+                "Vaca Frita": "3000",
+                "Ropa Vieja": "3000",
+                "Bistec de Res Cazuela": "3500",
+                "Picadillo Habanera": "2900",
+                "Bistec Encebollado": "2500",
+                "Cerdo Salteado": "2800",
+                "Medalla con Jamon y Queso": "3800",
+                "Medalla con Ropa Vieja y Queso": "3800",
+                "Chuletilla": "3000",
+                "Pechuga Grille": "3000",
+                "Pechuga Salteada": "3500",
+                "Pollo Frito": "2500",
+                "Filete de Pescado Grille": "3000",
+                "Filete de Pescado Montado": "4000",
+                "Gratin del Mar": "4000",
+                "Langosta en sus Variedades": "4800",
+                "Camaron variado": "4800",
+                "1kg Cerdo Asado": "15000",
+                "Chuleton de Cerdo": "6500",
+                "Chuleta de Cerdo": "3000",
+                "Mar y Tierra": "19000",
+                "Tacos de Ropa Vieja": "1500",
+                "Tacos Vaca Frita": "1450",
+                "Tacos de Cerdo": "1200",
+                "Sandwich de Jamon y Queso": "1500",
+                "Sandwich de Pechuga y Queso": "1800"
+            },
+            "desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

@@ -1,0 +1,78 @@
+{ 
+"Restaurants":{
+    "La_Taberna":{
+        "Province": "La Habana",
+        "Municipality": "Cotorro",
+        "Location": "Avenida 101 Numero 3006 entre 30 y 32 Magdalena",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250110"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Martes, Miercoles, Jueves, Viernes, Sabado y Domingo",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Jamon y Queso": "700",
+                "Jamon, Queso y Chorizo": "850",
+                "Fritura de Malanga": "400",
+                "Croqueta": "400",
+                "Tostones": "300",
+                "Tostones Rellenos": "500",
+                "Eperlan": "1300",
+                "Coctel de Camaron": "900"
+            },
+            "Main Dishes": {
+                "Bistec de Pollo": "1300",
+                "Pollo Empanado": "1400",
+                "Cordon Bleu": "1600",
+                "Bistec de Cerdo": "1400",
+                "Baston de Cerdo": "1200",
+                "Masa Fritas": "1300",
+                "Uruguayo": "1800",
+                "Camaron al Ajillo": "1600",
+                "Camaron Empanado": "1700",
+                "Camaron Enchilado": "1800",
+                "Tabla Taberna": "1500",
+                "Tabla Tabernazo": "2800",
+                "Espaguetis Napolitanos": "600",
+                "Espaguetis con Jamon": "700",
+                "Espaguetis con Chorizo": "700",
+                "Espaguetis con Jamon y Chorizo": "900",
+                "Espaguetis Mixtos": "1000",
+                "Pizza Napolitana": "600",
+                "Pizza con Cebolla": "700",
+                "Pizza con Jamon": "700",
+                "Pizza Hawaiana": "850",
+                "Pizza con Chorizo": "750",
+                "Pizza Mixta": "950",
+                "Pizza Taberna": "1500",
+                "Pizza Camaron": "1500"
+            },
+            "Fittings": {
+                "Arroz Blanco": "150",
+                "Arroz Moro": "200",
+                "Vianda Hervida": "100",
+                "Ensalada": "250",
+                "Chicharrita de Boniato": "300",
+                "Chicharrita de Platano": "300"
+            },
+            "Desserts": null,
+            "Drinks": null
+    }
+}
+}
+}

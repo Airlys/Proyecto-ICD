@@ -1,0 +1,57 @@
+{ 
+"Restaurants":{
+    "Polo":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "4MCR+RR9, Cruz Verde",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/og7NvUF",
+            "total": 5.0,
+            "date": "20250110"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Tostones Rellenos de Atun y Queso": "600",
+                "Tostones Rellenos de Jamon y Queso": "450",
+                "Entremes de Jamon/Chorizo": "720",
+                "Bolitas de queso": "50.00",
+                "Bolitas de Embutido": "45.00"
+            },
+            "Pastas": {
+                "Espaguetis Napolitano de Queso Blanco": "450",
+                "Espaguetis Napolitano de Queso Gouda": "600"
+            },
+            "Pizzas": {
+                "Pizza Chiquita de Queso Blanco": "300",
+                "Pizza Napolitana de Queso Blanco": "400",
+                "Pizza Napolitana de Queso Gouda": "600"
+            },
+            "Sugerencia de la Casa": {
+                "Lazaña de Embutido": "600"
+            },
+            "Agregos": {
+                "Piña": "80",
+                "Jamon": "240",
+                "Chorizo": "240",
+                "Queso Blanco": "200",
+                "Queso Gouda": "360"
+            }
+        }
+    }
+}
+}

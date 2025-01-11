@@ -1,0 +1,61 @@
+{ 
+"Restaurants":{
+    "El_Faro":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "4MFW+P84, Maximo Gomez",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/z3wocby",
+            "total": 3.7,
+            "date": "20250110"
+        },
+        "schedules": "Apertura 9:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croqueta de la Casa": "180",
+                "Ensalada Fria de Jamon": "700",
+                "Ensalada Fria de Atun": "1200",
+                "Picadera Tropical": "850",
+                "Plato a lo Cubano": "800"
+            },
+            "Main Dishes": {
+                "Cangrejo Enchilado": "750",
+                "Pan con Hamburguesa": "500",
+                "Hamburguesa Faro": "900",
+                "Costillas de Cerdo": "1200",
+                "Ruedas de Pescado Grille": "1400",
+                "Pollo Grille": "950"
+            },
+            "Pizza": {
+                "Pizza El Faro": "900",
+                "Pizza Combinada": "900",
+                "Pizza Hawaiana": "900",
+                "Pizza de Cebolla": "900",
+                "Pizza de Pimiento": "900",
+                "Pizza Gustazo": "900",
+                "Pizza de Jamon": "900"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "750",
+                "Espaguetis de Jamon": "850"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

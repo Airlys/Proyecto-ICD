@@ -1,0 +1,87 @@
+{ 
+"Restaurants":{
+    "Pizzas_Vip":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "calle Habana, entre Linea del Ferrocarril y calzada Vieja de Guanabacoa, reparto Mañana",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250110"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de la Casa": "400",
+                "Frituras de Malanga": "300",
+                "Bolitas de Queso": "650",
+                "Fajitas de Pechuga": "1100",
+                "Ensalada Fria": "370",
+                "Papas Fritas": "580",
+                "Fajitas de Cerdo": "1200",
+                "Crema de Queso": "500",
+                "Crema Virginia": "550",
+                "Crema Aurora": "520",
+                "Crema Mixta": "600",
+                "Tacos de Jamon": "1030",
+                "Tacos de Res": "1350",
+                "Tacos de Cangrejo": "1380"
+            },
+            "Main Dishes": {
+                "Pizza de Queso": "800",
+                "Pizza de Cebolla": "1000",
+                "Pizza de Pimiento": "1000",
+                "Pizza de Jamon": "1100",
+                "Pizza de Chorizo": "1050",
+                "Pizza de Hawaiana": "1260",
+                "Pizza de Bacon": "1240",
+                "Pizza Doble Queso": "1250",
+                "Pizza de Camaron": "1700",
+                "Pizza de Res": "1300",
+                "Pizza de Atun con Cebolla": "1450",
+                "Pizza de Jamon Serrano": "1570",
+                "Pizza de Aceituna": "1200",
+                "Espaguetis Napolitano": "720",
+                "Espaguetis Bolognesa": "1350",
+                "Espaguetis Carbonara": "1350",
+                "Espaguetis Alfredo": "1150",
+                "Espaguetis de Atun": "1270",
+                "Espaguetis de Pollo": "1120",
+                "Espaguetis de Camaron": "1400",
+                "Espaguetis de Chorizo": "1150",
+                "Espaguetis Negro di Mare": "1500"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Henike": "360",
+                "Cerveza Importada": "250",
+                "Cerveza de Lata Cristal": "300",
+                "Cerveza de Botella": "300",
+                "Pomo de Agua": "150",
+                "Refresco de Pomo": "180",
+                "Refresco de Lata": "220",
+                "Malta": "300",
+                "Jugos de Lata": "280",
+                "Jugos de Cajita": "180",
+                "Tigon": "300",
+                "Refresco Importado": "280",
+                "Malta Importada": "270"
+            }
+        }
+    }
+}
+}

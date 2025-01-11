@@ -1,0 +1,186 @@
+{ 
+"Restaurants":{
+    "Altahabana_Club":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Calle D, esquina A10,Altahabana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/N7qkK6Z",
+            "total": 5.0,
+            "date": "20250110"
+        },
+        "schedules": "Apertura 2:00pm y Cierre 2:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Cocteleria",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Frituras de Malanga": "400",
+                "Papas Fritas": "550",
+                "Croquetas de Pollo": "550",
+                "Bolitas de Queso": "650",
+                "Alitas de Pollo": "750",
+                "Entremes de Jamon, Queso, Aceituna y Chorizo": "950",
+                "Fajitas de Pollo": "950",
+                "Eperlan de Pescado": "1150",
+                "Coctel de Camaron": "1450",
+                "Tabla de Chorizo Parrillero": "1800",
+                "Picadera Altahabana": "3500"
+            },
+            "Main Dishes": {
+                "Pollo Asado": "1300",
+                "Pollo Frito Pio Pio": "1350",
+                "Pollo Grille": "1400",
+                "Pollo a la Cordon Bleu": "1750",
+                "Masas de Cerdo Fritas": "1350",
+                "Bistec de Cerdo": "1400",
+                "Bistec Uruguayo": "1750",
+                "Vaca Frita": "1300",
+                "Ropa Vieja": "1350",
+                "Bistec de Res": "1600",
+                "Filete de Pescado Grille": "1550",
+                "Filete de Pescado Empanado": "1600",
+                "Filete Canciller": "1800",
+                "Camaron Enchilado": "1650",
+                "Camaron al Ajillo": "1750",
+                "Camaron Empanado": "1800"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "950",
+                "Pizza Pimiento": "1000",
+                "Pizza Cebolla": "1000",
+                "Pizza Jamon": "1150",
+                "Pizza Bacon": "1150",
+                "Pizza Chorizo": "1150",
+                "Pizza Hawaiana": "1250",
+                "Pizza de Atun": "1200",
+                "Pizza de Camaron": "1300",
+                "Pizza de Pepperoni": "1500",
+                "Pizza Altahabana": "1350",
+                "Hamburguesa Clasica": "900",
+                "Hamburguesa con Queso": "980",
+                "Hamburguesa con Jamon": "1080",
+                "Hamburguesa con Bacon": "1080",
+                "Hamburguesa Altahabana": "1500",
+                "Espaguetis Napolitano": "900",
+                "Espaguetis de Jamon": "950",
+                "Espaguetis de Chorizo": "1150",
+                "Espaguetis de Bacon": "1200",
+                "Espaguetis Bolognesa": "1250"
+            },
+            "Fittings": {
+                "Arroz Blanco": "250",
+                "Arroz Moro": "350",
+                "Vianda Frita": "400",
+                "Ensalada de Vegetales": "500"
+            },
+            "Desserts": {
+                "Copa de Helado": "500",
+                "Suero de Helado": "750"
+            },
+            "Drinks": {
+                "Limonada Natural": "500",
+                "Limonada Frappe": "520",
+                "Limonada Frescura": "540",
+                "Agua Natural": "200",
+                "Agua Tonica": "250",
+                "Jugos de Caja": "300",
+                "Malta": "380",
+                "Malteada": "500",
+                "Refrescos Nacionales": "300",
+                "Refrescos Importados": "350",
+                "Refresco Nacional": "550",
+                "Energizantes": "350",
+                "RedBull": "550",
+                "Cerveza Nacional": "450",
+                "Cerveza Nacional(Botella)": "500",
+                "Cerveza Importada": "400",
+                "Cerveza Corona": "600",
+                "Cerveza Heineken": "550",
+                "Servicio de Chelada": "200",
+                "Servicio de Michelada": "280"
+            },
+            "Cocktails": {
+                "Mojito": "550",
+                "Mojito Frappe": "580",
+                "Daiquiri": "500",
+                "Daiquiri Saborizado": "520",
+                "Canchanchara": "550",
+                "Piña Colada": "600",
+                "Cubata 7 Años": "650",
+                "Screwdriver": "480",
+                "Blue Lagoon": "500",
+                "Caipiroska": "550",
+                "Caipiriña": "600",
+                "Vodka Tonic": "600",
+                "Tinto de Verano": "460",
+                "Sangria": "500",
+                "Gin Tonic": "550",
+                "Margarita": "750"
+            },
+            "Coffee": {
+                "Americano": "150",
+                "Espresso": "250",
+                "Cortado": "300",
+                "Cappuchino": "400",
+                "Con Leche": "450",
+                "Bombon": "550",
+                "Frappuchino": "600"
+            },
+            "Vodka": {
+                "Vodka de la Casa": "250",
+                "Vodka Absolut": "1000"
+            },
+            "Rums": {
+                "Havana Club Añejo 3 Años": "420",
+                "Havana Club Añejo 7 Años": "700",
+                "Havana Club Añejo Especial": "530",
+                "Havana Club Reserva": "560",
+                "Havana Club Ritual": "600",
+                "Santiago 8 Años": "850",
+                "Santiago 11 Años": "1000",
+                "Santiago 12 Años": "1200",
+                "Havana Club Seleccion de Maestro": "1300",
+                "Havana Club Pacto Navio": "1300"
+            },
+            "Liqueurs": {
+                "Baileys": "1300",
+                "Licor 43": "650"
+            },
+            "Whisky": {
+                "Buchanan's 12": "1600",
+                "Whisky Glenlivet": "1750",
+                "Ballantine": "850",
+                "Ballantine 12": "1050",
+                "Johnnie Walker Red Label": "1000",
+                "Johnnie Walker Black Label": "1700"
+            },
+            "Tequila": {
+                "Olmeca Blanco": "990",
+                "Jose Cuervo Especial": "1200",
+                "Jose Cuervo Reposado": "1300",
+                "Jose Cuervo Tradicional Driver": "2000",
+                "Tequila Patron Driver": "2000",
+                "Tequila 1800": "2500",
+                "Don Julio 70": "4000"
+            },
+            "Wines": {
+                "Vino Tinto": "850",
+                "Vino Blanco": "850",
+                "Vino Rosado": "850"
+            }
+        }
+    }
+}
+}
