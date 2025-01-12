@@ -1,0 +1,74 @@
+{ 
+"Restaurants":{
+    "Restaurante_Rodney":{
+        "Province": "La Habana",
+        "Municipality": "Marianao",
+        "Location": "3HVJ+R8W,72A, Avenida 41",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/ND9KQ1K",
+            "total": 4.7,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 12:00m y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Variada",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Sandwich de un Agrego": "230",
+                "Sandwich de dos Agregos": "300",
+                "Picadera de la Casa": "650",
+                "Entremes de Embutido y Queso": "400",
+                "Tacos Mexicanos de Pollo": "700",
+                "Tacos Mexicanos de Cerdo": "1400",
+                "Sopa del Dia": "125",
+                "Croquetas": "250",
+                "Crema Aurora": "350",
+                "Crema Virginia": "480",
+                "Crema de Calabaza con Queso": "400",
+                "Eperlan de Pescado": "600",
+                "Fajitas de Pollo": "500"
+            },
+            "Main Dishes": {
+                "Pasta Napolitana": "500",
+                "Pizza Napolitana": "500",
+                "Pizza Campesina": "1200",
+                "Pizza Especial Rodney(Rellena con Queso)": "800",
+                "Pizza Especial Rodney(Rellena con Embutido)": "900",
+                "Pizza Super Especial Rodney": "1200",
+                "Lonjas de Cerdo Asada": "2000",
+                "Fricase de Cerdo": "2300",
+                "Bistec de Cerdo Grille": "1800",
+                "Pollo Asado": "850",
+                "Pollo Frito": "900",
+                "Pollo Deshuesado": "900",
+                "Filete Mignon": "3000",
+                "Steack de Res": "1400",
+                "Filete de Pescado a la Plancha": "1500",
+                "Filete de Pescado Gratinado con Queso": "1750",
+                "Filete de Pescado Canciller" :"2000",
+                "Langosta a la Plancha": "1800",
+                "Langosta Enchilada": "1900"
+            },
+            "Fittings": {
+                "Arroz Rodney": "780",
+                "Filete Bacalao a la Plancha": "250",
+                "Arroz Blanco": "120",
+                "Ensalada de Vegetales": "120"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

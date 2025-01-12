@@ -1,0 +1,114 @@
+{ 
+"Restaurants":{
+    "Rojo":{
+        "Province": "La Habana",
+        "Municipality": "Playa",
+        "Location": "calle 19 #6011/60 y 62, Playa",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 10:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": "Fajitas de Pollo",
+        "Facilities": {
+                "Pets": true,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": true,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Fajitas de Pollo Salteadas con Vegetales": "2400",
+                "Fajitas de Pollo Empanadas": "2000",
+                "Tostones Clasicos del Escambray Pico de Gallo": "1200",
+                "Tostones Clasicos del Escambray Sabor a Pizza": "1600",
+                "Tostones Clasicos del Escambray Lechon": "1400",
+                "Brusquetas": "850",
+                "Croquetas Melosas": "1200",
+                "Papas Fritas": "700"
+            },
+            "Main Dishes": {
+                "Tacos de Cerdo": "2000",
+                "Sandwich Cubano": "2400",
+                "Hamburguesa de Pollo Sencilla": "1200",
+                "Hamburguesa de Pollo Super Completa": "2200",
+                "Superpicadera": "1400",
+                "Pasta Carbonara": "3050",
+                "Pasta Pomodoro": "2000",
+                "Pizza Napolitana": "1500",
+                "Pargo al Horno con Vegetales": "4000",
+                "Pechuga de Pollo a la Plancha": "2700",
+                "Pollo Asado a la Mostaza": "2700",
+                "Escabeche": "2500",
+                "Sueño Tropical": "3450",
+                "Masas de Cerdo": "3000"
+            },
+            "Additions": {
+                "Vegetales": "650",
+                "Jamon": "450",
+                "Chorizo": "500",
+                "Aceitunas": "450",
+                "Cerdo": "1000",
+                "Queso": "500",
+                "Atun": "600"
+            },
+            "Desserts": {
+                "Flan de Caramelo y Vainilla": "1000"
+            },
+            "Cocktails": {
+                "Mojito": "100",
+                "Mojito de Frutas": "1200",
+                "Daiquiri Natural": "900",
+                "Daiquiri de Frutas": "1200",
+                "Caipiriña": "1000",
+                "Canchanchara": "1000",
+                "Piña Colada": "1200",
+                "Cuba Libre": "950",
+                "Cubata": "950",
+                "Gin Tonic": "1500",
+                "Long Island": "1800",
+                "Martini": "1800",
+                "Martini Sucio": "1800",
+                "Negroni": "1750",
+                "Margarita": "1700",
+                "Old Fashioned": "1500",
+                "Amaretto Sour": "1500",
+                "Bloody Mary": "2000",
+                "Cosmopolitan": "1600",
+                "Espresso Martini": "1600",
+                "Sex on the Beach": "1500",
+                "Whisky Sour": "1700",
+                "Mai Tai": "2000",
+                "Zombie": "2000",
+                "Blue Hawai": "2000",
+                "Romantic": "2000",
+                "Summer": "2000",
+                "Servicio de Michelada": "500",
+                "Servicio de Chelada": "500",
+                "Sangria": "1000",
+                "Melonada": "800"
+            },
+            "Drinks": {
+                "Limonada Natural": "700",
+                "Limonada Frescura": "750"
+            },
+            "Coffee": {
+                "Espresso": "350",
+                "Cortado": "950",
+                "Cappuchino": "600",
+                "Bombon": "750",
+                "Frappuchino": "850",
+                "Afogato": "480"
+            }
+        }
+    }
+}
+}

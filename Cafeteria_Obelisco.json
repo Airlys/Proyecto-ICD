@@ -32,13 +32,14 @@
                 "Bolitas de Carne": "20",
                 "Dados de Queso": "180"
             },
-            "Pizzas": {
+            "Main Dishes": {
                 "Pizza de Queso": "200"
             },
             "Fittings": {
                 "Frijol Negro": "55",
                 "Arroz Blanco": "70"
             },
+            "Desserts": null,
             "Drinks": {
                 "Agua Saborizada": "50",
                 "Agua Natural": "180",

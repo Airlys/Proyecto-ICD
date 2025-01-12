@@ -25,6 +25,9 @@
         },
         "Capacity": null,
         "menu and prices": {
+            "Starters": null,
+            "Main Dishes": null,
+            "Desserts": null,
             "Drinks": {
                 "Aguas Nacional": "100",
                 "Agua Saborizada": "100",
