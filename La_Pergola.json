@@ -25,6 +25,7 @@
         },
         "Capacity": 40,
         "menu and prices": {
+            "Starters": null,
             "Main Dishes": {
                 "Camaron Enchilado": "1740",
                 "Camaron Grille": "1900",
@@ -44,6 +45,7 @@
                 "Vegetales Frescos": "200",
                 "Vianda Hervida": "175"
             },
+            "Desserts": null,
             "Drinks": {
                 "Ron Collins": "300",
                 "Mojito": "300",

@@ -41,7 +41,7 @@
                 "Espresso": "250",
                 "Con Leche": "300"
             },
-            "Entrepanes": {
+            "Main Dishes": {
                 "Tumbao": "1520",
                 "Sandwich Habanero": "1320",
                 "Sandwich Bikini": "880",
@@ -50,9 +50,7 @@
                 "Miniburguer": "1230",
                 "Mini Pan con Lechon": "1270",
                 "Semita Hausbrot": "850",
-                "Buns Bolsa": "380"
-            },
-            "Hamburger": {
+                "Buns Bolsa": "380",
                 "La Mulatona Burguer": "2180",
                 "Hamburguesa Tostada": "1930",
                 "Corona Mediterranea": "1930",
@@ -74,6 +72,7 @@
             "Pizza": {
                 "Pizza de Queso": "1000"
             },
+            "Desserts": null,
             "Drinks": {
                 "Yambi Naranja": "350",
                 "Yambi Limon": "350",

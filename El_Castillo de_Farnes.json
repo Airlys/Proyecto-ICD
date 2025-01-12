@@ -25,6 +25,7 @@
         },
         "Capacity": 20,
         "menu and prices": {
+            "Starters": null,
             "Offers of the day": {
                 "Pizza Napolitana": "275",
                 "Espaguetis Margarita": "350",
@@ -40,6 +41,7 @@
             "Fittings": {
                 "Arroz con Sustancia": "105"
             },
+            "Desserts": null,
             "Drinks": {
                 "Gin Tonic": "350",
                 "Ron Collins": "300",

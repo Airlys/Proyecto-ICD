@@ -37,7 +37,7 @@
                 "Sopa de Pollo": "800",
                 "Frituras de Malanga": "660"
             },
-            "Main Courses": {
+            "Main Dishes": {
                 "Pollo Grille": "2000",
                 "Pollo en Salsa": "2800",
                 "Pollo a la Piña": "2800",
@@ -71,6 +71,7 @@
                 "Degustacion de la Casa Mariscada": "3800",
                 "Pulpo: Grille, Ajillo o en Salsa": "3600"
             },
+            "Desserts": null,
             "Drinks": {
                 "Jugos Naturales": "220",
                 "Agua Natural 500ml": "330",

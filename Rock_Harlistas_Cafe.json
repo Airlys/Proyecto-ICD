@@ -25,30 +25,25 @@
         },
         "Capacity": 30,
         "menu and prices": {
-            "Sandwich": {
-                "Queso": "1300",
-                "Jamon y Queso": "1600",
-                "Atun": "1900"
+            "Starters": {
+                "Sandwich Queso": "1300",
+                "Sandwich Jamon y Queso": "1600",
+                "Sandwich Atun": "1900",
+                "Hamburguesa Clasica": "1260",
+                "Hamburguesa Doble": "1700",
+                "Hamburguesa Harlistas": "2500"
             },
-            "Hamburger": {
-                "Clasica": "1260",
-                "Doble": "1700",
-                "Harlistas": "2500"
-            },
-            "Pizza": {
+            "Main Dishes": {
                 "Pizza Napoles": "1250",
-                "Pizza Hawaiana": "1500"
+                "Pizza Hawaiana": "1500",
+                "Pasta Napolitana": "1250",
+                "Pasta Pesto": "1300",
+                "Pasta Carbonara": "1550",
+                "Tacos Pollo": "1750",
+                "Tacos Cerdo": "2300",
+                "Tacos Mixtos": "1900"
             },
-            "Pasta": {
-                "Napolitana": "1250",
-                "Pesto": "1300",
-                "Carbonara": "1550"
-            },
-            "Tacos": {
-                "Pollo": "1750",
-                "Cerdo": "2300",
-                "Mixtos": "1900"
-            },
+            "Desserts": null,
             "Cocktails": {
                 "Mojito": "900",
                 "Mojito Tropical": "1000",
@@ -149,9 +144,7 @@
                 "Agua Tonica": "600",
                 "Kermato": "650",
                 "Batido de Helado": "1100",
-                "Copa de Helado Montano": "900"
-            },
-            "Beer":{
+                "Copa de Helado Montano": "900",
                 "Bucanero": "550",
                 "Cristal": "500",
                 "Cristal B": "600"

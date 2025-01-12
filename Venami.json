@@ -51,9 +51,7 @@
                     "Pollo a la Piazzola": "1250",
                     "Cerdo al Limon": "1300",
                     "Pescado Livonnesa": "1310",
-                    "Pescado al Camaron": "1400"
-            },
-                "Pizzas": {
+                    "Pescado al Camaron": "1400",
                     "Pizza Venami": "1600",
                     "Pizza Deliciosa": "1300",
                     "Pizza Jamon Serrano": "1500",
@@ -71,28 +69,28 @@
                     "Pizza Habanera": "1350",
                     "Pizza Caribeña": "1500",
                     "Pizza de Pollo": "1100",
-                    "Pizza Vegetariana": "910"
+                    "Pizza Vegetariana": "910",
+                    "Lazaña": "1200",
+                    "Fetuccine Boloñesa": "1050",
+                    "Cenelones": "1050",
+                    "Penne Champignon/Serrano": "1380",
+                    "Spaghetty Amatriciana": "1100",
+                    "Spaghetty Alfredo(Jamon)": "1050",
+                    "Spaghetty A la Carbonara": "1200",
+                    "Penne Arrabiatta": "950",
+                    "Penne a la Boloñesa": "1050",
+                    "Spaghetty de Atun/Alcaparras": "1000",
+                    "Spaghetty Pomodoro Basilico": "800",
+                    "Spaghetty Fruto de Mar": "1450",
+                    "Spaghetty al Pesto": "950",
+                    "Spaghetty al Venami": "1250",
+                    "Spaghetty Ajo/Peperonchino": "850",
+                    "Spaghetty al Camaron": "1250",
+                    "Timbal de Pollo": "1200",
+                    "Timbal de Boloñesa": "1100"
             },
-            "Pasta":{
-                "Lazaña": "1200",
-                "Fetuccine Boloñesa": "1050",
-                "Cenelones": "1050",
-                "Penne Champignon/Serrano": "1380",
-                "Spaghetty Amatriciana": "1100",
-                "Spaghetty Alfredo(Jamon)": "1050",
-                "Spaghetty A la Carbonara": "1200",
-                "Penne Arrabiatta": "950",
-                "Penne a la Boloñesa": "1050",
-                "Spaghetty de Atun/Alcaparras": "1000",
-                "Spaghetty Pomodoro Basilico": "800",
-                "Spaghetty Fruto de Mar": "1450",
-                "Spaghetty al Pesto": "950",
-                "Spaghetty al Venami": "1250",
-                "Spaghetty Ajo/Peperonchino": "850",
-                "Spaghetty al Camaron": "1250",
-                "Timbal de Pollo": "1200",
-                "Timbal de Boloñesa": "1100"
-            }
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

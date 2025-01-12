@@ -47,40 +47,6 @@
                 "Wafles": "680",
                 "Los Huevos Revueltos del Chef": "1960"
             },
-            "Hamburgers": {
-                "Super D'Next": "2800",
-                "Sweet Burger": "1760",
-                "Gold Chicken(Hamburguesa de Pollo Empanada)": "1880",
-                "Hamburguesa D'Next": "1920",
-                "Blue D'Next": "1940",
-                "Chicken Little(Hamburguesa de Pollo)": "1840",
-                "Hamburguesa Americana": "1860",
-                "Hamburguesa Jacke Mate": "1760",
-                "Cheeseburger": "1600"
-            },
-            "Sandwiches": {
-                "Sandwich Formula 1": "1800",
-                "Sandwich Batazo Largo": "3000",
-                "Sandwich Genesis": "1560",
-                "Sandwich Beisbol Cubano": "2000",
-                "Sandwich Motocross": "1480",
-                "Sandwich Regata": "1200",
-                "Sandwich Hemingway": "1320",
-                "Sandwich Jonronero": "1560",
-                "Sandwich !Hala Madrid!": "1520",
-                "Sandwich Marahabana": "2560",
-                "Sandwich Visca Barça": "1880"
-            },
-            "Tapas": {
-                "Tapa Don Genaro": "1580",
-                "Tapa Motorina": "1800",
-                "Tapa Toque Bola": "2060",
-                "Tapa Grandes Ligas": "1560",
-                "Tapa Noruega": "2080",
-                "Tapa Champions League": "1320",
-                "Tapa Costacosta": "1500",
-                "Surtido de Tapas": "2080"
-            },
             "Salads":{
                 "Primavera": "1240",
                 "Marinera": "1840",
@@ -89,7 +55,7 @@
                 "Ensalada D'Next": "1320",
                 "Verano": "1800"
             },
-            "Pasta":{
+            "Main Dishes":{
                 "Espaguetis D'Next": "1800",
                 "Al Ajillo": "1920",
                 "A la boloñesa": "1980",
@@ -100,9 +66,7 @@
                 "Salmon": "2240",
                 "D'Next": "1880",
                 "4 Quesos": "3500",
-                "Carbonara": "2160"
-            },
-            "Pizzas":{
+                "Carbonara": "2160",
                 "Pizza D'Next":{
                     "1600":{
                         "Agregos": {
@@ -132,9 +96,36 @@
                             "Salmon Ahumado": "+1080"
                         }
                     }
-                } 
-                }
-                
+                },
+                "Tapa Don Genaro": "1580",
+                "Tapa Motorina": "1800",
+                "Tapa Toque Bola": "2060",
+                "Tapa Grandes Ligas": "1560",
+                "Tapa Noruega": "2080",
+                "Tapa Champions League": "1320",
+                "Tapa Costacosta": "1500",
+                "Surtido de Tapas": "2080",
+                "Sandwich Formula 1": "1800",
+                "Sandwich Batazo Largo": "3000",
+                "Sandwich Genesis": "1560",
+                "Sandwich Beisbol Cubano": "2000",
+                "Sandwich Motocross": "1480",
+                "Sandwich Regata": "1200",
+                "Sandwich Hemingway": "1320",
+                "Sandwich Jonronero": "1560",
+                "Sandwich !Hala Madrid!": "1520",
+                "Sandwich Marahabana": "2560",
+                "Sandwich Visca Barça": "1880",
+                "Super D'Next": "2800",
+                "Sweet Burger": "1760",
+                "Gold Chicken(Hamburguesa de Pollo Empanada)": "1880",
+                "Hamburguesa D'Next": "1920",
+                "Blue D'Next": "1940",
+                "Chicken Little(Hamburguesa de Pollo)": "1840",
+                "Hamburguesa Americana": "1860",
+                "Hamburguesa Jacke Mate": "1760",
+                "Cheeseburger": "1600" 
+            }
             },
             "Desserts": {
                 "Cono Vainilla": "760",

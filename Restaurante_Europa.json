@@ -25,6 +25,7 @@
         },
         "Capacity": 130,
         "menu and prices": {
+            "Starters": null,
             "Main Dishes": {
                 "Langosta Entera Grille": "4500",
                 "Camaron Grille": "1900",
@@ -41,7 +42,7 @@
                 "Ensalada Vegetales": "200",
                 "Vianda Hervida": "175"
             },
-            "Dessert": {
+            "Desserts": {
                 "Gelatina": "75"
             },
             "Drinks": null

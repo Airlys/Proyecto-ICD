@@ -54,9 +54,7 @@
                 "Paella de Carne": "3800",
                 "Pollo Victor": "3300",
                 "Paella de Mariscos": "4000",
-                "Paella de Vegetales": "2700"
-            },
-            "House Dishes": {
+                "Paella de Vegetales": "2700",
                 "Pollo Grille": "2600",
                 "Pollo Frito": "2600",
                 "Pollo Asado": "2600",
@@ -68,7 +66,6 @@
                 "Filete de Pescado": "3300",
                 "Aporreado de Pescado": "2600",
                 "Picadillo a la Habanera": "2700",
-                "Paella de Vegetales": "2500",
                 "Salteado de Vegetales": "2000"
             },
             "Desserts": {

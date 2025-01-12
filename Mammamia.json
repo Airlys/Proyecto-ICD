@@ -25,7 +25,7 @@
         },
         "Capacity": 70,
         "menu and prices": {
-            "Starte": {  
+            "Starters": {  
                 "Tagliere di Salumi & Formaggi x2": "5000",
                 "Tagliere di Salumi & Formaggi x4": "9800",
                 "Carpaccio di Manzo": "3600",
@@ -78,6 +78,7 @@
                 "Calzone Ripieno": "3500",
                 "Mammamia": "5000"
             },
+            "Desserts": null,
             "Cocktails": {
                 "Aperol Spritz": "2500",
                 "Negroni": "2800",

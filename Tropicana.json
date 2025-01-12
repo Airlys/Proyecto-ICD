@@ -63,7 +63,8 @@
                 "Pizza de Queso Gouda": "750",
                 "Pizza Hawaiana": "800",
                 "Pizza Tropicana": "950"
-            }
+            },
+            "Drinks": null
         }
     }
 }

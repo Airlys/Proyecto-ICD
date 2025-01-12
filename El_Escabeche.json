@@ -25,6 +25,7 @@
         },
         "Capacity": 28,
         "menu and prices": {
+            "Starters": null,
             "Main Dishes": {
                 "Escabeche": "450",
                 "Enchilado de Pescado": "350", 
@@ -33,6 +34,7 @@
                 "Ensalada Mixta": "40",
                 "Arroz Blanco": "50"
             },
+            "Desserts": null,
             "Drinks": {
                 "Cerveza Importada Lata": "240",
                 "Refresco Importada Lata": "220",

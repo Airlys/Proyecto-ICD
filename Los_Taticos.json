@@ -69,7 +69,9 @@
                 "Arroz Blanco",
                 "Frijoles",
                 "Arroz Moro"
-            ]
+            ],
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

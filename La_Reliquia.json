@@ -55,7 +55,7 @@
                 "Sandwich de Atun": "2100",
                 "Sandwich de Cubano": "4500"
             },
-            "Menus": {
+            "Menu": {
                 "Menu #1(Cesta Variada,Lonjas de Cerdo,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postres de la Abuela)": "7500",
                 "Menu #2(Cesta Variada,Pollo Grille,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postre de la Abuela)": "7500",
                 "Menu #3(Cesta Variada,Filete de Pescado Grille,Vianda Hervida con Mojo,Ensalada,2 Liquidos,Postres de la Abuela)": "7500",
@@ -64,6 +64,7 @@
                 "Menu #6(Pasta al Gusto,1 Liquido,Postre de la Abuela)": "5400",
                 "Menu #7(Pasta Frutti de Mare,1 Liquido,Postre de la Abuela)": "7500"
             },
+            "Desserts": null,
             "Cocktails": {
                 "Mojito": "1200",
                 "Daiquiri": "1200",

@@ -29,7 +29,7 @@
                 "Eperlan de Pescado": "600",
                 "Croquetas de la Casa": "250"
             },
-            "Main Courses": {
+            "Main Dishes": {
                 "Langosta Grille": "1200",
                 "Langosta Enchilada": "1200",
                 "Camaron Grille": "750",
@@ -54,7 +54,9 @@
             "Fittings": {
                 "Vianda Frita": "200",
                 "Vianda Hervida con Mojo":"100"
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

@@ -28,7 +28,7 @@
             "Starters": {
                 "Croquetas de Pollo": "150"
             },
-            "Main Courses": {
+            "Main Dishes": {
                 "Camaron Enchilado": "1740",
                 "Camaron Grille": "1900",
                 "Brocheta de Camaron": "1465",
@@ -46,6 +46,7 @@
                 "Vianda Hervida": "175",
                 "Vegetales Frescos": "600"
             },
+            "Desserts": null,
             "Drinks": {
                 "Licor Cubay de Menta": "200",
                 "Licor Curacao Azul": "200",
