@@ -25,6 +25,7 @@
         },
         "Capacity": 12,
         "menu and prices": {
+            "Starters": null,
             "Hamburger": {
                 "Hamburguesa Sencilla": "350"
             },
@@ -45,7 +46,9 @@
                 "Jamon": "80",
                 "Chorizo": "100",
                 "Atun": "100"
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

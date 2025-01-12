@@ -25,6 +25,7 @@
         },
         "Capacity": 20,
         "menu and prices": {
+            "Starters": null,
             "Main Dishes": {
                 "Bistec de Pollo": "1500",
                 "Bistec de Cerdo": "1950",
@@ -65,7 +66,9 @@
                 "Salchicha": "200",
                 "Aceituna": "300",
                 "Atun": "300"
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

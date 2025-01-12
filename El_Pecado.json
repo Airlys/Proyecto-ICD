@@ -25,7 +25,7 @@
         },
         "Capacity": null,
         "menu and prices": {
-            "Entrantes": {
+            "Starters": {
                 "Aceitunas": "350",
                 "Entremes de Jamon y Queso": "300",
                 "Bolitas de Queso": "350",
@@ -57,7 +57,9 @@
                 "Filete de Res Encebollado": "750",
                 "Uruguayo de Res": "730",
                 "Camarones": "750" 
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

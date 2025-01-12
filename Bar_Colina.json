@@ -33,10 +33,8 @@
                 "Tostones Rellenos": "600",
                 "Chicharrita": "300"
             },
-            "Pastas": {
-                "Espaguetis Napolitano": "550"
-            },
-            "Pizzas": {
+            "Main Dishes": {
+                "Espaguetis Napolitano": "550",
                 "Pizza Napolitana Grande": "650",
                 "Pizza Napolitana": "220"
             },
@@ -45,7 +43,9 @@
                 "Chorizo": "300",
                 "Jamon": "300",
                 "Piña": "150"
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

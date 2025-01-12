@@ -25,6 +25,7 @@
         },
         "Capacity": 6,
         "menu and prices": {
+            "Starters": null,
             "Hamburger": {
                 "Hamburguesa Clasica": "500",
                 "Hamburguesa Sencilla": "700",

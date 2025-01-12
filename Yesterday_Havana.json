@@ -77,7 +77,9 @@
                 "Arroz Frito(Langosta)": "2500",
                 "Ropa Vieja": "2500",
                 "Bistec de Res": "2500"
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }
