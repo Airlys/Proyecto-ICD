@@ -1,0 +1,57 @@
+{ 
+"Restaurants":{
+    "Cafe_Atardecer":{
+        "Province": "La Habana",
+        "Municipality": "Regla",
+        "Location": "Marti entre Perdomo y Albuquerque, Regla",
+        "Stars":{
+            "Social network": "Google",
+            "url": "",
+            "total": 0,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 7:00am y Cierre 7:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": 22,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas": "75",
+                "Pan": "90",
+                "Pan con Queso": "90",
+                "Pan con Salchicha": "120",
+                "Pan con Jamon y Queso": "150"
+            },
+            "Main Dishes": {
+                "Pollo Empanado": "450",
+                "Fajitas de Pollo": "450",
+                "Escalope de Cerdo": "480",
+                "Fajitas de Cerdo": "480",
+                "Fricase de Cerdo": "380",
+                "Pescado Empanado": "330",
+                "Espaguetis Napolitano": "250",
+                "Espaguetis de Jamon": "300"
+            },
+            "Desserts": {
+                "Confituras": null
+            },
+            "Drinks": {
+                "Refresco": "20"
+            },
+            "Cafe": {
+                "Cafe": "15"
+            }
+        }
+    }
+}
+}
