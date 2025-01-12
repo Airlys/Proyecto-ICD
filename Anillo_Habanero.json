@@ -1,0 +1,93 @@
+{ 
+"Restaurants":{
+    "Anillo_Habanero":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "3PXM+4Q3, Primer Anillo de La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/Yc3L829",
+            "total": 4.5,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 10:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": true,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Picadera Anillo": "3000",
+                "Tacos de Vegetales": "600",
+                "Croquetas Habaneras": "400",
+                "Nachos, Salsa Rosa y Guacamole": "400",
+                "Brochetas": "1300",
+                "Coctel de Camarones": "2000",
+                "Frituras": "300",
+                "Tostones Rellenos": "550",
+                "Tacos de Pollo": "800"
+            },
+            "Main Dishes": {
+                "Lomo Ahumado": "2000",
+                "Chuletas de Cerdo": "3000",
+                "Ropa Vieja": "3000",
+                "Vaca Frita": "3000",
+                "Camarones Enchilados": "3500",
+                "Camarones al Ajillo": "3500",
+                "Pizza Napolitana": "800",
+                "Espaguetis Napolitano": "850"
+            },
+            "Desserts": {
+                "Tarta de Vainilla": "750",
+                "Cheesecake de Limon": "750",
+                "Coctel de Frutas Importadas": "350"
+            },
+            "Cocktails": {
+                "Michelada": "600",
+                "Margarita": "800",
+                "Caipiroska": "800",
+                "Cocteles Analcoholicos": "500",
+                "Caipirissima": "800",
+                "Vodka Tonic": "900",
+                "Screwdriver": "800",
+                "Gin Tonic": "900",
+                "Agua Marina": "800",
+                "Cancha": "800",
+                "Tinto de Verano": "800",
+                "Daiquiri": "800",
+                "Servicio de Chelada": "450",
+                "Piña Colada": "1000",
+                "Sangria": "1000",
+                "Trago Jonny Walker": "500",
+                "William Lawsons": "350",
+                "Lyubov Vodka": "200"
+            },
+            "Drinks": {
+                "Limonada Frappe": "250",
+                "Cerveza Nacional": "350",
+                "Energizante Importados": "500",
+                "Maltas Importadas": "320",
+                "Pepsi Refresco Gaseado": "400",
+                "Jugos Naturales": "250",
+                "Agua Natural": "200",
+                "Kermato": "700",
+                "Refrescos Importados": "300"
+            },
+            "Coffee": {
+                "Espresso": "100",
+                "Cortadito": "200",
+                "Cappuchino": "250"
+            }
+        }
+    }
+}
+}

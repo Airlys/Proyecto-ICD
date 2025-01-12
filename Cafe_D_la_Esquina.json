@@ -1,0 +1,106 @@
+{ 
+"Restaurants":{
+    "Cafe_D_la_Esquina":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Paseo #101, Esquina a 5ta, Vedado",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/Siu7iXC",
+            "total": 4.1,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 8:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 50,
+        "menu and prices": {
+            "Starters": {
+                "Pizza Tacos Mix": "2600",
+                "Tabla de la Casa": "4200",
+                "Canoa de Olga": "800",
+                "Trio de Pizzeta Margarita": "1000",
+                "Tapa Hot Dog": "2200",
+                "Trio de Pizzeta Especial": "1300a"
+            },
+            "Main Dishes": {
+                "Falso Sushi": "2600",
+                "Rollo Criollo": "1900",
+                "Rollo La Esquina": "1900",
+                "Plato Campesino": "2500",
+                "Pasta Clasica": "1300",
+                "Pasta al Pesto": "1500",
+                "Pasta Ragu/Bolognesa": "1800",
+                "Pasta Carbonara": "2200"
+            },
+            "Additions": {
+                "Cebolla": "120",
+                "Champiñon": "170",
+                "Queso Gouda": "200",
+                "Jamon Embuchado": "100",
+                "Bacon": "150"
+            },
+            "Desserts": {
+                "Tarta de la Casa": "700"
+            },
+            "Cocktails": {
+                "Mojito": "700",
+                "Mojito Especial": "750",
+                "Piña Colada": "900",
+                "Daiquiri": "700",
+                "Margarita": "1000",
+                "Sangria": "750",
+                "Caipiriña": "750",
+                "Caipiroska": "750",
+                "Gin Tonic": "900",
+                "Vodka Tonic": "900",
+                "Limonada Lizzie con Ron": "750"
+            },
+            "Drinks": {
+                "Limonada Natural": "450",
+                "Limonada Lizzie sin Ron": "700",
+                "Agua Gaseada Importada": "1050",
+                "Agua Natural Pequeña": "300",
+                "Agua Natural Grande": "500",
+                "Agua Gaseada Nacional": "500",
+                "Agua Tonica Nacional": "350",
+                "Refresco Nacional": "350",
+                "Refresco Importado": "350",
+                "Cerveza Importada": "400",
+                "Cerveza Nacional Superior": "550",
+                "Jugo de Frutas Naturales": "250",
+                "Energizante": "600",
+                "Malta": "450",
+                "Batido de Helado": "650",
+                "Batido de Frutas": "450"
+            },
+            "Wines": {
+                "Copa de Vino Tinto": "600",
+                "Copa de Vino Blanco": "600"
+            },
+            "Coffee": {
+                "Espresso": "200",
+                "Cappuchino": "350",
+                "Frappuchino": "700",
+                "Americano": "220",
+                "Cortado": "260",
+                "Con Leche": "350",
+                "Carajillo": "360",
+                "Bombon": "600",
+                "Cafe Frio": "300",
+                "Te": "250"
+            }
+        }
+    }
+}
+}

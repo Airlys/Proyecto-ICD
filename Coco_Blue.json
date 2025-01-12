@@ -1,0 +1,97 @@
+{ 
+"Restaurants":{
+    "Casa_Mia":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "4HJW+C3 La Habana Cuba",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/atybhWV",
+            "total": 4.5,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 10:00am y Cierre 12:30am",
+        "Days of the week": "Jueves, Viernes, Sabado y Domingo",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Breakfast": {
+                "Desayuno": "2800",
+                "Hamburguesa de Pollo": "1400",
+                "Hamburguesa de Res": "1900",
+                "Sandwich Zorra Pelua": "1600"
+            },
+            "Starters": {
+                "Nachos": "400",
+                "Boniato Frito": "500",
+                "Fritura de Malanga": "700",
+                "Croquetas de Pescado": "1000",
+                "Croquetas de Res": "1100",
+                "Tacos de Pollo": "1100",
+                "Tacos de Vegetales": "1000",
+                "Tacos de Res": "1200",
+                "Ceviche": "1600",
+                "Fajitas de Pollo": "1200"
+            },
+            "Main Dishes": {
+                "Bistec de Pollo": "2000",
+                "Espaguetis Napolitano": "1600",
+                "Filete de Pescado": "2000",
+                "Ropa Vieja": "2100"
+            },
+            "Desserts": {
+                "Cascos de Guayaba": "800"
+            },
+            "Drinks": {
+                "Cerveza Importada": "500",
+                "Cerveza Nacional": "550",
+                "Cerveza Cristal Dispensada": "400",
+                "Cubetazo": "2800",
+                "Jugo de Frutas": "450",
+                "Limonada Frappe": "500",
+                "Limonada Frescura": "600",
+                "Limonada Natural": "450",
+                "Agua Tonica": "500",
+                "Agua Gaseada": "600",
+                "Refrescos": "500",
+                "Energizante": "700"
+            },
+            "Cocktails": {
+                "Mojito": "700",
+                "Cuba Libre": "700",
+                "Cubata": "600",
+                "Daiquiri": "700",
+                "Daiquiri de Sabores": "750",
+                "Caipiriña": "600",
+                "Caipiroska Base": "570",
+                "Caipirissima": "650",
+                "Piña Colada": "700",
+                "Servicio de Chelada": "880",
+                "Servicio de Michelada": "900",
+                "Sangria": "1100",
+                "Margarita": "800",
+                "Long Island": "1100",
+                "Jagger Bomb": "1000",
+                "Blue Lagon": "1100"
+            },
+            "Coffee": {
+                "Espresso": "400",
+                "Cortado": "450",
+                "Cappuchino": "500",
+                "Frappuchino": "600",
+                "Americano": "350"
+            }
+        }
+    }
+}
+}

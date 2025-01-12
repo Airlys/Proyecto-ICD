@@ -1,0 +1,143 @@
+{ 
+"Restaurants":{
+    "Cafe_Versalles":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "4MGV+4M6, Marti, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/3Ect7JT",
+            "total": 5.0,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 9:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Ensalada Fria de Jamon": "500",
+                "Ensalada Fria de Atun": "700",
+                "Croquetas de la Casa": "500",
+                "Eperlan de Pescado": "1600",
+                "Fajitas de Pollo Empanado": "1500",
+                "Maripositas Chinas": "700",
+                "Ceviche de Pescado": "1000",
+                "Cesta Bananera": "850",
+                "Coctel de Camaron": "1200"
+            },
+            "Main Dishes": {
+                "Pollo Grille": "1400",
+                "Pollo Cantones": "2200",
+                "Cordon Bleu": "2500",
+                "Medio Pollo al Carbon con BBQ": "2500",
+                "Pescado Versalles": "2800",
+                "Canciller": "2800",
+                "Montetoro": "2200",
+                "Filete Grille": "1600",
+                "Camaron al Gusto": "2500",
+                "Chuleta de Cerdo al Carbon con BBQ 1 Libra": "3600",
+                "Solomillo de Cerdo al Carbon con BBQ 1 Libra": "3000",
+                "Uruguayo de Cerdo": "2500",
+                "Masa de Cerdo Frita": "2800",
+                "Bistec de Cerdo Encebollado": "1600"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "900",
+                "Pizza de Queso Gouda": "1260",
+                "Pizza de Jamon": "1150",
+                "Pizza de Chorizo": "1250",
+                "Pizza de Camarones": "1700",
+                "Pizza de Cebolla": "1150",
+                "Pizza de Aceituna": "1200",
+                "Pizza de Piña": "1150",
+                "Pizza de Atun": "1250",
+                "Pizza de Lomo Ahumado": "1250",
+                "Pizza de Bacon": "1300",
+                "Pizza de Pimiento": "1200"
+            },
+            "Pasta": {
+                "Espaguetis": "800",
+                "Lazagna de Jamon": "1200"
+            },
+            "Desserts": null,
+            "Rums": {
+                "Havana Club Seleccion de Maestros": "900",
+                "Havana Añejo Especial": "350",
+                "Ron Santiago": "500",
+                "Ron Cubay": "350",
+                "Havana Club 3 Años": "350",
+                "Havana Club Reserva": "350",
+                "Havana Club 7 Años": "350"
+            },
+            "Tequila": {
+                "Tequila Reposado": "600",
+                "Tequila Olmeca Silver": "500"
+            },
+            "Whisky": {
+                "Chivas Regal": "1000",
+                "White Label": "350",
+                "Ballantines": "450",
+                "Jack Daniel's": "450",
+                "Jameson": "450"
+            },
+            "Vodka": {
+                "Absolut": "500"
+            },
+            "Cocktails": {
+                "Daiquiri": "500",
+                "Tinto de Verano": "500",
+                "Jack in Black": "600",
+                "Bandera": "600",
+                "Margarita": "600",
+                "Margarita Blue": "700",
+                "Daiquiri de Frutas": "600",
+                "Daiquiri Rebelde": "500",
+                "Cubanito": "500",
+                "Bloody Mary": "600",
+                "Sangria": "500",
+                "Piña Colada": "550",
+                "Cubata": "700",
+                "Cuba Libre": "500",
+                "Mojito": "500",
+                "Ron Collins": "500",
+                "Caipirissima": "500",
+                "Caipiroska": "500",
+                "Caipiroska Vip": "850",
+                "Vodka Tonic": "850",
+                "Gin Tonic": "700"
+            },
+            "Drinks": {
+                "Limonada Frappe": "250",
+                "Limonada Clarete": "400",
+                "Limonada Frescura": "350",
+                "Cerveza Cristal": "350",
+                "Cerveza Importada": "400",
+                "Jarra de Cerveza": "550",
+                "Tarro de Cerveza": "2500",
+                "Agua Natural": "200",
+                "Refresco Importado": "250",
+                "Refresco Nacional": "250",
+                "Malta": "320",
+                "Jugos Naturales": "350"
+            },
+            "Coffee": {
+                "Rocio de Gallo": "250",
+                "Espresso": "100",
+                "Bombon": "250",
+                "Cortado": "200"
+            }
+        }
+    }
+}
+}

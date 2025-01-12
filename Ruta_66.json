@@ -1,0 +1,77 @@
+{ 
+"Restaurants":{
+    "Ruta_66":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "4MMV+VFW, 9, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/DH6WwLn",
+            "total": null,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 12:00m y Cierre 9:30pm",
+        "Days of the week": "Martes, Miercoles, Jueves, Viernes, Sabado y Domingo",
+        "Type of food or specialty": "Internacional",
+        "Most popular food": "Tabla Surtida y Arroz Frito",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": true,
+                "infant stool": false,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": false,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 16,
+        "menu and prices": {
+            "Starters": {
+                "Tostones Rellenos de Jamon y Queso": "1090",
+                "Tostones Rellenos de Bolognesa": "950",
+                "Tostones Rellenos de Vegetales Salteados y Queso": "910",
+                "Garbanzo Fritos": "1900",
+                "Ceviche de Pescado": "1500",
+                "Fritura de Malanga": "595",
+                "Croquetas": "490",
+                "Brosquetas": "420",
+                "Tamal": "400"
+            },
+            "Main Dishes": {
+                "Lomo Ahumado con Gratinado de Queso": "1850",
+                "Lomo Ahumado con Salsa de Piña": "2000",
+                "Camarones Enchilados": "3300",
+                "Camarones al Ajillo": "2950",
+                "Camarones en Salsa de Frutas": "2800",
+                "Enchilado de Pulpo": "2690",
+                "Pulpo al Ajillo": "2470",
+                "Filete de Pescado Route 66": "3550",
+                "Monte Toro a la Francesa": "2400",
+                "Filete de Pescado en Salsa de Frutas": "2250",
+                "Filete de Pescado a la Plancha": "1800",
+                "Arroz Frito Especial Route 66": "2065",
+                "Arroz Frito": "1280",
+                "Super Route 66": "1965",
+                "Castrol(Cerdo)": "1255",
+                "Texaco(Cerdo)": "940",
+                "Pizza de Queso Gouda": "850",
+                "Lasagna de Queso Gouda": "1420",
+                "Espaguetis de Queso Gouda": "1100"
+            },
+            "Fittings": {
+                "Arroz Blanco": "200",
+                "Pure de Malanga": "335",
+                "Ensalada Mixta de Estacion": "425"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Importada": "210",
+                "Vino Tinto": "2200",
+                "Refrescos Importados": "240",
+                "Malta Importada": "250",
+                "Agua Mineral": "190",
+                "Jugos Importados": "210"
+            }
+        }
+    }
+}
+}

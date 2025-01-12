@@ -1,0 +1,95 @@
+{ 
+"Restaurants":{
+    "The_Place":{
+        "Province": "La Habana",
+        "Municipality": "Boyeros",
+        "Location": "Calle 100, Pasando Aldabo",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/The%2BPlace%2BParrillada/data%3D!4m2!3m1!1s0x0:0x8c879a6b206b21d7%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwj1o8_fsu-KAxVsTDABHewhAwAQ_BJ6BAg7EAk&usg=AOvVaw2jk2bbLUcH0qKoX6JekYVc",
+            "total": 1.5,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 8:00am y Cierre 3:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas": "600",
+                "Eperlan": "900",
+                "Tostones": "500",
+                "Fritura de Malanga": "500",
+                "Garbanzos Fritos": "1950",
+                "Sopon Imperial": "1300",
+                "Picadera The Place": "2300",
+                "Papas Fritas": "800"
+            },
+            "Main Dishes": {
+                "Pechuga de Pollo Grille": "1400",
+                "Pollo Frito": "1200",
+                "Bistec de Cerdo Grille": "1600",
+                "Bistec Uruguayo": "1800",
+                "Costilla de Cerdo": "1700",
+                "Masa de Cerdo Frita": "1700",
+                "Chilindron Cordero": "1950",
+                "Ropa Vieja": "1500",
+                "Bistec de Res": "1800",
+                "Chuleta de Cerdo": "1750",
+                "Chuleton": "3000",
+                "Pescado": "1500",
+                "Canciller": "1800",
+                "Langosta en sus Variedades": "1950",
+                "Camaron": "1500",
+                "Pizza Napolitana": "800",
+                "Espaguetis Napolitano": "800"
+            },
+            "Drinks": {
+                "Jarra de Cerveza Cristal": "300",
+                "Termo Cerveza Cristal": "2000",
+                "Cerveza Cristal": "300",
+                "Cerveza Importada": "250",
+                "Malta Bucanero": "300",
+                "Lata de Refresco": "290",
+                "Caja de Jugos": "260",
+                "Pomo de Agua": "200",
+                "Energizante": "330",
+                "Limonada Frappe": "600"
+            },
+            "Cocktails": {
+                "Caipiroska": "500",
+                "Caipirissima": "500",
+                "Mojito": "520",
+                "Gin Tonic": "500",
+                "Sangria": "600",
+                "Servicio de Michelada": "900",
+                "Servicio de Chelada": "500",
+                "Margarita": "550"
+            },
+            "Whisky": {
+                "Johnnie Walker Red Label": "550",
+                "Old Pard": "950",
+                "Jameson": "600"
+            },
+            "Tequila": {
+                "Tequila": "450",
+                "Tequila Reposado": "500"
+            },
+            "Rums": {
+                "Havana Club Seleccion de Maestros": "1150",
+                "Havana Club Pacto Navio": "1150"
+            }
+        }
+    }
+}
+}

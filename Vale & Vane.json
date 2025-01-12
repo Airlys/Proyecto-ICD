@@ -1,0 +1,78 @@
+{ 
+"Restaurants":{
+    "Vale & Vane":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "4PC3+GQ8, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/JgwSC4i",
+            "total": 4.8,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 9:00am y Cierre 9:00pm",
+        "Days of the week": "Martes, Miercoles, Jueves, Viernes, Sabado, Domingo",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": "Masas de Cerdo",
+        "Facilities": {
+                "Pets": false,
+                "Wheelchair ramp": false,
+                "infant stool": false,
+                "Smoking area": false,
+                "Parking": false,
+                "Home service": true,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 17,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Chuleta de Cerdo": "1100",
+                "Bistec de Cerdo Grille": "1200",
+                "Masa de Cerdo Frita": "1300",
+                "Bistec de Cerdo Encebollado": "1450",
+                "Costilla de Cerdo": "1650",
+                "Lomo Ahumado": "1400",
+                "Uruguayo": "1600",
+                "Bistec de Cerdo Princesa": "1720",
+                "Garbanzo Frito": "1300",
+                "Pollo Frito": "1000",
+                "Suprema de Pollo Grille": "1400",
+                "Bistec de Pollo Princesa ": "1920",
+                "Suprema de Cerdo Encebollada": "1650",
+                "Filete de Pescado Grille": "1800",
+                "Camaron Grille": "1800",
+                "Camaron Enchilado": "1850",
+                "Mar y Tierra": "2500",
+                "Vaca Frita": "1600",
+                "Ropa Vieja": "1600"
+            },
+            "Pizza": {
+                "Pizza Napolitana": "350",
+                "Pizza Napolitana ": "650",
+                "Pizza Familiar": "2500"
+            },
+            "Pasta": {
+                "Espaguetis Napolitano": "650",
+                "Espaguetis con Jamon": "900",
+                "Espaguetis con Chorizo": "900",
+                "Espaguetis Doble de Queso": "920"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Cristal(lata)": "280",
+                "Cerveza Cristal(Botella)": "380",
+                "Cerveza Hollandia": "250",
+                "Cerveza Wild Hill": "250",
+                "Tigon": "280",
+                "Agua Natural": "180",
+                "Refresco Lata": "250",
+                "Malta Hyper Malta": "270",
+                "Malta Bucanero": "300",
+                "Jugo Natural(Cajita)": "200",
+                "Jugo Natural(Lata)": "270"
+            }
+        }
+    }
+}
+}

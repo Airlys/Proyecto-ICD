@@ -1,0 +1,120 @@
+{ 
+"Restaurants":{
+    "Fenix_Dorado":{
+        "Province": "La Habana",
+        "Municipality": "Centro Habana",
+        "Location": "Cuchillo #7 e/ Zanja y, San Nicolas, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Fenix%2Brestaurant/data%3D!4m2!3m1!1s0x0:0xa56db228b8dab3ac%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiQlLSKs--KAxXap7AFHelqEiEQ_BJ6BAg3EAk&usg=AOvVaw2m-7oiOsKKlkH4HbYfoonR",
+            "total": 5.0,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "China",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": null
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Picadera Fenix": "1785",
+                "Entremes de Jamon y Aceite": "535",
+                "Entremes de Jamon y Queso": "835",
+                "Entremes de Aceitunas": "555",
+                "Coctel de Camarones": "1200",
+                "Ensalada Fria de Jamon": "595",
+                "Ensalada Fria de Atun": "850",
+                "Vianda con Mojo": "315",
+                "Tostones Naturales Ajillo": "495",
+                "Tostones Rellenos de Jamon y Quesos": "695",
+                "Tostones Rellenos con Camaron": "835",
+                "Mariposas Chinas": "375",
+                "Ensalada Mixta": "360",
+                "Sopa Fenix": "895",
+                "Fritura de Malanga": "510"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo Grille": "1625",
+                "Bistec de Cerdo Encebollado": "1885",
+                "Ropa Vieja": "2535",
+                "Camaron Grille": "2785",
+                "Camaron al Ajillo": "2950",
+                "Camaron Enchilado": "3120",
+                "Filete de Pescado Grille": "2675",
+                "Filete Sensacion": "3000",
+                "Filete Terraza": "3940",
+                "Chop Suey Camaron": "2970",
+                "Chop Suey Pollo": "1995",
+                "Chop Suey Cerdo": "2205",
+                "Pollo Grille": "3975",
+                "Plancha de Mar": "5255",
+                "Masas de Cerdo Fritas": "4550",
+                "Brochetas de Cerdo": "4650",
+                "Plancha Mar y Tierra": "5255",
+                "Corona Fenix": "5965",
+                "Zarzuela de Mariscos": "5455",
+                "Mucho Cerdo": "8550",
+                "Pizza con Queso Gouda": "1120",
+                "Pizza con Queso Blanco": "695",
+                "Pizza Hawaiana con Queso Blanco": "1145",
+                "Pizza Hawaiana con Queso Gouda": "1570",
+                "Espaguetis Napolitanos con Queso Gouda": "995",
+                "Espaguetis Napolitanos con Queso Blanco": "645"
+            },
+            "Additions": {
+                "Pimiento": "200",
+                "Cebolla": "200",
+                "Piña": "200",
+                "Jamon": "250",
+                "Chorizo": "300",
+                "Queso Blanco": "295",
+                "Queso Gouda": "520"
+            },
+            "Fittings": {
+                "Arroz Frito Fenix": "1120",
+                "Arroz Frito Fenix Especial": "1540",
+                "Arroz Fritos Fenix Esp. Familiar": "2810",
+                "Paella Fenix": "2920",
+                "Arroz Moro": "335",
+                "Arroz Blanco": "265"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Corona": "480",
+                "Cerveza Nacional": "360",
+                "Cerveza Importada": "280",
+                "Refresco Importado": "350",
+                "Malta": "340",
+                "Energizante": "500",
+                "Nectar de Frutas": "340",
+                "Agua Natural Importada": "250",
+                "Agua Natural Nacional": "210",
+                "Malteada": "600",
+                "Batido de Helado": "540"
+            },
+            "Coffee": {
+                "Espresso": "220",
+                "Americano": "220",
+                "Carajillo": "320"
+            },
+            "Wines": {
+                "Vino(Bot)": "2500",
+                "Copa Heilada": "500"
+            },
+            "Packaging": {
+                "Cajas Pipizzasas": "100",
+                "Termos": "100"
+            }
+        }
+    }
+}
+}

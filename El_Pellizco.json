@@ -1,0 +1,63 @@
+{ 
+"Restaurants":{
+    "El_Pellizco":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "3Q5F+6C6,La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/V8oMeFK",
+            "total": 3.6,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 11:00am y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Racion de Chicharron": "150",
+                "Racion de Empella": "100",
+                "Caldoza de la Casa": "250",
+                "Racion de Tostones": "80",
+                "Racion de Mariquiwtas": "80",
+                "Platano Maduro Frito": "80"
+            },
+            "Main Dishes": {
+                "Bistec de Higado": "400",
+                "Higado a la Italiana": "450",
+                "Bistec de Cerdo": "600",
+                "Masa de Cerdo": "650",
+                "Chuleta de Cerdo": "650",
+                "Lomo Ahumado": "650",
+                "Lonjas de Cerdo Asada": "600",
+                "Pollo Asado": "450",
+                "Costilla Asada": "650",
+                "Ropa Vieja de Cerdo": "650",
+                "Fricase de Costilla": "650",
+                "Pizza Napolitana": "200"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Cerveza Nacional": "220",
+                "Cerveza Importada": "220",
+                "Jugo de Caja": "150",
+                "Jugo de Botella": "120",
+                "Malta": "150",
+                "Agua Natural": "100",
+                "Energizante": "220"
+            }
+        }
+    }
+}
+}
