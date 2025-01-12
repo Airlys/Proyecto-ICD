@@ -1,0 +1,59 @@
+{ 
+"Restaurants":{
+    "LKG":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": {
+            "Latitude": "23.070410939396403",
+            "Longitude": "-82,45756089679794"
+        },
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 11:00 y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Caribeña",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": false,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Bistec": "900",
+                "Fricase": "900",
+                "Pollo": "1200",
+                "Cangrejo": "550",
+                "Arroz Frito": "600",
+                "Langosta": "1400",
+                "Rueda de Pescado": "950",
+                "Pescado Entero": "950",
+                "Pizza de Jamon": "300",
+                "Pizza de Queso": "200",
+                "Pizza Doble Queso": "250",
+                "Pizza de Queso Gouda": "250"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Agua Mineral": "150",
+                "Refresco Importado": "230",
+                "Batido de Frutas": "235",
+                "Cerveza": "250"
+            },
+            "Coffee": {
+                "Espresso": "80"
+            }
+        }
+    }
+}
+}

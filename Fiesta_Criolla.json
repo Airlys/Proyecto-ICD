@@ -1,0 +1,78 @@
+{ 
+"Restaurants":{
+    "Fiesta_Criolla":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "Calle 100 #1003(despues del Puente de Calabazar)",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Toston Criollo": "500",
+                "Toston Relleno con Jamon y Queso": "600",
+                "Toston Relleno con Atun": "700",
+                "Eperlan": "1300",
+                "Fajitas de Pollo": "1300",
+                "Caldo de Mariscos": "1000",
+                "Camaron Rebosado": "2000",
+                "Tamal en Hojas": "90",
+                "Fritura de Malanga": "500",
+                "Platano Frito": "350",
+                "Alitas de Pollo": "850"
+            },
+            "Main Dishes": {
+                "Pollo Asado": "1150",
+                "Pechuga Grille": "1450",
+                "Pechuga Gratinada de Jamon y Queso": "1600",
+                "Chuleta": "1350",
+                "Pechuga Salteada con Vegetales": "1550",
+                "Lomo Ahumado": "1350",
+                "Lomo Deshuesado Ahumado": "1550",
+                "Costillas Fritas": "1400",
+                "Masa Frita": "1550",
+                "Bistec Grille": "1450",
+                "Bistec Gratinado de Jamon y Queso": "1600",
+                "Ropa Vieja": "1500",
+                "Suprema de Carnero": "1800",
+                "Fricase de Carnero": "1500",
+                "Camaron Grille": "1900",
+                "Langosta Grille": "1900",
+                "Pulpo Grille": "2000",
+                "Pescado Grille": "1300",
+                "Rueda de Pescado Grille": "1300",
+                "Pescado Grille Gratinado con Jamon y Queso": "1450",
+                "Don Pedro": "2300",
+                "Masa de Cangrejo": "1050",
+                "Caldero de Mariscos": "3500",
+                "Mar y Tierra": "3950",
+                "Paella": "2300",
+                "Mariscada": "2500",
+                "Espaguetis Napolitanos": "1000",
+                "Espaguetis con Jamon y Queso": "1250"
+            },
+            "Desserts": {
+                "Dulce Tres Leches": "350"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

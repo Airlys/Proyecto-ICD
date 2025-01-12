@@ -1,0 +1,79 @@
+{ 
+"Restaurants":{
+    "Pacomeralgo":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": "y 51, 200 entre 45, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Pacomeralgo/data%3D!4m2!3m1!1s0x0:0x455d525613c3fa6b%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwi5yIWEvvCKAxUERjABHainBWQQ_BJ6BAg4EAQ&usg=AOvVaw2KxajUQ9pUqShwGe0OK_Ne",
+            "total": null,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 10:30am y Cierre 1:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Entremes de Jamon y Queso": "450",
+                "Entremes de Aceitunas": "300",
+                "Croquetas": "300",
+                "Papas Fritas": "333",
+                "Picadera Paco": "850"
+            },
+            "Main Dishes": {
+                "Sandwich de Queso": "400",
+                "Sandwich de Jamon": "400",
+                "Sandwich de Jamon y Queso": "450",
+                "Sandwich de Atun": "450",
+                "Pan con Hamburguesa": "450",
+                "Lasagna": "615",
+                "Pizza de Queso": "600",
+                "Pizza de Jamon": "770",
+                "Pizza de Chorizo": "770",
+                "Pizza de Cebolla": "750",
+                "Pizza de Aji": "730",
+                "Pizza de Aceituna": "780",
+                "Pizza Hawaiana": "820",
+                "Pizza de Pasas con Piña": "730",
+                "Pizza de Atun": "840",
+                "Pizza Paco": "1000",
+                "Espaguetis Napolitano": "600",
+                "Espaguetis de Jamon": "720",
+                "Espaguetis de Chorizo": "720",
+                "Espaguetis de Atun": "790"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Refresco de Cola": "250",
+                "Refresco de Limon": "250",
+                "Refresco de Naranja": "250",
+                "Malta": "350",
+                "Malteada": "650",
+                "Energizante": "350",
+                "Jugo Pequeño": "250",
+                "Jugo Grande": "900",
+                "Yogurt Vaso": "200",
+                "Cerveza": "250"
+            },
+            "Coffee": {
+                "Espresso": "150",
+                "Americano": "150",
+                "Cortado": "220",
+                "Bombon": "350"
+            }
+        }
+    }
+}
+}

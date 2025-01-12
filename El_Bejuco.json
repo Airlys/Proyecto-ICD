@@ -1,0 +1,105 @@
+{ 
+"Restaurants":{
+    "El_Bejuco":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle Linea 1206 e/ 18 y 20, Vedado",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2BBejuco/data%3D!4m2!3m1!1s0x0:0x79e6e91d14c0de8f%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiLm5zav_CKAxUZSTABHZLcMcQQ_BJ6BAhAEAk&usg=AOvVaw2Hy4j-2L2gr_j8_2IFivlv",
+            "total": 4.8,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 9:00am y Cierre 4:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Entrantes",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": 20,
+        "menu and prices": {
+            "Starters": {
+                "Combo Dulce": "950",
+                "Combo Salado": "950",
+                "Tostadas con Dulce": "250",
+                "Tostadas con Salsa": "250",
+                "Fruta de Temposada": "250",
+                "Picadera Simple": "600",
+                "Picadera Guajira": "1200",
+                "Chicharritas": "300",
+                "Tamal con Cerdo": "900",
+                "Tamal": "200",
+                "Tostones Naturales": "400",
+                "Tostones Rellenos": "800",
+                "Brusquetas": "500"
+            },
+            "Main Dishes": {
+                "Sandwich de Jamon y Queso": "800",
+                "Sandwich de Queso": "750",
+                "Sandwich de Jamon": "750",
+                "Pan con Lechon": "1000"
+            },
+            "Additions": {
+                "Queso": "150",
+                "Jamon": "200"
+            },
+            "Desserts": null,
+            "Cocktails": {
+                "Mojito": "500",
+                "Cuba Libre": "450",
+                "Caipiriña": "400",
+                "Caipiroska": "400",
+                "Caipirissima": "400",
+                "Canchanchara": "450",
+                "Melonada": "700",
+                "Verano en un Vaso": "600",
+                "Tinto de Verano": "600",
+                "Piña Colada": "700",
+                "Bejuco Colorao": "700",
+                "Bejuco Gin": "700",
+                "Cubata en Reserva": "650",
+                "Cubata con 7 Años": "800",
+                "Servicio de Michelada": "750"
+            },
+            "Drinks": {
+                "Cerveza Cristal": "350",
+                "Agua": "300",
+                "Refresco": "300",
+                "Jugos Naturales": "250",
+                "Batidos": "350",
+                "Limonada": "500"   
+            },
+            "Rums": {
+                "Black Tears": "350",
+                "Havana Club 7 Años": "600",
+                "Havana Club Smoky": "700",
+                "Santiago": "900",
+                "Havana Club Reserva": "400"
+            },
+            "Tequila": {
+                "Tequila Blanco": "350",
+                "Tequila Reposado": "500"
+            },
+            "Wines": {
+                "Copa de Vino": "500"
+            },
+            "Coffee": {
+                "Espresso": "150",
+                "Cortado": "250",
+                "Cappuchino": "300",
+                "Frappuchino": "350",
+                "Macchiato": "250",
+                "Iced Latte": "350",
+                "Americado": "350"
+            }
+        }
+    }
+}
+}

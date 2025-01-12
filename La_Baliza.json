@@ -1,0 +1,48 @@
+{ 
+"Restaurants":{
+    "La_Baliza":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": "3G8J+WP6, La Habana",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/MgPqvmr",
+            "total": 4.7,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 10:00am y Cierre 9:30pm",
+        "Days of the week": "Martes, Miercoles, Jueves, Viernes, Sabado y Domingo",
+        "Type of food or specialty": "Americana y Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": true,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Sandwich de Jamon y Queso": "500",
+                "Hamburguesa": "490",
+                "Super Hamburguesa": "950",
+                "Pizza con Queso Gouda": "450",
+                "Pizza con Queso Gouda ": "700",
+                "Pizza de Queso Blanco": "350",
+                "Pizza de Queso Blanco ": "520"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Agua Mineral Natural": "150",
+                "Refresco Importado": "230",
+                "Batido de Mamey": "230",
+                "Cerveza Importada": "250"
+            }
+        }
+    }
+}
+}

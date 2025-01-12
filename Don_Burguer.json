@@ -1,0 +1,93 @@
+{ 
+"Restaurants":{
+    "Don_Burguer":{
+        "Province": "La Habana",
+        "Municipality": "Arroyo Naranjo",
+        "Location": "Calzada de 10 de Octubre, entre Aranguren y Santa Isabel, La Palma, Arroyo Naranjo",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Don%2BBurguer/data%3D!4m2!3m1!1s0x0:0xda5ac4b6e7373aa4%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiMp8zwvfCKAxVFQzABHcoqBw8Q_BJ6BAg7EAk&usg=AOvVaw08CiEtl5iU-VcrHtfZDOS4",
+            "total": 5.0,
+            "date": "20250111"
+        },
+        "schedules": "Apertura 10:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Ensalada Fria": "580",
+                "Aceitunas": "420",
+                "Bolitas de Queso": "640",
+                "Fritura de Malanga": "510",
+                "Croquetas": "640",
+                "Papitas": "640",
+                "Fajitas de Pollo": "940",
+                "Entremes Surtido": "1720",
+                "Brusquetas": "780",
+                "Burritos de Jamon y Queso": "1260"
+            },
+            "Main Dishes": {
+                "Tacos de Vegetales": "620",
+                "Tacos de Cerdo": "1120",
+                "Tacos de Pollo": "1120",
+                "Tacos de Res": "1280",
+                "Hamburguesa de Cerdo": "740",
+                "Hamburguesa de Pollo": "740",
+                "Hamburguesa de Res": "860",
+                "Doble Hamburguesa de Cerdo": "1040",
+                "Doble Hamburguesa de Pollo": "1040",
+                "Doble Hamburguesa de Res": "1480",
+                "Doble Hamburguesa de Cerdo(Bistec de Cerdo y 3 Agregos)": "2680",
+                "Pan con Bistec de Cerdo": "840",
+                "Pan con Bistec de Pollo": "810",
+                "Pan con Lechon": "890",
+                "Bocadito de Atun": "840",
+                "Sandwich de Jamon, Queso y Chorizo": "890",
+                "Sandwich Cubano": "1290" 
+            },
+            "Additions": {
+                "Jamon Vicking": "120",
+                "Jamon Pierna": "190",
+                "Bacon": "190",
+                "Queso": "150",
+                "Chorizo": "120",
+                "Huevo": "190",
+                "Cebolla": "60",
+                "Tomate": "60",
+                "Lechuga": "30",
+                "Pepinillo Encurtido": "30",
+                "Piña Glaseada": "80"
+            },
+            "Desserts": {
+                "3 Gracias": "740",
+                "Ensalada de Helado": "1080",
+                "Suero de Helado": "840",
+                "Casquitos de Guayaba": "560",
+                "Flan": "560",
+                "Dulce de Coco": "460",
+                "Torrejas": "680",
+                "Dulce de Fruta Bomba": "460"
+            },
+            "Drinks": {
+                "Agua": "150",
+                "Refresco": "240",
+                "Batido de Frutas": "390",
+                "Limonada Frappe": "380",
+                "Limonada con Hierba Buena": "460",
+                "Malta": "400"
+            }
+        }
+    }
+}
+}
