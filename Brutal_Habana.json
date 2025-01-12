@@ -1,0 +1,59 @@
+{ 
+"Restaurants":{
+    "Brutal_Habana":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Infanta Esquina Calle Universidad",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/5GRzjTV",
+            "total": 3.4,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Americana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": true,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": null
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Baguette": "150",
+                "Suave": "120",
+                "Croissant": "450",
+                "Pan de Hamburguesa": "150",
+                "Baguette Brutal": "2000",
+                "Brutal Junior": "550",
+                "Combo Brutal Junior": "2550",
+                "Hamburguesa Brutal": "3200",
+                "Hamburguesa Sencilla": "1100",
+                "Fajitas de Pechuga con Papas Fritas": "1500"
+            },
+            "Dessers": null,
+            "Fittings": {
+                "Papas Fritas": "300",
+                "Papas Fritas ": "600",
+                "Salchipapas": "500",
+                "SalchiPapas Brutal": "1400",
+                "Croquetas de Pollo x5": "175",
+                "Croquetas de Pollo x10": "350",
+                "Papas Fritas Brutal": "1100"
+            },
+            "Drinks": {
+                "Batido de Helado": "1000",
+                "Batido de Helado con Gomitas": "1400",
+                "Batido de Helado Brutal": "2000"
+            }
+        }
+    }
+}
+}
