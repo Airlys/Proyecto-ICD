@@ -33,17 +33,16 @@
                 "Fajitas de Pollo": "1450",
                 "Tabla Mixta": "4600"
             },
-            "Pizza": {
+            "Main Dishes": {
                 "Pizza D' Queso": "1200",
                 "Pizza Hawaiana": "1500",
-                "Pizza Vegetales": "1500"
+                "Pizza Vegetales": "1500",
+                "Sandwich Jamon y Queso": "1200",
+                "Sandwich Pechuga": "1550",
+                "Sandwich Atun": "1500",
+                "Sandwich Lechon": "1550"
             },
-            "Sandwich": {
-                "Jamon y Queso": "1200",
-                "Pechuga": "1550",
-                "Atun": "1500",
-                "Lechon": "1550"
-            },
+            "Desserts": null,
             "Drinks": {
                 "Jarra D' Cerveza": "350",
                 "Cerveza": "600",

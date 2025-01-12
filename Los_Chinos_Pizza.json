@@ -72,7 +72,7 @@
                     "Cebolla": "1600",
                     "Pimiento": "1600"
             },
-            "Pork": {
+            "Main Dishes": {
                 "Bistec de Cerdo": "1900",
                 "Fajita de Cerdo": "1900",
                 "Masas Fritas": "2000",
@@ -126,7 +126,9 @@
                 "Racion de Vianda Hervida": "300",
                 "Papas Fritas": "500",
                 "Otras Viandas Fritas": "400"
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

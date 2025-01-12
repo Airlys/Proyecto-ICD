@@ -32,16 +32,12 @@
                 "Bolitas de queso": "50.00",
                 "Bolitas de Embutido": "45.00"
             },
-            "Pastas": {
+            "Main Dishes": {
                 "Espaguetis Napolitano de Queso Blanco": "450",
-                "Espaguetis Napolitano de Queso Gouda": "600"
-            },
-            "Pizzas": {
+                "Espaguetis Napolitano de Queso Gouda": "600",
                 "Pizza Chiquita de Queso Blanco": "300",
                 "Pizza Napolitana de Queso Blanco": "400",
-                "Pizza Napolitana de Queso Gouda": "600"
-            },
-            "Sugerencia de la Casa": {
+                "Pizza Napolitana de Queso Gouda": "600",
                 "Lazaña de Embutido": "600"
             },
             "Agregos": {
@@ -50,7 +46,9 @@
                 "Chorizo": "240",
                 "Queso Blanco": "200",
                 "Queso Gouda": "360"
-            }
+            },
+            "Desserts": null,
+            "Drinks": null
         }
     }
 }

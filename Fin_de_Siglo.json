@@ -41,13 +41,14 @@
                 "Jamon": "900",
                 "Pollo": "850"
             },
-            "Picadera": {
+            "Starters": {
                 "Croquetas de la Casa": "700",
                 "Surtido de la Casa": "1500"
             },
             "Main Dishes": {
                 "Pollo Salteado C/ Vegetales": "800"
             },
+            "Desserts": null,
             "Drinks":{
                 "Refresco Limon": "300",
                 "Refresco Naranja": "300",

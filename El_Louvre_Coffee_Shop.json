@@ -25,6 +25,7 @@
         },
         "Capacity": 38,
         "menu and prices": {
+            "Starters": null,
             "Main Dishes":{
                 "Desayuno Buffet": "2800",
                 "Pan(2u) y Mantequilla": "260",
@@ -59,17 +60,9 @@
                 "Brocheta de Cerdo": "1200",
                 "Tartar Atun Rojo con Crema y Huevo Frito": "2500"
             },
-            "Ice Cream and Drinks":{
+            "Desserts":{
                 "Batido de Helado": "300",
-                "Copa Helada Inglaterra": "550",
-                "Leche Fria o Caliente": "125",
-                "Cafe con Leche": "225",
-                "Cafe Espresso": "100",
-                "Cortadito": "150",
-                "Capuchino": "300",
-                "Frapuchino": "300",
-                "Te Frio o Caliente": "125",
-                "Jugos de Frutas Naturales": "200"
+                "Copa Helada Inglaterra": "550"
             },
             "Cocktails":{
                 "Jugo de Frutas con Granadina": "200",
@@ -109,7 +102,17 @@
                 "Aguas Natural": "500",
                 "Cerveza Nacional": "250",
                 "Cerveza Importada": "350",
-                "Cerveza Dispensada": "60"
+                "Cerveza Dispensada": "60",
+                "Jugos de Frutas Naturales": "200"
+            },
+            "Coffee": {
+                "Leche Fria o Caliente": "125",
+                "Cafe con Leche": "225",
+                "Cafe Espresso": "100",
+                "Cortadito": "150",
+                "Capuchino": "300",
+                "Frapuchino": "300",
+                "Te Frio o Caliente": "125"
             }
         }
     }

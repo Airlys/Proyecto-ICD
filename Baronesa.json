@@ -74,12 +74,14 @@
                 "Langosta": "2500",
                 "Canciller": "1800"
             },
+            "Desserts": null,
             "Fittings":{
                 "Vegetales Salteados": "350",
                 "Moro": "250",
                 "Vianda Frita": "350",
                 "Tostones": "450"
-            }
+            },
+            "Drinks": null
         }
     }
 }

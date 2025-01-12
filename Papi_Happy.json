@@ -129,11 +129,12 @@
                     "Consome de Pollo": "850",
                     "Ensalada Mixta": "500"
             },
-            "Dessert":{
+            "Desserts":{
                 "Helado Cake": "660",
                 "Helado Cupcake": "550",
                 "Dulce Coco y Queso": "650"
-            }
+            },
+            "Drinks": null
         }
     }
 }

@@ -64,7 +64,7 @@
                     "Con Langosta": "2000",
                     "Lasaña": "1300"
             },
-            "Pork":{
+            "Main Dishes":{
                 "Bistec Uruguayo": "3000",
                 "Lonjas de Cerdo Asado al Carbon": "1900",
                 "Costillas de Cerdo a la Brasa en Aroma de Carbon": "3000",
@@ -83,21 +83,17 @@
                 "Langosta Grille": "2500",
                 "Enchilado de Langosta": "2600",
                 "Langosta Varadero": "2800",
-                "Pescado Frito Entero": "2500"
-            },
-            "Mexican Tacos(4 lot)": {
-                "Tacos de Cerdo Asado": "2000",
-                "Tacos de Fajita de Cerdo": "2000",
-                "Tacos de Langosta": "2100",
-                "Tacos de Camaron": "2100"
-            },
-            "Chef's Suggestions":{
+                "Pescado Frito Entero": "2500",
+                "Tacos de Cerdo Asado ": "2000",
+                "Tacos de Fajita de Cerdo ": "2000",
+                "Tacos de Langosta ": "2100",
+                "Tacos de Camaron ": "2100",
                 "Arroz Frito": "1500",
                 "Arroz Frito Especial": "1900",
                 "Grillada Los Hermanos": "3000",
                 "Mariscada Los Hermanos": "3500"
             },
-            "Dessert":{
+            "Desserts":{
                 "Copa de Helado": "600",
                 "Flan": "700",
                 "Copa Lolita": "800",
