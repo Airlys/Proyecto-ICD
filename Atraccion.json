@@ -1,0 +1,121 @@
+{ 
+"Restaurants":{
+    "Atraccion":{
+        "Province": "La Habana",
+        "Municipality": "Diez de Octubre",
+        "Location": "Calzada de Diez de Octubre % Acosta y O'Farril",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Atracci%25C3%25B3n/data%3D!4m2!3m1!1s0x0:0x73f3298b9d3026a7%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjypMyY0fCKAxX-RzABHRKhIgwQ_BJ6BAg7EAk&usg=AOvVaw0GXe1QEZ2bUPRq7J0ov9Ja",
+            "total": 4.4,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Internacional y Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": true,
+                "Payment type": "transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Ensalada Fria de Jamon": "400",
+                "Ensalada Fria de Atun": "500",
+                "Aceitunas": "800",
+                "Entremes de Jamon, Chorizo y Queso": "1200",
+                "Coctel de Camarones": "1100",
+                "Fritura de Malanga": "480",
+                "Croquetas de la Casa": "550",
+                "Bolitas de Queso": "680",
+                "Fajitas de Pollo": "900",
+                "Eperlan de Pescado": "1350"
+            },
+            "Main Dishes": {
+                "Pizza de Queso Napolitana": "1100",
+                "Espaguettis de Queso Napolitano": "1150",
+                "Bistec de Pollo Deshuesado": "1300",
+                "Bistec de Pechuga Grille": "1700",
+                "Suprema de Pollo": "2100",
+                "Lomo Ahumado": "1900",
+                "Bistec Grille": "1950",
+                "Lomo Grille a la Mantequilla": "2100",
+                "Bistec Especial": "2150",
+                "Masa Frita Bañada en Mojo Criollo": "2200",
+                "Solomillo Arracion en su Salsa": "2400",
+                "Lomo con Salsa de Champiñon": "2500",
+                "Ropa Vieja": "2200",
+                "Vaca Frita": "2200",
+                "Bistec de Res": "2300",
+                "Lomo de Riñonada": "3100",
+                "Entrecot": "4200",
+                "Lomo de Emperador": "2400",
+                "Camaron Grille": "2400",
+                "Camaron al Ajillo": "2500",
+                "Camaron Enchilado": "2500",
+                "Camaron Salvaje": "2850",
+                "Tormenta Marina": "3600"
+            },
+            "Fittings": {
+                "Arroz Blanco": "250",
+                "Arroz Moro": "300",
+                "Fufu de Malanga": "350",
+                "Chips de Vianda": "390",
+                "Ensalada de Estacion": "450",
+                "Tostones Fritos": "500",
+                "Arroz Frito": "1120",
+                "Arroz Frito Especial": "1900"
+            },
+            "Desserts": {
+                "Helado 3 Gracias": "400"
+            },
+            "Drinks": {
+                "Agua Importada": "280",
+                "Refresco": "300",
+                "Jugo Natural": "300",
+                "Malta": "350",
+                "Batido Natural": "500",
+                "Batido de Helado": "600",
+                "Energizante": "400",
+                "Cerveza Nacional": "380",
+                "Cerveza Importada": "500",
+                "Jarra de Cerveza": "1250"
+            },
+            "Cocktails": {
+                "Tinto de Verano": "600",
+                "Cuba Libre": "400",
+                "Servicio de Chelada": "150",
+                "Servicio de Michelada": "280",
+                "Caipiroska": "500",
+                "Caipiriña": "500",
+                "Caipirissima": "550",
+                "Gin Tonic": "700",
+                "Daiquiri Frappe": "450",
+                "Daiquiri Natural": "450",
+                "Cubata": "450"
+            },
+            "Drinks 2": {
+                "Linea Whisky": "250",
+                "Linea Vodka": "250",
+                "Linea de Añejo 3 Años": "300",
+                "Linea de Añejo Especial": "300",
+                "Linea de Añejo Reserva": "350",
+                "Linea Ballantines": "650",
+                "Linea Red Label": "650",
+                "Linea Ron Blanco": "500",
+                "Chupito Tequila": "300",
+                "Copa de Vino": "500"
+            },
+            "Coffee": {
+                "Espresso": "150"
+            }
+        }
+    }
+}
+}

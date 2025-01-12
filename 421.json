@@ -27,7 +27,9 @@
         "menu and prices": {
             "Starters": {
                 "Surtido-421": "2600",
-                "Croquetas de Pescado": "1100",
+                "Croquetas de Pescado": "1100"
+            },
+            "Main Dishes": {
                 "Pechuga de Pollo Margarita": "2880",
                 "Pechuga de Pollo Parmesana": "2990",
                 "Costillas de Cerdo con Mojo Criollo": "2550",
@@ -35,6 +37,7 @@
                 "Picadillo de Res a la Habanera": "2500",
                 "Filete de Pescado y Camarones": "2600"
             },
+            "Desserts": null,
             "Drinks": null
         }
     }

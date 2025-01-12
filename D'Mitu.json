@@ -1,0 +1,59 @@
+{ 
+"Restaurants":{
+    "D'Mitu":{
+        "Province": "La Habana",
+        "Municipality": "Diez de Octubre",
+        "Location": "Calle 1ra #64 Altos entre Gertrudis y Lagueruela, La Vibora",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/PxprkCY",
+            "total": 2.5,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Martes, Miercoles, jueves, Viernes, Sabado y Domingo",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Pizza Hawaiana": "520",
+                "Pizza con Chorizo": "500",
+                "Pizza de Jamon": "490",
+                "Pizza de Queso": "380",
+                "Super Pizza Mixta": "900",
+                "Super Pizza Hawaiana": "800",
+                "Super Pizza de Chorizo": "780",
+                "Super Pizza de Jamon": "750",
+                "Super Pizza de Queso": "600",
+                "Canelones": "450",
+                "Lasagna": "500",
+                "Raviolis": "650",
+                "Farfalle": "500",
+                "Espaguetis": "500",
+                "Pizza Familiar Mixta con Bordes Jamon y Queso": "1200",
+                "Pizza Familiar Mixta sin Bordes Jamon y Queso": "1000",
+                "Pastelon": "850",
+                "Fugazzeta D'Mitu": "980",
+                "Pizza Sol": "750",
+                "Pizza D'Mitu": "380",
+                "Takazo": "600",
+                "Calzone D'Mitu": "480",
+                "Super Takazo": "950"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

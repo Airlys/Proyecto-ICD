@@ -47,20 +47,11 @@
                 "Pulpo con Albahaca y Ajo": "6400",
                 "Pescado Adastra": "7800",
                 "Mariscada de la Casa 2 PAX": "10500",
-                "Pescado Grille": "3800"
-            },
-            "Pasta and Risottos": {
+                "Pescado Grille": "3800",
                 "Pasta Bellahabana": "4300",
                 "Rissotto de Vegetales": "3200",
                 "Rissotto Cubano": "5300",
                 "Rissotto del Mar": "6300"
-            },
-            "Fish and Seafood": {
-                "Langosta Isleña": "4800",
-                "Pulpo con Albahaca y Ajo": "6400",
-                "Pescado Adastra": "7800",
-                "Mariscada de la Casa 2 PAX": "10500",
-                "Pescado Grille": "3800"
             },
             "At Your Whim":{
                 "Langosta": "4500",
@@ -229,9 +220,7 @@
                 "Cerveza Heineken": "1000",
                 "Cerveza Corona": "1000",
                 "Cerveza Stella": "900",
-                "Cerveza Cristal": "850"
-            },
-            "Juices":{
+                "Cerveza Cristal": "850",
                 "Jugo de Estacion": "500",
                 "Jugo de Guayaba": "450",
                 "Jugo Tamarindo": "450",

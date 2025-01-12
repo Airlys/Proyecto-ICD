@@ -1,0 +1,52 @@
+{ 
+"Restaurants":{
+    "Diverxo":{
+        "Province": "La Habana",
+        "Municipality": "Diez de Octubre",
+        "Location": "Calzada de 10 de Octubre #904 entre Luz Oeste y Lacret",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Restaurante%2Bel%2Bdiverso/data%3D!4m2!3m1!1s0x0:0xe1e8ee33d9cd7cd9%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiQnJPZ0PCKAxWTSTABHSxTFjcQ_BJ6BAg8EAk&usg=AOvVaw1XDO8ZfvfCnk4BtTy_MXe_",
+            "total": null,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 12:00m y Cierre 12:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Lechon Asado": "1650",
+                "Espaguetis Napolitana": "850",
+                "Espaguetis de Jamon": "1100",
+                "Espaguetis de Chorizo": "1100",
+                "Espaguetis Alfredo de Jamon": "1150",
+                "Pizza Napolitana": "850",
+                "Diveryo": "1950"
+            },
+            "Additions": {
+                "Jamon": "350",
+                "Atun": "500",
+                "Chorizo": "350",
+                "Aceituna": "500",
+                "Queso": "350"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Termo de Cerveza": "2160"
+            }
+        }
+    }
+}
+}

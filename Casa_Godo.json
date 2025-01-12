@@ -1,0 +1,66 @@
+{ 
+"Restaurants":{
+    "Casa_Godo":{
+        "Province": "La Habana",
+        "Municipality": "Diez de Octubre",
+        "Location": "Ave. Mayia Rodriguez # 358 e/ San Mariano y Vista Alegre, El Monaco",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/1gM3Fzx",
+            "total": 3.4,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas de Pescado": "650",
+                "Coctel de Camaron": "1000",
+                "Entremes de Jamon, Queso y Aceitunas": "850",
+                "Tostones Rellenos con Cerdo": "650",
+                "Garbanzo Frito": "700"
+            },
+            "Main Dishes": {
+                "Churrasco de Cerdo": "3200",
+                "Chilindron de Cordero": "2000",
+                "Langosta Grille": "3000",
+                "Langosta Enchilada": "3000",
+                "Masas de Cerdo": "2000",
+                "Bistec de Cerdo": "2000",
+                "Lonjas de Cerdo": "1800",
+                "Lomo Ahumado": "1800",
+                "Filete de Pescado": "2200",
+                "Filete de Pescado con Vegetales Salteados": "2300",
+                "Filete de Pescado con Camarones": "2900",
+                "Camaron Salteado": "2600",
+                "Camaron Enchilado": "2600",
+                "Pechuga de Pollo": "1800",
+                "Pollo Deshuesado": "950",
+                "Pulpo Salteado al Ajo": "3100"
+            },
+            "Fittings": {
+                "Arroz Frito en Camaron": "850",
+                "Arroz Frito con Camarones": "1200",
+                "Ensalada de Vegetales": "250",
+                "Racion de Moro": "200"
+            },
+            "Desserts": {
+                "Torta": "550"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

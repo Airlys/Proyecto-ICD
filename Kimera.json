@@ -1,0 +1,123 @@
+{ 
+"Restaurants":{
+    "Kimera":{
+        "Province": "La Habana",
+        "Municipality": "Diez de Octubre",
+        "Location": "#311, Calle Lacret entre Juan Bruno Zallas y Cortina, Santos Suarez",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Kimera%2Brestauracion/data%3D!4m2!3m1!1s0x0:0xac30873c2ea0afd0%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjc1J_H0PCKAxW-TTABHbYZC2oQ_BJ6BAg1EAk&usg=AOvVaw2E-HTE5tI_5LvH3kyw_oDO",
+            "total": 4.8,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 12:00m y Cierre 1:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Internacional, Criolla y Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Ensalada de Vegetales": "450",
+                "Croquetas": "500",
+                "Frituras": "500",
+                "Ceviche": "800",
+                "Ensalada Fria": "900",
+                "Eperlan": "1000",
+                "Baston de Pollo": "1000",
+                "Picadera de Pollo o Cerdo": "1200",
+                "Combo Kimera": "4000",
+                "Crema Aurora": "500",
+                "Crema de Queso": "600",
+                "Crema Virginia": "600",
+                "Crema Reina": "650"
+            },
+            "Main Dishes": {
+                "Lasagna": "1400",
+                "Pizza Napolitana": "900",
+                "Pizza de Aji o Cebolla": "1200",
+                "Pizza de Jamon": "1400",
+                "Pizza Hawaiana": "1500",
+                "Pizza de Aceituna": "1500",
+                "Pizza de Pollo": "1500",
+                "Pizza Doble Queso": "1700",
+                "Pizza de Atun": "1800",
+                "Pizza de Cerdo": "1900",
+                "Pizza de Ropa Vieja": "2000",
+                "Pizza del Mar Kimera": "2500",
+                "Espaguetis Napolitano": "800",
+                "Espaguetis de Jamon": "1300",
+                "Espaguetis Doble Queso": "1400",
+                "Espaguetis Carbonara": "1600",
+                "Espaguetis del Mar Kimera": "2500",
+                "Fajitas de Pollo": "1500",
+                "Fajitas de Pescado": "1500",
+                "Pescado Entero Frito": "1600",
+                "Rueda de Pescado": "1600",
+                "Pollo Grille": "1600",
+                "Pollo Frito": "1700",
+                "Pollo Princesa": "1700",
+                "Lonjas de Cerdo": "1800",
+                "Estofado de Cerdo": "1800",
+                "Filete de Pescado": "1800",
+                "Ropa Vieja": "2000",
+                "Pescado Kimera": "2000",
+                "Cordon Bleu": "2000",
+                "Canciller": "2100",
+                "Uruguayo de Cerdo": "2300",
+                "Plato Kimera": "4500"
+            },
+            "Desserts": {
+                "Helado": "320",
+                "Flan": "350",
+                "Tartaleta": "250"
+            },
+            "Cocktails": {
+                "Servicio de Michelada": "300",
+                "Cuba Libre": "500",
+                "Mojito": "550",
+                "Cubanito": "500",
+                "Cubata": "550",
+                "Destornillador": "550",
+                "Daiquiri": "600",
+                "Caipiroska": "600",
+                "Caipiriña": "600",
+                "Caipirissima": "600",
+                "Canchanchara": "600",
+                "Vodka Tonic": "600",
+                "Whisky Tonic": "600",
+                "Gin Tonic": "700",
+                "Piña Colada": "700",
+                "Sangria": "800",
+                "Margarita": "900"
+            },
+            "Drinks": {
+                "Agua": "250",
+                "Refresco": "300",
+                "Cerveza": "320",
+                "Energizante": "400",
+                "Malta": "400",
+                "Malteada": "600",
+                "Batido de Frutas": "400",
+                "Batido de Helado": "500",
+                "Jugos": "250"
+            },
+            "Coffee": {
+                "Espresso": "150",
+                "Cortado": "200",
+                "Cappuchino": "220",
+                "Bombon": "300",
+                "Frappuchino": "350"
+            }
+        }
+    }
+}
+}

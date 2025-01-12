@@ -1,0 +1,40 @@
+{ 
+"Restaurants":{
+    "El_Mexicano":{
+        "Province": "La Habana",
+        "Municipality": "Guanabacoa",
+        "Location": "4MHR+MC7, Avenida Quinta, La Habana",
+        "Stars":{
+            "Social network": null,
+            "url": null,
+            "total": null,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 10:00am y 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Sandwich de Jamon y Queso": "350",
+                "Sandwich de Queso y Jamon Especial": "600",
+                "Pizza de Queso Gouda": "450",
+                "Espaguetis de Queso Gouda": "770"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}
