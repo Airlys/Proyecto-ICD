@@ -1,0 +1,55 @@
+{ 
+"Restaurants":{
+    "La_Pelota":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Esquina 23 y 12, Vedado",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2BPelota/data%3D!4m2!3m1!1s0x0:0xc3bea9fb76f9d92b%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwi6393DivGKAxVaTTABHYppCkMQ_BJ6BAg8EAk&usg=AOvVaw3397HKmnsNqlRc17CDiDWc",
+            "total": 2.3,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 9:45am y Cierre 9:45pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Chicharron": "120",
+                "Croqueta": "150",
+                "Entrante de Jamon": "300"
+            },
+            "Main Dishes": {
+                "Bistec de Cerdo": "600",
+                "Masa de Cerdo Frita": "600",
+                "Costilla de Cerdo Frita": "600",
+                "Pollo Grille": "550",
+                "Pollo Asado": "550"
+            },
+            "Fittings": {
+                "Picadillo": "250",
+                "Arroz Moro": "100",
+                "Vianda Hervida": "40"
+            },
+            "Desserts": null,
+            "Drinks": {
+                "Energizante": "200",
+                "Refresco de Cola": "190",
+                "Jugo de Fruta": "180",
+                "Cerveza Importada": "200"
+            }
+        }
+    }
+}
+}

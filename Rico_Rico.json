@@ -1,0 +1,76 @@
+{ 
+"Restaurants":{
+    "Rico_Rico":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Calle Ayestaran entre Perfecto Lacoste y Aranguren",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Rico%2BRico%2BPizzer%25C3%25ADa/data%3D!4m2!3m1!1s0x0:0x575167c3836f46e4%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiHpaCsi_GKAxUvRzABHSPhMCMQ_BJ6BAg5EAk&usg=AOvVaw1QC1Y9Pvm6wEY852LYwSKl",
+            "total": 2.4,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 9:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Ensalada Fria de Atun(Pequeña)": "645",
+                "Ensalada Fria de Atun(Mediana)": "1200",
+                "Ensalada Fria de Atun(Grande)": "2205",
+                "Ensalada Fria de Jamon y Queso": "495",
+                "Pizzeta de Napole": "230",
+                "Pizzeta de Chorizo": "325",
+                "Bastones de Queso": "780",
+                "Empanadas Gallegas": "380",
+                "Tequeños": "350"
+            },
+            "Main Dishes": {
+                "Pizza Napolitana": "920",
+                "Pasta Napolitana": "920",
+                "Pasta Carbonara": "1000",
+                "Calzone Napolitano": "1090",
+                "Megacalzone": "1440",
+                "Lasagna Bolognesa": "1550",
+                "Lasagna de Jamon": "1490"
+            },
+            "Additions": {
+                "Aceitunas": "220",
+                "Piña": "220",
+                "Cebolla": "400",
+                "Atun": "550",
+                "Chorizo": "2390",
+                "Bacon": "360",
+                "Jamon": "320",
+                "Jamon Serrano": "480",
+                "Parmesano": "350",
+                "Gouda": "360",
+                "Lomo Ahumado": "380",
+                "Queso Azul": "300"
+            },
+            "Desserts": {
+                "Pastelito de Ojaldre de Guayaba o Coco": "260",
+                "Pastelito de Ojaldre de Jamon y Queso": "280",
+                "Flan": "590"
+            },
+            "Drinks": {
+                "Frappi Rico": "180",
+                "Mega Bati Bati": "990",
+                "Super Bati Bati": "785",
+                "Bati Frutas": "675"
+            }
+        }
+    }
+}
+}

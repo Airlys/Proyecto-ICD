@@ -1,0 +1,73 @@
+{ 
+"Restaurants":{
+    "La_Barrita_Onbazar":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Amenida entre Cruz del Pader e Infanta",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/ZddWfLw",
+            "total": 5.0,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 9:00am y Cierre 11:00pm(Lunes-Jueves) y Apertura 9:00am y Cierre 1:00am(Viernes-Domingo)",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Tostones Rellenos": "1300",
+                "Jamon, Queso y Aceitunas": "750",
+                "Mixta": "1600",
+                "Brochetas": "2000",
+                "Croquetas": "650"
+            },
+            "Main Dishes": {
+                "Pollo Frito": "1500",
+                "Pollo Chiflado": "1650",
+                "Pizza Napolitana": "850",
+                "Pizza de Chorizo": "1000",
+                "Pizza de Jamon": "1000",
+                "Pizza Hawaiana": "1150",
+                "Pizza de Cebolla": "1000",
+                "Espaguetis": "850",
+                "Espaguetis de Jamon": "1100",
+                "Espaguetis de Chorizo": "1000",
+                "Hamburguesa": "1200",
+                "Hamburguesa de Jamon y Queso": "1650",
+                "Hamburguesa Onbazar": "2700"
+            },
+            "Additions": {
+                "Jamon": "150",
+                "Cebolla": "150",
+                "Chorizo": "150",
+                "Hawaiana": "250",
+                "Doble Queso": "250"
+            },
+            "Desserts": null,
+            "Coffee": {
+                "Espresso": "180",
+                "Cortado": "220",
+                "Cappuchino": "450",
+                "Bombon": "450"
+            },
+            "Drinks": {
+                "Piña Colada": "600",
+                "Piña Colada sin alcohol": "750",
+                "Limonada Frappe": "400",
+                "Malteada": "500"
+            }
+        }
+    }
+}
+}

@@ -1,0 +1,69 @@
+{ 
+"Restaurants":{
+    "Jorgito's_Pizzas":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Pedroso entre Infanta y Cruz del Pader",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/R4qf41B",
+            "total": 4.0,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 11:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Pizza de Queso Gouda": "410",
+                "Pizza de Queso Gouda ": "750",
+                "Pizza de 2 Quesos": "990",
+                "Pizza Hawaiana": "1110",
+                "Pizza de 3 Quesos": "1320",
+                "Pizza de 4 Quesos": "1500",
+                "Pizza de Vegetales": "1650",
+                "Pizza Familiar de Queso Gouda": "1820",
+                "Pizza Familiar de 2 Quesos": "2780",
+                "Pizza Familiar Hawaiana": "3260",
+                "Pizza Familiar de 3 Quesos": "3345",
+                "Pizza Familiar de 4 Quesos": "3470",
+                "Pizza Familiar de Vegetales": "5420",
+                "Espaguetis con Queso Gouda": "690",
+                "Pizza Especial con Todos los Agregos": "3800"
+            },
+            "Additions": {
+                "Chorizo": "170",
+                "Chorizo(Familiar)": "680",
+                "Piña": "180",
+                "Jamon": "180",
+                "Jamon(Familiar)": "720",
+                "Queso Nacional": "180",
+                "Queso Mozzarella": "240",
+                "Pimiento": "250",
+                "Pimiento(Familiar)": "1000",
+                "Cebolla": "300",
+                "Cebolla(Familiar)": "1200",
+                "Queso Gouda": "300",
+                "Queso Gouda(Familiar)": "1200",
+                "Queso Parmesano": "330",
+                "Atun": "330",
+                "Aceitunas": "350"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

@@ -1,0 +1,166 @@
+{ 
+"Restaurants":{
+    "LeyendHabana":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/skkxbT7",
+            "total": 4.6,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 12:00m y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Caribeña",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Tartaletas Mixtas": "1178",
+                "Pulpitos al Ajillo": "1209",
+                "Pimientos de Piquillo Rellenos": "1240",
+                "Frituras de Malanga": "558",
+                "Rollitos de Salmon Rellenos de Queso Crema y Uva Pasas": "1550"
+            },
+            "Main Dishes": {
+                "Filete Mignon con Salsa a Eleccion": "3689",
+                "Suprema de Pollo a la Crema": "2139",
+                "Cordero Asado al Romero": "2108",
+                "Filete de Salmon Rosa Grille": "3177.5",
+                "Langosta Grille": "3565",
+                "Camarones LeyendHabana Perfumados al Vino Blanco": "2402.5",
+                "Filete de Pescado con Crema de Limon, Uvas Pasas y Frutos Secos": "2216.5"
+            },
+            "Desserts": {
+                "Tarta de Crema": "1193.5",
+                "Brownie": "1193.5"
+            },
+            "Drinks": {
+                "Agua Ciego Montero Mineral Gaseada": "310",
+                "Agua Ciego Montero Mineral Natural": "310",
+                "Agua Ciego Montero Tonica": "310",
+                "Agua Fever Tree Tonic": "1550",
+                "Agua MG Tonic": "930",
+                "Agua Panna": "775",
+                "Agua San Pellegrino": "775",
+                "Agua Schweppes Tonic": "1240",
+                "Cerveza Importada": "775",
+                "Cerveza Nacional": "542.5",
+                "Jugo La Estancia": "465",
+                "Jugos Naturales": "465",
+                "Malta Importada": "465",
+                "Malta Nacionales": "372",
+                "Refresco Coca Cola": "604.5",
+                "Refresco Fanta": "604.5",
+                "Refresco Ironbeer": "310",
+                "Refresco Kermato": "542.5",
+                "Refresco Limon": "310",
+                "Refresco Naranja": "310",
+                "Refresco Pepsi": "604.5",
+                "Refresco Piñita": "310",
+                "Refresco Sprite": "604.5",
+                "Refresco Tukola": "310",
+                "Refresco Tukola Light": "310"
+            },
+            "Rums": {
+                "Abuelo Añejo Reserva Especial": "1240",
+                "Arecha 15 Años": "1550",
+                "Bacardi Gold": "1550",
+                "Havana Club 15 Años": "4650",
+                "Havana Club 3 Años": "480.5",
+                "Havana Club 7 Años": "775",
+                "Havana Club Blanco": "310",
+                "Havana Club Especial": "589",
+                "Havana Club Maximo": "62000",
+                "Havana Club Reserva": "682",
+                "Havana Club Ritual": "620",
+                "Legendario Añejo Blanco": "310",
+                "Legendario Dorado": "465",
+                "Legendario Elixir": "465",
+                "Mulata 15 Años": "2480",
+                "Santa Teresa Gran Reserva": "1395",
+                "Santiago 11 Años": "2015",
+                "Santiago 20 Años": "4650",
+                "Santiago Añejo": "480.5",
+                "Havana Club Seleccion de Maestros": "1705",
+                "Vigia Gran Añejo": "2170"
+            },
+            "Whisky":{
+                "Ballantines 12 Años": "1860",
+                "Ballantines Finest": "930",
+                "Chivas Regal 12 Años": "1550",
+                "Chivas Regal 18 Años": "4340",
+                "Clan Campbell": "806",
+                "J&B": "930",
+                "Jack Daniel's": "1860",
+                "Jameson": "930",
+                "Johnnie Walker Black Label": "1860",
+                "Johnnie Walker Blue Label": "7750",
+                "Johnnie Walker Double Black": "3100",
+                "Johnnie Walker Red Label": "930",
+                "The Glenlivet 12 Años": "1860"
+            },
+            "Brandy": {
+                "Cognac Gautier": "3100",
+                "Torres 10": "2170",
+                "Torres 5": "1395"
+            },
+            "Geneva": {
+                "Gordon's": "930",
+                "Master": "930",
+                "Tanqueray": "1550"
+            },
+            "Vodka": {
+                "Absolut": "1240",
+                "Absolut Ruby Red": "1550",
+                "Absolut Vanilia": "1550",
+                "Russian Shot": "620"
+            },
+            "Tequila": {
+                "Jarana Reposado 100% Agave": "930",
+                "Jarana Silver 100% Agave": "620",
+                "Jose Cuervo Reposado": "1240",
+                "Jose Cuervo Silver": "930"
+            },
+            "Wines": {
+                "Vermouth Cinzano Bianco": "930",
+                "Vermouth Cinzano Extra Dry": "930",
+                "Vermouth Cinzano Rosso": "930",
+                "Vermouth Martini Bianco": "930",
+                "Vino Blanco": "1085",
+                "Vino Rosado": "1085",
+                "Vino Tinto": "1085"
+            },
+            "Liqueurs": {
+                "Amaretto del Conti": "1240",
+                "Amarula": "1240",
+                "Anis del Mono Dulce": "1240",
+                "Baileys": "1240",
+                "Crema Catalana": "775",
+                "Frangelico": "1550",
+                "Kahlua": "930",
+                "Malibu": "620",
+                "Ricard": "930",
+                "Tia Maria": "1395"
+            },
+            "Cocktails": {
+                "Sex on the Beach": "930",
+                "Screwdriver": "930",
+                "Mojito": "775",
+                "Cubanito": "775",
+                "Cuba Libre": "775"
+            }
+        }
+    }
+}
+}

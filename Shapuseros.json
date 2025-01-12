@@ -1,0 +1,49 @@
+{ 
+"Restaurants":{
+    "Shapuseros":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Calzada de Ayestaran entre San Pedro y Ayuntamiento",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/bWUwvTP",
+            "total": 3.0,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 9:00am y Cierre 9:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Hamburguesa de Pollo": "500",
+                "Hamburguesa de Cerdo": "550",
+                "Hamburguesa de Res": "600",
+                "Hamburguesa Shapusero": "1200"
+            },
+            "Additions": {
+                "Queso": "150",
+                "Jamon": "120",
+                "Chorizo": "150",
+                "Bacon": "155",
+                "Huevo": "150",
+                "Cebolla": "50",
+                "Salsa BBQ": "30"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

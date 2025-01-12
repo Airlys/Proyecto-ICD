@@ -1,0 +1,114 @@
+{ 
+"Restaurants":{
+    "Wapa":{
+        "Province": "La Habana",
+        "Municipality": "Plaza de la Revolucion",
+        "Location": "Calle 4 entre 15 y 17, Vedado",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/cRos2vp",
+            "total": 3.6,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 9:00am y Cierre 11:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Breakfast": {
+                "Combo 1": "1500",
+                "Combo 2": "1900",
+                "Combo 3 Infantil": "1100",
+                "Omelette Jardinera": "1200",
+                "Omelette Tentacion": "1200",
+                "Omelette del Campo": "1100",
+                "Omelette": "600"
+            },
+            "Starters": {
+                "Croquetas de la Abuela": "700",
+                "Croquetas de Jamon Serrano": "1000",
+                "Bolitas de Queso": "1000",
+                "Crema de Queso": "600",
+                "Ceviche de Pescado": "2000",
+                "Ceviche Mixto Tropical": "2600",
+                "Ceviche de Camaron": "2900",
+                "Coctel de Camaron": "2000",
+                "Baston de Pollo": "1900",
+                "Daditos de Pescado": "2100",
+                "Fritura de Malanga": "500",
+                "Brusquetas": "900",
+                "Tartaleta de Jamon y Queso": "900",
+                "Tartaleta de Pollo": "1350",
+                "Tartaleta de Atun": "1100"
+            },
+            "Main Dishes": {
+                "Pizza": "1200",
+                "Lasagna": "1300",
+                "Canelon de Jamon": "1200",
+                "Canelon Bolognesa": "1750"
+            },
+            "Drinks": {
+                "Agua Natural": "300",
+                "Refresco Importado": "400",
+                "Malta": "500",
+                "Malteada": "800",
+                "Cerveza Importada": "450",
+                "Cerveza Nacional": "550"
+            },
+            "Cocktails": {
+                "Servicio de Michelada": "600",
+                "Sangria": "1000",
+                "Cuba Libre": "800",
+                "Cubata": "850",
+                "Mojito": "800",
+                "Caipiriña": "500",
+                "Caipiroska": "500",
+                "Caipirissima": "550",
+                "Ron Collins": "850",
+                "Piña Colada": "850",
+                "Barbie": "700",
+                "Canchanchara": "550",
+                "Daiquiri": "650"
+            },
+            "wines": {
+                "Copa de Vino": "800"
+            },
+            "Coffee": {
+                "Espresso": "220",
+                "Americano": "360",
+                "Cortado": "250",
+                "Cappuchino": "550",
+                "Cappuchino Wapa": "600",
+                "Bombon": "600",
+                "Mocaccio": "550",
+                "Frappuchino": "950",
+                "Q Locura": "850",
+                "Con Leche": "550",
+                "Chocolate Caliente": "350",
+                "Te": "100"
+            },
+            "Desserts": {
+                "Wapeton": "2000",
+                "Wapeton Dinamita": "2000",
+                "Wapeton Volcan": "2000",
+                "Wapito": "1200",
+                "Batido de Frutas Naturales": "700",
+                "Batido de Helados": "1200",
+                "Copa de Helado": "1000",
+                "Tartaleta": "1000",
+                "Bola de Helado": "300"
+            }
+        }
+    }
+}
+}

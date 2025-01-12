@@ -1,0 +1,52 @@
+{ 
+"Restaurants":{
+    "El_Rapido":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Cruz del Pader entre Pedrosa y Amenidares",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/El%2BR%25C3%25A1pido/data%3D!4m2!3m1!1s0x0:0xe2de83623f9165b0%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwj7_s-ljPGKAxX0TTABHb1vLOsQ_BJ6BAhEEAQ&usg=AOvVaw2HZThRN0xiEXawVmD1K0AB",
+            "total": 5.0,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 7:30am y Cierre 7:30pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Comida Rapida",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Croquetas": "300",
+                "Papas Fritas": "360"
+            },
+            "Main Dishes": {
+                "Pan con Tortilla": "300",
+                "Pan con Tortilla, Jamon": "360",
+                "Pan con Tortilla, Chorizo": "360",
+                "Pan con Tortilla, Cebolla": "360",
+                "Pan con Tortilla, Queso Gouda": "400",
+                "Espaguetis": "850",
+                "Espaguetis Napolitanos": "380",
+                "Espaguetis de Chorizo": "1000",
+                "Hamburguesa de Cerdo": "620",
+                "Hamburguesa de Res": "720",
+                "Pollo Chiflado": "750",
+                "Sandwich Cubano": "860",
+                "Pan con Bistec de Cerdo": "750"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

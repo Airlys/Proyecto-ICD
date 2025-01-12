@@ -1,0 +1,50 @@
+{ 
+"Restaurants":{
+    "El_Batazo":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Primelles 356 entre Santa Teresa y Daois",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.es/Restaurant_Review-g147271-d10453999-Reviews-El_Batazo-Havana_Ciudad_de_la_Habana_Province_Cuba.html&ved=2ahUKEwiqgpC7jPGKAxWgRDABHWS3Ae0QFnoECBwQAQ&usg=AOvVaw004-to_SiOL5znucIxDj_F",
+            "total": 4.5,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 11:00am y Cierre 10:00pm",
+        "Days of the week": "Lunes, Martes, Miercoles, Jueves, Viernes y Sabado",
+        "Type of food or specialty": "Italiana",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Pizza de Queso": "750",
+                "Pizza de Chorizo": "930",
+                "Pizza Hawaiana": "1130",
+                "Pizza de Jamon": "930",
+                "Pizza de Cebolla": "950",
+                "Pizza de Aji": "950",
+                "Pizza de Atun": "1250",
+                "Pizza de Aceitunas": "950",
+                "Pizza de Pepperoni": "1050",
+                "Espaguetis": "600",
+                "Espaguetis de Jamon": "780",
+                "Hamburguesa Strike": "550",
+                "Hamburguesa Doble Play": "1000",
+                "Hamburguesa Homerun": "1300"
+            },
+            "Desserts": null,
+            "Drinks": null
+        }
+    }
+}
+}

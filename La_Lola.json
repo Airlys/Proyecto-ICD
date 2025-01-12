@@ -1,0 +1,141 @@
+{ 
+"Restaurants":{
+    "La_Lola":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Calle Ayestaran entre San Pablo y Pedro Perez",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Lola%2BCaf%25C3%25A9/data%3D!4m2!3m1!1s0x0:0xf791669a3dc58569%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwjt-OPTi_GKAxW_RjABHR08LYEQ_BJ6BAg9EAk&usg=AOvVaw3N0qSZoOY011KMNEAorZpo",
+            "total": 3.8,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 2:00pm y Cierre 2:00am",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Cocteleria",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": true,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Brusquetas": "700",
+                "Croquetas de Jamon": "600",
+                "Papas Fritas": "550",
+                "Papas Gratinadas": "800",
+                "Tostones Rellenos de Atun": "1100",
+                "Tostones Rellenos de Jamon y Queso": "800",
+                "Bolitas de Queso": "730",
+                "Fritura de Malanga": "500",
+                "Picadera Lalola": "4000",
+                "Picadera Sencilla": "1500",
+                "Bocadillo de Jamon y Queso": "500",
+                "Sandwich de Jamon y Queso/Papas": "1200",
+                "Sandwich Cubano": "1100",
+                "Sandwich de Jamon y Queso": "900"
+            },
+            "Main Dishes": {
+                "Canelones": "1350",
+                "Penne Napolitano": "1100",
+                "Pizza Napolitana": "1200",
+                "Espaguetis Napolitano": "1100",
+                "Espaguetis a la Carbonara": "1970",
+                "Tacos de Carne": "900",
+                "Hamburguesa": "1500",
+                "Lonjas de Cerdo": "3500",
+                "Nuggets de Pollo": "2000",
+                "Masas de Cerdo": "1750"
+            },
+            "Additions": {
+                "Aji": "150",
+                "Chorizo": "300",
+                "Atun": "600",
+                "Jamon Pierna": "300",
+                "Piña": "150",
+                "Cebolla": "250",
+                "Queso de Cabra": "600",
+                "Queso Gouda": "500",
+                "Queso Parmesano": "800",
+                "Aceitunas": "500"
+            },
+            "Desserts": {
+                "Helado": "900",
+                "Copa Lolita Racion": "2000"
+            },
+            "Cocktails": {
+                "Piña Colada": "700",
+                "Ron Collins": "450",
+                "Sangria": "600",
+                "Screwdriver": "475",
+                "Daiquiri": "350",
+                "Gin Tonic": "750",
+                "John Collins": "450",
+                "Mojito": "350",
+                "Margarita": "950",
+                "Blue Hawai": "550",
+                "Blue Lagoon": "550",
+                "Caipiriña": "350",
+                "Caipirissima": "350",
+                "Caipiroska": "600",
+                "Cuba Libre": "350",
+                "Cubanito": "450",
+                "Cubata": "400",
+                "Servicio de Chelada": "150",
+                "Servicio de Michelada": "350"
+            },
+            "Drinks": {
+                "Agua Natural Cool Heaven": "350",
+                "Energizante": "350",
+                "Energizante Tigon Drink": "350",
+                "Cerveza Bucanero Lata": "350",
+                "Cerveza Heineken Botella": "574",
+                "Cerveza Cristal Lata": "350",
+                "Cerveza Cristal Botella": "420",
+                "Cerveza Super Bock Botella": "370",
+                "Cerveza Sol": "480",
+                "Limonada Frappe": "450",
+                "Kermato": "580",
+                "Malta Optimal": "370",
+                "Refresco Naranja": "300",
+                "Refresco de Limon": "300",
+                "Refresco Cola": "300",
+                "Refresco": "300",
+                "Refresco Pepsi": "350",
+                "Jugo La Estancia": "350",
+                "Malteada": "200",
+                "Cubetazo La Lola": "4200",
+                "Cubetazo Picadera": "3300"
+            },
+            "Coffee": {
+                "Bombon": "350",
+                "Cortado": "300",
+                "Espresso": "200"
+            },
+            "Whisky": {
+                "Ballantines": "10000",
+                "Johnnie Walker Red Label": "13000",
+                "Johnnie Walker Red Label 1 LT": "15000",
+                "Jameson": "10000",
+                "Chivas Regal": "15000",
+                "Chivas Regal 12 Años(4.5L)": "125440"
+            },
+            "Rums": {
+                "Havana Club Smoky": "5000",
+                "Havana Club Reserva": "5000"
+            },
+            "Packaging": {
+                "Termo Pack": "150",
+                "Caja de Pizza": "100",
+                "Alquiler de Hookah": "2000"
+            }
+        }
+    }
+}
+}

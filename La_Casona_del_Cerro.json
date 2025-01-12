@@ -1,0 +1,55 @@
+{ 
+"Restaurants":{
+    "La_Casona_del_Cerro":{
+        "Province": "La Habana",
+        "Municipality": "Cerro",
+        "Location": "Calzada del Cerro entre Alzobispo y Peñon",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/La%2BCasona%2BDel%2BCerro/data%3D!4m2!3m1!1s0x0:0x1fede82f1ff514ce%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiFmMHoi_GKAxWETjABHb5EIN8Q_BJ6BAg4EAQ&usg=AOvVaw2WORPP8Jzi3vunHv9Va19k",
+            "total": null,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 10:00am y Cierre 10:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": false,
+                "Home service": null,
+                "Payment type": "Transferencia y Efectivo"
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": null,
+            "Main Dishes": {
+                "Pizza Napolitana con Queso Gouda": "450",
+                "Pizza Doble Queso": "650",
+                "Pizza de Jamon y Queso Gouda": "500",
+                "Pizza Mixta con Queso Gouda": "550",
+                "Pizza Familiar con Queso Gouda": "900",
+                "Pizza Familiar Doble Queso": "1200",
+                "Pizza Familiar de Jamon y Queso Gouda": "1000",
+                "Pizza Familiar Mixta con Queso Gouda": "1050",
+                "Espaguetis con Queso Gouda": "450",
+                "Espaguetis con Jamon y Queso Gouda": "500",
+                "Espaguetis Doble Queso Gouda": "650",
+                "Espaguetis Mixto": "550",
+                "Pollo Asado": "1100",
+                "Masa Frita": "900",
+                "Bistec de Cerdo": "850",
+                "Fricase de Cerdo": "850",
+                "Chuleta": "1000"
+            },
+            "Desserts": {
+                "Flan": "350"
+            },
+            "Drinks": null
+        }
+    }
+}
+}

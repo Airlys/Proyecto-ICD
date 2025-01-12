@@ -1,0 +1,58 @@
+{ 
+"Restaurants":{
+    "La_Casa_del_Campesino":{
+        "Province": "La Habana",
+        "Municipality": "La Lisa",
+        "Location": " R2RJ+Q7G, Las Terrazas",
+        "Stars":{
+            "Social network": "Google",
+            "url": "https://g.co/kgs/CeAXYhw",
+            "total": 4.7,
+            "date": "20250112"
+        },
+        "schedules": "Apertura 10:00am y Cierre 5:00pm",
+        "Days of the week": "Todos",
+        "Type of food or specialty": "Criolla",
+        "Most popular food": null,
+        "Facilities": {
+                "Pets": null,
+                "Wheelchair ramp": null,
+                "infant stool": null,
+                "Smoking area": null,
+                "Parking": null,
+                "Home service": null,
+                "Payment type": null
+        },
+        "Capacity": null,
+        "menu and prices": {
+            "Starters": {
+                "Entremes de Embutido y Queso": "350",
+                "Ensalada Fria": "150",
+                "Croquetas": "200"
+            },
+            "Main Dishes": {
+                "Chuleta de Cerdo": "1600",
+                "Bistec de Cerdo": "1350",
+                "Costilla de Cerdo": "1600",
+                "Pollo Asado": "650"
+            },
+            "Fittings": {
+                "Vianda Frita": "120"
+            },
+            "Desserts": {
+                "Mermelada de Mango con Queso": "190",
+                "Fruta en Almibar": "160"
+            },
+            "Drinks": {
+                "Cerveza Presidente": "180",
+                "Cerveza Parranda": "180",
+                "Cerveza Bucanero": "180",
+                "Cerveza Moosehead": "180",
+                "Cerveza Cristal": "180",
+                "Cerbeza Super Bock": "180",
+                "Agua Mineral": "88"
+            }
+        }
+    }
+}
+}
