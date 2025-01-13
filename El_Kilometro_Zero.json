@@ -23,42 +23,42 @@
                 "Home service": false,
                 "Payment type": "Transferencia y efectivo"
         },
-            "Capacity": 70,
-            "menu and prices": {
-                "Starters": {
-                    "Cesta de Pan": "850",
-                    "Croquetas de la Casa": "1140",
-                    "Tamal Cubano": "2080",
-                    "Tacos de la Casa": "1795",
-                    "Quesadilla de Vaca Frita": "1760",
-                    "Fajitas de Pollo al Estilo KM ZERO": "2170",
-                    "Carpaccio de Res": "3000",
-                    "Carpaccio de Pescado": "2300",
-                    "Eperlan": "2250",
-                    "Ceviche": "2225"
+        "Capacity": 70,
+        "menu and prices": {
+            "Starters": {
+                "Cesta de Pan": "850",
+                "Croquetas de la Casa": "1140",
+                "Tamal Cubano": "2080",
+                "Tacos de la Casa": "1795",
+                "Quesadilla de Vaca Frita": "1760",
+                "Fajitas de Pollo al Estilo KM ZERO": "2170",
+                "Carpaccio de Res": "3000",
+                "Carpaccio de Pescado": "2300",
+                "Eperlan": "2250",
+                "Ceviche": "2225"
             },
-                "Main Dishes": {
-                    "Pollo Moreno": "2865",
-                    "Vaca Frita": "2940",
-                    "Ropa Vieja": "2970",
-                    "Lonjas de Cerdo": "3040",
-                    "Masas de Cerdo": "3075",
-                    "Pesca del Dia": "4480",
-                    "Pescado en Costra": "4995",
-                    "Camarones al Gusto": "5250"
+            "Main Dishes": {
+                "Pollo Moreno": "2865",
+                "Vaca Frita": "2940",
+                "Ropa Vieja": "2970",
+                "Lonjas de Cerdo": "3040",
+                "Masas de Cerdo": "3075",
+                "Pesca del Dia": "4480",
+                "Pescado en Costra": "4995",
+                "Camarones al Gusto": "5250"
             },
-                "Fittings": {
-                    "Arroz": "580",
-                    "Frijoles": "620",
-                    "Vianda Frita": "640",
-                    "Papas Fritas": "1280"
+            "Fittings": {
+                "Arroz": "580",
+                "Frijoles": "620",
+                "Vianda Frita": "640",
+                "Papas Fritas": "1280"
             },
-                "Salads": {
-                    "Ensalada Organica": "995",
-                    "Ensalada Coronada con Atun": "1760"
+            "Salads": {
+                "Ensalada Organica": "995",
+                "Ensalada Coronada con Atun": "1760"
             },
-                "To Share": {
-                    "Pica Pica Boom": "3200"
+            "To Share": {
+                "Pica Pica Boom": "3200"
             },
             "Specials": {
                 "Pescado Entero al Josper": "8370",
