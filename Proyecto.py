@@ -24,6 +24,8 @@ def precios(carpeta):
                     df_completo.columns=df_completo.iloc[0]
                     df_completo=df_completo[1:].reset_index(drop=True)
     return df_completo,restaurantes           
+            
+
  
 
 def minimo(json1):
