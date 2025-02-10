@@ -25,9 +25,6 @@ def precios(carpeta):
                     df_completo=df_completo[1:].reset_index(drop=True)
     return df_completo,restaurantes           
             
-
- 
-
 def minimo(json1):
     x=[]
     k=[]
@@ -46,7 +43,6 @@ def minimo(json1):
     minimo=min(x)
     articulo=k[x.index(minimo)]
     return [min(x),articulo]
-
 
 def pastel(Restaurante_Disponibles,seleccionado):
     if seleccionado:
