@@ -25,110 +25,109 @@
         },
         "Capacity": 40,
         "menu and prices": {
-                "Natural Juices": {
-                    "Jugo de Frutas": "450",
-                    "Jugo Verde": "450",
-                    "Jugo de Vegetales": "600",
-                    "Jugos Mixtos": "750"
-                },
-                "Sandwichs": {
-                    "Sandwich con Verduritas y Queso Fresco": "1050",
-                    "Sandwich Supremo": "1350",
-                    "Sandwich de Atun": "1440",
-                    "Sandwich de Jamon Serrano y Queso": "1650",
-                    "Sandwich Cubano": "2100"
-                },
-                "Crepes": {
-                    "De Jamon Serrano y Queso": "1500",
-                    "De Jamon Serrano, Vegetales y Queso": "1650",
-                    "De Vegetales": "1050",
-                    "De Queso": "1050",
-                    "De Frutas(natural o Glaseada)": "1200",
-                    "De Chocolate": "1050",
-                    "De Limon": "600"
-                },
-                "Eggs": {
-                    "Huevos Fritos": "450",
-                    "Tortilla Natural": "450"
-                },
-                "Additions": {
-                    "Queso Gouda": "540",
-                    "Vegetales Salteados": "300",
-                    "Aceitunas": "600",
-                    "Bacon": "600",
-                    "Jamon Serrano": "750",
-                    "Pan y Mantequilla": "600"
-                }
+            "Sandwichs": {
+                "Sandwich con Verduritas y Queso Fresco": "1050",
+                "Sandwich Supremo": "1350",
+                "Sandwich de Atun": "1440",
+                "Sandwich de Jamon Serrano y Queso": "1650",
+                "Sandwich Cubano": "2100"
             },
-            "Starters": {
-                "Croquetas de la Casa": "1050",
-                "Tostones Rellenos": "1050",
-                "Ratatouille": "1200",
-                "Cuarteto de Camarones": "2100",
-                "Pimientos Rellenos con Farsa de Atun": "1350",
-                "Bruschettas de Berenjena, Tomate y mozzarella": "1200",
-                "Tempura de Vegetales": "1350"
+            "Crepes": {
+                "De Jamon Serrano y Queso": "1500",
+                "De Jamon Serrano, Vegetales y Queso": "1650",
+                "De Vegetales": "1050",
+                "De Queso": "1050",
+                "De Frutas(natural o Glaseada)": "1200",
+                "De Chocolate": "1050",
+                "De Limon": "600"
             },
-            "Salads": {
-                "De Vegetales Tiernos y Queso Fresco": "1050",
-                "De vegetales con Pollo": "1350",
-                "De Vegetales y Atun": "1440"
+            "Eggs": {
+                "Huevos Fritos": "450",
+                "Tortilla Natural": "450"
             },
-            "Main Dishes": {
-                "La Fuentede Duchamp": "2400",
-                "Pollo Pollock": "2550",
-                "Tercer Mundo de Lam": "3150",
-                "El Pez de Christo": "3300",
-                "Azul Klein": "3900",
-                "La Cacerola de Broodthaers": "5400"
-                }
-            },
-            "Fittings": {
-                "Arroz Blanco": "450",
-                "Frijoles Negros": "750",
-                "Yuca con Mojo": "600",
-                "Vegetales Salteados": "600",
-                "Chicharritas de Platano": "600"
-            },
-            "Desserts":{
-                "Postre de la Casa": "1200",
-                "Brownie": "1500",
-                "Copa de Helado": "1350",
-                "Crepe de Frutas": "1200",
-                "Crepe de Chocolate": "1050",
-                "Crepe de Limon": "600",
-                "Crepe Franz": "1350"
-            },
-            "Drinks": null,
-            "Rums": {
-                "Havana Club Añejo 7 Años": "1200",
-                "Havana Club Seleccion de Maestros": "2400",
-                "Ron Santiago de Cuba 11 Años": "1950"
-            },
-            "Coffees":{
-                "Cafe Espresso": "300",
-                "Doble Espresso": "600",
-                "Descafeinado": "480",
-                "Cafe Americano": "450",
-                "Cafe Cortado": "450",
-                "Capuchino": "600",
-                "Cafe con Leche": "600",
-                "Cafe con Hielo": "450",
-                "Cafe Americano con Leche": "750",
-                "Cafe Bombon": "900",
-                "Cafe Carajillo": "750",
-                "Cafe Brasileño": "1050",
-                "Cafe Español": "1050",
-                "Cafe Irlandes": "1050",
-                "Cafe Frances": "1050",
-                "Frapuchino": "1050",
-                "Chocolate Frio": "1050",
-                "Chocolate Caliente": "1050",
-                "Batido de Helado": "1200",
-                "Te Negro": "450",
-                "Te Rojo": "540",
-                "Te Verde": "540",
-                "Infusion de Hierba Buena o Albahaca": "300"
+            "Additions": {
+                "Queso Gouda": "540",
+                "Vegetales Salteados": "300",
+                "Aceitunas": "600",
+                "Bacon": "600",
+                "Jamon Serrano": "750",
+                "Pan y Mantequilla": "600"
+            }
+        },
+        "Starters": {
+            "Croquetas de la Casa": "1050",
+            "Tostones Rellenos": "1050",
+            "Ratatouille": "1200",
+            "Cuarteto de Camarones": "2100",
+            "Pimientos Rellenos con Farsa de Atun": "1350",
+            "Bruschettas de Berenjena, Tomate y mozzarella": "1200",
+            "Tempura de Vegetales": "1350"
+        },
+        "Salads": {
+            "De Vegetales Tiernos y Queso Fresco": "1050",
+            "De vegetales con Pollo": "1350",
+            "De Vegetales y Atun": "1440"
+        },
+        "Main Dishes": {
+            "La Fuentede Duchamp": "2400",
+            "Pollo Pollock": "2550",
+            "Tercer Mundo de Lam": "3150",
+            "El Pez de Christo": "3300",
+            "Azul Klein": "3900",
+            "La Cacerola de Broodthaers": "5400"
+            }
+        },
+        "Fittings": {
+            "Arroz Blanco": "450",
+            "Frijoles Negros": "750",
+            "Yuca con Mojo": "600",
+            "Vegetales Salteados": "600",
+            "Chicharritas de Platano": "600"
+        },
+        "Desserts":{
+            "Postre de la Casa": "1200",
+            "Brownie": "1500",
+            "Copa de Helado": "1350",
+            "Crepe de Frutas": "1200",
+            "Crepe de Chocolate": "1050",
+            "Crepe de Limon": "600",
+            "Crepe Franz": "1350"
+        },
+        "Drinks": {
+            "Jugo de Frutas": "450",
+            "Jugo Verde": "450",
+            "Jugo de Vegetales": "600",
+            "Jugos Mixtos": "750"
+        },
+        "Rums": {
+            "Havana Club Añejo 7 Años": "1200",
+            "Havana Club Seleccion de Maestros": "2400",
+            "Ron Santiago de Cuba 11 Años": "1950"
+        },
+        "Coffees":{
+            "Cafe Espresso": "300",
+            "Doble Espresso": "600",
+            "Descafeinado": "480",
+            "Cafe Americano": "450",
+            "Cafe Cortado": "450",
+            "Capuchino": "600",
+            "Cafe con Leche": "600",
+            "Cafe con Hielo": "450",
+            "Cafe Americano con Leche": "750",
+            "Cafe Bombon": "900",
+            "Cafe Carajillo": "750",
+            "Cafe Brasileño": "1050",
+            "Cafe Español": "1050",
+            "Cafe Irlandes": "1050",
+            "Cafe Frances": "1050",
+            "Frapuchino": "1050",
+            "Chocolate Frio": "1050",
+            "Chocolate Caliente": "1050",
+            "Batido de Helado": "1200",
+            "Te Negro": "450",
+            "Te Rojo": "540",
+            "Te Verde": "540",
+            "Infusion de Hierba Buena o Albahaca": "300"
             }
         }
     }

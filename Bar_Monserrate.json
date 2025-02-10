@@ -17,7 +17,7 @@
         "Facilities": {
                 "Pets": false,
                 "Wheelchair ramp": true,
-                "infant stool": "Entrada a Mayores de 18",
+                "infant stool": null,
                 "Smoking area": true,
                 "Parking": false,
                 "Home service": false,
