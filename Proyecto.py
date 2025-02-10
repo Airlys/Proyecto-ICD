@@ -6,10 +6,10 @@ def precios(carpeta):
     i=0
     restaurantes=[]
     for archivo in os.listdir(carpeta):
-        if archivo.endswith('.json'):
+        if archivo.endswith(".json"):
             ruta_archivo = os.path.join(carpeta, archivo)
             i+=1
-            with open(ruta_archivo, 'r') as f:
+            with open(ruta_archivo, "r") as f:
                 data = json.load(f)
                 for key, value in data["Restaurants"].items():
                     restaurantes.append(key)
